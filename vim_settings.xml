@@ -9,6 +9,12 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/demo/Recv.java" timestamp="1531042809498">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="30" column="13" />
+        <mark key="^" line="30" column="13" />
+        <mark key="." line="30" column="13" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/Send.java" timestamp="1531040925828">
         <mark key="[" line="0" column="19" />
       </file>
@@ -27,17 +33,27 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>;
+        } catch (TimeoutException e) {
+            e.printStackTrace()</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Channel channel</text>
+        <text>;
+        } catch (TimeoutException e) {
+            e.printStackTrace()</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBDaGFubmVsIGNoYW5uZWw7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgY2hhbm5lbC5jbG9zZSgpOwogICAgICAgIGNvbm5lY3Rpb24uY2xvc2UoKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>Channel channel</text>
+        <text>super.handleDelivery(consumerTag, envelope, properties, body);</text>
       </register>
     </registers>
     <search>
@@ -59,6 +75,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
