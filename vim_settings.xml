@@ -19,16 +19,23 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/Send.java" timestamp="1531040925828">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part2/NewTask.java" timestamp="1531052432792">
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part2/NewTask.java" timestamp="1531055757383">
         <mark key="[" line="17" column="46" />
-        <mark key="]" line="17" column="46" />
-        <mark key="." line="17" column="46" />
+        <mark key="]" line="9" column="72" />
+        <mark key="." line="9" column="72" />
+        <mark key="^" line="9" column="72" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/ibdb/backend/ibdb-java-maven/pom.xml" timestamp="1530303703413">
         <mark key="[" line="23" column="22" />
         <mark key="]" line="23" column="24" />
         <mark key="^" line="23" column="24" />
         <mark key="." line="23" column="24" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part2/Worker.java" timestamp="1531055781862">
+        <mark key="[" line="15" column="50" />
+        <mark key="]" line="7" column="72" />
+        <mark key="^" line="7" column="72" />
+        <mark key="." line="7" column="72" />
       </file>
       <file name="/fragment.java" timestamp="1531052381842">
         <mark key="[" line="0" column="0" />
@@ -40,7 +47,7 @@
         <text encoding="base64">CiAgICAgICAgaWYgKGxlbmd0aCA9PSAwKSByZXR1cm4gIiI7</text>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>1</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">CiAgICAgICAgICAgIFN0cmluZyBtZXNzYWdlID0gIkhlbGxvIHdvcmxkISI7</text>
@@ -60,7 +67,7 @@
         <text encoding="base64">CiAgICAgICAgY2hhbm5lbC5jbG9zZSgpOwogICAgICAgIGNvbm5lY3Rpb24uY2xvc2UoKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
