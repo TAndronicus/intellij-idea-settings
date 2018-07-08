@@ -12,7 +12,12 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/Send.java" timestamp="1531040925828">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/demo/Send.java" timestamp="1531041299708" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/demo/Send.java" timestamp="1531041846179">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+      </file>
       <file name="$USER_HOME$/Workspace/Java/ibdb/backend/ibdb-java-maven/pom.xml" timestamp="1530303703413">
         <mark key="[" line="23" column="22" />
         <mark key="]" line="23" column="24" />
@@ -21,7 +26,20 @@
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>Channel channel</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgY2hhbm5lbC5jbG9zZSgpOwogICAgICAgIGNvbm5lY3Rpb24uY2xvc2UoKTs=</text>
+      </register>
+      <register name="-" type="4">
+        <text>Channel channel</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -35,6 +53,12 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
