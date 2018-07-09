@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part3/EmitLog.java" timestamp="1531062886735" />
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/pom.xml" timestamp="1531041113322">
         <mark key="[" line="19" column="21" />
         <mark key="]" line="15" column="7" />
@@ -19,7 +18,12 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/Send.java" timestamp="1531040925828">
         <mark key="[" line="0" column="19" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part3/ReceiveLogs.java" timestamp="1531062994695" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part3/ReceiveLogs.java" timestamp="1531156828812">
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="39" />
+        <mark key="^" line="17" column="39" />
+        <mark key="." line="17" column="39" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part2/NewTask.java" timestamp="1531058674740">
         <mark key="[" line="21" column="31" />
         <mark key="]" line="21" column="31" />
@@ -82,13 +86,13 @@
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
