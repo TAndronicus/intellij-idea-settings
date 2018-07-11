@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part2/WorkinMan.java" timestamp="1531253797245">
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part2/WorkinMan.java" timestamp="1531332074465">
         <mark key="[" line="14" column="53" />
-        <mark key="]" line="14" column="52" />
-        <mark key="." line="14" column="52" />
+        <mark key="]" line="15" column="57" />
+        <mark key="." line="14" column="53" />
         <mark key="^" line="14" column="52" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/pom.xml" timestamp="1531041113322">
@@ -74,62 +74,38 @@
       <register name="0" type="4">
         <text>worker_exchange</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgY2hhbm5lbC5leGNoYW5nZURlY2xhcmUoRVhDSEFOR0VfTkFNRSwgImZhbm91dCIpOw==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgY2hhbm5lbC5leGNoYW5nZURlY2xhcmUoRVhDSEFOR0VfTkFNRSwgImZhbm91dCIpOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsLmJhcwo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFubmVsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFubmVsLmJhcwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsLnF1ZXVlRGVjbGFyZShFWENIQU5HRV9OQU1FLCB0cnVlLCBkZGZhbHNlLCBmYWxzZSwgbnVsbCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uLgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjaGFubmVsLnF1ZXVlRGVjbGFyZShFWENIQU5HRV9OQU1FLCB0cnVlLCBkZGZhbHNlLCBmYWxzZSwgbnVsbCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uLgo=</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">CmltcG9ydCBqYXZhLm5pby5jaGFyc2V0LkNoYXJzZXQ7</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZXIuaGFuZGxlRGVsaXZlcnkoY29uc3VtZXJUYWcsIGVudmVsb3BlLCBwcm9wZXJ0aWVzLCBib2R5KTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>@Override
             public void handleConsumeOk(String consumerTag) {
                 System.out.println();
             }</text>
-      </register>
-      <register name="9" type="4">
-        <text>new Consumer() {
-            public void handleConsumeOk(String consumerTag) {
-                
-            }
-
-            public void handleCancelOk(String consumerTag) {
-
-            }
-
-            public void handleCancel(String consumerTag) throws IOException {
-
-            }
-
-            public void handleShutdownSignal(String consumerTag, ShutdownSignalException sig) {
-
-            }
-
-            public void handleRecoverOk(String consumerTag) {
-
-            }
-
-            public void handleDelivery(String consumerTag, Envelope envelope, AMQP.BasicProperties properties, byte[] body) throws IOException {
-
-            }
-        }</text>
       </register>
       <register name="-" type="4">
         <text>super.handleDelivery(consumerTag, envelope, properties, body);</text>
