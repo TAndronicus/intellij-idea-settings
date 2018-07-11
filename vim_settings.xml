@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part2/WorkinMan.java" timestamp="1531332074465">
-        <mark key="[" line="14" column="53" />
-        <mark key="]" line="15" column="57" />
-        <mark key="." line="14" column="53" />
-        <mark key="^" line="14" column="52" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part2/WorkinMan.java" timestamp="1531334008390">
+        <mark key="[" line="31" column="64" />
+        <mark key="]" line="31" column="69" />
+        <mark key="." line="31" column="69" />
+        <mark key="^" line="31" column="69" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/pom.xml" timestamp="1531041113322">
         <mark key="[" line="19" column="21" />
@@ -60,12 +60,13 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part2/Sender.java" timestamp="1531253783615">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part2/Sender.java" timestamp="1531333753448">
+        <mark key="[" line="18" column="47" />
+        <mark key="]" line="18" column="47" />
+        <mark key="." line="18" column="47" />
+        <mark key="^" line="21" column="60" />
       </file>
-      <file name="/fragment.java" timestamp="1531248429344">
+      <file name="/fragment.java" timestamp="1531333817974">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -78,7 +79,7 @@
         <text encoding="base64">CiAgICAgICAgY2hhbm5lbC5leGNoYW5nZURlY2xhcmUoRVhDSEFOR0VfTkFNRSwgImZhbm91dCIpOw==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgY2hhbm5lbC5leGNoYW5nZURlY2xhcmUoRVhDSEFOR0VfTkFNRSwgImZhbm91dCIpOw==</text>
+        <text>&quot;fanout&quot;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBjaGFubmVsCg==</text>
@@ -108,7 +109,7 @@
             }</text>
       </register>
       <register name="-" type="4">
-        <text>super.handleDelivery(consumerTag, envelope, properties, body);</text>
+        <text>&quot;fanout&quot;</text>
       </register>
     </registers>
     <search>
@@ -136,6 +137,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
