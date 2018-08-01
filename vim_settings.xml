@@ -21,6 +21,9 @@
         <mark key="^" line="30" column="13" />
         <mark key="." line="30" column="13" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/playground/src/Playground.java" timestamp="1533146356125">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/Send.java" timestamp="1531040925828">
         <mark key="[" line="0" column="19" />
       </file>
@@ -60,6 +63,12 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="21" column="60" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/playground/src/com/jb/Playground.java" timestamp="1533146978047">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="44" />
+        <mark key="^" line="6" column="44" />
+        <mark key="." line="6" column="44" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part3/WorkinMan.java" timestamp="1531334048966">
         <mark key="]" line="0" column="12" />
         <mark key="^" line="0" column="12" />
@@ -96,40 +105,37 @@
         <text>worker_exchange</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgY2hhbm5lbC5leGNoYW5nZURlY2xhcmUoRVhDSEFOR0VfTkFNRSwgImZhbm91dCIpOw==</text>
+        <text encoding="base64">CiAgICAgICAgSW5uZXJQbGF5Z3JvdW5kIGlubmVyUGxheWdyb3VuZCA9IG5ldyBJbm5lclBsYXlncm91bmQoKTsKICAgICAgICA=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>&quot;fanout&quot;</text>
+        <text encoding="base64">CiAgICAgICAgSW5uZXJQbGF5Z3JvdW5kIGlubmVyUGxheWdyb3VuZCA9IG5ldyBJbm5lclBsYXlncm91bmQoKTsKICAgICAgICA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgY2hhbm5lbC5leGNoYW5nZURlY2xhcmUoRVhDSEFOR0VfTkFNRSwgImZhbm91dCIpOw==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsLmJhcwo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFubmVsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICBjaGFubmVsLmJhcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsLnF1ZXVlRGVjbGFyZShFWENIQU5HRV9OQU1FLCB0cnVlLCBkZGZhbHNlLCBmYWxzZSwgbnVsbCk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uLgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjaGFubmVsLnF1ZXVlRGVjbGFyZShFWENIQU5HRV9OQU1FLCB0cnVlLCBkZGZhbHNlLCBmYWxzZSwgbnVsbCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25uZWN0aW9uLgo=</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">CmltcG9ydCBqYXZhLm5pby5jaGFyc2V0LkNoYXJzZXQ7</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHVwZXIuaGFuZGxlRGVsaXZlcnkoY29uc3VtZXJUYWcsIGVudmVsb3BlLCBwcm9wZXJ0aWVzLCBib2R5KTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>@Override
-            public void handleConsumeOk(String consumerTag) {
-                System.out.println();
-            }</text>
-      </register>
       <register name="-" type="4">
-        <text>&quot;fanout&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
