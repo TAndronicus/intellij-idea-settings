@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Java/clf/pom.xml" timestamp="1534569747184">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Workspace/Java/clf/pom.xml" timestamp="1534585373602">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf/src/main/java/LinearSVCExample.java" timestamp="1534570123291">
         <mark key="[" line="24" column="0" />
@@ -129,34 +129,34 @@
         <text>worker_exchange</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLio7Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PCEtLSBTcGFyayBkZXBlbmRlbmN5IC0tPg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBvcmcuYXBhY2hlLnNwYXJrLmV4YW1wbGVzLm1sOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5zcGFyay9zcGFyay1jb3JlIC0tPgo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jaWVzPgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDwvZGVwZW5kZW5jeT4K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLmFwYWNoZS5zcGFyayIgJSUgInNwYXJrLW1sbGliIiAlICIwLjkuMC1pbmN1YmF0aW5nIiAlICJydW50aW1lIgo=</text>
+        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4yLjMuMTwvdmVyc2lvbj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuYXBhY2hlLnNwYXJrL3NwYXJrLW1sbGliCg==</text>
+        <text encoding="base64">ICAgICAgICA8YXJ0aWZhY3RJZD5zcGFyay1tbGxpYl8yLjExPC9hcnRpZmFjdElkPgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgY2hhbm5lbC5leGNoYW5nZURlY2xhcmUoRVhDSEFOR0VfTkFNRSwgImZhbm91dCIpOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnNwYXJrPC9ncm91cElkPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjaGFubmVsLmJhcwo=</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PCEtLSBTcGFyayBkZXBlbmRlbmN5IC0tPg==</text>
