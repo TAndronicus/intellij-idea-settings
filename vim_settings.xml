@@ -117,6 +117,11 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="12" column="21" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/wekademo/pom.xml" timestamp="1535387875153">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/smiledemo/pom.xml" timestamp="1535274937082">
         <mark key="[" line="15" column="21" />
         <mark key="]" line="15" column="20" />
@@ -134,6 +139,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="12" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/wekademo/src/main/java/Demo.java" timestamp="1535387886147">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="12" />
+        <mark key="." line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/smiledemo/src/main/java/Demo.java" timestamp="1535299162688">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="23" column="30" />
@@ -150,34 +161,34 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZtLmdldFN1cHBvcnRWZWN0b3JzKCkuZ2V0KDApLnhbMF0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZtLik7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZtLik7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZtLik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+bnouYWMud2Fpa2F0by5jbXMud2VrYTwvZ3JvdXBJZD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZtLmdldFN1cHBvcnRWZWN0b3JzKCkuZ2V0KDApLmFscGhhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+d2VrYS1zdGFibGU8L2FydGlmYWN0SWQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZtLmdldFN1cHBvcnRWZWN0b3JzKCkuZ2V0KDApLnkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+My44LjI8L3YK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZtLmdldFN1cHBvcnRWZWN0b3JzKCkuZ2V0KDApLnhbMV0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBzbW8uc2V0S2VybmVsKFNNTy4pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3ZtLmdldFN1cHBvcnRWZWN0b3JzKCkuZ2V0KDApLnhbMF0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBTTU8gc21vID0gbmV3IFNNTygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTTU8gc21vID0gbmV3IFNNTygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBzbW8uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBYnN0cmFjdENsYXNzaWZpZXIgY2xhc3NpZmllciA9IG5ldyBTdXBwb3J0VmVjdG9yTWFjaGluZU1vZGVsKCkK</text>
       </register>
       <register name="-" type="4">
         <text>a</text>
@@ -217,6 +228,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
