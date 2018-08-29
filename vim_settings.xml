@@ -64,7 +64,13 @@
         <mark key="]" line="12" column="70" />
         <mark key="." line="12" column="70" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Runner.java" timestamp="1535571798089">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/sbtShell" timestamp="1534625759210">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Opts.java" timestamp="1535571529822">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/ibdb/backend/ibdb-java-maven/pom.xml" timestamp="1530303703413">
@@ -72,6 +78,17 @@
         <mark key="]" line="23" column="24" />
         <mark key="^" line="23" column="24" />
         <mark key="." line="23" column="24" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/data/Dataset.java" timestamp="1535572024665">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="8" column="4" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/config/Opts.java" timestamp="1535571708572">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Jhipster/demo/src/main/java/com/mycompany/myapp/domain/Blog.java" timestamp="1532607877908">
         <mark key="[" line="39" column="86" />
@@ -130,6 +147,15 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Dataset.java" timestamp="1535571986553">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/files/FileHelper.java" timestamp="1535572170247">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/smiledemo/pom.xml" timestamp="1535274937082">
         <mark key="[" line="15" column="21" />
         <mark key="]" line="15" column="20" />
@@ -141,6 +167,12 @@
         <mark key="]" line="35" column="62" />
         <mark key="^" line="35" column="62" />
         <mark key="." line="35" column="62" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/pom.xml" timestamp="1535571488148">
+        <mark key="[" line="21" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/FileHelper.java" timestamp="1535572152678">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/wekademo/src/main/java/WekaTest.java" timestamp="1535391218016">
         <mark key="[" line="106" column="61" />
@@ -172,34 +204,34 @@
         <text encoding="base64">cHJvYmxlbS54W2ldWzBdID0gbmV3IEZlYXR1cmVOb2RlKDAsIHhbaV0pOwogICAgICAgICAgICA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9ibGVtLgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIG1vZGVsRmlsZSA9IG5ldyBGaWxlKCJtb2RlbCIpOwo=</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IE1vZGVsLmxvYWQobW9kZWxGaWxlKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcm9ibGVtLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gbG9hZCBtb2RlbCBvciB1c2UgaXQgZGlyZWN0bHkK</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIG1vZGVsRmlsZSA9IG5ldyBGaWxlKCJtb2RlbCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbC5zYXZlKG1vZGVsRmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbCA9IE1vZGVsLmxvYWQobW9kZWxGaWxlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTb2x2ZXJUeXBlIHNvbHZlciA9IFNvbHZlclR5cGUuCg==</text>
+        <text encoding="base64">Ly8gbG9hZCBtb2RlbCBvciB1c2UgaXQgZGlyZWN0bHkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGZWF0dXJlW10gaW5zdGFuY2UgPSB7IG5ldyBGZWF0dXJlTm9kZSgxLCA0KSwgbmV3IEZlYXR1cmVOb2RlKDIsIDIpIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbC5zYXZlKG1vZGVsRmlsZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgcHJlZGljdGlvbiA9IExpbmVhci5wcmVkaWN0KG1vZGVsLCBpbnN0YW5jZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTb2x2ZXJUeXBlIHNvbHZlciA9IFNvbHZlclR5cGUuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9ibGVtLnhbMF1bMF0gPSBuZXcgRmVhdHVyZU5vZGUoMCwgMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGZWF0dXJlW10gaW5zdGFuY2UgPSB7IG5ldyBGZWF0dXJlTm9kZSgxLCA0KSwgbmV3IEZlYXR1cmVOb2RlKDIsIDIpIH07Cg==</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
