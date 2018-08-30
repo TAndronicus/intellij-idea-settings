@@ -14,6 +14,12 @@
         <mark key="." line="31" column="69" />
         <mark key="^" line="31" column="69" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/files/FileReader10Way.java" timestamp="1535657910348">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/pom.xml" timestamp="1531041113322">
         <mark key="[" line="19" column="21" />
         <mark key="]" line="15" column="7" />
@@ -206,8 +212,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IERhdGFzZXQocHJvYmxlbSwgcHJvYmxlbSwgcHJvYmxlbSk7Cg==</text>
@@ -234,7 +240,7 @@
         <text encoding="base64">Ly8gbG9hZCBtb2RlbCBvciB1c2UgaXQgZGlyZWN0bHkK</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>null</text>
       </register>
     </registers>
     <search>
