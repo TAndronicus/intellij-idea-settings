@@ -52,11 +52,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/Runner.java" timestamp="1535826171484">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/Runner.java" timestamp="1535833216834">
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="20" column="17" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part2/Worker.java" timestamp="1531055781862">
         <mark key="[" line="15" column="50" />
@@ -194,11 +194,11 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="13" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/test/test/RunnerTest.java" timestamp="1535832595224">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/test/test/RunnerTest.java" timestamp="1535833796243">
+        <mark key="[" line="10" column="39" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/integrator/MeanIntegrator.java" timestamp="1535820851589">
         <mark key="[" line="2" column="28" />
@@ -213,34 +213,34 @@
         <text>worker_exchange</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZpbGVIZWxwZXIgZmlsZUhlbHBlcjsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEZpbGVIZWxwZXIgZmlsZUhlbHBlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBydW5uZXI7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiwgSW52YWxpZElucHV0RGF0YUV4Y2VwdGlvbiB7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICA8ZGVwZW5kZW5jaWVzPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnNwYXJrPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcGFyay1jb3JlXzIuMTE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIuMy4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgIDwvZGVwZW5kZW5jaWVzPg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">cGFja2FnZSBydW5uZXI7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBJT0V4Y2VwdGlvbiwgSW52YWxpZElucHV0RGF0YUV4Y2VwdGlvbiB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gJGV4YW1wbGUgb2ZmJAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gJGV4YW1wbGUgb24kCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICA8ZGVwZW5kZW5jaWVzPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLnNwYXJrPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcGFyay1jb3JlXzIuMTE8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjIuMy4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgIDwvZGVwZW5kZW5jaWVzPg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gJGV4YW1wbGUgb2ZmJAo=</text>
       </register>
       <register name="-" type="4">
         <text>Opts opts = new Opts(); // step 0</text>
