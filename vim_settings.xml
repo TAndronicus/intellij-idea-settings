@@ -29,8 +29,8 @@
         <mark key="^" line="20" column="48" />
         <mark key="." line="20" column="48" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.java" timestamp="1535864373548">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.java" timestamp="1535866667389">
+        <mark key="[" line="19" column="8" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -199,11 +199,11 @@
         <mark key="^" line="12" column="52" />
         <mark key="." line="12" column="52" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/DemoApplication.java" timestamp="1535864576153">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="1" />
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/DemoApplication.java" timestamp="1535866622555">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="0" />
         <mark key="^" line="11" column="1" />
-        <mark key="." line="11" column="1" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/ibdb/backend/ibdb-java-maven/pom.xml" timestamp="1530303703413">
         <mark key="[" line="23" column="22" />
@@ -276,8 +276,8 @@
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHZhbGlkYXRvci5WYWxpZGF0b3I7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHZhbGlkYXRvci5WYWxpZGF0b3I7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGpiLmRhdGEuRGF0YXNldDsK</text>
