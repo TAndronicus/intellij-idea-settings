@@ -247,8 +247,11 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/FileReaderNWay.java" timestamp="1536410121424">
-        <mark key="[" line="13" column="86" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/FileReaderNWay.java" timestamp="1536413023390">
+        <mark key="[" line="20" column="69" />
+        <mark key="]" line="20" column="65" />
+        <mark key="^" line="20" column="65" />
+        <mark key="." line="20" column="65" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/files/FileReader10Way.java" timestamp="1535657910348">
         <mark key="[" line="10" column="15" />
@@ -306,6 +309,11 @@
         <mark key="]" line="13" column="43" />
         <mark key="." line="13" column="43" />
         <mark key="^" line="13" column="43" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ClfObject.java" timestamp="1536412934633">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Runner.java" timestamp="1535571798089">
         <mark key="[" line="0" column="0" />
@@ -448,7 +456,7 @@
         <mark key="^" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1536410122869">
+      <file name="/fragment.java" timestamp="1536413012446">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -461,16 +469,16 @@
         <text>worker_exchange</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>FileReaderSameDataset</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">QENvbXBvbmVudAo=</text>
@@ -482,13 +490,13 @@
         <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW47Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db21wb25lbnQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuY29udGV4dC5hbm5vdGF0aW9uLkJlYW47Cg==</text>
       </register>
       <register name="-" type="4">
         <text>FileReaderSameDataset</text>
