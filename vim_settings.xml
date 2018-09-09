@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/Java/clf/pom.xml" timestamp="1534586180928">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Integrator.java" timestamp="1535734827245">
         <mark key="[" line="0" column="0" />
       </file>
@@ -16,12 +11,6 @@
         <mark key="]" line="31" column="69" />
         <mark key="." line="31" column="69" />
         <mark key="^" line="31" column="69" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/validator/SimpleScoreValidator.java" timestamp="1535778251475">
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="16" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/integrator/MeanIntegrator.java" timestamp="1535880931391">
         <mark key="[" line="5" column="0" />
@@ -34,28 +23,8 @@
         <mark key="." line="30" column="29" />
         <mark key="^" line="30" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/data/ClfTuple.java" timestamp="1535863936535">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="/a.dummy" timestamp="1536392211022">
+      <file name="/a.dummy" timestamp="1536469941879">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/Send.java" timestamp="1531040925828">
-        <mark key="[" line="0" column="19" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part1/Receiver.java" timestamp="1531242987628">
-        <mark key="[" line="20" column="41" />
-        <mark key="]" line="20" column="48" />
-        <mark key="^" line="20" column="48" />
-        <mark key="." line="20" column="48" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.java" timestamp="1535866667389">
-        <mark key="[" line="19" column="8" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/runner/Runner.java" timestamp="1535863794067">
         <mark key="[" line="0" column="8" />
@@ -92,6 +61,207 @@
         <mark key="]" line="12" column="70" />
         <mark key="." line="12" column="70" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Opts.java" timestamp="1535571529822">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/config/Opts.java" timestamp="1535571708572">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/trainer/SVMTrainer.java" timestamp="1535863737986">
+        <mark key="[" line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/test/runner/RunnerTest.java" timestamp="1535822230847">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Validator.java" timestamp="1535734062758">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part3/ReceiveLogs.java" timestamp="1531156828812">
+        <mark key="[" line="17" column="40" />
+        <mark key="]" line="17" column="39" />
+        <mark key="^" line="17" column="39" />
+        <mark key="." line="17" column="39" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/hello/build.sbt" timestamp="1534227410461">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/butterfly/pom.xml" timestamp="1534584654119">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="12" column="21" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="12" column="21" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/pom.xml" timestamp="1536425586065">
+        <mark key="[" line="53" column="21" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/FileHelper.java" timestamp="1535572152678">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/runner/Runner.java" timestamp="1535778751867">
+        <mark key="[" line="42" column="34" />
+        <mark key="]" line="42" column="33" />
+        <mark key="." line="42" column="33" />
+        <mark key="^" line="42" column="33" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/data/Tuple.java" timestamp="1535778187649">
+        <mark key="[" line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/config/Opts.java" timestamp="1535864635381">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/smiledemo/src/main/java/Demo.java" timestamp="1535299162688">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="23" column="30" />
+        <mark key="." line="23" column="30" />
+        <mark key="^" line="23" column="30" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/wekademo/src/main/java/LiblinearTest.java" timestamp="1535471208459">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/FileReaderNWay.java" timestamp="1536425846898">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="19" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/trainer/Trainer.java" timestamp="1535863705004">
+        <mark key="[" line="0" column="8" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/integrator/Integrator.java" timestamp="1535778775306">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="8" column="26" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part2/Worker.java" timestamp="1531055781862">
+        <mark key="[" line="15" column="50" />
+        <mark key="]" line="7" column="72" />
+        <mark key="^" line="7" column="72" />
+        <mark key="." line="7" column="72" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/DemoApplication.java" timestamp="1535866622555">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="1" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/pom.xml" timestamp="1535879923016">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/data/Dataset.java" timestamp="1535572024665">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="4" />
+        <mark key="." line="8" column="4" />
+        <mark key="^" line="8" column="4" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/FileReaderSameDataset.java" timestamp="1536470659811">
+        <mark key="[" line="24" column="9" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/liblineardemo/pom.xml" timestamp="1535471597665">
+        <mark key="[" line="9" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/FileReaderSameValidation.java" timestamp="1536470927696">
+        <mark key="[" line="55" column="83" />
+        <mark key="]" line="55" column="9" />
+        <mark key="^" line="55" column="9" />
+        <mark key="." line="55" column="9" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/selector/BestSelector.java" timestamp="1535778622188">
+        <mark key="[" line="12" column="66" />
+        <mark key="]" line="12" column="75" />
+        <mark key="^" line="12" column="75" />
+        <mark key="." line="12" column="75" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ScoreTuple.java" timestamp="1536428504353">
+        <mark key="[" line="5" column="5" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/clf/src/main/java/LinearSVCExample.java" timestamp="1534585974556">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/selector/Selector.java" timestamp="1535778608252">
+        <mark key="[" line="12" column="59" />
+        <mark key="]" line="12" column="59" />
+        <mark key="^" line="12" column="52" />
+        <mark key="." line="12" column="59" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/files/FileReader10Way.java" timestamp="1535863833649">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/trainer/SVMTrainer.java" timestamp="1535880914753">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/validator/SimpleScoreValidator.java" timestamp="1535863956129">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/wekademo/src/main/java/WekaTest.java" timestamp="1535391218016">
+        <mark key="[" line="106" column="61" />
+        <mark key="]" line="62" column="56" />
+        <mark key="^" line="62" column="56" />
+        <mark key="." line="62" column="56" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/integrator/MeanIntegrator.java" timestamp="1535863870303">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/clf/pom.xml" timestamp="1534586180928">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/validator/SimpleScoreValidator.java" timestamp="1535778251475">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/data/ClfTuple.java" timestamp="1535863936535">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/Send.java" timestamp="1531040925828">
+        <mark key="[" line="0" column="19" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part1/Receiver.java" timestamp="1531242987628">
+        <mark key="[" line="20" column="41" />
+        <mark key="]" line="20" column="48" />
+        <mark key="^" line="20" column="48" />
+        <mark key="." line="20" column="48" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.java" timestamp="1535866667389">
+        <mark key="[" line="19" column="8" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Selector.java" timestamp="1535734603023">
         <mark key="[" line="0" column="0" />
       </file>
@@ -100,18 +270,13 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Opts.java" timestamp="1535571529822">
-        <mark key="[" line="0" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/Dataset.java" timestamp="1536470468406">
+        <mark key="[" line="14" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/DemoApplication.java" timestamp="1535863630888">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/config/Opts.java" timestamp="1535571708572">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Jhipster/demo/src/main/java/com/mycompany/myapp/domain/Blog.java" timestamp="1532607877908">
         <mark key="[" line="39" column="86" />
@@ -119,8 +284,11 @@
         <mark key="^" line="39" column="86" />
         <mark key="." line="39" column="86" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/trainer/SVMTrainer.java" timestamp="1535863737986">
-        <mark key="[" line="0" column="8" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/FileReaderNWaySameValidation.java" timestamp="1536470497604">
+        <mark key="[" line="54" column="79" />
+        <mark key="]" line="17" column="13" />
+        <mark key="^" line="17" column="13" />
+        <mark key="." line="17" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/butterfly/src/main/java/SimpleApp.java" timestamp="1534585218708">
         <mark key="[" line="11" column="42" />
@@ -134,42 +302,16 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/test/runner/RunnerTest.java" timestamp="1535822230847">
-        <mark key="[" line="2" column="25" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/demo/Recv.java" timestamp="1531042809498">
         <mark key="[" line="29" column="12" />
         <mark key="]" line="30" column="13" />
         <mark key="^" line="30" column="13" />
         <mark key="." line="30" column="13" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Validator.java" timestamp="1535734062758">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part3/ReceiveLogs.java" timestamp="1531156828812">
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="17" column="39" />
-        <mark key="^" line="17" column="39" />
-        <mark key="." line="17" column="39" />
-      </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/selector/BestSelector.java" timestamp="1535880903768">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Java/hello/build.sbt" timestamp="1534227410461">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Java/butterfly/pom.xml" timestamp="1534584654119">
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="12" column="21" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="12" column="21" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/data/ValidatedTuple.java" timestamp="1535734328146">
         <mark key="[" line="5" column="13" />
@@ -198,25 +340,11 @@
         <mark key="^" line="35" column="62" />
         <mark key="." line="35" column="62" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/pom.xml" timestamp="1536425586065">
-        <mark key="[" line="53" column="21" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/test/test/RunnerTest.java" timestamp="1535833796243">
         <mark key="[" line="10" column="39" />
         <mark key="]" line="11" column="21" />
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="21" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/FileHelper.java" timestamp="1535572152678">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/runner/Runner.java" timestamp="1535778751867">
-        <mark key="[" line="42" column="34" />
-        <mark key="]" line="42" column="33" />
-        <mark key="." line="42" column="33" />
-        <mark key="^" line="42" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/Runner.java" timestamp="1535880631172">
         <mark key="[" line="34" column="20" />
@@ -224,30 +352,10 @@
         <mark key="^" line="34" column="19" />
         <mark key="." line="34" column="19" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/data/Tuple.java" timestamp="1535778187649">
-        <mark key="[" line="5" column="13" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/config/Opts.java" timestamp="1535864635381">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/smiledemo/src/main/java/Demo.java" timestamp="1535299162688">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="30" />
-        <mark key="." line="23" column="30" />
-        <mark key="^" line="23" column="30" />
-      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/validator/ValidatedTuple.java" timestamp="1535734315154">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/wekademo/src/main/java/LiblinearTest.java" timestamp="1535471208459">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/trainer/SVMTrainer.java" timestamp="1535733988982">
         <mark key="[" line="2" column="24" />
@@ -255,20 +363,11 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/FileReaderNWay.java" timestamp="1536425846898">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="19" column="7" />
-      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/files/FileReader10Way.java" timestamp="1535657910348">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="12" column="1" />
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/trainer/Trainer.java" timestamp="1535863705004">
-        <mark key="[" line="0" column="8" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/pom.xml" timestamp="1531041113322">
         <mark key="[" line="19" column="21" />
@@ -287,18 +386,6 @@
         <mark key="]" line="21" column="31" />
         <mark key="." line="21" column="31" />
         <mark key="^" line="21" column="31" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/integrator/Integrator.java" timestamp="1535778775306">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="26" />
-        <mark key="^" line="6" column="28" />
-        <mark key="." line="8" column="26" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part2/Worker.java" timestamp="1531055781862">
-        <mark key="[" line="15" column="50" />
-        <mark key="]" line="7" column="72" />
-        <mark key="^" line="7" column="72" />
-        <mark key="." line="7" column="72" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/data/ClfTuple.java" timestamp="1535778285984">
         <mark key="[" line="8" column="23" />
@@ -342,31 +429,11 @@
         <mark key="^" line="12" column="52" />
         <mark key="." line="12" column="52" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/DemoApplication.java" timestamp="1535866622555">
-        <mark key="[" line="11" column="32" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="1" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/pom.xml" timestamp="1535879923016">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Java/ibdb/backend/ibdb-java-maven/pom.xml" timestamp="1530303703413">
         <mark key="[" line="23" column="22" />
         <mark key="]" line="23" column="24" />
         <mark key="^" line="23" column="24" />
         <mark key="." line="23" column="24" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/data/Dataset.java" timestamp="1535572024665">
-        <mark key="[" line="8" column="22" />
-        <mark key="]" line="8" column="4" />
-        <mark key="." line="8" column="4" />
-        <mark key="^" line="8" column="4" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/liblineardemo/pom.xml" timestamp="1535471597665">
-        <mark key="[" line="9" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/ibdb/backend/ibdb-java-maven/src/main/java/ibdb/IbdbJavaMavenApplication.java" timestamp="1532866638017">
         <mark key="[" line="7" column="22" />
@@ -377,40 +444,20 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/selector/BestSelector.java" timestamp="1535778622188">
-        <mark key="[" line="12" column="66" />
-        <mark key="]" line="12" column="75" />
-        <mark key="^" line="12" column="75" />
-        <mark key="." line="12" column="75" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ScoreTuple.java" timestamp="1536428504353">
-        <mark key="[" line="5" column="5" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Java/clf/src/main/java/LinearSVCExample.java" timestamp="1534585974556">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/Downloads/demo/pom.xml" timestamp="1535863550399">
         <mark key="[" line="26" column="18" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/Runner.java" timestamp="1536428531067">
-        <mark key="[" line="35" column="45" />
-        <mark key="]" line="35" column="49" />
-        <mark key="." line="35" column="49" />
-        <mark key="^" line="35" column="49" />
+        <mark key="[" line="34" column="45" />
+        <mark key="]" line="34" column="49" />
+        <mark key="." line="34" column="49" />
+        <mark key="^" line="34" column="49" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/validator/Validator.java" timestamp="1535864276564">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/selector/Selector.java" timestamp="1535778608252">
-        <mark key="[" line="12" column="59" />
-        <mark key="]" line="12" column="59" />
-        <mark key="^" line="12" column="52" />
-        <mark key="." line="12" column="59" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/wekademo/pom.xml" timestamp="1535391787061">
         <mark key="[" line="15" column="21" />
@@ -438,42 +485,16 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/files/FileReader10Way.java" timestamp="1535863833649">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/trainer/SVMTrainer.java" timestamp="1535880914753">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Trainer.java" timestamp="1535733717720">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/validator/SimpleScoreValidator.java" timestamp="1535863956129">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/wekademo/src/main/java/WekaTest.java" timestamp="1535391218016">
-        <mark key="[" line="106" column="61" />
-        <mark key="]" line="62" column="56" />
-        <mark key="^" line="62" column="56" />
-        <mark key="." line="62" column="56" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/FileReaderNWaySameValidationTest.java" timestamp="1536469976730">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/files/FileReader10Way.java" timestamp="1535880879273">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/integrator/MeanIntegrator.java" timestamp="1535863870303">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1536420373864">
         <mark key="[" line="0" column="0" />
@@ -485,13 +506,13 @@
     <jumps />
     <registers>
       <register name="0" type="4">
-        <text>assertThat(dataset.getTrainingProblems().get(i).y[0], is(lessThanOrEqualTo(dataset.getTestingProblem().y[0])));</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChGZWF0dXJlIGZlYXR1cmUgOiBwcm9ibGVtLikK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>int</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCk7Cg==</text>
