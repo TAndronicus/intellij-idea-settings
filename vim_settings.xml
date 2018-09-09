@@ -61,7 +61,7 @@
         <mark key="]" line="12" column="70" />
         <mark key="." line="12" column="70" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/files/FileReaderNWayTest.java" timestamp="1536493573013">
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/files/FileReaderNWayTest.java" timestamp="1536498878278">
         <mark key="[" line="156" column="103" />
         <mark key="]" line="158" column="100" />
         <mark key="." line="158" column="100" />
@@ -511,11 +511,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1536472404770">
+      <file name="/fragment.java" timestamp="1536498749465">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
+        <mark key="]" line="0" column="18" />
         <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="." line="0" column="18" />
       </file>
     </filemarks>
     <jumps />
@@ -526,8 +526,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXNzZXJ0VGhhdChwcm9ibGVtLngubGVuZ3RoLCBpcyhlcXVhbFRvKDYpKSk7Cg==</text>
@@ -554,7 +554,7 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>assertThat(1, 2));</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
