@@ -61,11 +61,11 @@
         <mark key="]" line="12" column="70" />
         <mark key="." line="12" column="70" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/files/FileReaderNWayTest.java" timestamp="1536505545105">
-        <mark key="[" line="172" column="90" />
-        <mark key="]" line="171" column="23" />
-        <mark key="." line="171" column="23" />
-        <mark key="^" line="171" column="23" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/files/FileReaderNWayTest.java" timestamp="1536589018815">
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="27" column="13" />
+        <mark key="." line="27" column="13" />
+        <mark key="^" line="27" column="13" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Opts.java" timestamp="1535571529822">
         <mark key="[" line="0" column="0" />
@@ -211,11 +211,11 @@
         <mark key="^" line="12" column="52" />
         <mark key="." line="12" column="59" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/files/FileReaderNWaySameValidationTest.java" timestamp="1536492950793">
-        <mark key="[" line="53" column="52" />
-        <mark key="]" line="55" column="14" />
-        <mark key="^" line="55" column="14" />
-        <mark key="." line="55" column="14" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/files/FileReaderNWaySameValidationTest.java" timestamp="1536587727484">
+        <mark key="[" line="44" column="34" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="44" column="101" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/files/FileReader10Way.java" timestamp="1535863833649">
         <mark key="[" line="0" column="8" />
@@ -276,6 +276,11 @@
         <mark key="[" line="19" column="8" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/config/Opts.java" timestamp="1536587575362">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ClfObjectOnceSorted.java" timestamp="1536504505117">
         <mark key="[" line="16" column="54" />
@@ -473,11 +478,10 @@
       <file name="$USER_HOME$/Downloads/demo/pom.xml" timestamp="1535863550399">
         <mark key="[" line="26" column="18" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/Runner.java" timestamp="1536472372670">
-        <mark key="[" line="25" column="53" />
-        <mark key="]" line="25" column="53" />
-        <mark key="." line="25" column="53" />
-        <mark key="^" line="34" column="49" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/Runner.java" timestamp="1536587500529">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/validator/Validator.java" timestamp="1535864276564">
         <mark key="[" line="0" column="8" />
@@ -532,40 +536,40 @@
     <jumps />
     <registers>
       <register name="0" type="4">
-        <text>assertThat(dataset.getValidatingProblems().get(i).x[j][0].getValue(), is(lessThanOrEqualTo(dataset.getValidatingProblems().get(i + 1).x[0][0].getValue())));</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBmaWxlbmFtZVRlc3QwID0gInNyYy90ZXN0L3Jlc291cmNlcy90ZXN0MC50eHQiOwog</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBvcHRzLnNldEZpbGVuYW1lKGZpbGVuYW1lVGVzdDApOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>assertThat(dataset.getValidatingProblems().get(i).x[j][0].getValue(), is(lessThanOrEqualTo(dataset.getValidatingProblems().get(i + 1).x[0][0].getValue())));</text>
+        <text>.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcHRzLnNldEZpbGVuYW1lKGZpbGVuYW1lVGVzdDEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcih4LCB5KTsK</text>
+        <text encoding="base64">ICAgIEBCZWZvcmUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDbGZPYmplY3REb3VibGVTb3J0ZWQoRmVhdHVyZVtdIHgsIGRvdWJsZSB5KSB7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5CCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbnVtYmVyT2ZTcGFjZVBhcnRzID0gMzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IENsZk9iamVjdE9uY2VTb3J0ZWQoY2xmT2JqZWN0RG91YmxlU29ydGVkLmdldFgoKSwgY2xmT2JqZWN0RG91YmxlU29ydGVkLmdldFkoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbnVtYmVyT2ZCYXNlQ2xhc3NpZmllcnMgPSAzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDbGZPYmplY3RPbmNlU29ydGVkIGNvbnZlcnRUb09uY2VTb3J0ZWQoQ2xmT2JqZWN0RG91YmxlU29ydGVkIGNsZk9iamVjdERvdWJsZVNvcnRlZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYmlhcyA9IDE7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlsZW5hbWUgPSAic3JjL3Rlc3QvcmVzb3VyY2VzL3Rlc3QwLnR4dCI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(C</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
