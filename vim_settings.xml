@@ -17,11 +17,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/validator/SimpleScoreValidator.java" timestamp="1536428513441">
-        <mark key="[" line="30" column="30" />
-        <mark key="]" line="30" column="29" />
-        <mark key="." line="30" column="29" />
-        <mark key="^" line="30" column="29" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/validator/SimpleScoreValidator.java" timestamp="1536589662600">
+        <mark key="[" line="24" column="49" />
+        <mark key="]" line="24" column="49" />
+        <mark key="." line="24" column="49" />
+        <mark key="^" line="28" column="92" />
       </file>
       <file name="/a.dummy" timestamp="1536481318656">
         <mark key="[" line="0" column="0" />
@@ -197,8 +197,8 @@
         <mark key="^" line="12" column="75" />
         <mark key="." line="12" column="75" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ScoreTuple.java" timestamp="1536428504353">
-        <mark key="[" line="5" column="5" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ScoreTuple.java" timestamp="1536589381708">
+        <mark key="[" line="9" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf/src/main/java/LinearSVCExample.java" timestamp="1534585974556">
         <mark key="[" line="23" column="0" />
@@ -478,10 +478,10 @@
       <file name="$USER_HOME$/Downloads/demo/pom.xml" timestamp="1535863550399">
         <mark key="[" line="26" column="18" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/Runner.java" timestamp="1536587500529">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/Runner.java" timestamp="1536590171205">
+        <mark key="[" line="33" column="68" />
+        <mark key="]" line="33" column="69" />
+        <mark key="." line="33" column="69" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/validator/Validator.java" timestamp="1535864276564">
         <mark key="[" line="0" column="8" />
@@ -536,13 +536,13 @@
     <jumps />
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBmaWxlbmFtZVRlc3QwID0gInNyYy90ZXN0L3Jlc291cmNlcy90ZXN0MC50eHQiOwog</text>
+        <text>propperlyClassified / dataset.getValidatingProblems().get(j).l;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBvcHRzLnNldEZpbGVuYW1lKGZpbGVuYW1lVGVzdDApOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>TrainingProblems</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBvcHRzLnNldEZpbGVuYW1lKGZpbGVuYW1lVGVzdDEpOwo=</text>
@@ -569,7 +569,7 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlsZW5hbWUgPSAic3JjL3Rlc3QvcmVzb3VyY2VzL3Rlc3QwLnR4dCI7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>TrainingProblems</text>
       </register>
     </registers>
     <search>
