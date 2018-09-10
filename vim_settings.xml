@@ -72,11 +72,11 @@
         <mark key="]" line="7" column="33" />
         <mark key="." line="7" column="33" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/selector/BestSelector.java" timestamp="1536600406199">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="23" column="8" />
-        <mark key="." line="22" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/selector/BestSelector.java" timestamp="1536603559283">
+        <mark key="[" line="29" column="73" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Opts.java" timestamp="1535571529822">
         <mark key="[" line="0" column="0" />
@@ -514,10 +514,11 @@
       <file name="$USER_HOME$/Downloads/demo/pom.xml" timestamp="1535863550399">
         <mark key="[" line="26" column="18" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/Runner.java" timestamp="1536597666262">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/Runner.java" timestamp="1536603481780">
+        <mark key="[" line="41" column="34" />
+        <mark key="]" line="42" column="7" />
+        <mark key="." line="42" column="7" />
+        <mark key="^" line="42" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/validator/Validator.java" timestamp="1535864276564">
         <mark key="[" line="0" column="8" />
@@ -572,40 +573,40 @@
     <jumps />
     <registers>
       <register name="0" type="4">
-        <text>[numberOfBaseClassifiers]</text>
+        <text>int[][] indices = new int[opts.getNumberOfSpaceParts()][opts.getNumberOfSelectedClassifiers()];</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGVbXSBkb3VibGVzID0gey4zLCAuMSwgLjQsIC41LCAuMn07CiAgICAgICAgZG91YmxlW10gZG91YmxlczEgPSBBcnJheXMuY29weU9mKGRvdWJsZXMsIGRvdWJsZXMubGVuZ3RoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdoaWxlIChjb3VudGVyIDwgb3B0cy5nZXROdW1iZXJPZlNlbGVjdGVkQ2xhc3NpZmllcnMoKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuc29ydChkb3VibGVzMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBjb3VudGVyID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGVzMSA9IEFycmF5cy5jb3B5T2ZSYW5nZShkb3VibGVzMSwgMSwgZG91YmxlczEubGVuZ3RoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZG91YmxlczEubGVuZ3RoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGVbXSBkb3VibGVzID0gezEuMiwgMS4xLCAzLjIsIC4zLCA0LjMsIDMuNH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGNvdW50ZXIgPSAwOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGVbXSBjb3B5T2ZEb3VibGVzID0gQXJyYXlzLmNvcHlPZihkb3VibGVzLCBkb3VibGVzLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvdWJsZVtdIHdlaWdodHNQcm9TdWJzcGFjZSA9IHZhbGlkYXRpb25SZXN1bHRzLmdldFdlaWdodHMoKVtpXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuc29ydChjb3B5T2ZEb3VibGVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>NoArgsConstructor</text>
+        <text>c</text>
       </register>
     </registers>
     <search>
