@@ -185,11 +185,11 @@
         <mark key="^" line="6" column="28" />
         <mark key="." line="8" column="26" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/ScoreTester.java" timestamp="1536695044125">
-        <mark key="[" line="13" column="161" />
-        <mark key="]" line="13" column="157" />
-        <mark key="." line="13" column="157" />
-        <mark key="^" line="13" column="157" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/ScoreTester.java" timestamp="1536697364103">
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
+        <mark key="^" line="15" column="55" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part2/Worker.java" timestamp="1531055781862">
         <mark key="[" line="15" column="50" />
@@ -559,11 +559,11 @@
         <mark key="]" line="4" column="65" />
         <mark key="." line="4" column="65" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/tester/ScoreTesterTest.java" timestamp="1536695919989">
-        <mark key="[" line="13" column="86" />
-        <mark key="]" line="19" column="41" />
-        <mark key="." line="19" column="41" />
-        <mark key="^" line="19" column="41" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/tester/ScoreTesterTest.java" timestamp="1536697395733">
+        <mark key="[" line="29" column="66" />
+        <mark key="]" line="29" column="65" />
+        <mark key="." line="29" column="65" />
+        <mark key="^" line="29" column="65" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/validator/Validator.java" timestamp="1535864276564">
         <mark key="[" line="0" column="8" />
@@ -624,40 +624,40 @@
     <jumps />
     <registers>
       <register name="0" type="4">
-        <text>import static jb.util.ModelUtils.getAs;</text>
+        <text encoding="base64">ICAgICAgICBGZWF0dXJlW10gZmVhdHVyZTEgPSB7bmV3IEZlYXR1cmVOb2RlKDAsIC41KSwgbmV3IEZlYXR1cmVOb2RlKDEsIC4zKX07</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB3aGVuCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9ibGVtLgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB3aGVuCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9ibGVtLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudE9mVmFsaWRhdGluZ09iamVjdHNbKGludCkgKG9wdHMuZ2V0TnVtYmVyT2ZTcGFjZVBhcnRzKCkgKiAoY2xmT2JqZWN0c0RvdWJsZVNvcnRlZFtqICogbnVtYmVyT2ZTdWJzZXRzICsgaV0uZ2V0WCgpWzBdLmdldFZhbHVlKCkgLSBtaW5YKSAvIChtYXhYIC0gbWluWCkgLSBDb25zdGFudHMuRVBTSUxPTildKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKEZlYXR1cmVbXSBmZWF0dXJlcyA6IGRhdGFzZXQuZ2V0VGVzdGluZ1Byb2JsZW0oKS54KSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9ibGVtLngK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB3aGVuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFByb2JsZW0gcHJvYmxlbSA6IGRhdGFzZXQuZ2V0VGVzdGluZ1Byb2JsZW0oKSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudE9mVmFsaWRhdGluZ09iamVjdHNbKGludCkgKG9wdHMuZ2V0TnVtYmVyT2ZTcGFjZVBhcnRzKCkgKiAoY2xmT2JqZWN0c0RvdWJsZVNvcnRlZFtqICogbnVtYmVyT2ZTdWJzZXRzICsgaV0uZ2V0WCgpWzBdLmdldFZhbHVlKCkgLSBtaW5YKSAvIChtYXhYIC0gbWluWCkgLSBDb25zdGFudHMuRVBTSUxPTildKys7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhc2V0LmdldFRlc3RpbmdQcm9ibGVtKCkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkb3VibGUgcHJlZGljdGlvbiA9IExpbmVhci5wcmVkaWN0KGNsZnMuZ2V0KGkpLCBkYXRhc2V0LmdldFZhbGlkYXRpbmdQcm9ibGVtcygpLmdldChqKS54W2tdKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2NvcmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFByb2JsZW0gcHJvYmxlbSA6IGRhdGFzZXQuZ2V0VGVzdGluZ1Byb2JsZW0oKSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">ICAgICAgICBkYXRhc2V0LmdldFRlc3RpbmdQcm9ibGVtKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>prediction == dataset.getValidatingProblems().get(j).y[k]) {</text>
+        <text>features</text>
       </register>
     </registers>
     <search>
