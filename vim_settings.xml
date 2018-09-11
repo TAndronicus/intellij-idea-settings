@@ -56,20 +56,22 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="21" column="60" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/liblineardemo/src/main/java/LiblinearTest.java" timestamp="1535475861718">
-        <mark key="[" line="12" column="70" />
-        <mark key="]" line="12" column="70" />
-        <mark key="." line="12" column="70" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/liblineardemo/src/main/java/LiblinearTest.java" timestamp="1536689422888">
+        <mark key="[" line="12" column="80" />
+        <mark key="]" line="12" column="80" />
+        <mark key="." line="12" column="80" />
+        <mark key="^" line="12" column="80" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/files/FileReaderNWayTest.java" timestamp="1536611495362">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/MeanIntegrator.java" timestamp="1536591958176">
-        <mark key="[" line="7" column="33" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="7" column="33" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/MeanIntegrator.java" timestamp="1536688124839">
+        <mark key="[" line="20" column="48" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+        <mark key="^" line="20" column="12" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/selector/BestSelector.java" timestamp="1536603559283">
         <mark key="[" line="29" column="73" />
@@ -149,9 +151,9 @@
         <mark key="^" line="23" column="30" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/Integrator.java" timestamp="1536686866799">
-        <mark key="[" line="8" column="53" />
-        <mark key="]" line="8" column="26" />
-        <mark key="." line="8" column="26" />
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/wekademo/src/main/java/LiblinearTest.java" timestamp="1535471208459">
         <mark key="[" line="29" column="0" />
@@ -401,10 +403,11 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/SelectedTuple.java" timestamp="1536600263976">
-        <mark key="[" line="6" column="1" />
-        <mark key="]" line="6" column="1" />
-        <mark key="." line="6" column="1" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/SelectedTuple.java" timestamp="1536687883417">
+        <mark key="[" line="14" column="43" />
+        <mark key="]" line="10" column="50" />
+        <mark key="." line="10" column="50" />
+        <mark key="^" line="10" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/Runner.java" timestamp="1535880631172">
         <mark key="[" line="34" column="20" />
@@ -521,8 +524,8 @@
       <file name="/Dummy.txt" timestamp="1536611545388">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/Runner.java" timestamp="1536603481780">
-        <mark key="[" line="40" column="34" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/Runner.java" timestamp="1536687411838">
+        <mark key="[" line="39" column="64" />
         <mark key="]" line="41" column="7" />
         <mark key="." line="41" column="7" />
         <mark key="^" line="41" column="7" />
@@ -532,6 +535,12 @@
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/IntegratedModel.java" timestamp="1536687389359">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="9" />
+        <mark key="^" line="5" column="9" />
+        <mark key="." line="5" column="9" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/wekademo/pom.xml" timestamp="1535391787061">
         <mark key="[" line="15" column="21" />
@@ -583,37 +592,37 @@
         <text encoding="base64">CiAgICAgICAgYXNzZXJ0VGhhdChzZWxlY3RlZFR1cGxlLmdldFdlaWdodHMoKVswXSwgaXMoZXF1YWxUbyhuZXcgZG91YmxlW117LjUsIC40fSkpKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFRlc3QK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QFRlc3QK</text>
+      <register name="&quot;" type="4">
+        <text>4</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFJ1bldpdGgoSlVuaXQ0LmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFbaV0gKz0gZ2V0QSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL09wdHMgb3B0cyA9IG1vY2soT3B0cy5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBvcHRzLmdldE51bWJlck9mU2VsZWN0ZWRDbGFzc2lmaWVycygpOyBqKyspIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLm1vY2s7Cg==</text>
+        <text encoding="base64">QFRlc3QK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5tb2NraXRvLmp1bml0Lio7Cg==</text>
+        <text encoding="base64">QFJ1bldpdGgoSlVuaXQ0LmNsYXNzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICApKQo=</text>
+        <text encoding="base64">ICAgICAgICAvL09wdHMgb3B0cyA9IG1vY2soT3B0cy5jbGFzcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCkK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RvdWJsZVtdW10gc2NvcmVzID0gbmV3IGRvdWJsZVtudW1iZXJPZlNwYWNlUGFydHNdW251bWJlck9mQmFzZUNsYXNzaWZpZXJzXTsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLm1vY2s7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>4</text>
       </register>
     </registers>
     <search>
