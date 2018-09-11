@@ -67,11 +67,17 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/MeanIntegrator.java" timestamp="1536688124839">
-        <mark key="[" line="20" column="48" />
-        <mark key="]" line="20" column="12" />
-        <mark key="." line="20" column="12" />
-        <mark key="^" line="20" column="12" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/util/ModelUtils.java" timestamp="1536691382482">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="4" />
+        <mark key="^" line="19" column="3" />
+        <mark key="." line="16" column="4" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/MeanIntegrator.java" timestamp="1536692572855">
+        <mark key="[" line="18" column="11" />
+        <mark key="]" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+        <mark key="^" line="18" column="16" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/selector/BestSelector.java" timestamp="1536603559283">
         <mark key="[" line="29" column="73" />
@@ -150,10 +156,10 @@
         <mark key="." line="23" column="30" />
         <mark key="^" line="23" column="30" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/Integrator.java" timestamp="1536686866799">
-        <mark key="[" line="11" column="53" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="26" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/Integrator.java" timestamp="1536692551543">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/wekademo/src/main/java/LiblinearTest.java" timestamp="1535471208459">
         <mark key="[" line="29" column="0" />
@@ -365,6 +371,9 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="25" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/ModelUtils.java" timestamp="1536691262084">
+        <mark key="[" line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/selector/BestSelector.java" timestamp="1535880903768">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -524,11 +533,15 @@
       <file name="/Dummy.txt" timestamp="1536611545388">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/Runner.java" timestamp="1536687411838">
-        <mark key="[" line="39" column="64" />
-        <mark key="]" line="41" column="7" />
-        <mark key="." line="41" column="7" />
-        <mark key="^" line="41" column="7" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/Runner.java" timestamp="1536692786279">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/util/MathUtils.java" timestamp="1536692351706">
+        <mark key="[" line="4" column="65" />
+        <mark key="]" line="4" column="65" />
+        <mark key="." line="4" column="65" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/validator/Validator.java" timestamp="1535864276564">
         <mark key="[" line="0" column="8" />
@@ -536,11 +549,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/IntegratedModel.java" timestamp="1536687389359">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="5" column="9" />
-        <mark key="^" line="5" column="9" />
-        <mark key="." line="5" column="9" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/IntegratedModel.java" timestamp="1536692679623">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/wekademo/pom.xml" timestamp="1535391787061">
         <mark key="[" line="15" column="21" />
@@ -589,40 +602,40 @@
     <jumps />
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgYXNzZXJ0VGhhdChzZWxlY3RlZFR1cGxlLmdldFdlaWdodHMoKVswXSwgaXMoZXF1YWxUbyhuZXcgZG91YmxlW117LjUsIC40fSkpKTs=</text>
+        <text>import static jb.util.ModelUtils.getAs;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2NvcmUpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2NvcmUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFbaV0gKz0gZ2V0QSgpCg==</text>
+        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBvcHRzLmdldE51bWJlck9mU2VsZWN0ZWRDbGFzc2lmaWVycygpOyBqKyspIHsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodjEubGVuZ3RoICE9IHYyLmxlbmd0aCkgewogICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJWZWN0b3JzIG11c3QgYmUgb2Ygc2FtZSBsZW5ndGggdG8gY2FsY3VsYXRlIHByb2R1Y3QiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZG91YmxlIHZlY3RvclByb2R1Y3QoZG91YmxlW10gdjEsIGRvdWJsZVtdIHYyKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBpZiAodjEubGVuZ3RoICE9IHYyLmxlbmd0aCkgewogICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJWZWN0b3JzIG11c3QgYmUgb2Ygc2FtZSBsZW5ndGggdG8gY2FsY3VsYXRlIHByb2R1Y3QiKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFRlc3QK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodjEubGVuZ3RoICE9IHYyLmxlbmd0aCkgewogICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJWZWN0b3JzIG11c3QgYmUgb2Ygc2FtZSBsZW5ndGggdG8gY2FsY3VsYXRlIHByb2R1Y3QiKTsKICAgICAgICB9CiAgICAgICAgZG91YmxlIHByb2R1Y3QgPSAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFJ1bldpdGgoSlVuaXQ0LmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxNb2RlbD4gZ2V0U2VsZWN0ZWRDbGZzKExpc3Q8TW9kZWw+IGNsZnMsIGludFtdW10gaW5kaWNlcykgewogICAgICAgIAogICAgfQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL09wdHMgb3B0cyA9IG1vY2soT3B0cy5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcubW9ja2l0by5Nb2NraXRvLm1vY2s7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text encoding="base64">ZG91YmxlIHNjb3JlIA==</text>
       </register>
     </registers>
     <search>
