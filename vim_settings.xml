@@ -174,10 +174,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/FileReaderNWay.java" timestamp="1536694851570">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/FileReaderNWay.java" timestamp="1536940781755">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="27" column="20" />
+        <mark key="^" line="27" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/trainer/Trainer.java" timestamp="1535863705004">
         <mark key="[" line="0" column="8" />
@@ -673,37 +674,37 @@
         <text>String[] values = line.split(&quot;,&quot;);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaik7Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>txt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcXVhcmUgPSBuZXcgZG91YmxlW3ZhbHVlcy5sZW5ndGggLSAxXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdmVyYWdlID0gbmV3IGRvdWJsZVt2YWx1ZXMubGVuZ3RoIC0gMV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzcXVhcmUgPSBuZXcgZG91YmxlW3ZhbHVlcy5sZW5ndGggLSAxXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhdmVyYWdlID09IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdmVyYWdlID0gbmV3IGRvdWJsZVt2YWx1ZXMubGVuZ3RoIC0gMV07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGludCBjb2wyID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChhdmVyYWdlID09IG51bGwpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGludCBjb2wxID0gMDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGludCBjb2wyID0gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRG91YmxlW10K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGludCBjb2wxID0gMDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRG91YmxlW10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXdsaW5lLmFwcGVuZCgiICIgKyAoaSArIDEpICsgIjoiICsgdmFsdWVzW2ldKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>txt</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
