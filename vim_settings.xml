@@ -37,11 +37,11 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/MVConfMatTester.java" timestamp="1537081547464">
-        <mark key="[" line="24" column="99" />
-        <mark key="]" line="24" column="96" />
-        <mark key="." line="24" column="96" />
-        <mark key="^" line="24" column="96" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/MVConfMatTester.java" timestamp="1537123386973">
+        <mark key="[" line="20" column="62" />
+        <mark key="]" line="20" column="92" />
+        <mark key="." line="20" column="92" />
+        <mark key="^" line="20" column="92" />
       </file>
       <file name="$USER_HOME$/Workspace/Scala/untitled/demo1.scala" timestamp="1534532039750">
         <mark key="[" line="0" column="0" />
@@ -326,6 +326,12 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ValidatingTestingTuple.java" timestamp="1537123201180">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/validator/SimpleScoreValidator.java" timestamp="1535863956129">
         <mark key="[" line="0" column="8" />
@@ -750,7 +756,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>filename</text>
+        <text>]</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZmlsZW5hbWUgPSAK</text>
@@ -777,7 +783,7 @@
         <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>filename</text>
+        <text>]</text>
       </register>
     </registers>
     <search>
