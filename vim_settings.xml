@@ -6,6 +6,12 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Integrator.java" timestamp="1535734827245">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/util/ModelUtilsTest.java" timestamp="1537075838612">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/part2/WorkinMan.java" timestamp="1531334043030">
         <mark key="[" line="0" column="13" />
         <mark key="]" line="31" column="69" />
@@ -66,10 +72,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/util/ModelUtils.java" timestamp="1536693130227">
-        <mark key="[" line="22" column="5" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/util/ModelUtils.java" timestamp="1537075545624">
+        <mark key="[" line="31" column="5" />
         <mark key="]" line="20" column="4" />
-        <mark key="^" line="32" column="3" />
+        <mark key="^" line="36" column="3" />
         <mark key="." line="20" column="4" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/MeanIntegrator.java" timestamp="1536692572855">
@@ -135,11 +141,11 @@
         <mark key="^" line="16" column="20" />
         <mark key="." line="12" column="21" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/IntegratedConfMatTester.java" timestamp="1537043742446">
-        <mark key="[" line="11" column="26" />
-        <mark key="]" line="11" column="25" />
-        <mark key="." line="11" column="25" />
-        <mark key="^" line="11" column="25" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/IntegratedConfMatTester.java" timestamp="1537075463754">
+        <mark key="[" line="20" column="9" />
+        <mark key="]" line="12" column="25" />
+        <mark key="." line="12" column="25" />
+        <mark key="^" line="12" column="25" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/pom.xml" timestamp="1536608104132">
         <mark key="[" line="58" column="21" />
@@ -229,11 +235,11 @@
         <mark key="]" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/tester/IntegratedConfMatTesterTest.java" timestamp="1537045156224">
-        <mark key="[" line="49" column="50" />
-        <mark key="]" line="49" column="45" />
-        <mark key="." line="49" column="45" />
-        <mark key="^" line="49" column="45" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/tester/IntegratedConfMatTesterTest.java" timestamp="1537075683359">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="43" column="73" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/pom.xml" timestamp="1535879923016">
         <mark key="[" line="49" column="0" />
@@ -521,6 +527,9 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/ModelUtilsTest.java" timestamp="1537075764868">
+        <mark key="[" line="0" column="10" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/pom.xml" timestamp="1531041113322">
         <mark key="[" line="19" column="21" />
         <mark key="]" line="15" column="7" />
@@ -678,11 +687,6 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Trainer.java" timestamp="1535733717720">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/SimpleArff2LibSvmConverter.java" timestamp="1536866360544">
-        <mark key="]" line="24" column="9" />
-        <mark key="^" line="24" column="9" />
-        <mark key="." line="24" column="9" />
-      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/FileReaderNWaySameValidationTest.java" timestamp="1536469976730">
         <mark key="[" line="0" column="0" />
       </file>
@@ -704,37 +708,37 @@
         <text>average = new double[values.length - 1];</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzY29yZUZyb21Db25mTWF0ID0gc2NvcmVGcm9tQ29uZk1hdCA+IC41ID8gc2NvcmVGcm9tQ29uZk1hdCA6IDEgLSBzY29yZUZyb21Db25mTWF0Owo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>(.0 + confMat[0][0] + confMat[1][1]) / (confMat[0][0] + confMat[0][1] + confMat[1][0] + confMat[1][1])</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzY29yZUZyb21Db25mTWF0ID0gc2NvcmVGcm9tQ29uZk1hdCA+IC41ID8gc2NvcmVGcm9tQ29uZk1hdCA6IDEgLSBzY29yZUZyb21Db25mTWF0Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB3aGVuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50ZXIrKzsK</text>
+        <text encoding="base64">ICAgICAgICAvLyB3aGVuCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50ZXIrKzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFmaWxlLmdldFBhdGgoKS5tYXRjaGVzKCIuKmNvbnZlcnRlZC4qIikpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFmaWxlLmdldFBhdGgoKS5tYXRjaGVzKCIuKmNvbnZlcnRlZC4qIikpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>(.0 + confMat[0][0] + confMat[1][1]) / (confMat[0][0] + confMat[0][1] + confMat[1][0] + confMat[1][1])</text>
+        <text>(.0 + confMat[0][0] + confMat[1][1]) / (confMat[0][0] + confMat[0][1] + confMat[1][0] + confMat[1][1]);</text>
       </register>
     </registers>
     <search>
