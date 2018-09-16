@@ -37,6 +37,12 @@
         <mark key="." line="0" column="10" />
         <mark key="^" line="0" column="10" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/MVConfMatTester.java" timestamp="1537081547464">
+        <mark key="[" line="24" column="99" />
+        <mark key="]" line="24" column="96" />
+        <mark key="." line="24" column="96" />
+        <mark key="^" line="24" column="96" />
+      </file>
       <file name="$USER_HOME$/Workspace/Scala/untitled/demo1.scala" timestamp="1534532039750">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="21" />
@@ -72,11 +78,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/util/ModelUtils.java" timestamp="1537080820304">
-        <mark key="[" line="35" column="5" />
-        <mark key="]" line="37" column="9" />
-        <mark key="^" line="37" column="9" />
-        <mark key="." line="37" column="9" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/util/ModelUtils.java" timestamp="1537082087313">
+        <mark key="[" line="50" column="61" />
+        <mark key="]" line="50" column="61" />
+        <mark key="^" line="50" column="69" />
+        <mark key="." line="50" column="61" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/MeanIntegrator.java" timestamp="1536692572855">
         <mark key="[" line="18" column="11" />
@@ -663,8 +669,8 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Dataset.java" timestamp="1535571986553">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/MVScoreTester.java" timestamp="1537043359040">
-        <mark key="[" line="2" column="28" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/MVScoreTester.java" timestamp="1537080946039">
+        <mark key="[" line="14" column="29" />
         <mark key="]" line="11" column="13" />
         <mark key="^" line="11" column="13" />
         <mark key="." line="11" column="13" />
@@ -708,37 +714,37 @@
         <text>(int) (Math.random() * 100)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzY29yZUZyb21Db25mTWF0ID0gc2NvcmVGcm9tQ29uZk1hdCA+IC41ID8gc2NvcmVGcm9tQ29uZk1hdCA6IDEgLSBzY29yZUZyb21Db25mTWF0Owo=</text>
+        <text encoding="base64">ICAgICAgICBzY29yZSAvPSBkYXRhc2V0LmdldFRlc3RpbmdQcm9ibGVtKCkubDsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(int) (Math.random() * 100)</text>
+        <text>)</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNjb3JlKys7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB3aGVuCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50ZXIrKzsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKExpbmVhci5wcikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZG91YmxlIHZvdGluZ1Jlc3VsdCA9IDA7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2NvcmUgPiAuNSA/IHNjb3JlIDogMSAtIHNjb3JlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFmaWxlLmdldFBhdGgoKS5tYXRjaGVzKCIuKmNvbnZlcnRlZC4qIikpIHsK</text>
+        <text encoding="base64">ICAgICAgICBzY29yZUZyb21Db25mTWF0ID0gc2NvcmVGcm9tQ29uZk1hdCA+IC41ID8gc2NvcmVGcm9tQ29uZk1hdCA6IDEgLSBzY29yZUZyb21Db25mTWF0Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyB3aGVuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>(.0 + confMat[0][0] + confMat[1][1]) / (confMat[0][0] + confMat[0][1] + confMat[1][0] + confMat[1][1]);</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
