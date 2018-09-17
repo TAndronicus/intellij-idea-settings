@@ -432,11 +432,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/Dataset.java" timestamp="1537211430600">
-        <mark key="[" line="28" column="42" />
-        <mark key="]" line="28" column="40" />
-        <mark key="." line="28" column="40" />
-        <mark key="^" line="28" column="40" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/Dataset.java" timestamp="1537212240334">
+        <mark key="[" line="42" column="12" />
+        <mark key="]" line="42" column="12" />
+        <mark key="." line="42" column="12" />
+        <mark key="^" line="42" column="47" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/serialization/ModelReader.java" timestamp="1537200100072">
         <mark key="[" line="18" column="170" />
@@ -685,11 +685,11 @@
         <mark key="." line="17" column="20" />
         <mark key="^" line="17" column="20" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/Runner.java" timestamp="1537199274610">
-        <mark key="[" line="30" column="55" />
-        <mark key="]" line="30" column="34" />
-        <mark key="^" line="30" column="34" />
-        <mark key="." line="30" column="34" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/Runner.java" timestamp="1537212362637">
+        <mark key="[" line="42" column="48" />
+        <mark key="]" line="31" column="34" />
+        <mark key="^" line="31" column="34" />
+        <mark key="." line="31" column="34" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/util/MathUtils.java" timestamp="1536692351706">
         <mark key="[" line="4" column="65" />
@@ -782,37 +782,37 @@
         <text>(int) (Math.random() * 100)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGJpYXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKENsZk9iamVjdCBjbGZPYmplY3QgOiBjbGZPYmplY3RzKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text encoding="base64">UHJvYmxlbSBwcm9ibGVtID0g</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYi51dGlsLk1vZGVsVXRpbHMucHJlZGljdHNQcm9wcGVybHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGpiLmRhdGEuRGF0YXNldDsK</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuc29ydCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGpiLmRhdGEuQ2xmT2JqZWN0T25jZVNvcnRlZDsK</text>
+        <text encoding="base64">ICAgICAgICBDbGZPYmplY3RbXSBjbGZPYmplY3RzT25jZVNvcnRlZCA9IG5ldyBDbGZPYmplY3RPbmNlU29ydGVkW2Jhc2VQcmJsZW0uZ2V0WSgpLmxlbmd0aF07Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGpiLmRhdGEuQ2xmT2JqZWN0RG91YmxlU29ydGVkOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGJhc2VQcmJsZW0uZ2V0WSgpLmxlbmd0aDsgaSsrKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGpiLmRhdGEuQ2xmT2JqZWN0RG91YmxlU29ydGVkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xmT2JqZWN0c09uY2VTb3J0ZWRbaV0gPSBuZXcgQ2xmT2JqZWN0T25jZVNvcnRlZChiYXNlUHJibGVtLmdldFgoKVtpXSwgYmFzZVByYmxlbS5nZXRZKClbaV0pOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGpiLmRhdGEuQ2xmT2JqZWN0Owo=</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuc29ydChjbGZPYmplY3RzT25jZVNvcnRlZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGpiLmRhdGEuQ2xmT2JqZWN0T25jZVNvcnRlZDsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGpiLmRhdGEuQ2xmT2JqZWN0RG91YmxlU29ydGVkOwo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGJhc2VQcmJsZW0uZ2V0WSgpLmxlbmd0aDsgaSsrKSB7Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">UHJvYmxlbSBwcm9ibGVtID0g</text>
       </register>
     </registers>
     <search>
