@@ -433,7 +433,7 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/Dataset.java" timestamp="1537212240334">
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/Dataset.java" timestamp="1537290384055">
         <mark key="[" line="42" column="12" />
         <mark key="]" line="42" column="12" />
         <mark key="." line="42" column="12" />
@@ -718,11 +718,11 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/MultiRunner.java" timestamp="1537289356718">
-        <mark key="[" line="75" column="78" />
-        <mark key="]" line="75" column="60" />
-        <mark key="^" line="75" column="60" />
-        <mark key="." line="75" column="60" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/MultiRunner.java" timestamp="1537290952827">
+        <mark key="[" line="72" column="72" />
+        <mark key="]" line="72" column="72" />
+        <mark key="^" line="56" column="44" />
+        <mark key="." line="72" column="72" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/wekademo/pom.xml" timestamp="1535391787061">
         <mark key="[" line="15" column="21" />
@@ -773,7 +773,7 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/trainer/SvmTrainer.java" timestamp="1537211194266">
         <mark key="[" line="18" column="68" />
       </file>
-      <file name="/fragment.java" timestamp="1537077669922">
+      <file name="/fragment.java" timestamp="1537290333103">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="5" />
@@ -788,8 +788,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>numberOfSpaceParts</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gc2NvcmU7Ki8K</text>
@@ -816,7 +816,7 @@
         <text encoding="base64">ICAgICAgICBmb3IgKENsZk9iamVjdCBjbGZPYmplY3QgOiBjbGZPYmplY3RzKSB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>dataset</text>
+        <text>numberOfSpaceParts</text>
       </register>
     </registers>
     <search>
