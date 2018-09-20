@@ -85,10 +85,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/util/ModelUtils.java" timestamp="1537386473866">
-        <mark key="[" line="24" column="52" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/util/ModelUtils.java" timestamp="1537454962486">
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="15" />
+        <mark key="." line="29" column="15" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/MeanIntegrator.java" timestamp="1536692572855">
         <mark key="[" line="18" column="11" />
@@ -802,37 +802,37 @@
         <text>newline.append(&quot; &quot; + (loopCounter + 1) + &quot;:&quot; + ((Double.valueOf(values[loopCounter].trim()) - average[loopCounter]) / square[loopCounter]));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xmcy5nZXQoaSkuZ2V0RGVjZnVuQ29lZigpCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMTsgaSA8IGFzLmxlbmd0aDsgaSsrKSBpZiAoYXNbaV0gKiBhc1tpIC0gMV0gPCAwKSBTeXN0ZW0ub3V0LnByaW50bG4oIm9rdXJ3YSIpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>newline.append(&quot; &quot; + (loopCounter + 1) + &quot;:&quot; + ((Double.valueOf(values[loopCounter].trim()) - average[loopCounter]) / square[loopCounter]));</text>
+        <text>new double[clfs.size()];</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgU3RyaW5nIHNvdXJjZVBhdGggPSAic3JjL21haW4vcmVzb3VyY2VzL3RhcmdldCI7CiAgICAgICAgU3RyaW5nIHJlc3VsdFBhdGggPSAic3JjL21haW4vcmVzb3VyY2VzL3Jlc3VsdHMiOw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFzW2ldKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9ibGVtLnkgPSB5OwogICAgICAgIHByb2JsZW0ubCA9IHByb2JsZW0ueC5sZW5ndGg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xmcy5nZXQoaSkuZ2V0RGVjZnVuQ29lZigpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9ibGVtIHByb2JsZW0gPSBuZXcgUHJvYmxlbSgpOwogICAgICAgIHByb2JsZW0ueCA9IG5ldyBGZWF0dXJlW11bXXtmZWF0dXJlMCwgZmVhdHVyZTEsIGZlYXR1cmUyLCBmZWF0dXJlMywgZmVhdHVyZTR9Owo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgU3RyaW5nIHNvdXJjZVBhdGggPSAic3JjL21haW4vcmVzb3VyY2VzL3RhcmdldCI7CiAgICAgICAgU3RyaW5nIHJlc3VsdFBhdGggPSAic3JjL21haW4vcmVzb3VyY2VzL3Jlc3VsdHMiOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBGZWF0dXJlW10gZmVhdHVyZTQgPSB7bmV3IEZlYXR1cmVOb2RlKDAsIDEuNSksIG5ldyBGZWF0dXJlTm9kZSgxLCAyKX07Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGZWF0dXJlW10gZmVhdHVyZTIgPSB7bmV3IEZlYXR1cmVOb2RlKDAsIC44KSwgbmV3IEZlYXR1cmVOb2RlKDEsIC4zKX07CiAgICAgICAgRmVhdHVyZVtdIGZlYXR1cmUzID0ge25ldyBGZWF0dXJlTm9kZSgwLCAtLjUpLCBuZXcgRmVhdHVyZU5vZGUoMSwgLjEpfTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGZWF0dXJlW10gZmVhdHVyZTAgPSB7bmV3IEZlYXR1cmVOb2RlKDAsIC4yKSwgbmV3IEZlYXR1cmVOb2RlKDEsIDApfTsKICAgICAgICBGZWF0dXJlW10gZmVhdHVyZTEgPSB7bmV3IEZlYXR1cmVOb2RlKDAsIC41KSwgbmV3IEZlYXR1cmVOb2RlKDEsIC4zKX07Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PGpiLmRhdGEuUHJvYmxlbT4K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBwcm9ibGVtLnkgPSB5OwogICAgICAgIHByb2JsZW0ubCA9IHByb2JsZW0ueC5sZW5ndGg7Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBQcm9ibGVtIHByb2JsZW0gPSBuZXcgUHJvYmxlbSgpOwogICAgICAgIHByb2JsZW0ueCA9IG5ldyBGZWF0dXJlW11bXXtmZWF0dXJlMCwgZmVhdHVyZTEsIGZlYXR1cmUyLCBmZWF0dXJlMywgZmVhdHVyZTR9Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBGZWF0dXJlW10gZmVhdHVyZTQgPSB7bmV3IEZlYXR1cmVOb2RlKDAsIDEuNSksIG5ldyBGZWF0dXJlTm9kZSgxLCAyKX07Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBGZWF0dXJlW10gZmVhdHVyZTIgPSB7bmV3IEZlYXR1cmVOb2RlKDAsIC44KSwgbmV3IEZlYXR1cmVOb2RlKDEsIC4zKX07CiAgICAgICAgRmVhdHVyZVtdIGZlYXR1cmUzID0ge25ldyBGZWF0dXJlTm9kZSgwLCAtLjUpLCBuZXcgRmVhdHVyZU5vZGUoMSwgLjEpfTsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBGZWF0dXJlW10gZmVhdHVyZTAgPSB7bmV3IEZlYXR1cmVOb2RlKDAsIC4yKSwgbmV3IEZlYXR1cmVOb2RlKDEsIDApfTsKICAgICAgICBGZWF0dXJlW10gZmVhdHVyZTEgPSB7bmV3IEZlYXR1cmVOb2RlKDAsIC41KSwgbmV3IEZlYXR1cmVOb2RlKDEsIC4zKX07Cg==</text>
+      </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>new double[clfs.size()];</text>
       </register>
     </registers>
     <search>
