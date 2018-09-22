@@ -164,8 +164,8 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="22" column="92" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/pom.xml" timestamp="1536608104132">
-        <mark key="[" line="58" column="21" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/pom.xml" timestamp="1537631676933">
+        <mark key="[" line="63" column="21" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
@@ -328,11 +328,10 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/integrator/MedianIntegratorTest.java" timestamp="1537629877704">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="13" column="55" />
-        <mark key="^" line="13" column="55" />
-        <mark key="." line="13" column="55" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/integrator/MedianIntegratorTest.java" timestamp="1537631884482">
+        <mark key="]" line="21" column="7" />
+        <mark key="." line="21" column="7" />
+        <mark key="^" line="21" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf/src/main/java/LinearSVCExample.java" timestamp="1534585974556">
         <mark key="[" line="23" column="0" />
@@ -841,34 +840,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdEFzLmFkZChpbmRpY2VzLmxlbmd0aCA9PSAxID8gYXNbaW5kaWNlc1swXV0gOiAoYXNbaW5kaWNlc1swXV0gKyBhc1tpbmRpY2VzWzFdXSkgLyAyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY3Jvc3Nwb2ludHMgc29ydGluZwo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGNsZnMuc2l6ZSgpKS50aGVuUmV0dXJuKDQpOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>crosspoints</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB3aGVuKGNsZnMuc2l6ZSgpKS50aGVuUmV0dXJuKDQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5kaWNlczsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE1vZGVsPiBjbGZzID0gbW9jayhBcnJhKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBpbmRpY2VzID0gbmV3IGludFsyXTsK</text>
+        <text encoding="base64">ICAgIExpc3Q8TW9kZWw+IGNsZnM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpCg==</text>
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbnMuc29ydChmaWx0ZXJlZENyb3NzcG9pbnRzKTsK</text>
+        <text encoding="base64">QFJ1bldpdGgoTW9ja2l0b0pVbml0UnVubmVyLmNsYXNzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Quc29ydChmdW5jdGlvblZhbHVlcywgQ29tcGFyYXRvci5jb21wYXJpbmdEb3VibGUoRnVuY3Rpb25WYWx1ZTo6Z2V0VmFsdWUpKTsK</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGVbXVtdIHdlaWdodHMgPSB7fTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbnMuc29ydChmaWx0ZXJlZENyb3NzcG9pbnRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gY3Jvc3Nwb2ludHMgc29ydGluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4MDsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5kaWNlczsK</text>
       </register>
       <register name="-" type="4">
         <text>crosspoints</text>
