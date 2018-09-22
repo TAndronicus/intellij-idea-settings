@@ -427,10 +427,10 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/Problem.java" timestamp="1537297483642">
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="38" column="65" />
-        <mark key="." line="38" column="65" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/Problem.java" timestamp="1537592174952">
+        <mark key="[" line="38" column="44" />
+        <mark key="]" line="38" column="45" />
+        <mark key="." line="38" column="45" />
         <mark key="^" line="38" column="65" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ClfObjectOnceSorted.java" timestamp="1537200780385">
@@ -811,7 +811,7 @@
         <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMTsgaSA8IGFzLmxlbmd0aDsgaSsrKSBpZiAoYXNbaV0gKiBhc1tpIC0gMV0gPCAwKSBTeXN0ZW0ub3V0LnByaW50bG4oIm9rdXJ3YSIpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGFzW2ldKTsK</text>
@@ -838,7 +838,7 @@
         <text encoding="base64">ICAgICAgICBGZWF0dXJlW10gZmVhdHVyZTAgPSB7bmV3IEZlYXR1cmVOb2RlKDAsIC4yKSwgbmV3IEZlYXR1cmVOb2RlKDEsIDApfTsKICAgICAgICBGZWF0dXJlW10gZmVhdHVyZTEgPSB7bmV3IEZlYXR1cmVOb2RlKDAsIC41KSwgbmV3IEZlYXR1cmVOb2RlKDEsIC4zKX07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
