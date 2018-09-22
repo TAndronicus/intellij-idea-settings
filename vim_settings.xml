@@ -328,10 +328,11 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/integrator/MedianIntegratorTest.java" timestamp="1537631884482">
-        <mark key="]" line="21" column="7" />
-        <mark key="." line="21" column="7" />
-        <mark key="^" line="21" column="7" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/integrator/MedianIntegratorTest.java" timestamp="1537632944522">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf/src/main/java/LinearSVCExample.java" timestamp="1534585974556">
         <mark key="[" line="23" column="0" />
@@ -837,13 +838,13 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdEFzLmFkZChpbmRpY2VzLmxlbmd0aCA9PSAxID8gYXNbaW5kaWNlc1swXV0gOiAoYXNbaW5kaWNlc1swXV0gKyBhc1tpbmRpY2VzWzFdXSkgLyAyKTsK</text>
+        <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ud2hlbihNb2RlbFV0aWxzLmdldEFzKGNsZnMpKS50aGVuUmV0dXJuKGFzKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB3aGVuKGNsZnMuc2l6ZSgpKS50aGVuUmV0dXJuKDQpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGNsZnMuc2l6ZSgpKS50aGVuUmV0dXJuKDQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PE1vZGVsPiBjbGZzID0gbW9jayhBcnJhKQo=</text>
@@ -870,7 +871,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gaW5kaWNlczsK</text>
       </register>
       <register name="-" type="4">
-        <text>crosspoints</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
