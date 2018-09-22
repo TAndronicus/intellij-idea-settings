@@ -328,6 +328,12 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="33" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/integrator/MedianIntegratorTest.java" timestamp="1537629877704">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="13" column="55" />
+        <mark key="^" line="13" column="55" />
+        <mark key="." line="13" column="55" />
+      </file>
       <file name="$USER_HOME$/Workspace/Java/clf/src/main/java/LinearSVCExample.java" timestamp="1534585974556">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -758,6 +764,10 @@
         <mark key="^" line="56" column="44" />
         <mark key="." line="72" column="72" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/MedianIntegratorTest.java" timestamp="1537629505612">
+        <mark key="[" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/wekademo/pom.xml" timestamp="1535391787061">
         <mark key="[" line="15" column="21" />
         <mark key="]" line="11" column="0" />
@@ -792,6 +802,12 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/NormalizingArff2LibSvmConverter (copy).java" timestamp="1536870023664">
         <mark key="[" line="9" column="24" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.java" timestamp="1537629056963">
+        <mark key="[" line="31" column="41" />
+        <mark key="]" line="31" column="42" />
+        <mark key="^" line="31" column="42" />
+        <mark key="." line="31" column="42" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Trainer.java" timestamp="1535733717720">
         <mark key="[" line="0" column="0" />
       </file>
@@ -806,13 +822,13 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/trainer/SvmTrainer.java" timestamp="1537211194266">
         <mark key="[" line="18" column="68" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/MedianIntegrator.java" timestamp="1537622849252">
-        <mark key="[" line="47" column="80" />
-        <mark key="]" line="48" column="15" />
-        <mark key="." line="48" column="15" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/MedianIntegrator.java" timestamp="1537629301806">
+        <mark key="[" line="34" column="69" />
+        <mark key="]" line="34" column="69" />
+        <mark key="." line="34" column="69" />
         <mark key="^" line="48" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1537475662731">
+      <file name="/fragment.java" timestamp="1537629189031">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="5" />
@@ -827,8 +843,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gY3Jvc3Nwb2ludHMgc29ydGluZwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY3Jvc3Nwb2ludHMgc29ydGluZwo=</text>
+      <register name="&quot;" type="4">
+        <text>crosspoints</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gaW5kaWNlczsK</text>
@@ -855,7 +871,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4MDsK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>crosspoints</text>
       </register>
     </registers>
     <search>
