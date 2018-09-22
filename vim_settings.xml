@@ -374,7 +374,6 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/liblinear-java/src/main/java/de/bwaldvogel/liblinear/Linear.java" timestamp="1537592046641" />
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/wekademo/src/main/java/WekaTest.java" timestamp="1535391218016">
         <mark key="[" line="106" column="61" />
         <mark key="]" line="62" column="56" />
@@ -807,6 +806,12 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/trainer/SvmTrainer.java" timestamp="1537211194266">
         <mark key="[" line="18" column="68" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/MedianIntegrator.java" timestamp="1537610676458">
+        <mark key="[" line="23" column="50" />
+        <mark key="]" line="22" column="33" />
+        <mark key="." line="22" column="33" />
+        <mark key="^" line="22" column="33" />
+      </file>
       <file name="/fragment.java" timestamp="1537475662731">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -820,34 +825,34 @@
         <text>newline.append(&quot; &quot; + (loopCounter + 1) + &quot;:&quot; + ((Double.valueOf(values[loopCounter].trim()) - average[loopCounter]) / square[loopCounter]));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4MDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbnMuc29ydChmaWx0ZXJlZENyb3NzcG9pbnRzKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4MDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbnMuc29ydChmaWx0ZXJlZENyb3NzcG9pbnRzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xmcy5nZXQoaSkuZ2V0RGVjZnVuQ29lZigpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Quc29ydChmdW5jdGlvblZhbHVlcywgQ29tcGFyYXRvci5jb21wYXJpbmdEb3VibGUoRnVuY3Rpb25WYWx1ZTo6Z2V0VmFsdWUpKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgU3RyaW5nIHNvdXJjZVBhdGggPSAic3JjL21haW4vcmVzb3VyY2VzL3RhcmdldCI7CiAgICAgICAgU3RyaW5nIHJlc3VsdFBhdGggPSAic3JjL21haW4vcmVzb3VyY2VzL3Jlc3VsdHMiOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQ29sbGVjdGlvbnMuc29ydChmaWx0ZXJlZENyb3NzcG9pbnRzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9ibGVtLnkgPSB5OwogICAgICAgIHByb2JsZW0ubCA9IHByb2JsZW0ueC5sZW5ndGg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGluZGV4MDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9ibGVtIHByb2JsZW0gPSBuZXcgUHJvYmxlbSgpOwogICAgICAgIHByb2JsZW0ueCA9IG5ldyBGZWF0dXJlW11bXXtmZWF0dXJlMCwgZmVhdHVyZTEsIGZlYXR1cmUyLCBmZWF0dXJlMywgZmVhdHVyZTR9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xmcy5nZXQoaSkuZ2V0RGVjZnVuQ29lZigpCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGZWF0dXJlW10gZmVhdHVyZTQgPSB7bmV3IEZlYXR1cmVOb2RlKDAsIDEuNSksIG5ldyBGZWF0dXJlTm9kZSgxLCAyKX07Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgU3RyaW5nIHNvdXJjZVBhdGggPSAic3JjL21haW4vcmVzb3VyY2VzL3RhcmdldCI7CiAgICAgICAgU3RyaW5nIHJlc3VsdFBhdGggPSAic3JjL21haW4vcmVzb3VyY2VzL3Jlc3VsdHMiOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBGZWF0dXJlW10gZmVhdHVyZTIgPSB7bmV3IEZlYXR1cmVOb2RlKDAsIC44KSwgbmV3IEZlYXR1cmVOb2RlKDEsIC4zKX07CiAgICAgICAgRmVhdHVyZVtdIGZlYXR1cmUzID0ge25ldyBGZWF0dXJlTm9kZSgwLCAtLjUpLCBuZXcgRmVhdHVyZU5vZGUoMSwgLjEpfTsK</text>
+        <text encoding="base64">ICAgICAgICBwcm9ibGVtLnkgPSB5OwogICAgICAgIHByb2JsZW0ubCA9IHByb2JsZW0ueC5sZW5ndGg7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBGZWF0dXJlW10gZmVhdHVyZTAgPSB7bmV3IEZlYXR1cmVOb2RlKDAsIC4yKSwgbmV3IEZlYXR1cmVOb2RlKDEsIDApfTsKICAgICAgICBGZWF0dXJlW10gZmVhdHVyZTEgPSB7bmV3IEZlYXR1cmVOb2RlKDAsIC41KSwgbmV3IEZlYXR1cmVOb2RlKDEsIC4zKX07Cg==</text>
+        <text encoding="base64">ICAgICAgICBQcm9ibGVtIHByb2JsZW0gPSBuZXcgUHJvYmxlbSgpOwogICAgICAgIHByb2JsZW0ueCA9IG5ldyBGZWF0dXJlW11bXXtmZWF0dXJlMCwgZmVhdHVyZTEsIGZlYXR1cmUyLCBmZWF0dXJlMywgZmVhdHVyZTR9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PGpiLmRhdGEuUHJvYmxlbT4K</text>
+        <text encoding="base64">ICAgICAgICBGZWF0dXJlW10gZmVhdHVyZTQgPSB7bmV3IEZlYXR1cmVOb2RlKDAsIDEuNSksIG5ldyBGZWF0dXJlTm9kZSgxLCAyKX07Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
