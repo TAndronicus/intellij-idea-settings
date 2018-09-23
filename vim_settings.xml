@@ -85,8 +85,8 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/util/ModelUtils.java" timestamp="1537386473866">
-        <mark key="[" line="24" column="52" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/util/ModelUtils.java" timestamp="1537685747524">
+        <mark key="[" line="16" column="6" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
@@ -329,11 +329,11 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/integrator/MedianIntegratorTest.java" timestamp="1537684870941">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="36" column="8" />
-        <mark key="." line="36" column="8" />
-        <mark key="^" line="36" column="9" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/integrator/MedianIntegratorTest.java" timestamp="1537686272479">
+        <mark key="[" line="39" column="30" />
+        <mark key="]" line="39" column="46" />
+        <mark key="." line="39" column="46" />
+        <mark key="^" line="39" column="46" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf/src/main/java/LinearSVCExample.java" timestamp="1534585974556">
         <mark key="[" line="23" column="0" />
@@ -841,37 +841,37 @@
         <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ud2hlbihNb2RlbFV0aWxzLmdldEFzKGNsZnMpKS50aGVuUmV0dXJuKGFzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
+        <text encoding="base64">ICAgICAgICBNb2NrU2V0dGluZ3NJbXBsIG1vY2tTZXR0aW5ncyA9IG5ldyBNb2NrU2V0dGluZ3NJbXBsKCk7CiAgICAgICAgbW9ja1NldHRpbmdzLnNldAo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>clfs</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnBvd2VybW9jazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+cG93ZXJtb2NrPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjYuNjwvdmVyc2lvbj4KICAgICAgICAgICAgPHR5cGU+cG9tPC90eXBlPgogICAgICAgIDwvZGVwZW5kZW5jeQo=</text>
+        <text encoding="base64">Ly9pbXBvcnQgb3JnLnBvd2VybW9jay5tb2R1bGVzLmp1bml0NC5Qb3dlck1vY2tSdW5uZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
+        <text encoding="base64">Ly9pbXBvcnQgb3JnLnBvd2VybW9jay5jb3JlLmNsYXNzbG9hZGVyLmFubm90YXRpb25zLlByZXBhcmVGb3JUZXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFJ1bldpdGgoTW9ja2l0b0pVbml0LmNsYXNzKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFJ1bldpdGgoKQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnBvd2VybW9jazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+cG93ZXJtb2NrPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjYuNjwvdmVyc2lvbj4KICAgICAgICAgICAgPHR5cGU+cG9tPC90eXBlPgogICAgICAgIDwvZGVwZW5kZW5jeQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGNsZnMuc2l6ZSgpKS50aGVuUmV0dXJuKDQpOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PE1vZGVsPiBjbGZzID0gbW9jayhBcnJhKQo=</text>
+        <text encoding="base64">QFJ1bldpdGgoTW9ja2l0b0pVbml0LmNsYXNzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QFJ1bldpdGgoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TW9kZWw+IGNsZnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGNsZnMuc2l6ZSgpKS50aGVuUmV0dXJuKDQpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>clfs</text>
       </register>
     </registers>
     <search>
