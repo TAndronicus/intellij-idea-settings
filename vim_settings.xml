@@ -165,10 +165,10 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="22" column="92" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/pom.xml" timestamp="1537631676933">
-        <mark key="[" line="63" column="21" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/pom.xml" timestamp="1537684363402">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/FileHelper.java" timestamp="1535572152678">
         <mark key="[" line="0" column="0" />
@@ -329,10 +329,11 @@
         <mark key="^" line="14" column="12" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/integrator/MedianIntegratorTest.java" timestamp="1537682205677">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/integrator/MedianIntegratorTest.java" timestamp="1537684870941">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="36" column="8" />
+        <mark key="." line="36" column="8" />
+        <mark key="^" line="36" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf/src/main/java/LinearSVCExample.java" timestamp="1534585974556">
         <mark key="[" line="23" column="0" />
@@ -842,35 +843,35 @@
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFJ1bldpdGgoTW9ja2l0b0pVbml0LmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnBvd2VybW9jazwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+cG93ZXJtb2NrPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjYuNjwvdmVyc2lvbj4KICAgICAgICAgICAgPHR5cGU+cG9tPC90eXBlPgogICAgICAgIDwvZGVwZW5kZW5jeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QFJ1bldpdGgoKQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qdW5pdC5qdXBpdGVyLmFwaS5UZXN0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGNsZnMuc2l6ZSgpKS50aGVuUmV0dXJuKDQpOwo=</text>
+        <text encoding="base64">QFJ1bldpdGgoTW9ja2l0b0pVbml0LmNsYXNzKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PE1vZGVsPiBjbGZzID0gbW9jayhBcnJhKQo=</text>
+        <text encoding="base64">QFJ1bldpdGgoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGNsZnMuc2l6ZSgpKS50aGVuUmV0dXJuKDQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TW9kZWw+IGNsZnM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE1vZGVsPiBjbGZzID0gbW9jayhBcnJhKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFJ1bldpdGgoTW9ja2l0b0pVbml0UnVubmVyLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgIExpc3Q8TW9kZWw+IGNsZnM7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>PowerMock</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
