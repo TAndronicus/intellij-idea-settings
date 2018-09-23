@@ -654,11 +654,10 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/tester/IntegratedScoreTesterTest.java" timestamp="1537677567372">
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="19" column="85" />
-        <mark key="^" line="19" column="85" />
-        <mark key="." line="19" column="85" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/tester/IntegratedScoreTesterTest.java" timestamp="1537680261524">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/validator/Validator.java" timestamp="1535778237971">
         <mark key="[" line="13" column="4" />
@@ -841,34 +840,34 @@
         <text encoding="base64">ICAgICAgICBQb3dlck1vY2tpdG8ud2hlbihNb2RlbFV0aWxzLmdldEFzKGNsZnMpKS50aGVuUmV0dXJuKGFzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QFJ1bldpdGgoKQo=</text>
+        <text encoding="base64">QFJ1bldpdGgoTW9ja2l0b0pVbml0LmNsYXNzKQo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">QFJ1bldpdGgoKQo=</text>
+        <text encoding="base64">QFJ1bldpdGgoTW9ja2l0b0pVbml0LmNsYXNzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVuKGNsZnMuc2l6ZSgpKS50aGVuUmV0dXJuKDQpOwo=</text>
+        <text encoding="base64">QFJ1bldpdGgoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PE1vZGVsPiBjbGZzID0gbW9jayhBcnJhKQo=</text>
+        <text encoding="base64">ICAgICAgICB3aGVuKGNsZnMuc2l6ZSgpKS50aGVuUmV0dXJuKDQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PE1vZGVsPiBjbGZzID0gbW9jayhBcnJhKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIExpc3Q8TW9kZWw+IGNsZnM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBNb2NrCg==</text>
+        <text encoding="base64">ICAgIExpc3Q8TW9kZWw+IGNsZnM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFJ1bldpdGgoTW9ja2l0b0pVbml0UnVubmVyLmNsYXNzKQo=</text>
+        <text encoding="base64">ICAgIEBNb2NrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGVbXVtdIHdlaWdodHMgPSB7fTsK</text>
+        <text encoding="base64">QFJ1bldpdGgoTW9ja2l0b0pVbml0UnVubmVyLmNsYXNzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gY3Jvc3Nwb2ludHMgc29ydGluZwo=</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGVbXVtdIHdlaWdodHMgPSB7fTsK</text>
       </register>
       <register name="-" type="4">
         <text>PowerMock</text>
