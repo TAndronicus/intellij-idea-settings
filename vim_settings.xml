@@ -57,6 +57,9 @@
         <mark key="." line="26" column="22" />
         <mark key="^" line="26" column="22" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/clfobj/ClfObject.java" timestamp="1537813687249">
+        <mark key="[" line="6" column="19" />
+      </file>
       <file name="$USER_HOME$/Workspace/Scala/untitled/demo1.scala" timestamp="1534532039750">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="21" />
@@ -177,6 +180,12 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="20" column="92" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/BReader.java" timestamp="1537814300841">
+        <mark key="[" line="55" column="28" />
+        <mark key="]" line="55" column="28" />
+        <mark key="." line="55" column="28" />
+        <mark key="^" line="53" column="44" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/pom.xml" timestamp="1537808735644">
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
@@ -264,7 +273,7 @@
         <mark key="]" line="12" column="45" />
         <mark key="." line="12" column="45" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/clfobj/ClfObjectDoubleSorted.java" timestamp="1537200829730">
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/clfobj/ClfObjectDoubleSorted.java" timestamp="1537813671280">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -648,7 +657,7 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/SimpleFileReader.java" timestamp="1537211240079">
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/SimpleFileReader.java" timestamp="1537811952099">
         <mark key="[" line="40" column="49" />
         <mark key="]" line="40" column="49" />
         <mark key="^" line="20" column="50" />
@@ -853,43 +862,45 @@
       <jump line="28" column="4" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/integrator/MedianIntegratorTest.java" />
       <jump line="44" column="8" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/MedianIntegrator.java" />
       <jump line="50" column="8" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/util/ModelUtilsTest.java" />
+      <jump line="80" column="8" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/BReader.java" />
+      <jump line="35" column="34" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/BReader.java" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0Tm9QZXJtdXRhdGlvbnNPbmVFbCgpIHsKICAgICAgICAKICAgICAgICAvLyBnaXZlbgogICAgICAgIGludFtdIHYwID0gezJ9OwogICAgICAgIGludFtdIHYxID0gezN9OwogICAgICAgIAogICAgICAgIC8vIHdoZW4KICAgICAgICBib29sZWFuIGFyZVBlcm11dGF0aW9ucyA9IE1hdGhVdGlscy5hcmVQZXJtdXRhdGlvbnModjAsIHYxKTsKICAgICAgICAKICAgICAgICAvLyB0aGVuCiAgICAgICAgYXNzZXJ0VGhhdChhcmVQZXJtdXRhdGlvbnMsIGlzKG5vdCh0cnVlKSkpOwogICAgfQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBQcm9ibGVtIHJvb3RQcm9ibGVtMCA9IFByb2JsZW0ucmVhZEZyb21GaWxlKG5ldyBGaWxlKHBhdGhzWzBdKSwgb3B0cy5nZXRCaWFzKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QERhdGEKQEJ1aWxkZXIK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbnVtYmVyT2ZTdWJzZXRzID0gCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Tm9ybWFsaXppbmcyRmVhdHVyZUFyZmYyTGliU3ZtQ29udmVydGVyIA==</text>
+        <text>ClfObjectDoubleSorted</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtrb3RsaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKENsZk9iamVjdERvdWJsZVNvcnRlZCkgU3lzdGVtLm91dC5wcmludGxuKCJoIik7Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgbWF4WCA9IDI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBCQ2xmT2JqZWN0IGJDbGZPYmplY3QgPSBCQ2xmT2JqZWN0LmJ1aWxkZXIoKS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgbWluWCA9IC0xOwo=</text>
+        <text encoding="base64">ICAgIEBEYXRhCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGR1cGxpY2F0aW5nQXMuZ2V0KGkpLmVxdWFscyhkdXBsaWNhdGluZ0FzLmdldChpICsgMSkpICYmIGR1cGxpY2F0aW5nQnMuZ2V0KGkpLmVxdWFscyhkdXBsaWNhdGluZ0JzLmdldChpICsgMSkpKSBjb250aW51ZTsK</text>
+        <text encoding="base64">ICAgICAgICBiQ2xmT2JqZWN0LnNlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGF0aFRvVGFyZ2V0cyA9ICJzcmMvbWFpbi9yZXNvdXJjZXMvdGFyZ2V0IjsK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQkNsZk9iamVjdCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PE1vZGVsPiByZXN0b3JlZENsZnMgPSBtb2RlbFJlYWRlci5yZWFkKG9wdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQkNsZk9iamVjdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdG9yZWRDbGZzLnNpemUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy53dCA9IHd0OwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ3JhdGVkU2NvcmVUZXN0ZXIgaW50ZWdyYXRlZFNjb3JlVGVzdGVyID0gbmV3IEludGVncmF0ZWRTY29yZVRlc3RlcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy55ID0geTsKICAgICAgICAgICAgdGhpcy56YiA9IHpiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Tm9ybWFsaXppbmcyRmVhdHVyZUFyZmYyTGliU3ZtQ29udmVydGVyIA==</text>
+        <text>ClfObjectDoubleSorted</text>
       </register>
     </registers>
     <search>
