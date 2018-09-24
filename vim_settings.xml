@@ -6,11 +6,12 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Integrator.java" timestamp="1535734827245">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/util/ModelUtilsTest.java" timestamp="1537805323379">
-        <mark key="[" line="28" column="46" />
-        <mark key="]" line="29" column="62" />
-        <mark key="^" line="29" column="62" />
-        <mark key="." line="29" column="62" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/util/ModelUtilsTest.java" timestamp="1537806950825">
+        <mark key="'" line="50" column="8" />
+        <mark key="[" line="44" column="69" />
+        <mark key="]" line="49" column="62" />
+        <mark key="^" line="49" column="62" />
+        <mark key="." line="49" column="62" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/validator/Validator.java" timestamp="1537201598969">
         <mark key="[" line="13" column="56" />
@@ -28,6 +29,12 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/util/MathUtilsTest.java" timestamp="1537807583363">
+        <mark key="[" line="107" column="39" />
+        <mark key="]" line="107" column="39" />
+        <mark key="^" line="66" column="4" />
+        <mark key="." line="107" column="39" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/validator/SimpleScoreValidator.java" timestamp="1537214489527">
         <mark key="[" line="38" column="0" />
@@ -207,11 +214,11 @@
         <mark key="^" line="9" column="24" />
         <mark key="." line="9" column="24" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/MultiRunner.java" timestamp="1537722950765">
-        <mark key="[" line="53" column="29" />
-        <mark key="]" line="53" column="28" />
-        <mark key="." line="53" column="28" />
-        <mark key="^" line="53" column="28" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/MultiRunner.java" timestamp="1537807676977">
+        <mark key="[" line="60" column="74" />
+        <mark key="]" line="54" column="28" />
+        <mark key="." line="54" column="28" />
+        <mark key="^" line="54" column="28" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/Integrator.java" timestamp="1536692865124">
         <mark key="[" line="12" column="29" />
@@ -831,7 +838,7 @@
         <mark key="." line="33" column="71" />
         <mark key="^" line="33" column="71" />
       </file>
-      <file name="/fragment.java" timestamp="1537721382945">
+      <file name="/fragment.java" timestamp="1537806770172">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="5" />
@@ -841,16 +848,17 @@
     <jumps>
       <jump line="28" column="4" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/integrator/MedianIntegratorTest.java" />
       <jump line="44" column="8" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/MedianIntegrator.java" />
+      <jump line="50" column="8" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/util/ModelUtilsTest.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">QFRlc3QKICAgIHB1YmxpYyB2b2lkIHNob3VsZENhbGN1bGF0ZVJpZ2h0TW9kZWwoKSB7CiAgICAgICAgLy8gZ2l2ZW4KICAgICAgICBpbnRbXVtdIGluZGljZXMgPSB7ezAsIDEsIDJ9LCB7MSwgMiwgM319OwogICAgICAgIFNlbGVjdGVkVHVwbGUgc2VsZWN0ZWRUdXBsZSA9IG5ldyBTZWxlY3RlZFR1cGxlKGluZGljZXMsIG5ldyBkb3VibGVbXVtde30pOwoKICAgICAgICBkb3VibGVbXSBhcyA9IHstMSwgMSwgMCwgMH07CiAgICAgICAgZG91YmxlW10gYnMgPSB7LTEsIDAsIC41LCAyfTsKICAgICAgICBtb2NrU3RhdGljKE1vZGVsVXRpbHMuY2xhc3MpOwogICAgICAgIHdoZW4oTW9kZWxVdGlscy5nZXRBcyhhbnlMaXN0KCkpKS50aGVuUmV0dXJuKGFzKTsKICAgICAgICB3aGVuKE1vZGVsVXRpbHMuZ2V0QnMoYW55TGlzdCgpKSkudGhlblJldHVybihicyk7CgogICAgICAgIGRvdWJsZSBtaW5YID0gLTE7CiAgICAgICAgZG91YmxlIG1heFggPSAxOwogICAgICAgIERhdGFzZXQgZGF0YXNldCA9IG5ldyBEYXRhc2V0KG51bGwsIG1pblgsIG1heFgpOwogICAgICAgIE9wdHMgb3B0cyA9IE9wdHMuYnVpbGRlcigpLm51bWJlck9mU3BhY2VQYXJ0cygyKS5idWlsZCgpOwoKICAgICAgICBkb3VibGVbXSBleHBlY3RlZEFzID0gey0uNSwgLjV9OwogICAgICAgIGRvdWJsZVtdIGV4cGVjdGVkQnMgPSB7LS4yNSwgLjI1fTsKICAgICAgICBkb3VibGVbXSBleHBlY3RlZFggPSB7LTEsIC0uNSwgMX07CgogICAgICAgIC8vIHdoZW4KICAgICAgICBJbnRlZ3JhdG9yIGludGVncmF0b3IgPSBuZXcgTWVkaWFuSW50ZWdyYXRvcigpOwogICAgICAgIEludGVncmF0ZWRNb2RlbCBpbnRlZ3JhdGVkTW9kZWwgPSBpbnRlZ3JhdG9yLmludGVncmF0ZShzZWxlY3RlZFR1cGxlLCBuZXcgQXJyYXlMaXN0PD4oKSwgZGF0YXNldCwgb3B0cyk7CgogICAgICAgIC8vIHRoZW4KICAgICAgICBhc3NlcnRUaGF0KGludGVncmF0ZWRNb2RlbCwgaXMobm90TnVsbFZhbHVlKCkpKTsKICAgICAgICBhc3NlcnRUaGF0KGludGVncmF0ZWRNb2RlbC5nZXRBKCkubGVuZ3RoLCBpcyhlcXVhbFRvKGV4cGVjdGVkQXMubGVuZ3RoKSkpOwogICAgICAgIGFzc2VydFRoYXQoaW50ZWdyYXRlZE1vZGVsLmdldEIoKS5sZW5ndGgsIGlzKGVxdWFsVG8oZXhwZWN0ZWRCcy5sZW5ndGgpKSk7CiAgICAgICAgYXNzZXJ0VGhhdChpbnRlZ3JhdGVkTW9kZWwuZ2V0WCgpLmxlbmd0aCwgaXMoZXF1YWxUbyhleHBlY3RlZFgubGVuZ3RoKSkpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgZXhwZWN0ZWRBcy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBhc3NlcnRUaGF0KGludGVncmF0ZWRNb2RlbC5nZXRBKClbaV0sIGlzKGVxdWFsVG8oZXhwZWN0ZWRBc1tpXSkpKTsKICAgICAgICAgICAgYXNzZXJ0VGhhdChpbnRlZ3JhdGVkTW9kZWwuZ2V0QigpW2ldLCBpcyhlcXVhbFRvKGV4cGVjdGVkQnNbaV0pKSk7CiAgICAgICAgICAgIGFzc2VydFRoYXQoaW50ZWdyYXRlZE1vZGVsLmdldFgoKVtpXSwgaXMoZXF1YWxUbyhleHBlY3RlZFhbaV0pKSk7CiAgICAgICAgfQogICAgICAgIGFzc2VydFRoYXQoaW50ZWdyYXRlZE1vZGVsLmdldFgoKVtpbnRlZ3JhdGVkTW9kZWwuZ2V0WCgpLmxlbmd0aCAtIDFdLCBpcyhlcXVhbFRvKGV4cGVjdGVkWFtleHBlY3RlZFgubGVuZ3RoIC0gMV0pKSk7CgogICAgfQ==</text>
+        <text encoding="base64">CiAgICAKICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCB0ZXN0Tm9QZXJtdXRhdGlvbnNPbmVFbCgpIHsKICAgICAgICAKICAgICAgICAvLyBnaXZlbgogICAgICAgIGludFtdIHYwID0gezJ9OwogICAgICAgIGludFtdIHYxID0gezN9OwogICAgICAgIAogICAgICAgIC8vIHdoZW4KICAgICAgICBib29sZWFuIGFyZVBlcm11dGF0aW9ucyA9IE1hdGhVdGlscy5hcmVQZXJtdXRhdGlvbnModjAsIHYxKTsKICAgICAgICAKICAgICAgICAvLyB0aGVuCiAgICAgICAgYXNzZXJ0VGhhdChhcmVQZXJtdXRhdGlvbnMsIGlzKG5vdCh0cnVlKSkpOwogICAgfQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkb3VibGUgbWF4WCA9IDI7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgbWF4WCA9IDI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>not</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBkb3VibGUgbWluWCA9IC0xOwo=</text>
@@ -877,7 +885,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgZG91YmxlIG1pblg7CiAgICBwcml2YXRlIGRvdWJsZSBtYXhYOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>duplicatingX</text>
+        <text>not</text>
       </register>
     </registers>
     <search>
@@ -923,6 +931,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
