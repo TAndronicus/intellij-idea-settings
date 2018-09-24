@@ -155,6 +155,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/A1Parser.java" timestamp="1537810111719">
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+      </file>
       <file name="$USER_HOME$/Workspace/Java/hello/build.sbt" timestamp="1534227410461">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -264,11 +269,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/Normalizing2FeatureArff2LibSvmConverter.java" timestamp="1537722859997">
-        <mark key="[" line="57" column="64" />
-        <mark key="]" line="57" column="64" />
-        <mark key="." line="57" column="64" />
-        <mark key="^" line="29" column="40" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/Normalizing2FeatureArff2LibSvmConverter.java" timestamp="1537810361302">
+        <mark key="[" line="18" column="51" />
+        <mark key="]" line="58" column="64" />
+        <mark key="." line="58" column="64" />
+        <mark key="^" line="30" column="40" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ValidatingTestingDataset.java" timestamp="1537201313659">
         <mark key="[" line="9" column="39" />
@@ -856,8 +861,8 @@
       <register name="1" type="2">
         <text encoding="base64">QERhdGEKQEJ1aWxkZXIK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QERhdGEKQEJ1aWxkZXIK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Tm9ybWFsaXppbmcyRmVhdHVyZUFyZmYyTGliU3ZtQ29udmVydGVyIA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtrb3RsaW4udmVyc2lvbn08L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
@@ -884,7 +889,7 @@
         <text encoding="base64">ICAgICAgICBJbnRlZ3JhdGVkU2NvcmVUZXN0ZXIgaW50ZWdyYXRlZFNjb3JlVGVzdGVyID0gbmV3IEludGVncmF0ZWRTY29yZVRlc3RlcigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>not</text>
+        <text encoding="base64">Tm9ybWFsaXppbmcyRmVhdHVyZUFyZmYyTGliU3ZtQ29udmVydGVyIA==</text>
       </register>
     </registers>
     <search>
