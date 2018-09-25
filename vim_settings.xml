@@ -243,12 +243,12 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/BParser.java" timestamp="1537885964772">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="56" column="81" />
-        <mark key="]" line="56" column="78" />
-        <mark key="^" line="56" column="78" />
-        <mark key="." line="56" column="78" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/BParser.java" timestamp="1537896375170">
+        <mark key="'" line="102" column="32" />
+        <mark key="[" line="28" column="44" />
+        <mark key="]" line="28" column="44" />
+        <mark key="^" line="49" column="129" />
+        <mark key="." line="28" column="44" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/FileReaderNWay.java" timestamp="1537200878290">
         <mark key="[" line="7" column="0" />
@@ -290,12 +290,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/Normalizing2FeatureArff2LibSvmConverter.java" timestamp="1537884446628">
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/Normalizing2FeatureArff2LibSvmConverter.java" timestamp="1537896214584">
         <mark key="'" line="89" column="0" />
-        <mark key="[" line="18" column="51" />
-        <mark key="]" line="58" column="64" />
-        <mark key="." line="58" column="64" />
-        <mark key="^" line="30" column="40" />
+        <mark key="[" line="76" column="93" />
+        <mark key="]" line="76" column="93" />
+        <mark key="." line="76" column="93" />
+        <mark key="^" line="76" column="93" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ValidatingTestingDataset.java" timestamp="1537201313659">
         <mark key="[" line="9" column="39" />
@@ -838,11 +838,11 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/NormalizingArff2LibSvmConverter (copy).java" timestamp="1536870023664">
         <mark key="[" line="9" column="24" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.java" timestamp="1537893799967">
-        <mark key="[" line="39" column="108" />
-        <mark key="]" line="39" column="109" />
-        <mark key="^" line="37" column="0" />
-        <mark key="." line="39" column="109" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.java" timestamp="1537896438513">
+        <mark key="[" line="38" column="73" />
+        <mark key="]" line="38" column="74" />
+        <mark key="^" line="38" column="74" />
+        <mark key="." line="38" column="74" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Trainer.java" timestamp="1535733717720">
         <mark key="[" line="0" column="0" />
@@ -879,43 +879,44 @@
       <jump line="35" column="34" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/BReader.java" />
       <jump line="100" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/BParser.java" />
       <jump line="89" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/Normalizing2FeatureArff2LibSvmConverter.java" />
+      <jump line="102" column="32" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/BParser.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>src/main/resources/target/1_0_1_converted.csv</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEJDbGZPYmplY3QgYkNsZk9iamVjdCA6IG9iamVjdHMwKSB7CiAgICAgICAgICAgIGNsZk9iamVjdHNUYWJsZXMuZ2V0KGJDbGZPYmplY3Qud3QgPT0gMCA/IDEwIDogMTEpLmFkZChuZXcgQ2xmT2JqZWN0RG91YmxlU29ydGVkKGJDbGZPYmplY3QuZ2V0WCgpLCBiQ2xmT2JqZWN0LmdldFkoKSkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBNYXA8aW50W10sIERvdWJsZT4gc2NvcmVzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>&quot; + j + &quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEJDbGZPYmplY3QgYkNsZk9iamVjdCA6IG9iamVjdHMwKSB7CiAgICAgICAgICAgIGNsZk9iamVjdHNUYWJsZXMuZ2V0KGJDbGZPYmplY3Qud3QgPT0gMCA/IDEwIDogMTEpLmFkZChuZXcgQ2xmT2JqZWN0RG91YmxlU29ydGVkKGJDbGZPYmplY3QuZ2V0WCgpLCBiQ2xmT2JqZWN0LmdldFkoKSkpOwogICAgICAgIH0KICAgICAgICBMaXN0PGpiLmRhdGEuUHJvYmxlbT4gcHJvYmxlbXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBzY29yZXMucHV0KG5ldyBpbnRbXXtpLCBqfSwgaW50ZWdyYXRlZFNjb3JlVGVzdGVyLnRlc3QoaW50ZWdyYXRlZE1vZGVsLCB2YWxpZGF0aW5nVGVzdGluZ1R1cGxlLCBvcHRzKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBQcm9ibGVtIHJvb3RQcm9ibGVtMSA9IFByb2JsZW0ucmVhZEZyb21GaWxlKG5ldyBGaWxlKHBhdGhzWzFdKSwgb3B0cy5nZXRCaWFzKCkpOwogICAgICAgIEJDbGZPYmplY3RbXSBvYmplY3RzMSA9IGdldENsZk9iamVjdHMocm9vdFByb2JsZW0xKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDc7IGkrKykgewogICAgICAgICAgICBmb3IgKGludCBqID0gaSArIDE7IGogPCA4OyBqKyspIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ3JhdGVkQ29uZk1hdFRlc3RlciB0ZXN0ZXIgPSBuZXcgCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxpbnRbXSwgRG91YmxlPiBlbnRyeSA6IHNjb3Jlcy5lbnRyeVNldCgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRm9yIHBhaXI6ICIgKyBlbnRyeS5nZXRLZXkoKVswXSArICIsICIgKyBlbnRyeS5nZXRLZXkoKVsxXSArICI6ICIgKyBlbnRyeS5nZXRWYWx1ZSgpKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50W10gY29sdW1uczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGxvb3BDb3VudGVyID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbnRbXSBjb2x1bW5zID0ge2ksIGp9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvb3BDb3VudGVyKys7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbnVtYmVyT2ZTdWJzZXRzID0gb3B0cy5nZXROdW1iZXJPZkJhc2VDbGFzc2lmaWVycygpICsgMjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoaW50IGogPSBpICsgMTsgaiA8IDg7IGorKykgewo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>&quot; + j + &quot;</text>
       </register>
     </registers>
     <search>
