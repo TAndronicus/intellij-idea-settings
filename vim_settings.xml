@@ -469,11 +469,6 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/config/Opts.java" timestamp="1537198872343">
-        <mark key="[" line="47" column="7" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/Problem.java" timestamp="1537297483642">
         <mark key="[" line="39" column="9" />
         <mark key="]" line="38" column="65" />
@@ -510,6 +505,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.kt" timestamp="1538152538618">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/Tester.java" timestamp="1537041866098">
         <mark key="[" line="4" column="11" />
@@ -564,10 +564,11 @@
         <mark key="^" line="30" column="13" />
         <mark key="." line="30" column="13" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/config/Opts.kt" timestamp="1537808864167">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/config/Opts.kt" timestamp="1538153458024">
+        <mark key="[" line="10" column="21" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="28" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ClfTuple.java" timestamp="1536591155704">
         <mark key="[" line="8" column="13" />
@@ -842,11 +843,6 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/NormalizingArff2LibSvmConverter (copy).java" timestamp="1536870023664">
         <mark key="[" line="9" column="24" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.java" timestamp="1537980559160">
-        <mark key="[" line="42" column="79" />
-        <mark key="]" line="42" column="80" />
-        <mark key="." line="42" column="80" />
-      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/util/BUtils.java" timestamp="1537977621927">
         <mark key="[" line="2" column="21" />
       </file>
@@ -889,37 +885,37 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>src/main/resources/target/1_0_1_converted.csv</text>
+        <text>Absolute path to file in LibSVM format</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cgo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChNYXAuRW50cnk8RG91YmxlLCBpbnRbXT4gc2NvcmUgOiBzY29yZXMuZW50cnlTZXQoKSkgewogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJbIiArIHNjb3JlLmdldFZhbHVlKClbMF0gKyAiLCAiICsgc2NvcmUuZ2V0VmFsdWUoKVsxXSArICJdIDogIiArIHNjb3JlLmdldEtleSgpKTsK</text>
+        <text encoding="base64">ICAgIHZhciBlcHM6IERvdWJsZSA9IDAudG9Eb3VibGUoKQogICAgICAgIHNldChlcHMpIHsKICAgICAgICAgICAgZmllbGQgPSB0aGlzLmVwcwogICAgICAgIH0KCiAgICAvKioKICAgICAqCiAgICAgKi8KICAgIHZhciBwZXJtdXRhdGlvbjogSW50QXJyYXk/ID0gbnVsbAogICAgICAgIHNldChwZXJtdXRhdGlvbikgewogICAgICAgICAgICBmaWVsZCA9IHRoaXMucGVybXV0YXRpb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBNb2RlbFdyaXRlciBtb2RlbFdyaXRlciA9IG5ldyBNb2RlbFdyaXRlcigpOwogICAgc3RhdGljIE1vZGVsUmVhZGVyIG1vZGVsUmVhZGVyID0gbmV3IE1vZGVsUmVhZGVyKCk7Cg==</text>
+        <text encoding="base64">ICAgIHZhciBjOiBEb3VibGUgPSAwLnRvRG91YmxlKCkKICAgICAgICBzZXQoQykgewogICAgICAgICAgICBmaWVsZCA9IGMKICAgICAgICB9CiAgICAvKioKICAgICAqIFN0b3BwaW5nIGNyaXRlcmlhCiAgICAgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbFdyaXRlci5zYXZlTW9kZWxzKGNsZnMsIG9wdHMpOwo=</text>
+        <text encoding="base64">ICAgICAqIENvc3Qgb2YgY29uc3RyYWludHMgdmlvbGF0aW9uCiAgICAgKi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8aW50W10sIERvdWJsZT4gc2NvcmVzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQWJzb2x1dGUgcGF0aCB0byBmaWxlIGluIExpYlNWTSBmb3JtYXQKICAgICAqLwogICAgLyoqCiAgICAgKgogICAgICovCiAgICAvKioKICAgICAqCiAgICAgKi8KICAgIC8qKgogICAgICogTnVtYmVyIG9mIHNwYWNlIHBhcnRzCiAgICAgKi8KCiAgICAvKioKICAgICAqIFR5cGUgb2YgY2xhc3NpZmllcgogICAgICovCiAgICB2YXIgc29sdmVyVHlwZTogU29sdmVyVHlwZT8gPSBudWxsCiAgICAgICAgc2V0KHNvbHZlclR5cGUpIHsKICAgICAgICAgICAgZmllbGQgPSB0aGlzLnNvbHZlclR5cGUKICAgICAgICB9CiAgICAvKioK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzY29yZXMucHV0KG5ldyBpbnRbXXtpLCBqfSwgaW50ZWdyYXRlZFNjb3JlVGVzdGVyLnRlc3QoaW50ZWdyYXRlZE1vZGVsLCB2YWxpZGF0aW5nVGVzdGluZ1R1cGxlLCBvcHRzKSk7Cg==</text>
+        <text encoding="base64">ICAgIHZhciBudW1iZXJPZlNwYWNlUGFydHM6IEludCA9IDAKICAgICAgICBzZXQobnVtYmVyT2ZTcGFjZVBhcnRzKSB7CiAgICAgICAgICAgIGZpZWxkID0gdGhpcy5udW1iZXJPZlNwYWNlUGFydHMKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDc7IGkrKykgewogICAgICAgICAgICBmb3IgKGludCBqID0gaSArIDE7IGogPCA4OyBqKyspIHsK</text>
+        <text encoding="base64">ICAgIHZhciBudW1iZXJPZlNlbGVjdGVkQ2xhc3NpZmllcnM6IEludCA9IDAKICAgICAgICBzZXQobnVtYmVyT2ZTZWxlY3RlZENsYXNzaWZpZXJzKSB7CiAgICAgICAgICAgIGZpZWxkID0gdGhpcy5udW1iZXJPZlNlbGVjdGVkQ2xhc3NpZmllcnMKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE1hcC5FbnRyeTxpbnRbXSwgRG91YmxlPiBlbnRyeSA6IHNjb3Jlcy5lbnRyeVNldCgpKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRm9yIHBhaXI6ICIgKyBlbnRyeS5nZXRLZXkoKVswXSArICIsICIgKyBlbnRyeS5nZXRLZXkoKVsxXSArICI6ICIgKyBlbnRyeS5nZXRWYWx1ZSgpKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIE51bWJlciBvZiBzZWxlY3RlZCBjbGFzc2lmaWVycwogICAgICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhciBudW1iZXJPZkJhc2VDbGFzc2lmaWVyczogSW50ID0gMAogICAgICAgIHNldChudW1iZXJPZkJhc2VDbGFzc2lmaWVycykgewogICAgICAgICAgICBmaWVsZCA9IHRoaXMubnVtYmVyT2ZCYXNlQ2xhc3NpZmllcnMKICAgICAgICB9CiAgICAvKioK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aW50W10sIA==</text>
