@@ -808,6 +808,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/FileHelper.kt" timestamp="1538205356755">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="22" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/IntegratedModel.java" timestamp="1537719602791">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -899,35 +904,34 @@
         <text>Absolute path to file in LibSVM format</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvciAoaSBpbiAxLi41KSB7CiAgICAgICAgcHJpbnQoaSkKICAgIH0K</text>
+        <text encoding="base64">QEZ1bmN0aW9uYWxJbnRlcmZhY2UK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciAoaSBpbiAxLi41KSB7CiAgICAgICAgcHJpbnQoaSkKICAgIH0K</text>
+        <text encoding="base64">QEZ1bmN0aW9uYWxJbnRlcmZhY2UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KC0uOTkgaW4gMS0xLi4yKQo=</text>
+        <text encoding="base64">ICAgIEBUaHJvd3MoSU9FeGNlcHRpb246OmNsYXNzLCBJbnZhbGlkSW5wdXREYXRhRXhjZXB0aW9uOjpjbGFzcykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGspCg==</text>
+        <text encoding="base64">ICAgIGZvciAoaSBpbiAxLi41KSB7CiAgICAgICAgcHJpbnQoaSkKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb24K</text>
+        <text encoding="base64">ICAgIHByaW50KC0uOTkgaW4gMS0xLi4yKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly9AVGhyb3dzKElPRXhjZXB0aW9uOjpjbGFzcywgSW52YWxpZElucHV0RGF0YUV4Y2VwdGlvbjo6Y2xhc3MpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGspCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QEp2bVN0YXRpYwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb24K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFRocm93cyhJT0V4Y2VwdGlvbjo6Y2xhc3MsIEludmFsaWRJbnB1dERhdGFFeGNlcHRpb246OmNsYXNzKQpASnZtU3RhdGljCmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsK</text>
+        <text encoding="base64">Ly9AVGhyb3dzKElPRXhjZXB0aW9uOjpjbGFzcywgSW52YWxpZElucHV0RGF0YUV4Y2VwdGlvbjo6Y2xhc3MpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBmaWxlbmFtZTogU3RyaW5nCiAgICAgICAgZ2V0KCkgewogICAgICAgIH0K</text>
+        <text encoding="base64">QEp2bVN0YXRpYwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>}
-    fun getFilename(</text>
+      <register name="9" type="2">
+        <text encoding="base64">QFRocm93cyhJT0V4Y2VwdGlvbjo6Y2xhc3MsIEludmFsaWRJbnB1dERhdGFFeGNlcHRpb246OmNsYXNzKQpASnZtU3RhdGljCmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsK</text>
       </register>
       <register name="-" type="4">
         <text>.builder().</text>
