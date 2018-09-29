@@ -693,11 +693,12 @@
         <mark key="." line="21" column="31" />
         <mark key="^" line="21" column="31" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/SimpleFileReader.kt" timestamp="1538207507206">
-        <mark key="[" line="17" column="51" />
-        <mark key="]" line="40" column="76" />
-        <mark key="^" line="40" column="76" />
-        <mark key="." line="40" column="76" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/SimpleFileReader.kt" timestamp="1538208523482">
+        <mark key="'" line="43" column="23" />
+        <mark key="[" line="17" column="59" />
+        <mark key="]" line="17" column="128" />
+        <mark key="^" line="17" column="128" />
+        <mark key="." line="17" column="128" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/data/ClfTuple.java" timestamp="1535778285984">
         <mark key="[" line="8" column="23" />
@@ -904,6 +905,7 @@
       <jump line="100" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/BParser.java" />
       <jump line="89" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/Normalizing2FeatureArff2LibSvmConverter.java" />
       <jump line="102" column="32" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/BParser.java" />
+      <jump line="43" column="23" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/SimpleFileReader.kt" />
     </jumps>
     <registers>
       <register name="0" type="4">
