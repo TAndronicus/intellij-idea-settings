@@ -506,10 +506,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.kt" timestamp="1538197460571">
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.kt" timestamp="1538202502833">
         <mark key="[" line="43" column="47" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+        <mark key="]" line="27" column="3" />
+        <mark key="." line="27" column="3" />
+        <mark key="^" line="27" column="3" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/Tester.java" timestamp="1537041866098">
         <mark key="[" line="4" column="11" />
@@ -587,6 +588,12 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/ScratchRunner.kt" timestamp="1538202934350">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="23" column="1" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/data/ValidatedTuple.java" timestamp="1535734328146">
         <mark key="[" line="5" column="13" />
@@ -745,6 +752,11 @@
         <mark key="^" line="12" column="52" />
         <mark key="." line="12" column="52" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Trying.kt" timestamp="1538203813458">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Java/ibdb/backend/ibdb-java-maven/pom.xml" timestamp="1530303703413">
         <mark key="[" line="23" column="22" />
         <mark key="]" line="23" column="24" />
@@ -887,35 +899,35 @@
         <text>Absolute path to file in LibSVM format</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBmaWxlbmFtZTogU3RyaW5nCiAgICAgICAgZ2V0KCkgewogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIGZvciAoaSBpbiAxLi41KSB7CiAgICAgICAgcHJpbnQoaSkKICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.builder().</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZvciAoaSBpbiAxLi41KSB7CiAgICAgICAgcHJpbnQoaSkKICAgIH0K</text>
       </register>
-      <register name="2" type="4">
-        <text>}
-    fun getFilename(</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50KC0uOTkgaW4gMS0xLi4yKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcGF0aFBhcnRzID0gdGhpcy5maWxlUGF0aCEhLnNwbGl0KCIvIikK</text>
+        <text encoding="base64">ICAgIHByaW50KGspCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cgo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uSU9FeGNlcHRpb24K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBlcHM6IERvdWJsZSA9IDAudG9Eb3VibGUoKQogICAgICAgIHNldChlcHMpIHsKICAgICAgICAgICAgZmllbGQgPSB0aGlzLmVwcwogICAgICAgIH0KCiAgICAvKioKICAgICAqCiAgICAgKi8KICAgIHZhciBwZXJtdXRhdGlvbjogSW50QXJyYXk/ID0gbnVsbAogICAgICAgIHNldChwZXJtdXRhdGlvbikgewogICAgICAgICAgICBmaWVsZCA9IHRoaXMucGVybXV0YXRpb24K</text>
+        <text encoding="base64">Ly9AVGhyb3dzKElPRXhjZXB0aW9uOjpjbGFzcywgSW52YWxpZElucHV0RGF0YUV4Y2VwdGlvbjo6Y2xhc3MpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBjOiBEb3VibGUgPSAwLnRvRG91YmxlKCkKICAgICAgICBzZXQoQykgewogICAgICAgICAgICBmaWVsZCA9IGMKICAgICAgICB9CiAgICAvKioKICAgICAqIFN0b3BwaW5nIGNyaXRlcmlhCiAgICAgKi8K</text>
+        <text encoding="base64">QEp2bVN0YXRpYwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIENvc3Qgb2YgY29uc3RyYWludHMgdmlvbGF0aW9uCiAgICAgKi8K</text>
+        <text encoding="base64">QFRocm93cyhJT0V4Y2VwdGlvbjo6Y2xhc3MsIEludmFsaWRJbnB1dERhdGFFeGNlcHRpb246OmNsYXNzKQpASnZtU3RhdGljCmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQWJzb2x1dGUgcGF0aCB0byBmaWxlIGluIExpYlNWTSBmb3JtYXQKICAgICAqLwogICAgLyoqCiAgICAgKgogICAgICovCiAgICAvKioKICAgICAqCiAgICAgKi8KICAgIC8qKgogICAgICogTnVtYmVyIG9mIHNwYWNlIHBhcnRzCiAgICAgKi8KCiAgICAvKioKICAgICAqIFR5cGUgb2YgY2xhc3NpZmllcgogICAgICovCiAgICB2YXIgc29sdmVyVHlwZTogU29sdmVyVHlwZT8gPSBudWxsCiAgICAgICAgc2V0KHNvbHZlclR5cGUpIHsKICAgICAgICAgICAgZmllbGQgPSB0aGlzLnNvbHZlclR5cGUKICAgICAgICB9CiAgICAvKioK</text>
+        <text encoding="base64">ICAgIHZhbCBmaWxlbmFtZTogU3RyaW5nCiAgICAgICAgZ2V0KCkgewogICAgICAgIH0K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBudW1iZXJPZlNwYWNlUGFydHM6IEludCA9IDAKICAgICAgICBzZXQobnVtYmVyT2ZTcGFjZVBhcnRzKSB7CiAgICAgICAgICAgIGZpZWxkID0gdGhpcy5udW1iZXJPZlNwYWNlUGFydHMKICAgICAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text>}
+    fun getFilename(</text>
       </register>
       <register name="-" type="4">
         <text>.builder().</text>
@@ -967,6 +979,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
