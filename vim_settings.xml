@@ -346,12 +346,6 @@
         <mark key="^" line="12" column="75" />
         <mark key="." line="12" column="75" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ScoreTuple.java" timestamp="1536599908189">
-        <mark key="[" line="14" column="33" />
-        <mark key="]" line="14" column="58" />
-        <mark key="^" line="14" column="12" />
-        <mark key="." line="14" column="33" />
-      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/integrator/MedianIntegratorTest.java" timestamp="1538199722992">
         <mark key="'" line="24" column="4" />
         <mark key="[" line="98" column="124" />
@@ -393,12 +387,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ValidatingTestingTuple.java" timestamp="1537215407964">
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="9" column="34" />
-        <mark key="^" line="9" column="34" />
-        <mark key="." line="9" column="34" />
-      </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/validator/SimpleScoreValidator.java" timestamp="1535863956129">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="10" />
@@ -410,6 +398,11 @@
         <mark key="]" line="62" column="56" />
         <mark key="^" line="62" column="56" />
         <mark key="." line="62" column="56" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/FileReaderSameDataset.kt" timestamp="1538239307899">
+        <mark key="[" line="30" column="23" />
+        <mark key="]" line="30" column="23" />
+        <mark key="." line="30" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/integrator/MeanIntegrator.java" timestamp="1535863870303">
         <mark key="[" line="0" column="0" />
@@ -475,6 +468,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/IntegratedModel.kt" timestamp="1538240166546">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/serialization/ModelReader.java" timestamp="1537720618443">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -485,12 +484,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.kt" timestamp="1538202502833">
-        <mark key="[" line="43" column="47" />
-        <mark key="]" line="27" column="3" />
-        <mark key="." line="27" column="3" />
-        <mark key="^" line="27" column="3" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/Tester.java" timestamp="1537041866098">
         <mark key="[" line="4" column="11" />
@@ -516,11 +509,11 @@
         <mark key="^" line="11" column="42" />
         <mark key="." line="11" column="42" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/Dataset.kt" timestamp="1538238279495">
-        <mark key="[" line="14" column="66" />
-        <mark key="]" line="14" column="66" />
-        <mark key="." line="14" column="66" />
-        <mark key="^" line="14" column="72" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/Dataset.kt" timestamp="1538238923762">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="91" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/NormalizingArff2LibSvmConverter.java" timestamp="1536870169373">
         <mark key="[" line="9" column="44" />
@@ -624,12 +617,6 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="11" column="21" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/SelectedTuple.java" timestamp="1536687883417">
-        <mark key="[" line="14" column="43" />
-        <mark key="]" line="10" column="50" />
-        <mark key="." line="10" column="50" />
-        <mark key="^" line="10" column="50" />
-      </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/Runner.java" timestamp="1535880631172">
         <mark key="[" line="34" column="20" />
         <mark key="]" line="34" column="19" />
@@ -720,11 +707,11 @@
         <mark key="^" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/FileReaderNWay.kt" timestamp="1538205710253">
-        <mark key="[" line="87" column="89" />
-        <mark key="]" line="88" column="26" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/FileReaderNWay.kt" timestamp="1538239299276">
+        <mark key="[" line="81" column="23" />
+        <mark key="]" line="81" column="23" />
         <mark key="^" line="88" column="26" />
-        <mark key="." line="88" column="26" />
+        <mark key="." line="81" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/Start.java" timestamp="1535862813046">
         <mark key="[" line="13" column="43" />
@@ -767,11 +754,6 @@
         <mark key="^" line="12" column="52" />
         <mark key="." line="12" column="52" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Trying.kt" timestamp="1538203813458">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/Java/ibdb/backend/ibdb-java-maven/pom.xml" timestamp="1530303703413">
         <mark key="[" line="23" column="22" />
         <mark key="]" line="23" column="24" />
@@ -797,7 +779,7 @@
       <file name="$USER_HOME$/Downloads/demo/pom.xml" timestamp="1535863550399">
         <mark key="[" line="26" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537475668508">
+      <file name="/Dummy.txt" timestamp="1538240044058">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/trainer/SVMTrainer.java" timestamp="1537120489752">
@@ -834,12 +816,6 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="22" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/IntegratedModel.java" timestamp="1537719602791">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="5" column="4" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/MultiRunner.java" timestamp="1537293427595">
         <mark key="[" line="72" column="72" />
@@ -884,8 +860,20 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/util/BUtils.java" timestamp="1537977621927">
         <mark key="[" line="2" column="21" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/FunctionValue.kt" timestamp="1538240107906">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Trainer.java" timestamp="1535733717720">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ValidatingTestingTuple.kt" timestamp="1538239541641">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="118" />
+        <mark key="." line="2" column="118" />
+        <mark key="^" line="2" column="118" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/FileReaderNWaySameValidationTest.java" timestamp="1536469976730">
         <mark key="[" line="0" column="0" />
@@ -898,13 +886,13 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/trainer/SvmTrainer.java" timestamp="1537892689194">
         <mark key="[" line="18" column="68" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/MedianIntegrator.java" timestamp="1537723672501">
-        <mark key="[" line="33" column="40" />
-        <mark key="]" line="33" column="71" />
-        <mark key="." line="33" column="71" />
-        <mark key="^" line="33" column="71" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/integrator/MedianIntegrator.java" timestamp="1538240002052">
+        <mark key="[" line="33" column="79" />
+        <mark key="]" line="35" column="21" />
+        <mark key="." line="35" column="21" />
+        <mark key="^" line="35" column="21" />
       </file>
-      <file name="/fragment.java" timestamp="1537892692104">
+      <file name="/fragment.java" timestamp="1538240058290">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="5" />
@@ -928,43 +916,44 @@
       <jump line="98" column="1" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/BReader.kt" />
       <jump line="55" column="40" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/BReader.kt" />
       <jump line="91" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/BReader.kt" />
+      <jump line="4" column="21" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/IntegratedModel.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>(x: DoubleArray, y: Int) :</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgY2xmT2JqZWN0cyA9IGFycmF5T2ZOdWxsczxDbGZPYmplY3RPbmNlU29ydGVkPih5MS5zaXplKQo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXMuc29ydAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheUxpc3QK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXQobWF4WCkgewogICAgICAgICAgICBmaWVsZCA9IHRoaXMubWF4WAogICAgICAgIH0KCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBwcm9ibGVtczogTGlzdDxQcm9ibGVtPj8gPSBudWxsCiAgICAgICAgc2V0KHByb2JsZW1zKSB7CiAgICAgICAgICAgIGZpZWxkID0gdGhpcy5wcm9ibGVtcwogICAgICAgIH0KICAgIHZhciBtaW5YOiBEb3VibGUgPSAwLnRvRG91YmxlKCkKICAgICAgICBzZXQobWluWCkgewogICAgICAgICAgICBmaWVsZCA9IHRoaXMubWluWAogICAgICAgIH0KICAgIHZhciBtYXhYOiBEb3VibGUgPSAwLnRvRG91YmxlKCkK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">QERhdGEKQEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
       </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QERhdGEKQEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">QERhdGEKQEJ1aWxkZXIK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QERhdGEKQEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL3ZhbCBmZWF0dXJlcyA9IGFycmF5T2ZOdWxsczxGZWF0dXJlPih0aGlzLnghIVtpbmRleF0uc2l6ZSkK</text>
+        <text encoding="base64">ICAgIHZhciB2YWxpZGF0aW9uUHJvYmxlbXM6IExpc3Q8UHJvYmxlbT4/ID0gbnVsbAogICAgICAgIHNldCh2YWxpZGF0aW9uUHJvYmxlbXMpIHsKICAgICAgICAgICAgZmllbGQgPSB0aGlzLnZhbGlkYXRpb25Qcm9ibGVtcwogICAgICAgIH0KICAgIHZhciB0ZXN0aW5nUHJvYmxlbTogUHJvYmxlbT8gPSBudWxsCiAgICAgICAgc2V0KHRlc3RpbmdQcm9ibGVtKSB7CiAgICAgICAgICAgIGZpZWxkID0gdGhpcy50ZXN0aW5nUHJvYmxlbQogICAgICAgIH0KICAgIHZhciBtaW5YOiBEb3VibGUgPSAwLnRvRG91YmxlKCkKICAgICAgICBzZXQobWluWCkgewogICAgICAgICAgICBmaWVsZCA9IHRoaXMubWluWAogICAgICAgIH0KICAgIHZhciBtYXhYOiBEb3VibGUgPSAwLnRvRG91YmxlKCkKICAgICAgICBzZXQobWF4WCkgewogICAgICAgICAgICBmaWVsZCA9IHRoaXMubWF4WAogICAgICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsIGJhc2VGZWF0dXJlID0gYXJyYXlPZk51bGxzPEZlYXR1cmU+KHByb2JsZW0ubikK</text>
+        <text encoding="base64">QERhdGEKQEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZmVhdHVyZXMgPSBBcnJheTxBcnJheTxGZWF0dXJlPj4odGhpcy54LnNpemUpIHsgYXJyYXlPZk51bGxzKHRoaXMueFswXS5zaXplKSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgY2xmT2JqZWN0cyA9IGFycmF5T2ZOdWxsczxDbGZPYmplY3RPbmNlU29ydGVkPih5MS5zaXplKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>builder().</text>
       </register>
     </registers>
     <search>
@@ -1016,6 +1005,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
