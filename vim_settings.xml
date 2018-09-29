@@ -288,6 +288,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/Problem.kt" timestamp="1538218781854">
+        <mark key="[" line="31" column="55" />
+        <mark key="]" line="31" column="55" />
+        <mark key="." line="31" column="55" />
+        <mark key="^" line="31" column="55" />
+      </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/DemoApplication.java" timestamp="1535866622555">
         <mark key="[" line="11" column="32" />
         <mark key="]" line="11" column="0" />
@@ -454,12 +460,6 @@
         <mark key="[" line="2" column="25" />
         <mark key="]" line="2" column="25" />
         <mark key="." line="2" column="25" />
-      </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/Problem.java" timestamp="1537297483642">
-        <mark key="[" line="39" column="9" />
-        <mark key="]" line="38" column="65" />
-        <mark key="." line="38" column="65" />
-        <mark key="^" line="38" column="65" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ClfObjectOnceSorted.java" timestamp="1537200780385">
         <mark key="[" line="0" column="15" />
@@ -937,34 +937,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>ull</text>
+        <text>.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHg6IERvdWJsZUFycmF5LCB5OiBJbnQpIDogc3VwZXIoeCwgeSkK</text>
+        <text encoding="base64">ICAgIHZhciB4OiBBcnJheTxEb3VibGVBcnJheT4/ID0gbnVsbAogICAgICAgIHNldCh4KSB7CiAgICAgICAgICAgIGZpZWxkID0gdGhpcy54CiAgICAgICAgfQogICAgdmFyIHk6IEludEFycmF5PyA9IG51bGwKICAgICAgICBzZXQoeSkgewogICAgICAgICAgICBmaWVsZCA9IHRoaXMueQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgQ2xmT2JqZWN0T25jZVNvcnRlZDogSW50KSA6IENsZk9iamVjdCh4LCB5KSB7Cgo=</text>
+        <text encoding="base64">QERhdGEKQEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cn0K</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHg6IERvdWJsZUFycmF5LCB5OiBJbnQpIDogc3VwZXIoeCwgeSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgQ2xmT2JqZWN0T25jZVNvcnRlZDogSW50KSA6IENsZk9iamVjdCh4LCB5KSB7Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByb3RlY3RlZCB2YXIgeDogRG91YmxlQXJyYXk/ID0gbnVsbAogICAgcHJvdGVjdGVkIHZhciB5OiBJbnQgPSAwCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3RvcgpATm9BcmdzQ29uc3RydWN0b3IKQERhdGEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ull</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
