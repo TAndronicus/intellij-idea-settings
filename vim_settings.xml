@@ -127,6 +127,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Scala/hello-world/src/main/scala/LinearSVCExample.scala" timestamp="1538512218992">
+        <mark key="[" line="45" column="39" />
+        <mark key="]" line="45" column="39" />
+        <mark key="." line="45" column="39" />
+        <mark key="^" line="45" column="39" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Opts.java" timestamp="1535571529822">
         <mark key="[" line="0" column="0" />
       </file>
@@ -915,7 +921,7 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/trainer/SvmTrainer.java" timestamp="1537892689194">
         <mark key="[" line="18" column="68" />
       </file>
-      <file name="/fragment.java" timestamp="1538511252955">
+      <file name="/fragment.java" timestamp="1538511932205">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="5" />
@@ -948,8 +954,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -976,7 +982,7 @@
         <text encoding="base64">ICAgIHZhciBzY29yZXM6IEFycmF5PERvdWJsZUFycmF5Pj8gPSBudWxsCiAgICAgICAgc2V0KHNjb3Jlcykgewo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YSwgYiwgeChkdXBsaWNhdGluZ1guc3RyZWFtKCkubWFwVG9Eb3VibGUoVG9Eb3VibGVGdW5jdGlvbjxEb3VibGU+IHsgaXQudG9Eb3VibGUoKSB9KS50b0FycmF5KCkpLmJ1aWxkKCk=</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
