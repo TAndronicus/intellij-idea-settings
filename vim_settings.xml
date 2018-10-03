@@ -127,11 +127,10 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Scala/hello-world/src/main/scala/LinearSVCExample.scala" timestamp="1538583697479">
-        <mark key="[" line="35" column="72" />
-        <mark key="]" line="35" column="72" />
-        <mark key="." line="35" column="72" />
-        <mark key="^" line="33" column="18" />
+      <file name="$USER_HOME$/Workspace/Scala/hello-world/src/main/scala/LinearSVCExample.scala" timestamp="1538592950421">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="/Dummy.scala" timestamp="1538583327580">
         <mark key="[" line="0" column="0" />
@@ -958,34 +957,34 @@
         <text>weight[numberOfSpaceParts][numberOfBaseClassifiers]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJDb2VmczogJHt9ICIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>sample_libsvm_data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYWluaW5nLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkcyA9IG5ldyBEYXRhc2V0W10oKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIHdlaWdodFtudW1iZXJPZlNwYWNlUGFydHNdW251bWJlck9mQmFzZUNsYXNzaWZpZXJzXQogICAgICovCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJDb2VmczogJHt9ICIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwogICAgLyoqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogc2NvcmVzW251bWJlck9mQmFzZUNsYXNzaWZpZXJzXVtudW1iZXJPZlNwYWNlUGFydHNdCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGQgPSB0aGlzLndlaWdodHMKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIHdlaWdodFtudW1iZXJPZlNwYWNlUGFydHNdW251bWJlck9mQmFzZUNsYXNzaWZpZXJzXQogICAgICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciB3ZWlnaHRzOiBBcnJheTxEb3VibGVBcnJheT4/ID0gbnVsbAogICAgICAgIHNldCh3ZWlnaHRzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAqLwogICAgLyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGQgPSB0aGlzLnNjb3JlcwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogc2NvcmVzW251bWJlck9mQmFzZUNsYXNzaWZpZXJzXVtudW1iZXJPZlNwYWNlUGFydHNdCg==</text>
       </register>
       <register name="-" type="4">
         <text>sample_libsvm_data</text>
