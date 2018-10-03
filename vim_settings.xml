@@ -127,11 +127,16 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Scala/hello-world/src/main/scala/LinearSVCExample.scala" timestamp="1538512218992">
-        <mark key="[" line="45" column="39" />
-        <mark key="]" line="45" column="39" />
-        <mark key="." line="45" column="39" />
-        <mark key="^" line="45" column="39" />
+      <file name="$USER_HOME$/Workspace/Scala/hello-world/src/main/scala/LinearSVCExample.scala" timestamp="1538572135204">
+        <mark key="[" line="45" column="43" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1538572336500">
+        <mark key="[" line="0" column="4" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Opts.java" timestamp="1535571529822">
         <mark key="[" line="0" column="0" />
@@ -952,34 +957,34 @@
         <text>weight[numberOfSpaceParts][numberOfBaseClassifiers]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJDb2VmczogJHt9ICIpCg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaW50bG4ocyJDb2VmczogJHt9ICIpCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIHdlaWdodFtudW1iZXJPZlNwYWNlUGFydHNdW251bWJlck9mQmFzZUNsYXNzaWZpZXJzXQogICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLwogICAgLyoqCg==</text>
+        <text encoding="base64">ICAgICAqIHdlaWdodFtudW1iZXJPZlNwYWNlUGFydHNdW251bWJlck9mQmFzZUNsYXNzaWZpZXJzXQogICAgICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogc2NvcmVzW251bWJlck9mQmFzZUNsYXNzaWZpZXJzXVtudW1iZXJPZlNwYWNlUGFydHNdCg==</text>
+        <text encoding="base64">ICAgICAqLwogICAgLyoqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGQgPSB0aGlzLndlaWdodHMKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogc2NvcmVzW251bWJlck9mQmFzZUNsYXNzaWZpZXJzXVtudW1iZXJPZlNwYWNlUGFydHNdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciB3ZWlnaHRzOiBBcnJheTxEb3VibGVBcnJheT4/ID0gbnVsbAogICAgICAgIHNldCh3ZWlnaHRzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGQgPSB0aGlzLndlaWdodHMKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGQgPSB0aGlzLnNjb3JlcwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhciB3ZWlnaHRzOiBBcnJheTxEb3VibGVBcnJheT4/ID0gbnVsbAogICAgICAgIHNldCh3ZWlnaHRzKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBzY29yZXM6IEFycmF5PERvdWJsZUFycmF5Pj8gPSBudWxsCiAgICAgICAgc2V0KHNjb3Jlcykgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmllbGQgPSB0aGlzLnNjb3JlcwogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
