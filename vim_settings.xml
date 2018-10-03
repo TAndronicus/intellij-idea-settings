@@ -127,13 +127,14 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Scala/hello-world/src/main/scala/LinearSVCExample.scala" timestamp="1538572135204">
-        <mark key="[" line="45" column="43" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/Workspace/Scala/hello-world/src/main/scala/LinearSVCExample.scala" timestamp="1538583697479">
+        <mark key="[" line="35" column="72" />
+        <mark key="]" line="35" column="72" />
+        <mark key="." line="35" column="72" />
+        <mark key="^" line="33" column="18" />
       </file>
-      <file name="/Dummy.scala" timestamp="1538572336500">
-        <mark key="[" line="0" column="4" />
+      <file name="/Dummy.scala" timestamp="1538583327580">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -959,8 +960,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50bG4ocyJDb2VmczogJHt9ICIpCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJDb2VmczogJHt9ICIpCg==</text>
+      <register name="&quot;" type="4">
+        <text>sample_libsvm_data</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -987,7 +988,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZmllbGQgPSB0aGlzLnNjb3JlcwogICAgICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>sample_libsvm_data</text>
       </register>
     </registers>
     <search>
