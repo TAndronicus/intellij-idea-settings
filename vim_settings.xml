@@ -890,6 +890,12 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/FileReaderNWaySameValidationTest.java" timestamp="1536469976730">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/runner/SparkDemo.java" timestamp="1538831696956">
+        <mark key="[" line="20" column="110" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="23" column="33" />
+      </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/files/FileReader10Way.java" timestamp="1535880879273">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -929,37 +935,37 @@
         <text>weight[numberOfSpaceParts][numberOfBaseClassifiers]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERhdGFGcmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICBEZWNpc2lvblRyZWVDbGFzc2lmaWNhdGlvbk1vZGVsIGR0ID0gbmV3IERlY2lzaW9uVHJlZUNsYXNzaWZpY2F0aW9uTW9kZWwoKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBEZWNpc2lvblRyZWVDbGFzc2lmaWNhdGlvbk1vZGVsIGR0ID0gbmV3IERlY2lzaW9uVHJlZUNsYXNzaWZpY2F0aW9uTW9kZWwoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIERhdGFzZXQuCg==</text>
+        <text encoding="base64">ICAgICAgICBzcGFya1Nlc3Npb24uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERhdGFGcmFtZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyYWluaW5nLgo=</text>
+        <text encoding="base64">ICAgIERhdGFzZXQuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBkcyA9IG5ldyBEYXRhc2V0W10oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJDb2VmczogJHt9ICIpCg==</text>
+        <text encoding="base64">ICAgIHRyYWluaW5nLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkcyA9IG5ldyBEYXRhc2V0W10oKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJDb2VmczogJHt9ICIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIHdlaWdodFtudW1iZXJPZlNwYWNlUGFydHNdW251bWJlck9mQmFzZUNsYXNzaWZpZXJzXQogICAgICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>fit(dataset);</text>
       </register>
     </registers>
     <search>
