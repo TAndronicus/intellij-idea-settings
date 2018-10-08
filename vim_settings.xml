@@ -205,7 +205,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/pea1/src/main/java/jb/runner/Runner.java" timestamp="1538944765276">
+      <file name="$USER_HOME$/Workspace/Java/pea1/src/main/java/jb/runner/Runner.java" timestamp="1539028871866">
         <mark key="[" line="14" column="45" />
         <mark key="]" line="24" column="11" />
         <mark key="^" line="24" column="11" />
@@ -460,11 +460,11 @@
         <mark key="." line="23" column="42" />
         <mark key="^" line="23" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/pea1/src/main/java/jb/common/MathUtils.java" timestamp="1539027197632">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="13" column="63" />
-        <mark key="." line="13" column="63" />
-        <mark key="^" line="13" column="63" />
+      <file name="$USER_HOME$/Workspace/Java/pea1/src/main/java/jb/common/MathUtils.java" timestamp="1539028942994">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="22" column="4" />
+        <mark key="." line="22" column="4" />
+        <mark key="^" line="22" column="4" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/FileHelper.kt" timestamp="1538205356755">
         <mark key="[" line="8" column="0" />
@@ -1007,11 +1007,11 @@
         <mark key="." line="2" column="118" />
         <mark key="^" line="2" column="118" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/pea1/src/main/java/jb/runner/BruteSearch.java" timestamp="1539027842934">
-        <mark key="[" line="34" column="46" />
-        <mark key="]" line="36" column="57" />
-        <mark key="^" line="36" column="57" />
-        <mark key="." line="36" column="57" />
+      <file name="$USER_HOME$/Workspace/Java/pea1/src/main/java/jb/runner/BruteSearch.java" timestamp="1539029026198">
+        <mark key="[" line="24" column="28" />
+        <mark key="]" line="24" column="28" />
+        <mark key="^" line="32" column="63" />
+        <mark key="." line="24" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/runner/SparkDemo.java" timestamp="1538831696956">
         <mark key="[" line="20" column="110" />
@@ -1052,37 +1052,37 @@
         <text>File size is inconsistent with number of instances</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>new int[tasks.length];</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGluZGljZXNMZWZ0ID0gaW5pdGlhbGl6ZUluZGljZXModGFza3MubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5kaWNlczsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtaW4K</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGluZGljZXMgPSBuZXcgQXJyYXlMaXN0PD4obGVuZ3RoKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGxlbmd0aDsgaSsrKSBpbmRpY2VzLmFkZChpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBpbmRpY2VzID0gbmV3IGludFtsZW5ndGhdOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTGlzdDxJbnRlZ2VyPiBpbml0aWFsaXplSW5kaWNlcyhpbnQgbGVuZ3RoKSB7Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBpbmRpY2VzTGVmdCA9IGluaXRpYWxpemVJbmRpY2VzKHRhc2tzLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUYXNrIHRhc2sgPSB0YXNrc1tpbmRleF07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEubGFuZy5NYXRoOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFRhc2tbXSB0YXNrczsK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGluZGljZXNMZWZ0ID0gaW5pdGlhbGl6ZUluZGljZXModGFza3MubGVuZ3RoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCAK</text>
+        <text encoding="base64">ICAgICAgICBtaW4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRUaGF0KCkK</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBpbmRpY2VzID0gbmV3IGludFtsZW5ndGhdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TGlzdDxJbnRlZ2VyPiA=</text>
+        <text>new int[tasks.length];</text>
       </register>
     </registers>
     <search>
