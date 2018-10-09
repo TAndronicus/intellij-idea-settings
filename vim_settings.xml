@@ -205,11 +205,11 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="16" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/pea1/src/main/java/jb/runner/Runner.java" timestamp="1539089647471">
-        <mark key="[" line="16" column="36" />
-        <mark key="]" line="16" column="36" />
-        <mark key="^" line="25" column="11" />
-        <mark key="." line="16" column="36" />
+      <file name="$USER_HOME$/Workspace/Java/pea1/src/main/java/jb/runner/Runner.java" timestamp="1539105392438">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="52" />
+        <mark key="^" line="18" column="52" />
+        <mark key="." line="18" column="52" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/DemoApplication.java" timestamp="1535866622555">
         <mark key="[" line="11" column="32" />
@@ -281,11 +281,11 @@
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/integrator/MedianIntegrator.java" timestamp="1537468656805">
         <mark key="[" line="12" column="113" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/pea1/src/main/java/jb/algorithms/Dynamic.java" timestamp="1539103575391">
-        <mark key="[" line="38" column="59" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="20" column="0" />
+      <file name="$USER_HOME$/Workspace/Java/pea1/src/main/java/jb/algorithms/Dynamic.java" timestamp="1539105878992">
+        <mark key="'" line="20" column="15" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/Selector.java" timestamp="1535734603023">
         <mark key="[" line="0" column="0" />
@@ -1067,43 +1067,44 @@
       <jump line="91" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/BReader.kt" />
       <jump line="4" column="21" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/IntegratedModel.java" />
       <jump line="39" column="0" filename="$USER_HOME$/Workspace/Java/pea1/src/main/java/jb/runner/BruteSearch.java" />
+      <jump line="23" column="15" filename="$USER_HOME$/Workspace/Java/pea1/src/main/java/jb/algorithms/Dynamic.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>solutions[time - task.getProcessingTime()].getPunishment()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFNvbHV0aW9uIHNvbHV0aW9uIDogc29sdXRpb25zKSBzb2x1dGlvbi5zZXRQdW5pc2htZW50KGxpbWl0UHVuaXNobWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludFF1ZXVlKHNvbHV0aW9uc1tzb2x1dGlvbnMubGVuZ3RoIC0gMV0uZ2V0VGFza3MoKSk7Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFNvbHV0aW9uIHNvbHV0aW9uIDogc29sdXRpb25zKSBzb2x1dGlvbi5zZXRQdW5pc2htZW50KGxpbWl0UHVuaXNobWVudCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludFF1ZXVlKHNvbHV0aW9uc1tzb2x1dGlvbnMubGVuZ3RoIC0gMV0uZ2V0VGFza3MoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzb2x1dGlvbi5zZXRQdW5pc2htZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrcy5mb3JFYWNoKGl0ZW0gLT4gU3lzdGVtLm91dC5wcmludGxuKGl0ZW0uZ2V0V2VpZ2h0KCkpKTsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbGltaXQgPSBjYWxjdWxhdGVMaW1pdCgpOwo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIHZvaWQgcHJpbnRRdWV1ZShRdWV1ZTxUYXNrPiB0YXNrcykgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc29sdXRpb25zW3NvbHV0aW9ucy5sZW5ndGggLSAxXS5nZXRUYXNrcygpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFRhc2sgdGFzayA6IHRhc2tzKSBsaW1pdCArPSAKICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ueG1sLmludGVybmFsLmJpbmQudjIuc2NoZW1hZ2VuLnhtbHNjaGVtYS5MaXN0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGNhbGN1bGF0ZUxpbWl0KCkgewogICAgICAgIGludCBsaW1pdCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFRhc2ssIFNvbHV0aW9uPiBwb3NzaWJsZVB1bmlzaG1lbnRzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvbHV0aW9uLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc3NpYmxlUHVuaXNobWVudHMucHV0KHRhc2ssICkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0VGltZSgpIHsKICAgICAgICByZXR1cm4gdGltZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChuZXdQdW5pc2htZW50ID4gc29sdXRpb25zW3RpbWUgLSB0YXNrLmdldFByb2Nlc3NpbmdUaW1lKCldLmdldFB1bmlzaG1lbnQoKSkgewogICAgICAgICAgICAgICAgICAgIHNvbHV0aW9uc1t0aW1lXSA9IHNvbHV0aW9uOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyYXRlZ3kg</text>
+        <text>add</text>
       </register>
     </registers>
     <search>
