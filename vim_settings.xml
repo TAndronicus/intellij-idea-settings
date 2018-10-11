@@ -735,10 +735,11 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/pea1/src/main/java/jb/algorithms/BnB.java" timestamp="1539109043595">
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/Workspace/Java/pea1/src/main/java/jb/algorithms/BnB.java" timestamp="1539244313158">
+        <mark key="[" line="20" column="68" />
+        <mark key="]" line="44" column="14" />
+        <mark key="." line="44" column="14" />
+        <mark key="^" line="44" column="14" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/util/Arff2LibSvmConverter.java" timestamp="1536866239114">
         <mark key="[" line="9" column="13" />
@@ -1081,8 +1082,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbnQgYmVzdFZhbHVlID0gcm9vdFNvbHV0aW9uLmdldFB1bmlzaG1lbnQoKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYmVzdFZhbHVlID0gcm9vdFNvbHV0aW9uLmdldFB1bmlzaG1lbnQoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>Solution</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTb2x1dGlvbiByb290U29sdXRpb24gPSBuZXcgU29sdXRpb24obmV3IExpbmtlZExpc3Q8PigpLCAwKTsK</text>
@@ -1109,7 +1110,7 @@
         <text encoding="base64">ICAgICAgICAgICAgTWFwPFRhc2ssIFNvbHV0aW9uPiBwb3NzaWJsZVB1bmlzaG1lbnRzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IFNvbHV0aW9uKG5ldyBMaW5rZWRMaXN0PD4oKSwgMCk7</text>
+        <text>Solution</text>
       </register>
     </registers>
     <search>
