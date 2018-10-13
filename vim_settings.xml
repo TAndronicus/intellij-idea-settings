@@ -187,8 +187,8 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/runner/Runner.java" timestamp="1539412591465">
-        <mark key="[" line="15" column="26" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/runner/Runner.java" timestamp="1539414835706">
+        <mark key="[" line="15" column="39" />
         <mark key="]" line="15" column="28" />
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="28" />
@@ -316,6 +316,9 @@
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/integrator/MedianIntegrator.java" timestamp="1537468656805">
         <mark key="[" line="12" column="113" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/resources/test0.txt" timestamp="1539413879563">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/pea/src/jb/algorithm/FullSearch.java" timestamp="1539250813494">
         <mark key="[" line="17" column="37" />
@@ -585,7 +588,7 @@
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea1/src/main/java/jb/exceptions/TaskFileSizeException.java" timestamp="1538894876454">
         <mark key="[" line="2" column="35" />
       </file>
-      <file name="/fragment.java" timestamp="1539409929827">
+      <file name="/fragment.java" timestamp="1539414723765">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="5" />
@@ -609,10 +612,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/files/FileReader.java" timestamp="1539413304644">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/files/FileReader.java" timestamp="1539414805634">
+        <mark key="[" line="21" column="83" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/MVConfMatTester.java" timestamp="1537296794593">
         <mark key="[" line="10" column="13" />
@@ -1190,41 +1193,40 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>int totalTime = 0;
-        for (Task task : tasks) totalTime += task.getProcessingTime();</text>
+        <text>Arrays.stream(lines.get(i).split(separator)).mapToInt(Integer::parseInt).toArray())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLnN0cmVhbShsaW5lcy5nZXQoaSkuc3BsaXQoc2VwYXJhdG9yKSkuZmlsdGVyKGkgLT4gIWkuaXNFbXB0eSgpKS5tYXBUb0ludChJbnRlZ2VyOjpwYXJzZUludCkuZm9yRWFjaChqIC0+IFN5c3RlbS5vdXQucHJpbnRsbihqKSk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
         <text>Problem problem</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">QXJyYXlzLnN0cmVhbShsaW5lcy5nZXQoaSkuc3BsaXQoIlxccyIpKS5maWx0ZXIoaSAtPiAhaS5tYXRjaGVzKCJcXHMiKSkudG9BcnJheSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBsaW5lcy5yZW1vdmUoIiIpZGQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgaW50IGdldFNpemUoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gbGluZXM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2l0aWVzLnN0cmVhbSgpLm1hcChDaXR5OjpnZXRTaXplKS5yZWR1Y2UoKHUsIHYpIC0+IHUgKyB2KS5nZXQoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2FwYWNpdHk7Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgaW50IGdldFNpemUoKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0Q2FwYWNpdHkoKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY2l0aWVzLnN0cmVhbSgpLm1hcChDaXR5OjpnZXRTaXplKS5yZWR1Y2UoKHUsIHYpIC0+IHUgKyB2KS5nZXQoKTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>Item</text>
+        <text>split(&quot;\\s&quot;)</text>
       </register>
     </registers>
     <search>
