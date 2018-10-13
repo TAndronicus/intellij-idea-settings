@@ -192,11 +192,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/runner/Runner.java" timestamp="1539448781109">
-        <mark key="[" line="20" column="53" />
-        <mark key="]" line="20" column="54" />
-        <mark key="." line="20" column="54" />
-        <mark key="^" line="22" column="14" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/runner/Runner.java" timestamp="1539453182999">
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+        <mark key="^" line="22" column="41" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/ScoreTesterTest.java" timestamp="1536695690471">
         <mark key="[" line="0" column="10" />
@@ -215,6 +215,11 @@
         <mark key="]" line="7" column="72" />
         <mark key="^" line="7" column="72" />
         <mark key="." line="7" column="72" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/algorithm/limit/SimpleLimitation.java" timestamp="1539452519692">
+        <mark key="[" line="16" column="66" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ValidatingTestingDataset.java" timestamp="1537201313659">
         <mark key="[" line="9" column="39" />
@@ -553,6 +558,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="22" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/algorithm/limit/Limitation.java" timestamp="1539451872851">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/FileReaderNWayTest.java" timestamp="1536427653066">
         <mark key="[" line="34" column="63" />
         <mark key="]" line="34" column="123" />
@@ -665,6 +676,12 @@
         <mark key="[" line="0" column="15" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/algorithm/limit/ExclusiveLimitation.java" timestamp="1539452275947">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+        <mark key="." line="16" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/trainer/SVMTrainer.java" timestamp="1535863737986">
         <mark key="[" line="0" column="8" />
@@ -930,17 +947,16 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/model/Solution.java" timestamp="1539425838188">
-        <mark key="[" line="15" column="11" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="12" />
-        <mark key="^" line="15" column="13" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/model/Solution.java" timestamp="1539452870072">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/algorithm/FullSearch.java" timestamp="1539448740372">
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/algorithm/FullSearch.java" timestamp="1539452846377">
         <mark key="[" line="27" column="124" />
-        <mark key="]" line="27" column="124" />
-        <mark key="." line="27" column="124" />
-        <mark key="^" line="21" column="90" />
+        <mark key="]" line="28" column="80" />
+        <mark key="." line="28" column="80" />
+        <mark key="^" line="28" column="80" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/util/CollectionUtils.java" timestamp="1539440803130">
         <mark key="[" line="2" column="30" />
@@ -974,6 +990,12 @@
         <mark key="]" line="15" column="88" />
         <mark key="." line="15" column="88" />
         <mark key="^" line="15" column="88" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/algorithm/Limitation.java" timestamp="1539451779092">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="7" column="57" />
+        <mark key="^" line="7" column="57" />
+        <mark key="." line="7" column="57" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/untitled/src/Main.java" timestamp="1537469412827">
         <mark key="[" line="8" column="54" />
@@ -1067,11 +1089,11 @@
       <file name="$USER_HOME$/Workspace/Java/pea/src/R.java" timestamp="1539245919657">
         <mark key="[" line="0" column="14" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/algorithm/BnB.java" timestamp="1539450177109">
-        <mark key="[" line="42" column="53" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="42" column="49" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/algorithm/BnB.java" timestamp="1539452286175">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="50" column="30" />
+        <mark key="^" line="50" column="30" />
+        <mark key="." line="50" column="30" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/data/ClfTuple.java" timestamp="1535778285984">
         <mark key="[" line="8" column="23" />
@@ -1206,37 +1228,37 @@
         <text encoding="base64">ICAgICAgICBTdHJhdGVneSBzdHJhdGVneSA9IG5ldyBCbkIocHJvYmxlbSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBwb3NzaWJsZURpc3RhbmNlID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="&quot;" type="4">
         <text>Problem problem</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">NyAgIDIgICA2ICAgMSAgIDIgICAwICAgNyAgIDIgICA4ICAgNiAgIDkgICAyCjYgICA4ICAgNyAgIDMgICA2ICAgNyAgIDAgICA2ICAgNSAgIDkgICA5ICAgOAo0ICAgOCAgIDUgICAyICAgMSAgIDIgICA2ICAgMCAgIDkgICA5ICAgMSAgIDkKNyAgIDIgICAzICAgOCAgIDUgICA4ICAgNSAgIDkgICAwICAgOSAgIDIgICA3CjEgICA3ICAgNSAgIDYgICA0ICAgNiAgIDkgICA5ICAgOSAgIDAgICA1ICAgNwozICAgNSAgIDIgICA5ICAgMSAgIDkgICA5ICAgMSAgIDIgICA1ICAgMCAgIDQKNCAgIDYgICA3ICAgNiAgIDEgICA5ICAgMyAgIDkgICA2ICAgMSAgIDMgICA1Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGxpbWl0Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">NCAgIDYgICA3ICAgNiAgIDEgICA5ICAgMyAgIDkgICA2ICAgMSAgIDMgICA1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBwb3NzaWJsZURpc3RhbmNlID0gOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">MCAgIDEgICA1ICAgOCAgIDkgICA3ICAgNiAgIDQgICA3ICAgMSAgIDMgICA4CjEgICAwICAgNyAgIDMgICA0ICAgMiAgIDggICA4ICAgMiAgIDcgICA1ICAgNAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">NSAgIDcgICAwICAgMiAgIDcgICA2ICAgNyAgIDUgICAzICAgNSAgIDIgICAzCjggICAzICAgMiAgIDAgICAxICAgMSAgIDMgICAyICAgOCAgIDYgICA5ICAgNwo=</text>
+        <text encoding="base64">NyAgIDIgICA2ICAgMSAgIDIgICAwICAgNyAgIDIgICA4ICAgNiAgIDkgICAyCjYgICA4ICAgNyAgIDMgICA2ICAgNyAgIDAgICA2ICAgNSAgIDkgICA5ICAgOAo0ICAgOCAgIDUgICAyICAgMSAgIDIgICA2ICAgMCAgIDkgICA5ICAgMSAgIDkKNyAgIDIgICAzICAgOCAgIDUgICA4ICAgNSAgIDkgICAwICAgOSAgIDIgICA3CjEgICA3ICAgNSAgIDYgICA0ICAgNiAgIDkgICA5ICAgOSAgIDAgICA1ICAgNwozICAgNSAgIDIgICA5ICAgMSAgIDkgICA5ICAgMSAgIDIgICA1ICAgMCAgIDQKNCAgIDYgICA3ICAgNiAgIDEgICA5ICAgMyAgIDkgICA2ICAgMSAgIDMgICA1Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">NCAgIDYgICA3ICAgNiAgIDEgICA5ICAgMyAgIDkgICA2ICAgMSAgIDMgICA1Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">OCAgIDQgICAzICAgNyAgIDIgICAyICAgOCAgIDkgICA3ICAgNyAgIDQgICA1ICAgMAo=</text>
+        <text encoding="base64">MCAgIDEgICA1ICAgOCAgIDkgICA3ICAgNiAgIDQgICA3ICAgMSAgIDMgICA4CjEgICAwICAgNyAgIDMgICA0ICAgMiAgIDggICA4ICAgMiAgIDcgICA1ICAgNAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">NiAgIDEgICA4ICAgMSAgIDIgICA5ICAgOCAgIDEgICA4ICAgMiAgIDEgICA1ICAgMSAgIDAK</text>
+        <text encoding="base64">NSAgIDcgICAwICAgMiAgIDcgICA2ICAgNyAgIDUgICAzICAgNSAgIDIgICAzCjggICAzICAgMiAgIDAgICAxICAgMSAgIDMgICAyICAgOCAgIDYgICA5ICAgNwo=</text>
       </register>
       <register name="-" type="4">
-        <text>possibleDistance</text>
+        <text encoding="base64">cHJpdmF0ZSA=</text>
       </register>
     </registers>
     <search>
@@ -1303,6 +1325,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
