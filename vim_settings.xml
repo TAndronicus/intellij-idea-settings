@@ -820,11 +820,11 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/algorithm/Dynamic.java" timestamp="1539500784579">
-        <mark key="[" line="10" column="40" />
-        <mark key="]" line="12" column="7" />
-        <mark key="^" line="12" column="7" />
-        <mark key="." line="12" column="7" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/algorithm/Dynamic.java" timestamp="1539509844114">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea1/src/main/java/Dataset.java" timestamp="1538891444012">
         <mark key="[" line="0" column="0" />
@@ -914,6 +914,11 @@
         <mark key="^" line="62" column="56" />
         <mark key="." line="62" column="56" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/model/DynamicSolution.java" timestamp="1539510069631">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Java/clf/pom.xml" timestamp="1534586180928">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -976,10 +981,10 @@
         <mark key="." line="2" column="4" />
         <mark key="^" line="2" column="4" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/model/Solution.java" timestamp="1539455682459">
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="13" column="5" />
-        <mark key="." line="13" column="5" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/model/Solution.java" timestamp="1539509974978">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/algorithm/FullSearch.java" timestamp="1539452846377">
         <mark key="[" line="27" column="124" />
@@ -1271,34 +1276,34 @@
         <text encoding="base64">Ly8gICAgICAgIFN0cmF0ZWd5IHN0cmF0ZWd5ID0gbmV3IEJuQihwcm9ibGVtLCBuZXcgU2ltcGxlSW5pdGlhbGl6YXRpb24oKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">OCAgIDUgICA2ICAgNyAgIDMgICA1ICAgMiAgIDYgICA4ICAgMAo=</text>
+        <text encoding="base64">ICAgIH0KfQo=</text>
       </register>
       <register name="&quot;" type="4">
         <text>Problem problem</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBEeW5hbWljU29sdXRpb24oRGVxdWU8Q2l0eT4gY2l0aWVzLCBpbnQgZGlzdGFuY2UsIGludCBwaW9yaXR5KSB7CiAgICAgICAgc3VwZXIoY2l0aWVzLCBkaXN0YW5jZSwgcGlvcml0eSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy4K</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBEeW5hbWljU29sdXRpb24oRGVxdWU8Q2l0eT4gY2l0aWVzLCBpbnQgZGlzdGFuY2UpIHsKICAgICAgICBzdXBlcihjaXRpZXMsIGRpc3RhbmNlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">OCAgIDUgICA4ICAgNyAgIDQgICAzICAgNSAgIDUgICAyICAgNSAgIDggICAwCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnBpb3JpdHkgPSBwaW9yaXR5OwogICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">NCAgIDYgICAzICAgNyAgIDggICA4ICAgNSAgIDMgICAyICAgNiAgIDAgICA3Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFBpb3JpdHkoaW50IHBpb3JpdHkpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH19Owo=</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGludCBmaW5hbFVwcGVyTGltaXQgPSB1cHBlckxpbWl0OwovLyAgICAgICAgUXVldWU8U29sdXRpb24+IGNhbmRpZGF0ZXMgPSBuZXcgUHJpb3JpdHlRdWV1ZTw+KENvbXBhcmF0b3IuY29tcGFyaW5nKFNvbHV0aW9uOjpnZXRQaW9yaXR5KSl7ewovLyAgICAgICAgICAgIG9mZmVyKG5ldyBTb2x1dGlvbihuZXcgTGlua2VkTGlzdDw+KCkge3sKLy8gICAgICAgICAgICAgICAgb2ZmZXIocHJvYmxlbS5nZXRDaXRpZXMoKS5nZXQoMCkpOwovLyAgICAgICAgICAgIH19LCAwLCBmaW5hbFVwcGVyTGltaXQpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0UGlvcml0eSgpIHsKICAgICAgICByZXR1cm4gcGlvcml0eTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">OCAgIDUgICA2ICAgNyAgIDMgICA1ICAgMiAgIDYgICA4ICAgMAo=</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
