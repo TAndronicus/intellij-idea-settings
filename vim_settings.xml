@@ -192,11 +192,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/runner/Runner.java" timestamp="1539493502709">
-        <mark key="[" line="21" column="53" />
-        <mark key="]" line="21" column="54" />
-        <mark key="." line="21" column="54" />
-        <mark key="^" line="22" column="41" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/runner/Runner.java" timestamp="1539499323669">
+        <mark key="[" line="22" column="53" />
+        <mark key="]" line="22" column="54" />
+        <mark key="." line="22" column="54" />
+        <mark key="^" line="21" column="62" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/ScoreTesterTest.java" timestamp="1536695690471">
         <mark key="[" line="0" column="10" />
@@ -976,11 +976,10 @@
         <mark key="." line="28" column="80" />
         <mark key="^" line="28" column="80" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/util/CollectionUtils.java" timestamp="1539497248091">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="10" />
-        <mark key="^" line="8" column="10" />
-        <mark key="." line="8" column="10" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/util/CollectionUtils.java" timestamp="1539498670748">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/Tester.java" timestamp="1537041866098">
         <mark key="[" line="4" column="11" />
@@ -1257,41 +1256,41 @@
       <jump line="46" column="42" filename="$USER_HOME$/Workspace/Java/pea/src/FullSearch.java" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICAgICAgRGVxdWU8Q2l0eT4gcmVmaW5lZFJvdXRlID0gY3VycmVudFNvbHV0aW9uLmdldENpdGllcygpOwogICAgICAgIHJlZmluZWRSb3V0ZS5yZW1vdmVGaXJzdCgpOyByZWZpbmVkUm91dGUucmVtb3ZlTGFzdCgpOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgIFN0cmF0ZWd5IHN0cmF0ZWd5ID0gbmV3IEJuQihwcm9ibGVtLCBuZXcgU2ltcGxlSW5pdGlhbGl6YXRpb24oKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy4K</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIAo=</text>
       </register>
       <register name="&quot;" type="4">
         <text>Problem problem</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zCg==</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">OCAgIDUgICA4ICAgNyAgIDQgICAzICAgNSAgIDUgICAyICAgNSAgIDggICAwCg==</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">NCAgIDYgICAzICAgNyAgIDggICA4ICAgNSAgIDMgICAyICAgNiAgIDAgICA3Cg==</text>
+        <text encoding="base64">OCAgIDUgICA4ICAgNyAgIDQgICAzICAgNSAgIDUgICAyICAgNSAgIDggICAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIH19Owo=</text>
+        <text encoding="base64">NCAgIDYgICAzICAgNyAgIDggICA4ICAgNSAgIDMgICAyICAgNiAgIDAgICA3Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGludCBmaW5hbFVwcGVyTGltaXQgPSB1cHBlckxpbWl0OwovLyAgICAgICAgUXVldWU8U29sdXRpb24+IGNhbmRpZGF0ZXMgPSBuZXcgUHJpb3JpdHlRdWV1ZTw+KENvbXBhcmF0b3IuY29tcGFyaW5nKFNvbHV0aW9uOjpnZXRQaW9yaXR5KSl7ewovLyAgICAgICAgICAgIG9mZmVyKG5ldyBTb2x1dGlvbihuZXcgTGlua2VkTGlzdDw+KCkge3sKLy8gICAgICAgICAgICAgICAgb2ZmZXIocHJvYmxlbS5nZXRDaXRpZXMoKS5nZXQoMCkpOwovLyAgICAgICAgICAgIH19LCAwLCBmaW5hbFVwcGVyTGltaXQpKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIH19Owo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgIGludCBmaW5hbFVwcGVyTGltaXQgPSB1cHBlckxpbWl0OwovLyAgICAgICAgUXVldWU8U29sdXRpb24+IGNhbmRpZGF0ZXMgPSBuZXcgUHJpb3JpdHlRdWV1ZTw+KENvbXBhcmF0b3IuY29tcGFyaW5nKFNvbHV0aW9uOjpnZXRQaW9yaXR5KSl7ewovLyAgICAgICAgICAgIG9mZmVyKG5ldyBTb2x1dGlvbihuZXcgTGlua2VkTGlzdDw+KCkge3sKLy8gICAgICAgICAgICAgICAgb2ZmZXIocHJvYmxlbS5nZXRDaXRpZXMoKS5nZXQoMCkpOwovLyAgICAgICAgICAgIH19LCAwLCBmaW5hbFVwcGVyTGltaXQpKTsK</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">bmV3IEFycmF5RGVxdWU8PigpIHt7CiAgICAgICAgICAgIG9mZmVyKG5ldyBTb2x1dGlvbihuZXcgTGlua2VkTGlzdDw+KCkge3sKICAgICAgICAgICAgICAgIG9mZmVyKHByb2JsZW0uZ2V0Q2l0aWVzKCkuZ2V0KDApKTsKICAgICAgICAgICAgfX0sIDApKTsKICAgICAgICB9fTs=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9mCg==</text>
-      </register>
       <register name="-" type="4">
-        <text>Deque</text>
+        <text>new SimpleLimitation());</text>
       </register>
     </registers>
     <search>
