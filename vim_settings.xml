@@ -79,11 +79,10 @@
         <mark key="]" line="17" column="58" />
         <mark key="." line="17" column="58" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/pom.xml" timestamp="1539625670393">
-        <mark key="[" line="21" column="24" />
-        <mark key="]" line="21" column="24" />
-        <mark key="^" line="20" column="33" />
-        <mark key="." line="21" column="24" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/pom.xml" timestamp="1539627467273">
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="28" />
+        <mark key="." line="29" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/pea/src/FileReader.java" timestamp="1539245937567">
         <mark key="[" line="0" column="0" />
@@ -262,6 +261,12 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/runner/JarRunner.java" timestamp="1539627718818">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+        <mark key="." line="7" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/pea/src/Runner.java" timestamp="1539246742078">
         <mark key="[" line="0" column="0" />
@@ -1191,37 +1196,37 @@
         <text encoding="base64">ICAgICAgICA8bWF2ZW4uY29tcGlsZXIuc291cmNlPjEuNjwvbWF2ZW4uY29tcGlsZXIuc291cmNlPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYi5maWxlcy5GaWxlUmVhZGVyLnJlYWRQcm9ibGVtOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS0gQnVpbGQgYW4gZXhlY3V0YWJsZSBKQVIgLS0+Cg==</text>
       </register>
       <register name="&quot;" type="4">
         <text>Problem problem</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGpiLm1vZGVsLlNvbHV0aW9uOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjbGFzc3BhdGhQcmVmaXg+bGliLzwvY2xhc3NwYXRoUHJlZml4Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGpiLmFsZ29yaXRobS5CbkI7CmltcG9ydCBqYi5hbGdvcml0aG0uRHluYW1pYzsKaW1wb3J0IGpiLmFsZ29yaXRobS5GdWxsU2VhcmNoOwppbXBvcnQgamIuYWxnb3JpdGhtLlN0cmF0ZWd5OwppbXBvcnQgamIuYWxnb3JpdGhtLmluaXRpYWxpemF0aW9uLlNpbXBsZUluaXRpYWxpemF0aW9uOwppbXBvcnQgamIuYWxnb3JpdGhtLmxpbWl0YXRpb24uU2ltcGxlTGltaXRhdGlvbjsKaW1wb3J0IGpiLm1vZGVsLkNpdHk7CmltcG9ydCBqYi5tb2RlbC5Qcm9ibGVtOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYi5maWxlcy5GaWxlUmVhZGVyLnJlYWRQcm9ibGVtOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYi51dGlsLkNvbnN0YW50cy5zZXBhcmF0b3I7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpiLm1vZGVsLlNvbHV0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYi51dGlsLkNvbGxlY3Rpb25VdGlscy5hcHBlbmRUb0RlcXVlOwo=</text>
+        <text encoding="base64">aW1wb3J0IGpiLmFsZ29yaXRobS5CbkI7CmltcG9ydCBqYi5hbGdvcml0aG0uRHluYW1pYzsKaW1wb3J0IGpiLmFsZ29yaXRobS5GdWxsU2VhcmNoOwppbXBvcnQgamIuYWxnb3JpdGhtLlN0cmF0ZWd5OwppbXBvcnQgamIuYWxnb3JpdGhtLmluaXRpYWxpemF0aW9uLlNpbXBsZUluaXRpYWxpemF0aW9uOwppbXBvcnQgamIuYWxnb3JpdGhtLmxpbWl0YXRpb24uU2ltcGxlTGltaXRhdGlvbjsKaW1wb3J0IGpiLm1vZGVsLkNpdHk7CmltcG9ydCBqYi5tb2RlbC5Qcm9ibGVtOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYi51dGlsLkNvbGxlY3Rpb25VdGlscy5hcHBlbmRUb0RlcXVlOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYi51dGlsLkNvbnN0YW50cy5zZXBhcmF0b3I7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYi51dGlsLkNvbGxlY3Rpb25VdGlscy5hcHBlbmRUb0RlcXVlOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYi51dGlsLkNvbGxlY3Rpb25VdGlscy5hcHBlbmRUb0RlcXVlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGpiLm1vZGVsLkNpdHk7CmltcG9ydCBqYi5tb2RlbC5Qcm9ibGVtOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>source</text>
+        <text>MyClass</text>
       </register>
     </registers>
     <search>
