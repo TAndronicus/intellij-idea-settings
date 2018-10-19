@@ -43,6 +43,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Contributions/gradle-node-plugin/src/main/groovy/com/moowork/gradle/node/NodeExtension.groovy" timestamp="1539975001456">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="28" />
+        <mark key="." line="17" column="28" />
+        <mark key="^" line="17" column="24" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea1/src/main/java/jb/data/Task.java" timestamp="1538897095088">
         <mark key="[" line="17" column="58" />
         <mark key="]" line="17" column="58" />
@@ -128,6 +134,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Contributions/gradle-node-plugin/src/main/groovy/com/moowork/gradle/node/task/NodeTask.groovy" timestamp="1539974462821">
+        <mark key="'" line="100" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Java/hello/build.sbt" timestamp="1534227410461">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -143,6 +152,9 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Contributions/gradle-node-plugin/src/main/groovy/com/moowork/gradle/node/util/PlatformHelper.groovy" timestamp="1539974691249">
+        <mark key="'" line="8" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/Dynamic.java" timestamp="1539800683824">
         <mark key="'" line="2" column="0" />
@@ -255,6 +267,9 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Contributions/gradle-node-plugin/src/main/groovy/com/moowork/gradle/node/variant/VariantBuilder.groovy" timestamp="1539974706960">
+        <mark key="'" line="160" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/trainer/SVMTrainer.java" timestamp="1535880914753">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -307,6 +322,9 @@
       <jump line="46" column="42" filename="$USER_HOME$/Workspace/Java/pea/src/FullSearch.java" />
       <jump line="74" column="15" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/algorithm/BnB.java" />
       <jump line="2" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/Dynamic.java" />
+      <jump line="100" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Contributions/gradle-node-plugin/src/main/groovy/com/moowork/gradle/node/task/NodeTask.groovy" />
+      <jump line="8" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Contributions/gradle-node-plugin/src/main/groovy/com/moowork/gradle/node/util/PlatformHelper.groovy" />
+      <jump line="160" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Contributions/gradle-node-plugin/src/main/groovy/com/moowork/gradle/node/variant/VariantBuilder.groovy" />
     </jumps>
     <registers>
       <register name="0" type="4">
