@@ -23,6 +23,9 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1540051773540">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/SimpleArff2LibSvmConverter (another copy).java" timestamp="1536867177619">
         <mark key="[" line="9" column="13" />
         <mark key="]" line="9" column="13" />
@@ -181,17 +184,15 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/SimpleLimitation.java" timestamp="1540051283723">
-        <mark key="[" line="40" column="20" />
-        <mark key="]" line="40" column="19" />
-        <mark key="." line="40" column="19" />
-        <mark key="^" line="40" column="19" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/SimpleLimitation.java" timestamp="1540053445123">
+        <mark key="[" line="33" column="63" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/BranchAndBound.java" timestamp="1540051030254">
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="25" column="30" />
-        <mark key="^" line="25" column="45" />
-        <mark key="." line="25" column="30" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/BranchAndBound.java" timestamp="1540053472085">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/initialization/PriorityInitialization.java" timestamp="1540047619843">
         <mark key="[" line="16" column="80" />
@@ -336,7 +337,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1540049872469">
+      <file name="/fragment.java" timestamp="1540053352735">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -372,37 +373,37 @@
         <text encoding="base64">Y2l0aWVzLnN0cmVhbSgpLm1hcFRvSW50KGNpdHkgLT4gQXJyYXlzLnN0cmVhbShjaXR5LmdldERpc3RhbmNlcygpKS5taW4oKS5nZXRBc0ludCgpKS5zdW0oKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="&quot;" type="4">
         <text>Problem problem</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2l0eSBsYXN0Q2l0eSA9IGN1cnJlbnRTb2x1dGlvbi5nZXRDaXRpZXMoKS5nZXRMYXN0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbGltaXQgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWx0ZXIoY3VycmVudFNvbHV0aW9uLmdldERpc3RhbmNlKCkgKyBsYXN0Q2l0eS5nZXREaXN0YW5jZXMoKVtdKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY2l0aWVzLnN0cmVhbSgpLm1hcFRvSW50KGNpdHkgLT4gQXJyYXlzLnN0cmVhbShjaXR5LmdldERpc3RhbmNlcygpKS5maWx0ZXIoZGlzdCAtPiBkaXN0ICE9IDApLm1pbigpLmdldEFzSW50KCkpLnN1bSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGltaXRhdGlvbi5nZXRUaW1lcigpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9ibGVtLmdldENpdGllcygpLmZvckVhY2goY2l0eSAtPiByZXN1bHQucHV0KGNpdHkuZ2V0SW5kZXgoKSwgbmV3IGludFtde0FycmF5cy5zdHJlYW0oY2l0eS5nZXREaXN0YW5jZXMoKSkuZmlsdGVyKGkgLT4gaSAhPSAwKS5taW4oKS5nZXRBc0ludCgpLCAwfSkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHRpbWVyID0gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGltZXI7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG1pblRvID0gCiAgICAgICAgICAgIGZvciAoQ2l0eSBjaXR5IDogcHJvYmxlbS5nZXRDaXRpZXMoKSkgewo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgaW50IGdldFRpbWVyKCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBMb2NhbFRpbWUgYmVmb3JlID0gTG9jYWxUaW1lLm5vdygpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>element</text>
       </register>
     </registers>
     <search>
