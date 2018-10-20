@@ -187,10 +187,11 @@
         <mark key="^" line="28" column="48" />
         <mark key="." line="28" column="48" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/BranchAndBound.java" timestamp="1540037834404">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/BranchAndBound.java" timestamp="1540039198545">
+        <mark key="[" line="49" column="36" />
+        <mark key="]" line="49" column="145" />
+        <mark key="." line="49" column="145" />
+        <mark key="^" line="49" column="145" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/initialization/PriorityInitialization.java" timestamp="1539628217759">
         <mark key="[" line="3" column="0" />
@@ -391,7 +392,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gcHJvYmxlbS5nZXRDaXRpZXMoKS5zdHJlYW0oKS5maWx0ZXIobm90KHZpc2l0ZWRDaXRpZXM6OmNvbnRhaW5zKSkuIC8vIEV2ZXJ5IGNpdHkgaXMgdmlzaXRlZCBvbmx5IG9uY2UKICAgICAgICAgICAgICAgIG1hcChpIC0+IGZpbmRTaG9ydGVzdERpc3RhbmNlKGFwcGVuZFRvRGVxdWUodmlzaXRlZENpdGllcywgaSksIGRpc3RhbmNlICsgdmlzaXRlZENpdGllcy5nZXRMYXN0KCkuZ2V0RGlzdGFuY2VzKClbaS5nZXRJbmRleCgpXSkpLiAvLyBJbnN0YW50aWF0aW5nIG5ldyBzb2x1dGlvbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>currentSolution.getDistance() + currentSolution.getCities().getLast().getDistances()[cityTo.getIndex()];</text>
       </register>
     </registers>
     <search>
