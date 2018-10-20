@@ -189,10 +189,10 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/BranchAndBound.java" timestamp="1540053472085">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/BranchAndBound.java" timestamp="1540053510165">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/initialization/PriorityInitialization.java" timestamp="1540047619843">
         <mark key="[" line="16" column="80" />
@@ -373,34 +373,34 @@
         <text encoding="base64">Y2l0aWVzLnN0cmVhbSgpLm1hcFRvSW50KGNpdHkgLT4gQXJyYXlzLnN0cmVhbShjaXR5LmdldERpc3RhbmNlcygpKS5taW4oKS5nZXRBc0ludCgpKS5zdW0oKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNhbmRpZGF0ZXMuc2l6ZSgpIC0gYmVmKTsK</text>
       </register>
       <register name="&quot;" type="4">
         <text>Problem problem</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBiZWYgPSBjYW5kaWRhdGVzLnNpemUoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2l0eSBsYXN0Q2l0eSA9IGN1cnJlbnRTb2x1dGlvbi5nZXRDaXRpZXMoKS5nZXRMYXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGN1cnJlbnRTb2x1dGlvbi5nZXRMb3dlckxpbWl0KCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWx0ZXIoY3VycmVudFNvbHV0aW9uLmdldERpc3RhbmNlKCkgKyBsYXN0Q2l0eS5nZXREaXN0YW5jZXMoKVtdKQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGltaXRhdGlvbi5nZXRUaW1lcigpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHRpbWVyID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2l0eSBsYXN0Q2l0eSA9IGN1cnJlbnRTb2x1dGlvbi5nZXRDaXRpZXMoKS5nZXRMYXN0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGltZXI7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWx0ZXIoY3VycmVudFNvbHV0aW9uLmdldERpc3RhbmNlKCkgKyBsYXN0Q2l0eS5nZXREaXN0YW5jZXMoKVtdKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgaW50IGdldFRpbWVyKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGltaXRhdGlvbi5nZXRUaW1lcigpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbFRpbWUgYmVmb3JlID0gTG9jYWxUaW1lLm5vdygpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IHRpbWVyID0gMDsK</text>
       </register>
       <register name="-" type="4">
         <text>element</text>
