@@ -114,8 +114,11 @@
         <mark key="]" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/model/Solution.java" timestamp="1540032195541">
-        <mark key="[" line="8" column="17" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/model/Solution.java" timestamp="1540037805730">
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="34" column="27" />
+        <mark key="^" line="34" column="27" />
+        <mark key="." line="34" column="27" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/converter/AveragingArff2LibSvmConverter.java" timestamp="1536870184782">
         <mark key="[" line="9" column="22" />
@@ -178,16 +181,16 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/SimpleLimitation.java" timestamp="1540034532023">
-        <mark key="[" line="7" column="52" />
-        <mark key="]" line="11" column="7" />
-        <mark key="^" line="11" column="7" />
-        <mark key="." line="11" column="7" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/SimpleLimitation.java" timestamp="1540038224061">
+        <mark key="[" line="27" column="15" />
+        <mark key="]" line="28" column="48" />
+        <mark key="^" line="28" column="48" />
+        <mark key="." line="28" column="48" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/BranchAndBound.java" timestamp="1540035283967">
-        <mark key="[" line="49" column="138" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/BranchAndBound.java" timestamp="1540037834404">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/initialization/PriorityInitialization.java" timestamp="1539628217759">
         <mark key="[" line="3" column="0" />
@@ -311,11 +314,11 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/Limitation.java" timestamp="1540034087580">
-        <mark key="[" line="8" column="48" />
-        <mark key="]" line="8" column="45" />
-        <mark key="^" line="8" column="45" />
-        <mark key="." line="8" column="45" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/Limitation.java" timestamp="1540037699987">
+        <mark key="[" line="12" column="63" />
+        <mark key="]" line="12" column="48" />
+        <mark key="^" line="12" column="48" />
+        <mark key="." line="12" column="48" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/limitation/ExclusiveLimitation.java" timestamp="1539628229742">
         <mark key="[" line="3" column="0" />
@@ -355,40 +358,40 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFNvbHV0aW9uIGZpbmRCZXN0U29sdXRpb24oKSB7CiAgICAgICAgU29sdXRpb24gYmVzdFNvbHV0aW9uID0gbnVsbDsKICAgICAgICB1cHBlckxpbWl0ID0gZ2V0V29yc3RDYXNlVXBwZXJMaW1pdCgpOwogICAgICAgIGNhbmRpZGF0ZXMgPSBpbml0aWFsaXphdGlvbi5pbml0aWFsaXplU29sdXRpb25RdWV1ZShwcm9ibGVtLmdldENpdGllcygpLmdldCgwKSwgdXBwZXJMaW1pdCk7IC8vIFF1ZXVlIGlzIGluaXRpYWxpemVkIChkZXBlbmRpbmcgb24gSW5pdGlhbGl6YXRpb24gaW1wbGVtZW50YXRpb24gY2FuIGJlIHByaW9yaXR5LWF3YXJlKQogICAgICAgIHdoaWxlICghY2FuZGlkYXRlcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgU29sdXRpb24gY3VycmVudFNvbHV0aW9uID0gY2FuZGlkYXRlcy5yZW1vdmUoKTsKICAgICAgICAgICAgaWYgKGN1cnJlbnRTb2x1dGlvbi5nZXRDaXRpZXMoKS5zaXplKCkgPT0gcHJvYmxlbS5nZXRDaXRpZXMoKS5zaXplKCkpIHsgLy8gRXZlcnkgY2l0eSBoYXMgYmVlbiB2aXNpdGVkCiAgICAgICAgICAgICAgICBpbnQgY3VycmVudERpc3RhbmNlID0gY3VycmVudFNvbHV0aW9uLmdldERpc3RhbmNlKCkgKyBjdXJyZW50U29sdXRpb24uZ2V0Q2l0aWVzKCkuZ2V0TGFzdCgpLmdldERpc3RhbmNlcygpWzBdOyAvLyBNdXN0IGJlIGEgZnVsbCBjeWNsZQogICAgICAgICAgICAgICAgYmVzdFNvbHV0aW9uID0gYmVzdFNvbHV0aW9uID09IG51bGwgfHwgYmVzdFNvbHV0aW9uLmdldERpc3RhbmNlKCkgPiBjdXJyZW50RGlzdGFuY2UgPyBuZXcgU29sdXRpb24oY3VycmVudFNvbHV0aW9uLmdldENpdGllcygpLCBjdXJyZW50RGlzdGFuY2UpIDogYmVzdFNvbHV0aW9uOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGZvciAoQ2l0eSBjaXR5IDogcHJvYmxlbS5nZXRDaXRpZXMoKSkgewogICAgICAgICAgICAgICAgaWYgKGN1cnJlbnRTb2x1dGlvbi5nZXRDaXRpZXMoKS5jb250YWlucyhjaXR5KSkgY29udGludWU7IC8vIEV2ZXJ5IGNpdHkgaXMgdmlzaXRlZCBvbmx5IG9uY2UKICAgICAgICAgICAgICAgIFNvbHV0aW9uIHBvc3NpYmxlU29sdXRpb24gPSBuZXcgU29sdXRpb24oYXBwZW5kVG9EZXF1ZShjdXJyZW50U29sdXRpb24uZ2V0Q2l0aWVzKCksIGNpdHkpLAogICAgICAgICAgICAgICAgICAgICAgICBjdXJyZW50U29sdXRpb24uZ2V0RGlzdGFuY2UoKSArIGN1cnJlbnRTb2x1dGlvbi5nZXRDaXRpZXMoKS5nZXRMYXN0KCkuZ2V0RGlzdGFuY2VzKClbY2l0eS5nZXRJbmRleCgpXSk7IC8vIE5ldyBwb3NzaWJsZSBzb2x1dGlvbiBpcyBjb25zdHJ1Y3RlZCBieSBhZGRpbmcgYW5vdGhlciBjaXR5IHRvIHJvdXRlCiAgICAgICAgICAgICAgICBpbnQgY3VycmVudFVwcGVyTGltaXQgPSBsaW1pdGF0aW9uLmdldFVwcGVyTGltaXQocHJvYmxlbSwgcG9zc2libGVTb2x1dGlvbik7IC8vIFVwcGVyIGxpbWl0IGZvciBuZXcgc29sdXRpb24KICAgICAgICAgICAgICAgIGlmICh1cHBlckxpbWl0ID4gY3VycmVudFVwcGVyTGltaXQpIHVwcGVyTGltaXQgPSBjdXJyZW50VXBwZXJMaW1pdDsgLy8gVXBkYXRlIHZhbHVlIG9mIGdsb2JhbCB1cHBlciBsaW1pdAogICAgICAgICAgICAgICAgaW50IGxvd2VyTGltaXQgPSBsaW1pdGF0aW9uLmdldExvd2VyTGltaXQocHJvYmxlbSwgcG9zc2libGVTb2x1dGlvbik7IC8vIExvd2VyIGxpbWl0IG9mIGN1cnJlbnQgc29sdXRpb24KICAgICAgICAgICAgICAgIGlmIChsb3dlckxpbWl0IDw9IHVwcGVyTGltaXQpIHsgLy8gSWYgbG93ZXIgbGltaXQgb2YgdGhlIHNvbHV0aW9uIGlzIGdyZWF0ZXIgdGhhbiBnbG9iYWwgdXBwZXIgLSBubyBjYW5kaWRhdGUKICAgICAgICAgICAgICAgICAgICBwb3NzaWJsZVNvbHV0aW9uLnNldFBpb3JpdHkobG93ZXJMaW1pdCk7IC8vIEhhcyBlZmZlY3Qgb25seSBpbiBjYXNlIG9mIHByaW9yaXR5IGluaXRpYWxpemF0aW9uCiAgICAgICAgICAgICAgICAgICAgY2FuZGlkYXRlcy5vZmZlcihwb3NzaWJsZVNvbHV0aW9uKTsgLy8gQWRkaW5nIGNhbmRpZGF0ZSB0byBxdWV1ZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gYmVzdFNvbHV0aW9uOwogICAgfQ==</text>
+        <text encoding="base64">Y2l0aWVzLnN0cmVhbSgpLm1hcFRvSW50KGNpdHkgLT4gQXJyYXlzLnN0cmVhbShjaXR5LmdldERpc3RhbmNlcygpKS5taW4oKS5nZXRBc0ludCgpKS5zdW0oKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXdMaW1pdCk7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2hvcnRlc3RSb3V0ZSk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="&quot;" type="4">
         <text>Problem problem</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYmVzdERpc3RhbmNlID0gMDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGNhbGN1bGF0ZVdvcnN0Q2FzZShMaXN0PENpdHk+IGNpdGllcykgewogICAgICAgIHJldHVybiBjaXRpZXMuc3RyZWFtKCkubWFwVG9JbnQoY2l0eSAtPiBBcnJheXMuc3RyZWFtKGNpdHkuZ2V0RGlzdGFuY2VzKCkpLm1heCgpLmdldEFzSW50KCkpLnN1bSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbG93ZXN0TGltaXQgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuZXdMaW1pdCk7CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2hvcnRlc3RSb3V0ZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImsiKTsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYmVzdERpc3RhbmNlID0gMDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIFNvbHV0aW9uIGZpbmRTaG9ydGVzdERpc3RhbmNlKERlcXVlPENpdHk+IHZpc2l0ZWRDaXRpZXMsIGludCBkaXN0YW5jZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbG93ZXN0TGltaXQgPSA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodmlzaXRlZENpdGllcy5zaXplKCkgPT0gcHJvYmxlbS5nZXRDaXRpZXMoKS5zaXplKCkpCiAgICAgICAgICAgIHJldHVybiBuZXcgU29sdXRpb24odmlzaXRlZENpdGllcywgZGlzdGFuY2UgKyB2aXNpdGVkQ2l0aWVzLmdldExhc3QoKS5nZXREaXN0YW5jZXMoKVswXSk7IC8vIE11c3QgYmUgYSBmdWxsIGN5Y2xlCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImsiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcHJvYmxlbS5nZXRDaXRpZXMoKS5zdHJlYW0oKS5maWx0ZXIobm90KHZpc2l0ZWRDaXRpZXM6OmNvbnRhaW5zKSkuIC8vIEV2ZXJ5IGNpdHkgaXMgdmlzaXRlZCBvbmx5IG9uY2UKICAgICAgICAgICAgICAgIG1hcChpIC0+IGZpbmRTaG9ydGVzdERpc3RhbmNlKGFwcGVuZFRvRGVxdWUodmlzaXRlZENpdGllcywgaSksIGRpc3RhbmNlICsgdmlzaXRlZENpdGllcy5nZXRMYXN0KCkuZ2V0RGlzdGFuY2VzKClbaS5nZXRJbmRleCgpXSkpLiAvLyBJbnN0YW50aWF0aW5nIG5ldyBzb2x1dGlvbgo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIFNvbHV0aW9uIGZpbmRTaG9ydGVzdERpc3RhbmNlKERlcXVlPENpdHk+IHZpc2l0ZWRDaXRpZXMsIGludCBkaXN0YW5jZSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1pbihDb21wYXJhdG9yLmNvbXBhcmluZyhTb2x1dGlvbjo6Z2V0RGlzdGFuY2UpKS5vckVsc2VUaHJvdygoKSAtPiBuZXcgUnVudGltZUV4Y2VwdGlvbigiTm8gc29sdXRpb25zIikpOyAvLyBGaW5kaW5nIG1pbmltYWwgc29sdXRpb24gKGNvbXBhcmluZyBkaXN0YW5jZSkKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAodmlzaXRlZENpdGllcy5zaXplKCkgPT0gcHJvYmxlbS5nZXRDaXRpZXMoKS5zaXplKCkpCiAgICAgICAgICAgIHJldHVybiBuZXcgU29sdXRpb24odmlzaXRlZENpdGllcywgZGlzdGFuY2UgKyB2aXNpdGVkQ2l0aWVzLmdldExhc3QoKS5nZXREaXN0YW5jZXMoKVswXSk7IC8vIE11c3QgYmUgYSBmdWxsIGN5Y2xlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcChpdGVtIC0+IHVwcGVyTGltaXQgPSBtaW4odXBwZXJMaW1pdCwgbGltaXRhdGlvbi5nZXRMb3dlckxpbWl0KGl0ZW0pKSkuCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcHJvYmxlbS5nZXRDaXRpZXMoKS5zdHJlYW0oKS5maWx0ZXIobm90KHZpc2l0ZWRDaXRpZXM6OmNvbnRhaW5zKSkuIC8vIEV2ZXJ5IGNpdHkgaXMgdmlzaXRlZCBvbmx5IG9uY2UKICAgICAgICAgICAgICAgIG1hcChpIC0+IGZpbmRTaG9ydGVzdERpc3RhbmNlKGFwcGVuZFRvRGVxdWUodmlzaXRlZENpdGllcywgaSksIGRpc3RhbmNlICsgdmlzaXRlZENpdGllcy5nZXRMYXN0KCkuZ2V0RGlzdGFuY2VzKClbaS5nZXRJbmRleCgpXSkpLiAvLyBJbnN0YW50aWF0aW5nIG5ldyBzb2x1dGlvbgo=</text>
       </register>
       <register name="-" type="4">
-        <text>limitation.calculateLowestLimit(problem.getCities())</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
