@@ -391,6 +391,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/runner/ScratchRunner.kt" timestamp="1540221192451">
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="20" />
+        <mark key="." line="31" column="20" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/runner/LoadRunner.java" timestamp="1540098839176">
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="33" />
@@ -605,10 +610,10 @@
         <mark key="^" line="2" column="4" />
         <mark key="." line="2" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.kt" timestamp="1540151047236">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.kt" timestamp="1540220815008">
+        <mark key="[" line="40" column="70" />
+        <mark key="]" line="40" column="71" />
+        <mark key="." line="40" column="71" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/Limitation.java" timestamp="1540059424209">
         <mark key="[" line="0" column="20" />
@@ -1003,6 +1008,12 @@
         <mark key="^" line="7" column="28" />
         <mark key="." line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/Workspace/Java/clf-integration/src/main/java/jb/data/Problem.kt" timestamp="1540221111605">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="43" />
+        <mark key="." line="6" column="43" />
+        <mark key="^" line="6" column="43" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/Tester.java" timestamp="1537041866098">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="10" />
@@ -1279,8 +1290,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBKdm1TdGF0aWMK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBKdm1TdGF0aWMK</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">NSAgIDggICA0ICAgMyAgIDUgICA2ICAgOCAgIDMgICA4ICAgNyAgIDMgICAyICAgOSAgIDggICAyICAgNCAgIDAK</text>
@@ -1307,7 +1318,7 @@
         <text encoding="base64">ICAgICAgICB0aGlzLmxpbWl0YXRpb24uaW5pdGlhbGl6ZUxvd2VzdFZhbHVlc0RpY3QocHJvYmxlbSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgOQ==</text>
+        <text>c</text>
       </register>
     </registers>
     <search>
