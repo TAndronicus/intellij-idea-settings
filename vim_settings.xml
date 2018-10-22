@@ -220,7 +220,7 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/Problem.kt" timestamp="1538237682688">
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/Problem.kt" timestamp="1540224483061">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
@@ -533,6 +533,13 @@
         <mark key="[" line="59" column="0" />
         <mark key="]" line="85" column="4" />
         <mark key="." line="86" column="0" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/BReader.kt" timestamp="1540225069678">
+        <mark key="'" line="92" column="0" />
+        <mark key="[" line="26" column="29" />
+        <mark key="]" line="26" column="61" />
+        <mark key="." line="26" column="61" />
+        <mark key="^" line="26" column="61" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/gs-accessing-mongodb-data-rest/complete/src/main/application.properties" timestamp="1532888831900">
         <mark key="[" line="0" column="24" />
@@ -1062,6 +1069,9 @@
         <mark key="^" line="33" column="27" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="/fragment.kt" timestamp="1540224484702">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/demo/Recv.java" timestamp="1531042809498">
         <mark key="[" line="29" column="12" />
         <mark key="]" line="30" column="13" />
@@ -1186,6 +1196,11 @@
         <mark key="^" line="12" column="52" />
         <mark key="." line="12" column="52" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Trying.kt" timestamp="1540224420871">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/trainer/SVMTrainer.java" timestamp="1537120489752">
         <mark key="[" line="18" column="41" />
         <mark key="]" line="17" column="20" />
@@ -1272,7 +1287,6 @@
       <jump line="18" column="17" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/BReader.kt" />
       <jump line="98" column="1" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/BReader.kt" />
       <jump line="55" column="40" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/BReader.kt" />
-      <jump line="91" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/BReader.kt" />
       <jump line="4" column="21" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/IntegratedModel.java" />
       <jump line="39" column="0" filename="$USER_HOME$/Workspace/Java/pea1/src/main/java/jb/runner/BruteSearch.java" />
       <jump line="23" column="15" filename="$USER_HOME$/Workspace/Java/pea1/src/main/java/jb/algorithms/Dynamic.java" />
@@ -1282,43 +1296,44 @@
       <jump line="100" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Contributions/gradle-node-plugin/src/main/groovy/com/moowork/gradle/node/task/NodeTask.groovy" />
       <jump line="8" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Contributions/gradle-node-plugin/src/main/groovy/com/moowork/gradle/node/util/PlatformHelper.groovy" />
       <jump line="160" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Contributions/gradle-node-plugin/src/main/groovy/com/moowork/gradle/node/variant/VariantBuilder.groovy" />
+      <jump line="91" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/BReader.kt" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>void initializeLowestValuesDict(Problem problem)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKdm1TdGF0aWMK</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name="&quot;" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">NSAgIDggICA0ICAgMyAgIDUgICA2ICAgOCAgIDMgICA4ICAgNyAgIDMgICAyICAgOSAgIDggICAyICAgNCAgIDAK</text>
+        <text encoding="base64">dmFyIGFyID0gRG91YmxlQXJyYXkoNSkKdmFyIHMgPSBhclswXQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIGJsZW0K</text>
+      <register name="3" type="4">
+        <text encoding="base64">cGFja2FnZSBqYi5ydW5uZXIKCi8qZnVuIG1haW4oYXJnczogQXJyYXk8U3RyaW5nPikgewogICAgdmFyIGw6IFN0cmluZz8gPSBudWxsCiAgICB2YXIgayA9IGw/Lmxlbmd0aAogICAgcHJpbnQoLTEuNzEgaW4gLTEuMC0uNy4uMi4wKQp9Cio=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpKTsK</text>
+        <text encoding="base64">ICAgIEBKdm1TdGF0aWMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGpiLmFsZ29yaXRobS5saW1pdGF0aW9uLkV4Y2x1c2l2ZUxpbWl0YXRpb247Cg==</text>
+        <text encoding="base64">NSAgIDggICA0ICAgMyAgIDUgICA2ICAgOCAgIDMgICA4ICAgNyAgIDMgICAyICAgOSAgIDggICAyICAgNCAgIDAK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgogICAgcHJpdmF0ZSBQcm9ibGVtIHByb2JsZW07CiAgICBwcml2YXRlIEluaXRpYWxpemF0aW9uIGluaXRpYWxpemF0aW9uOwogICAgcHJpdmF0ZSBMaW1pdGF0aW9uIGxpbWl0YXRpb247CgogICAgcHVibGljIEJyYW5jaEFuZEJvdW5kKFByb2JsZW0gcHJvYmxlbSkgewogICAgICAgIHRoaXMucHJvYmxlbSA9IHByb2JsZW07CiAgICAgICAgdGhpcy5pbml0aWFsaXphdGlvbiA9IG5ldyBQcmlvcml0eUluaXRpYWxpemF0aW9uKCk7CiAgICAgICAgdGhpcy5saW1pdGF0aW9uID0gbmV3IFR3b1dheUxpbWl0YXRpb24oKTsKICAgICAgICB0aGlzLmxpbWl0YXRpb24uaW5pdGlhbGl6ZUxvd2VzdFZhbHVlc0RpY3QocHJvYmxlbSk7CiAgICB9CgogICAgcHVibGljIEJyYW5jaEFuZEJvdW5kKFByb2JsZW0gcHJvYmxlbSwgSW5pdGlhbGl6YXRpb24gaW5pdGlhbGl6YXRpb24pIHsKICAgICAgICB0aGlzLnByb2JsZW0gPSBwcm9ibGVtOwogICAgICAgIHRoaXMuaW5pdGlhbGl6YXRpb24gPSBpbml0aWFsaXphdGlvbjsKICAgICAgICB0aGlzLmxpbWl0YXRpb24gPSBuZXcgVHdvV2F5TGltaXRhdGlvbigpOwogICAgICAgIHRoaXMubGltaXRhdGlvbi5pbml0aWFsaXplTG93ZXN0VmFsdWVzRGljdChwcm9ibGVtKTsKICAgIH0KCiAgICBwdWJsaWMgQnJhbmNoQW5kQm91bmQoUHJvYmxlbSBwcm9ibGVtLCBMaW1pdGF0aW9uIGxpbWl0YXRpb24pIHsKICAgICAgICB0aGlzLnByb2JsZW0gPSBwcm9ibGVtOwogICAgICAgIHRoaXMubGltaXRhdGlvbiA9IGxpbWl0YXRpb247CiAgICAgICAgdGhpcy5saW1pdGF0aW9uLmluaXRpYWxpemVMb3dlc3RWYWx1ZXNEaWN0KHByb2JsZW0pOwogICAgICAgIHRoaXMuaW5pdGlhbGl6YXRpb24gPSBuZXcgUHJpb3JpdHlJbml0aWFsaXphdGlvbigpOwogICAgfQoKICAgIHB1YmxpYyBCcmFuY2hBbmRCb3VuZChQcm9ibGVtIHByb2JsZW0sIEluaXRpYWxpemF0aW9uIGluaXRpYWxpemF0aW9uLCBMaW1pdGF0aW9uIGxpbWl0YXRpb24pIHsKICAgICAgICB0aGlzLnByb2JsZW0gPSBwcm9ibGVtOwogICAgICAgIHRoaXMuaW5pdGlhbGl6YXRpb24gPSBpbml0aWFsaXphdGlvbjsKICAgICAgICB0aGlzLmxpbWl0YXRpb24gPSBsaW1pdGF0aW9uOwogICAgICAgIHRoaXMubGltaXRhdGlvbi5pbml0aWFsaXplTG93ZXN0VmFsdWVzRGljdChwcm9ibGVtKTsKICAgIH0=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqIGJsZW0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyB7CiAgICAgICAgbGltaXRhdGlvbi5pbml0aWFsaXplTG93ZXN0VmFsdWVzRGljdChwcm9ibGVtKTsK</text>
+        <text encoding="base64">aW1wb3J0IGpiLmFsZ29yaXRobS5saW1pdGF0aW9uLkV4Y2x1c2l2ZUxpbWl0YXRpb247Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmxpbWl0YXRpb24uaW5pdGlhbGl6ZUxvd2VzdFZhbHVlc0RpY3QocHJvYmxlbSk7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CgogICAgcHJpdmF0ZSBQcm9ibGVtIHByb2JsZW07CiAgICBwcml2YXRlIEluaXRpYWxpemF0aW9uIGluaXRpYWxpemF0aW9uOwogICAgcHJpdmF0ZSBMaW1pdGF0aW9uIGxpbWl0YXRpb247CgogICAgcHVibGljIEJyYW5jaEFuZEJvdW5kKFByb2JsZW0gcHJvYmxlbSkgewogICAgICAgIHRoaXMucHJvYmxlbSA9IHByb2JsZW07CiAgICAgICAgdGhpcy5pbml0aWFsaXphdGlvbiA9IG5ldyBQcmlvcml0eUluaXRpYWxpemF0aW9uKCk7CiAgICAgICAgdGhpcy5saW1pdGF0aW9uID0gbmV3IFR3b1dheUxpbWl0YXRpb24oKTsKICAgICAgICB0aGlzLmxpbWl0YXRpb24uaW5pdGlhbGl6ZUxvd2VzdFZhbHVlc0RpY3QocHJvYmxlbSk7CiAgICB9CgogICAgcHVibGljIEJyYW5jaEFuZEJvdW5kKFByb2JsZW0gcHJvYmxlbSwgSW5pdGlhbGl6YXRpb24gaW5pdGlhbGl6YXRpb24pIHsKICAgICAgICB0aGlzLnByb2JsZW0gPSBwcm9ibGVtOwogICAgICAgIHRoaXMuaW5pdGlhbGl6YXRpb24gPSBpbml0aWFsaXphdGlvbjsKICAgICAgICB0aGlzLmxpbWl0YXRpb24gPSBuZXcgVHdvV2F5TGltaXRhdGlvbigpOwogICAgICAgIHRoaXMubGltaXRhdGlvbi5pbml0aWFsaXplTG93ZXN0VmFsdWVzRGljdChwcm9ibGVtKTsKICAgIH0KCiAgICBwdWJsaWMgQnJhbmNoQW5kQm91bmQoUHJvYmxlbSBwcm9ibGVtLCBMaW1pdGF0aW9uIGxpbWl0YXRpb24pIHsKICAgICAgICB0aGlzLnByb2JsZW0gPSBwcm9ibGVtOwogICAgICAgIHRoaXMubGltaXRhdGlvbiA9IGxpbWl0YXRpb247CiAgICAgICAgdGhpcy5saW1pdGF0aW9uLmluaXRpYWxpemVMb3dlc3RWYWx1ZXNEaWN0KHByb2JsZW0pOwogICAgICAgIHRoaXMuaW5pdGlhbGl6YXRpb24gPSBuZXcgUHJpb3JpdHlJbml0aWFsaXphdGlvbigpOwogICAgfQoKICAgIHB1YmxpYyBCcmFuY2hBbmRCb3VuZChQcm9ibGVtIHByb2JsZW0sIEluaXRpYWxpemF0aW9uIGluaXRpYWxpemF0aW9uLCBMaW1pdGF0aW9uIGxpbWl0YXRpb24pIHsKICAgICAgICB0aGlzLnByb2JsZW0gPSBwcm9ibGVtOwogICAgICAgIHRoaXMuaW5pdGlhbGl6YXRpb24gPSBpbml0aWFsaXphdGlvbjsKICAgICAgICB0aGlzLmxpbWl0YXRpb24gPSBsaW1pdGF0aW9uOwogICAgICAgIHRoaXMubGltaXRhdGlvbi5pbml0aWFsaXplTG93ZXN0VmFsdWVzRGljdChwcm9ibGVtKTsKICAgIH0=</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>if (bClfObject.wt == 0) bClfObject.zb - 1 else 10</text>
       </register>
     </registers>
     <search>
