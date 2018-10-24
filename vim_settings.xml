@@ -485,11 +485,6 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Dokumenty/Uczelnia/Doktorat/Projektowanie efektywnych algorytmów/rozdzial06.tex" timestamp="1540408540414">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/tester/IntegratedScoreTesterTest.java" timestamp="1538199692304">
         <mark key="[" line="44" column="44" />
         <mark key="]" line="44" column="45" />
@@ -1355,22 +1350,22 @@
         <text>void initializeLowestValuesDict(Problem problem)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2VbdXRmOF17aW5wdXRlbmN9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2VbVDFde2ZvbnRlbmN9Cgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGpiLmNvbmZpZy5Db25zdGFudHMuRVBTSUxPTgo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IGpiLnV0aWwuQlV0aWxzLmFsbFBlcm11dGF0aW9ucwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IGpiLmNvbmZpZy5Db25zdGFudHMubW9kZWxzUGF0aAo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1379,10 +1374,10 @@
         <text encoding="base64">aW1wb3J0IGpiLmNvbmZpZy5Db25zdGFudHMubW9kZWxzUGF0aAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBKdm1TdGF0aWMKICAgIHZhbCBhbGxQZXJtdXRhdGlvbnM6IE11dGFibGVMaXN0PEludEFycmF5Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGpiLmNvbmZpZy5Db25zdGFudHMubW9kZWxzUGF0aAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
