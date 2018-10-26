@@ -203,11 +203,11 @@
         <mark key="]" line="87" column="54" />
         <mark key="." line="87" column="54" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/limitation/SimpleLimitation.java" timestamp="1540581924100">
-        <mark key="[" line="33" column="106" />
-        <mark key="]" line="33" column="85" />
-        <mark key="." line="33" column="85" />
-        <mark key="^" line="33" column="85" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/limitation/SimpleLimitation.java" timestamp="1540585021141">
+        <mark key="[" line="34" column="8" />
+        <mark key="]" line="56" column="64" />
+        <mark key="." line="56" column="64" />
+        <mark key="^" line="57" column="4" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ValidatingTestingDataset.java" timestamp="1537201313659">
         <mark key="[" line="9" column="39" />
@@ -855,7 +855,7 @@
         <mark key="." line="34" column="15" />
         <mark key="^" line="34" column="15" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/runner/Runner.java" timestamp="1540582660847">
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/runner/Runner.java" timestamp="1540584810600">
         <mark key="[" line="29" column="53" />
         <mark key="]" line="29" column="54" />
         <mark key="." line="29" column="54" />
@@ -1355,8 +1355,8 @@
       <jump line="61" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.kt" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>currentLimit - lowestValues.get(from.getIndex()) / 2 - lowestValues.get(to.getIndex()) / 2 + from.getDistances()[to.getIndex()]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gY3VycmVudExpbWl0IC0gbG93ZXN0VmFsdWVzLmdldChmcm9tLmdldEluZGV4KCkpIC8gMiAtIGxvd2VzdFZhbHVlcy5nZXQodG8uZ2V0SW5kZXgoKSkgLyAyICsgZnJvbS5nZXREaXN0YW5jZXMoKVt0by5nZXRJbmRleCgpXTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY3VycmVudCArPSB0ZW1wOwo=</text>
@@ -1389,7 +1389,7 @@
         <text encoding="base64">aW1wb3J0IGpiLnV0aWwuQlV0aWxzLmFsbFBlcm11dGF0aW9ucwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KyspIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
