@@ -653,7 +653,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1540618751578">
+      <file name="/fragment.java" timestamp="1540626999181">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="13" />
@@ -1161,11 +1161,11 @@
         <mark key="." line="31" column="53" />
         <mark key="^" line="31" column="53" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/Dynamic.java" timestamp="1540624639101">
-        <mark key="[" line="53" column="9" />
-        <mark key="]" line="52" column="87" />
-        <mark key="." line="52" column="87" />
-        <mark key="^" line="52" column="87" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/Dynamic.java" timestamp="1540627021179">
+        <mark key="[" line="76" column="27" />
+        <mark key="]" line="73" column="80" />
+        <mark key="." line="73" column="80" />
+        <mark key="^" line="73" column="80" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/ClfObjectDoubleSorted.java" timestamp="1537200760353">
         <mark key="[" line="0" column="15" />
@@ -1361,40 +1361,40 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>problem.getCities().get(0).getDistances()[item]</text>
+        <text>appendToDeque(previousSolutions.get(el).getCities(), problem.getCities().get(item))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicmVtb3ZpbmciKTsK</text>
+        <text encoding="base64">ICAgICAgICBTZXQ8U29sdXRpb24+IHBvc3NpYmxlU29sdXRpb25zID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
       </register>
       <register name="&quot;" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYi51dGlsLk1vZGVsVXRpbHMuY2FsY3VsYXRlU2NvcmVGcm9tQ29uZk1hdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBub3RpZmllZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicmVtb3ZpbmciKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYi51dGlsLk1vZGVsVXRpbHMuY2FsY3VsYXRlU2NvcmVGcm9tQ29uZk1hdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCFub3RpZmllZCkgewogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUmVtb3ZpbmciKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBub3RpZmllZCA9IGZhbHNlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudCArPSB0ZW1wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkgKyAiLT4iICsgKGkgKyAxKSArICI6IiArIHRlbXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCFub3RpZmllZCkgewogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUmVtb3ZpbmciKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBEZXF1ZTxDaXR5PiBjbG9uZSA9IG5ldyBMaW5rZWRMaXN0PD4ocGF0aCk7CiAgICAgICAgY2xvbmUucmVtb3ZlRmlyc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudCArPSB0ZW1wOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNhbmRpZGF0ZXMuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkgKyAiLT4iICsgKGkgKyAxKSArICI6IiArIHRlbXApOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>el</text>
       </register>
     </registers>
     <search>
