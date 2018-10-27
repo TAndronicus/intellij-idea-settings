@@ -485,6 +485,9 @@
         <mark key="." line="5" column="31" />
         <mark key="^" line="5" column="31" />
       </file>
+      <file name="$USER_HOME$/Workspace/Java/pea/src/main/java/jb/algorithm/limitation/SimpleLimitation.java" timestamp="1540486819238">
+        <mark key="[" line="21" column="28" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/test/java/jb/tester/IntegratedScoreTesterTest.java" timestamp="1538199692304">
         <mark key="[" line="44" column="44" />
         <mark key="]" line="44" column="45" />
@@ -668,6 +671,12 @@
         <mark key="[" line="21" column="83" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/Java/pea/src/main/java/jb/files/FileReader.java" timestamp="1540486448647">
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="32" />
+        <mark key="." line="24" column="32" />
+        <mark key="^" line="22" column="15" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/MVConfMatTester.java" timestamp="1537296794593">
         <mark key="[" line="10" column="13" />
@@ -1147,6 +1156,12 @@
         <mark key="." line="12" column="94" />
         <mark key="^" line="12" column="37" />
       </file>
+      <file name="$USER_HOME$/Workspace/Java/pea/src/main/java/jb/runner/Runner.java" timestamp="1540487791491">
+        <mark key="[" line="29" column="53" />
+        <mark key="]" line="29" column="54" />
+        <mark key="." line="29" column="54" />
+        <mark key="^" line="44" column="35" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/trainer/SVMTrainer.java" timestamp="1535733988982">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="14" />
@@ -1340,14 +1355,14 @@
       <jump line="61" column="0" filename="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.kt" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>void initializeLowestValuesDict(Problem problem)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBQcm9ibGVtIHByb2JsZW0gPSByZWFkUHJvYmxlbSgiL2hvbWUvamIvRG93bmxvYWRzL3RzcF8xNy50eHQiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>Downloads/tsp_17.txt</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IGpiLmNvbmZpZy5Db25zdGFudHMuRVBTSUxPTgo=</text>
@@ -1374,7 +1389,7 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Downloads/tsp_17.txt</text>
       </register>
     </registers>
     <search>
