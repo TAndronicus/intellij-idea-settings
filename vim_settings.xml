@@ -1196,11 +1196,10 @@
         <mark key="^" line="15" column="7" />
         <mark key="." line="15" column="7" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/BranchAndBound.java" timestamp="1540612529552">
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="8" />
-        <mark key="^" line="29" column="61" />
-        <mark key="." line="24" column="8" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/BranchAndBound.java" timestamp="1540614306136">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/jb/algorithm/initialization/PriorityInitialization.java" timestamp="1539492595776">
         <mark key="[" line="21" column="0" />
@@ -1364,34 +1363,34 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gY3VycmVudExpbWl0IC0gbG93ZXN0VmFsdWVzLmdldChmcm9tLmdldEluZGV4KCkpIC8gMiAtIGxvd2VzdFZhbHVlcy5nZXQodG8uZ2V0SW5kZXgoKSkgLyAyICsgZnJvbS5nZXREaXN0YW5jZXMoKVt0by5nZXRJbmRleCgpXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudCArPSB0ZW1wOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBub3RpZmllZCA9IGZhbHNlOwo=</text>
       </register>
       <register name="&quot;" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkgKyAiLT4iICsgKGkgKyAxKSArICI6IiArIHRlbXApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBEZXF1ZTxDaXR5PiBjbG9uZSA9IG5ldyBMaW5rZWRMaXN0PD4ocGF0aCk7CiAgICAgICAgY2xvbmUucmVtb3ZlRmlyc3QoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCFub3RpZmllZCkgewogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiUmVtb3ZpbmciKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNhbmRpZGF0ZXMuc2l6ZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3VycmVudCArPSB0ZW1wOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaXRlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkgKyAiLT4iICsgKGkgKyAxKSArICI6IiArIHRlbXApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgICAgICBEZXF1ZTxDaXR5PiBjbG9uZSA9IG5ldyBMaW5rZWRMaXN0PD4ocGF0aCk7CiAgICAgICAgY2xvbmUucmVtb3ZlRmlyc3QoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNhbmRpZGF0ZXMuc2l6ZSgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGpiLmNvbmZpZy5Db25zdGFudHMuRVBTSUxPTgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaXRlbSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGpiLnV0aWwuQlV0aWxzLmFsbFBlcm11dGF0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="-" type="4">
         <text>Queue</text>
