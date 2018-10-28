@@ -390,6 +390,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Scratch.kt" timestamp="1540706797897">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/config/Opts.kt" timestamp="1538213848203">
         <mark key="[" line="9" column="42" />
         <mark key="]" line="12" column="40" />
@@ -550,13 +555,6 @@
         <mark key="]" line="85" column="4" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/files/BReader.kt" timestamp="1540226037411">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="42" column="42" />
-        <mark key="]" line="42" column="46" />
-        <mark key="." line="42" column="46" />
-        <mark key="^" line="42" column="46" />
-      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/gs-accessing-mongodb-data-rest/complete/src/main/application.properties" timestamp="1532888831900">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="1" column="29" />
@@ -575,7 +573,7 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1539626646249">
+      <file name="/Dummy.txt" timestamp="1540706623152">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1078,13 +1076,6 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Runner.kt" timestamp="1540232588396">
-        <mark key="'" line="59" column="0" />
-        <mark key="[" line="30" column="27" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="25" column="3" />
-      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/Tester.java" timestamp="1537041866098">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="10" />
@@ -1185,6 +1176,11 @@
         <mark key="." line="27" column="44" />
         <mark key="^" line="27" column="44" />
       </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/build.gradle" timestamp="1540706890090">
+        <mark key="[" line="25" column="87" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/files/FileReader10Way.java" timestamp="1535657910348">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="12" column="1" />
@@ -1254,6 +1250,11 @@
         <mark key="]" line="12" column="52" />
         <mark key="^" line="12" column="52" />
         <mark key="." line="12" column="52" />
+      </file>
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Trying.kt" timestamp="1540705732971">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/trainer/SVMTrainer.java" timestamp="1537120489752">
         <mark key="[" line="18" column="41" />
@@ -1364,34 +1365,34 @@
         <text>appendToDeque(previousSolutions.get(el).getCities(), problem.getCities().get(item))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbmRpZGF0ZXMgPSBkcm9wcGVkQ2FuZGlkYXRlczsKICAgICAgICAgICAgfSovCg==</text>
+        <text encoding="base64">ICAgIFNwYXJrCg==</text>
       </register>
       <register name="&quot;" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFF1ZXVlPFNvbHV0aW9uPiBkcm9wcGVkQ2FuZGlkYXRlcyA9IG5ldyBQcmlvcml0eVF1ZXVlPD4oQ29tcGFyYXRvci5jb21wYXJpbmcoU29sdXRpb246OmdldExvd2VyTGltaXQpKTsKICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMV8wMDBfMDAwOyBpKyspIGRyb3BwZWRDYW5kaWRhdGVzLm9mZmVyKGNhbmRpZGF0ZXMucmVtb3ZlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2FuZGlkYXRlcy5zaXplKCkpOwogICAgICAgICAgICAvKndoaWxlIChjYW5kaWRhdGVzLnNpemUoKSA+IDVfMDAwXzAwMCkgewo=</text>
+        <text encoding="base64">Ly8gICAgIG1hdmVuIHsgdXJsICJodHRwOi8vcmVwby5tYXZlbi5hcGFjaGUub3JnL21hdmVuMiIgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">Ly8gICAgY29tcGlsZU9ubHkgZ3JvdXA6ICdvcmcucHJvamVjdGxvbWJvaycsIG5hbWU6ICdsb21ib2snLCB2ZXJzaW9uOicxLjE4LjInCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTZXQ8U29sdXRpb24+IHBvc3NpYmxlU29sdXRpb25zID0gbmV3IEhhc2hTZXQ8PigpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">aW1wb3J0IGpiLnJ1bm5lci5UcgoKdmFyIHQgPSBUcigpCmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICAgIHByaW50KHQuaSkKfQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbmRpZGF0ZXMgPSBkcm9wcGVkQ2FuZGlkYXRlczsKICAgICAgICAgICAgfSovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigicmVtb3ZpbmciKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFF1ZXVlPFNvbHV0aW9uPiBkcm9wcGVkQ2FuZGlkYXRlcyA9IG5ldyBQcmlvcml0eVF1ZXVlPD4oQ29tcGFyYXRvci5jb21wYXJpbmcoU29sdXRpb246OmdldExvd2VyTGltaXQpKTsKICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMV8wMDBfMDAwOyBpKyspIGRyb3BwZWRDYW5kaWRhdGVzLm9mZmVyKGNhbmRpZGF0ZXMucmVtb3ZlKCkpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYi51dGlsLk1vZGVsVXRpbHMuY2FsY3VsYXRlU2NvcmVGcm9tQ29uZk1hdDsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2FuZGlkYXRlcy5zaXplKCkpOwogICAgICAgICAgICAvKndoaWxlIChjYW5kaWRhdGVzLnNpemUoKSA+IDVfMDAwXzAwMCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBub3RpZmllZCA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
       </register>
       <register name="-" type="4">
         <text>throw new IOException</text>
