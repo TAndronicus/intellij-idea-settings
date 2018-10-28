@@ -390,10 +390,10 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Scratch.kt" timestamp="1540706797897">
-        <mark key="[" line="2" column="31" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Scratch.kt" timestamp="1540716591137">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/config/Opts.kt" timestamp="1538213848203">
         <mark key="[" line="9" column="42" />
@@ -1365,37 +1365,37 @@
         <text>appendToDeque(previousSolutions.get(el).getCities(), problem.getCities().get(item))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNwYXJrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgIG1hdmVuIHsgdXJsICJodHRwOi8vcmVwby5tYXZlbi5hcGFjaGUub3JnL21hdmVuMiIgfQo=</text>
+        <text encoding="base64">ICAgIGdldCgiLyIpIHsgcmVxLCByZXMgLT4gIkhlbGxvLCBXb3JsZCEiIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZU9ubHkgZ3JvdXA6ICdvcmcucHJvamVjdGxvbWJvaycsIG5hbWU6ICdsb21ib2snLCB2ZXJzaW9uOicxLjE4LjInCg==</text>
+        <text encoding="base64">ICAgIFNwYXJrCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">aW1wb3J0IGpiLnJ1bm5lci5UcgoKdmFyIHQgPSBUcigpCmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICAgIHByaW50KHQuaSkKfQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFNwYXJrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbmRpZGF0ZXMgPSBkcm9wcGVkQ2FuZGlkYXRlczsKICAgICAgICAgICAgfSovCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFF1ZXVlPFNvbHV0aW9uPiBkcm9wcGVkQ2FuZGlkYXRlcyA9IG5ldyBQcmlvcml0eVF1ZXVlPD4oQ29tcGFyYXRvci5jb21wYXJpbmcoU29sdXRpb246OmdldExvd2VyTGltaXQpKTsKICAgICAgICAgICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgMV8wMDBfMDAwOyBpKyspIGRyb3BwZWRDYW5kaWRhdGVzLm9mZmVyKGNhbmRpZGF0ZXMucmVtb3ZlKCkpOwo=</text>
+        <text encoding="base64">Ly8gICAgIG1hdmVuIHsgdXJsICJodHRwOi8vcmVwby5tYXZlbi5hcGFjaGUub3JnL21hdmVuMiIgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2FuZGlkYXRlcy5zaXplKCkpOwogICAgICAgICAgICAvKndoaWxlIChjYW5kaWRhdGVzLnNpemUoKSA+IDVfMDAwXzAwMCkgewo=</text>
+        <text encoding="base64">Ly8gICAgY29tcGlsZU9ubHkgZ3JvdXA6ICdvcmcucHJvamVjdGxvbWJvaycsIG5hbWU6ICdsb21ib2snLCB2ZXJzaW9uOicxLjE4LjInCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICovCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">aW1wb3J0IGpiLnJ1bm5lci5UcgoKdmFyIHQgPSBUcigpCmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICAgIHByaW50KHQuaSkKfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>throw new IOException</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
