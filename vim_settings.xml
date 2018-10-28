@@ -266,11 +266,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/tester/IntegratedConfMatTester.kt" timestamp="1540231805210">
-        <mark key="[" line="13" column="93" />
-        <mark key="]" line="13" column="93" />
-        <mark key="." line="13" column="93" />
-      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/selector/Selector.java" timestamp="1535778608252">
         <mark key="[" line="12" column="59" />
         <mark key="]" line="12" column="59" />
@@ -390,10 +385,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Scratch.kt" timestamp="1540716591137">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Scratch.kt" timestamp="1540718220389">
+        <mark key="[" line="7" column="25" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="24" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/config/Opts.kt" timestamp="1538213848203">
         <mark key="[" line="9" column="42" />
@@ -1365,34 +1361,34 @@
         <text>appendToDeque(previousSolutions.get(el).getCities(), problem.getCities().get(item))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhCg==</text>
       </register>
       <register name="&quot;" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdldCgiLyIpIHsgcmVxLCByZXMgLT4gIkhlbGxvLCBXb3JsZCEiIH0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNwYXJrCg==</text>
+        <text encoding="base64">ICAgIGdldCgiLyIpIHsgcmVxLCByZXMgLT4gIkhlbGxvLCBXb3JsZCEiIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIFNwYXJrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFNwYXJrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgIG1hdmVuIHsgdXJsICJodHRwOi8vcmVwby5tYXZlbi5hcGFjaGUub3JnL21hdmVuMiIgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZU9ubHkgZ3JvdXA6ICdvcmcucHJvamVjdGxvbWJvaycsIG5hbWU6ICdsb21ib2snLCB2ZXJzaW9uOicxLjE4LjInCg==</text>
+        <text encoding="base64">Ly8gICAgIG1hdmVuIHsgdXJsICJodHRwOi8vcmVwby5tYXZlbi5hcGFjaGUub3JnL21hdmVuMiIgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">aW1wb3J0IGpiLnJ1bm5lci5UcgoKdmFyIHQgPSBUcigpCmZ1biBtYWluKGFyZ3M6IEFycmF5PFN0cmluZz4pIHsKICAgIHByaW50KHQuaSkKfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Ly8gICAgY29tcGlsZU9ubHkgZ3JvdXA6ICdvcmcucHJvamVjdGxvbWJvaycsIG5hbWU6ICdsb21ib2snLCB2ZXJzaW9uOicxLjE4LjInCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
