@@ -385,11 +385,10 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Scratch.kt" timestamp="1540718220389">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="24" />
-        <mark key="." line="7" column="24" />
-        <mark key="^" line="7" column="24" />
+      <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/Scratch.kt" timestamp="1540741041418">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/config/Opts.kt" timestamp="1538213848203">
         <mark key="[" line="9" column="42" />
@@ -1361,34 +1360,34 @@
         <text>appendToDeque(previousSolutions.get(el).getCities(), problem.getCities().get(item))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4obW9kZWwuY29lZmZpY2llbnRzKCkpCg==</text>
       </register>
       <register name="&quot;" type="4">
         <text>c</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdldCgiLyIpIHsgcmVxLCByZXMgLT4gIkhlbGxvLCBXb3JsZCEiIH0K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFNwYXJrCg==</text>
+        <text encoding="base64">ICAgIGdldCgiLyIpIHsgcmVxLCByZXMgLT4gIkhlbGxvLCBXb3JsZCEiIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIFNwYXJrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIFNwYXJrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgIG1hdmVuIHsgdXJsICJodHRwOi8vcmVwby5tYXZlbi5hcGFjaGUub3JnL21hdmVuMiIgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgY29tcGlsZU9ubHkgZ3JvdXA6ICdvcmcucHJvamVjdGxvbWJvaycsIG5hbWU6ICdsb21ib2snLCB2ZXJzaW9uOicxLjE4LjInCg==</text>
+        <text encoding="base64">Ly8gICAgIG1hdmVuIHsgdXJsICJodHRwOi8vcmVwby5tYXZlbi5hcGFjaGUub3JnL21hdmVuMiIgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
