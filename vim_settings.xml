@@ -368,6 +368,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="/mnt/mag/Workspace/Java/clf-integration/build.gradle" timestamp="1541841732966">
+        <mark key="[" line="25" column="84" />
+        <mark key="]" line="25" column="85" />
+        <mark key="." line="25" column="85" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/test/java/IntegrationTest.java" timestamp="1540914143735">
         <mark key="[" line="84" column="46" />
         <mark key="]" line="84" column="47" />
@@ -1132,6 +1137,9 @@
         <mark key="^" line="33" column="27" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="/fragment.kt" timestamp="1541842502107">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/RabbitMQ/rabbitmqdemo/src/main/java/demo/Recv.java" timestamp="1531042809498">
         <mark key="[" line="29" column="12" />
         <mark key="]" line="30" column="13" />
@@ -1154,6 +1162,12 @@
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="/mnt/mag/Workspace/Java/clf-integration/src/main/kotlin/jb/runner/Scratch.kt" timestamp="1541843282330">
+        <mark key="[" line="43" column="30" />
+        <mark key="]" line="43" column="31" />
+        <mark key="." line="43" column="31" />
+        <mark key="^" line="30" column="45" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/ScratchRunner.kt" timestamp="1540232610911">
         <mark key="[" line="31" column="34" />
@@ -1377,8 +1391,8 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.csv</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50bG4odHJlZU1vZGVsLikK</text>
@@ -1405,7 +1419,7 @@
         <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGluZGljZXMgPSBjbG9uZS5zdHJlYW0oKS5za2lwKDEpLm1hcChDaXR5OjpnZXRJbmRleCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICBpbnQgYWRkaXRpb24gPSAwOwogICAgICAgIGZvciAoQ2l0eSBjaXR5IDogcHJvYmxlbS5nZXRDaXRpZXMoKSkgewogICAgICAgICAgICBpZiAoY2xvbmUuY29udGFpbnMoY2l0eSkpIGNvbnRpbnVlOwogICAgICAgICAgICBpbnQgZGVmID0gQXJyYXlzLnN0cmVhbShjaXR5LmdldERpc3RhbmNlcygpKS5tYXgoKS5nZXRBc0ludCgpOwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGNpdHkuZ2V0RGlzdGFuY2VzKCkubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgICAgIGlmIChpbmRpY2VzLmNvbnRhaW5zKGkpIHx8IGkgPT0gY2l0eS5nZXRJbmRleCgpKSBjb250aW51ZTsKICAgICAgICAgICAgICAgIGRlZiA9IG1pbihkZWYsIGNpdHkuZ2V0RGlzdGFuY2VzKClbaV0pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGFkZGl0aW9uICs9IGRlZjsKICAgICAgICB9CiAgICAgICAgaW50IGN1cnJlbnQgPSAwOwogICAgICAgIHdoaWxlIChjbG9uZS5zaXplKCkgIT0gMSkgewovLyAgICAgICAgICAgIENpdHkgZmlyc3QgPSBjbG9uZS5yZW1vdmVGaXJzdCgpOwovLyAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmaXJzdC5nZXRJbmRleCgpKTsKLy8gICAgICAgICAgICBjdXJyZW50ICs9IGZpcnN0LmdldERpc3RhbmNlcygpW2Nsb25lLmdldEZpcnN0KCkuZ2V0SW5kZXgoKV07CiAgICAgICAgICAgIGN1cnJlbnQgKz0gY2xvbmUucmVtb3ZlRmlyc3QoKS5nZXREaXN0YW5jZXMoKVtjbG9uZS5wZWVrRmlyc3QoKS5nZXRJbmRleCgpXTsKICAgICAgICB9Ci8vICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImN1cnJlbnQ6ICIgKyBjdXJyZW50KTsKLy8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjdXJyZW50ICsgYWRkaXRpb24gKyAiOiIgKyAoY3VycmVudExpbWl0IC0gbG93ZXN0VmFsdWVzLmdldChmcm9tLmdldEluZGV4KCkpIC8gMiAtIGxvd2VzdFZhbHVlcy5nZXQodG8uZ2V0SW5kZXgoKSkgLyAyICsgZnJvbS5nZXREaXN0YW5jZXMoKVt0by5nZXRJbmRleCgpXSkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>.csv</text>
       </register>
     </registers>
     <search>
