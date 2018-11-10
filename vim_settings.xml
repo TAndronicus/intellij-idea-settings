@@ -1166,11 +1166,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/mnt/mag/Workspace/Java/clf-integration/src/main/kotlin/jb/runner/Scratch.kt" timestamp="1541864964375">
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="30" column="42" />
-        <mark key="." line="30" column="42" />
-        <mark key="^" line="30" column="42" />
+      <file name="/mnt/mag/Workspace/Java/clf-integration/src/main/kotlin/jb/runner/Scratch.kt" timestamp="1541865769026">
+        <mark key="[" line="67" column="29" />
+        <mark key="]" line="67" column="32" />
+        <mark key="." line="67" column="32" />
+        <mark key="^" line="67" column="32" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/ScratchRunner.kt" timestamp="1540232610911">
         <mark key="[" line="31" column="34" />
@@ -1389,10 +1389,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.csv</text>
+        <text>trainingData</text>
       </register>
       <register name="-" type="4">
-        <text>.csv</text>
+        <text>trainingData</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHJhbmRvbU9mU2l6ZTQoKSB7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMDA7IGkrKykgewogICAgICAgICAgICBQcm9ibGVtIHByb2JsZW0gPSBnZW5lcmF0ZVByb2JsZW0oNCk7CiAgICAgICAgICAgIFN0cmF0ZWd5W10gc3RyYXRlZ2llcyA9IGdldEFsbFN0cmF0ZWdpZXMocHJvYmxlbSk7CiAgICAgICAgICAgIFNvbHV0aW9uW10gc29sdXRpb25zID0gY2FsY3VsYXRlU29sdXRpb25zKHN0cmF0ZWdpZXMpOwogICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IHNvbHV0aW9ucy5sZW5ndGggLSAxOyBqKyspIHsKICAgICAgICAgICAgICAgIGFzc2VydFRoYXQoc29sdXRpb25zW2pdLmdldERpc3RhbmNlKCksIGlzKGVxdWFsVG8oc29sdXRpb25zW2ogKyAxXS5nZXREaXN0YW5jZSgpKSkpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
