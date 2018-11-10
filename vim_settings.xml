@@ -669,7 +669,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1541832924816">
+      <file name="/fragment.java" timestamp="1541853325294">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
@@ -1163,10 +1163,10 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/mnt/mag/Workspace/Java/clf-integration/src/main/kotlin/jb/runner/Scratch.kt" timestamp="1541843282330">
-        <mark key="[" line="43" column="30" />
-        <mark key="]" line="43" column="31" />
-        <mark key="." line="43" column="31" />
+      <file name="/mnt/mag/Workspace/Java/clf-integration/src/main/kotlin/jb/runner/Scratch.kt" timestamp="1541853241653">
+        <mark key="[" line="30" column="43" />
+        <mark key="]" line="30" column="45" />
+        <mark key="." line="30" column="45" />
         <mark key="^" line="30" column="45" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/runner/ScratchRunner.kt" timestamp="1540232610911">
@@ -1385,14 +1385,17 @@
       <jump line="33" column="27" filename="/mnt/mag/Workspace/Java/clf-integration/src/main/java/jb/runner/Scratch.kt" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>.csv</text>
+      </register>
+      <register name="-" type="4">
+        <text>.csv</text>
+      </register>
       <register name="0" type="4">
         <text encoding="base64">CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHJhbmRvbU9mU2l6ZTQoKSB7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMDA7IGkrKykgewogICAgICAgICAgICBQcm9ibGVtIHByb2JsZW0gPSBnZW5lcmF0ZVByb2JsZW0oNCk7CiAgICAgICAgICAgIFN0cmF0ZWd5W10gc3RyYXRlZ2llcyA9IGdldEFsbFN0cmF0ZWdpZXMocHJvYmxlbSk7CiAgICAgICAgICAgIFNvbHV0aW9uW10gc29sdXRpb25zID0gY2FsY3VsYXRlU29sdXRpb25zKHN0cmF0ZWdpZXMpOwogICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IHNvbHV0aW9ucy5sZW5ndGggLSAxOyBqKyspIHsKICAgICAgICAgICAgICAgIGFzc2VydFRoYXQoc29sdXRpb25zW2pdLmdldERpc3RhbmNlKCksIGlzKGVxdWFsVG8oc29sdXRpb25zW2ogKyAxXS5nZXREaXN0YW5jZSgpKSkpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>.csv</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50bG4odHJlZU1vZGVsLikK</text>
@@ -1418,8 +1421,8 @@
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGluZGljZXMgPSBjbG9uZS5zdHJlYW0oKS5za2lwKDEpLm1hcChDaXR5OjpnZXRJbmRleCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKICAgICAgICBpbnQgYWRkaXRpb24gPSAwOwogICAgICAgIGZvciAoQ2l0eSBjaXR5IDogcHJvYmxlbS5nZXRDaXRpZXMoKSkgewogICAgICAgICAgICBpZiAoY2xvbmUuY29udGFpbnMoY2l0eSkpIGNvbnRpbnVlOwogICAgICAgICAgICBpbnQgZGVmID0gQXJyYXlzLnN0cmVhbShjaXR5LmdldERpc3RhbmNlcygpKS5tYXgoKS5nZXRBc0ludCgpOwogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGNpdHkuZ2V0RGlzdGFuY2VzKCkubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgICAgIGlmIChpbmRpY2VzLmNvbnRhaW5zKGkpIHx8IGkgPT0gY2l0eS5nZXRJbmRleCgpKSBjb250aW51ZTsKICAgICAgICAgICAgICAgIGRlZiA9IG1pbihkZWYsIGNpdHkuZ2V0RGlzdGFuY2VzKClbaV0pOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGFkZGl0aW9uICs9IGRlZjsKICAgICAgICB9CiAgICAgICAgaW50IGN1cnJlbnQgPSAwOwogICAgICAgIHdoaWxlIChjbG9uZS5zaXplKCkgIT0gMSkgewovLyAgICAgICAgICAgIENpdHkgZmlyc3QgPSBjbG9uZS5yZW1vdmVGaXJzdCgpOwovLyAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihmaXJzdC5nZXRJbmRleCgpKTsKLy8gICAgICAgICAgICBjdXJyZW50ICs9IGZpcnN0LmdldERpc3RhbmNlcygpW2Nsb25lLmdldEZpcnN0KCkuZ2V0SW5kZXgoKV07CiAgICAgICAgICAgIGN1cnJlbnQgKz0gY2xvbmUucmVtb3ZlRmlyc3QoKS5nZXREaXN0YW5jZXMoKVtjbG9uZS5wZWVrRmlyc3QoKS5nZXRJbmRleCgpXTsKICAgICAgICB9Ci8vICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImN1cnJlbnQ6ICIgKyBjdXJyZW50KTsKLy8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjdXJyZW50ICsgYWRkaXRpb24gKyAiOiIgKyAoY3VycmVudExpbWl0IC0gbG93ZXN0VmFsdWVzLmdldChmcm9tLmdldEluZGV4KCkpIC8gMiAtIGxvd2VzdFZhbHVlcy5nZXQodG8uZ2V0SW5kZXgoKSkgLyAyICsgZnJvbS5nZXREaXN0YW5jZXMoKVt0by5nZXRJbmRleCgpXSkpOwo=</text>
       </register>
-      <register name="-" type="4">
-        <text>.csv</text>
+      <register name=":" type="4">
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1428,7 +1431,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
