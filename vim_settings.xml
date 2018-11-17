@@ -587,12 +587,11 @@
         <mark key="]" line="85" column="4" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" timestamp="1542467645340">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="30" column="25" />
-        <mark key="]" line="30" column="29" />
-        <mark key="^" line="30" column="29" />
-        <mark key="." line="30" column="29" />
+      <file name="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" timestamp="1542470962379">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="12" column="36" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/gs-accessing-mongodb-data-rest/complete/src/main/application.properties" timestamp="1532888831900">
         <mark key="[" line="0" column="24" />
@@ -1436,41 +1435,41 @@
       <jump line="10" column="0" filename="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>E</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JVxyZW5ld2NvbW1hbmR7XHRoZWZvb3Rub3RlfXsoXGFyYWJpY3tmb290bm90ZX0pfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>%</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHJhbmRvbU9mU2l6ZTQoKSB7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMDA7IGkrKykgewogICAgICAgICAgICBQcm9ibGVtIHByb2JsZW0gPSBnZW5lcmF0ZVByb2JsZW0oNCk7CiAgICAgICAgICAgIFN0cmF0ZWd5W10gc3RyYXRlZ2llcyA9IGdldEFsbFN0cmF0ZWdpZXMocHJvYmxlbSk7CiAgICAgICAgICAgIFNvbHV0aW9uW10gc29sdXRpb25zID0gY2FsY3VsYXRlU29sdXRpb25zKHN0cmF0ZWdpZXMpOwogICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IHNvbHV0aW9ucy5sZW5ndGggLSAxOyBqKyspIHsKICAgICAgICAgICAgICAgIGFzc2VydFRoYXQoc29sdXRpb25zW2pdLmdldERpc3RhbmNlKCksIGlzKGVxdWFsVG8oc29sdXRpb25zW2ogKyAxXS5nZXREaXN0YW5jZSgpKSkpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
+        <text>z pracami w teorii ciepła.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">XHBhZ2VudW1iZXJpbmd7Z29iYmxlfQo=</text>
+        <text encoding="base64">JVxyZW5ld2NvbW1hbmR7XHRoZWZvb3Rub3RlfXsoXGFyYWJpY3tmb290bm90ZX0pfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">XHJoZWFke1J9Cg==</text>
+        <text encoding="base64">JVxsaGVhZHtcdGhlcGFnZX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JSAgICAgICAgICAgIFxiZWdpbntmbGFsaWdufQo=</text>
+        <text encoding="base64">JVxjZm9vdHt9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JSAgICAgICAgICAgIFxlbmR7ZmxhbGlnbn0K</text>
+        <text encoding="base64">JSAgICBcc2VjdGlvbntTemVyZWdpIEZvdXJpZXJhXG5vcm1hbGZvbnR7XHByb3RlY3RcZm9vdG5vdGV7Si4gRm91cmllciAoMTc2OC0xODMwKS4gUm96d2luacSZY2lhIGZ1bmtjamkgdyBzemVyZWdpIHpuYW5lIHBvZCBqZWdvIGltaWVuaWVtIHdwcm93YWR6acWCIEZvdXJpZXIgdyB6d2nEhXprdQolICAgIHogcHJhY2FtaSB3IHRlb3JpaSBjaWVwxYJhLn19XHRleHRiZnsufX0K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgXHJhaXNldGFnezIwZW19</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ClxuZXdjb21tYW5ke1xzcGVjaWFsY2VsbH1bMV17XGlmbWVhc3VyaW5nQCMxXGVsc2Vcb21pdCRcZGlzcGxheXN0eWxlIzEkXGlnbm9yZXNwYWNlc1xmaX0K</text>
+        <text encoding="base64">JSAgICBcc2VjdGlvbntIZWh9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ClxkZWZcQGVxbm51bXt7XG5vcm1hbGZvbnQgXG5vcm1hbGNvbG9yIChlcXVhdGlvbil9fQo=</text>
+        <text encoding="base64">XHBhZ2VudW1iZXJpbmd7Z29iYmxlfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRyZWVNb2RlbAo=</text>
+        <text encoding="base64">XHJoZWFke1J9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAogIFxjdmVudHJ5CiAgICB7TWVtYmVyfSAlIEFmZmlsaWF0aW9uL3JvbGUKICAgIHtNYXRocyBSZXNlYXJjaCBHcm91cH0gJSBPcmdhbml6YXRpb24vZ3JvdXAKICAgIHtXcm9jxYJhdyBVbml2ZXJzaXR5IG9mIFRlY2hub2xvZ3l9ICUgTG9jYXRpb24KICAgIHtPY3QuIDIwMTMgLSBBcHIuIDIwMTh9ICUgRGF0ZShzKQogICAgewogICAgICBcYmVnaW57Y3ZpdGVtc30gJSBEZXNjcmlwdGlvbihzKSBvZiBleHBlcmllbmNlL2NvbnRyaWJ1dGlvbnMva25vd2xlZGdlCiAgICAgICAgXGl0ZW0ge0dhaW5lZCBpbnNpZ2h0cyBpbnRvIG1vZGVybiBtYXRoZW1hdGljYWwgbWV0aG9kcy59CiAgICAgIFxlbmR7Y3ZpdGVtc30KICAgIH0K</text>
+        <text encoding="base64">JSAgICAgICAgICAgIFxiZWdpbntmbGFsaWdufQo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
