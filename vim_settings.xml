@@ -587,6 +587,12 @@
         <mark key="]" line="85" column="4" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" timestamp="1542434761430">
+        <mark key="[" line="31" column="272" />
+        <mark key="]" line="31" column="271" />
+        <mark key="." line="31" column="271" />
+        <mark key="^" line="31" column="271" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/gs-accessing-mongodb-data-rest/complete/src/main/application.properties" timestamp="1532888831900">
         <mark key="[" line="0" column="24" />
         <mark key="]" line="1" column="29" />
@@ -1427,10 +1433,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new SparkSession()</text>
+        <text>PARAGRAPH</text>
       </register>
       <register name="-" type="4">
-        <text>new SparkSession()</text>
+        <text>PARAGRAPH</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">CgogICAgQFRlc3QKICAgIHB1YmxpYyB2b2lkIHJhbmRvbU9mU2l6ZTQoKSB7CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCAxMDA7IGkrKykgewogICAgICAgICAgICBQcm9ibGVtIHByb2JsZW0gPSBnZW5lcmF0ZVByb2JsZW0oNCk7CiAgICAgICAgICAgIFN0cmF0ZWd5W10gc3RyYXRlZ2llcyA9IGdldEFsbFN0cmF0ZWdpZXMocHJvYmxlbSk7CiAgICAgICAgICAgIFNvbHV0aW9uW10gc29sdXRpb25zID0gY2FsY3VsYXRlU29sdXRpb25zKHN0cmF0ZWdpZXMpOwogICAgICAgICAgICBmb3IgKGludCBqID0gMDsgaiA8IHNvbHV0aW9ucy5sZW5ndGggLSAxOyBqKyspIHsKICAgICAgICAgICAgICAgIGFzc2VydFRoYXQoc29sdXRpb25zW2pdLmdldERpc3RhbmNlKCksIGlzKGVxdWFsVG8oc29sdXRpb25zW2ogKyAxXS5nZXREaXN0YW5jZSgpKSkpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQ==</text>
