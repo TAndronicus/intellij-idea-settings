@@ -605,12 +605,12 @@
         <mark key="]" line="85" column="4" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" timestamp="1542571904929">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="56" column="20" />
-        <mark key="]" line="56" column="36" />
-        <mark key="." line="56" column="36" />
-        <mark key="^" line="56" column="36" />
+      <file name="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" timestamp="1542573691173">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="84" column="118" />
+        <mark key="]" line="16" column="27" />
+        <mark key="." line="16" column="27" />
+        <mark key="^" line="16" column="28" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/gs-accessing-mongodb-data-rest/complete/src/main/application.properties" timestamp="1532888831900">
         <mark key="[" line="0" column="24" />
@@ -1454,13 +1454,14 @@
       <jump line="10" column="0" filename="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" />
       <jump line="115" column="7" filename="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" />
       <jump line="34" column="0" filename="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" />
+      <jump line="131" column="0" filename="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>fran</text>
@@ -1469,31 +1470,31 @@
         <text encoding="base64">XGFkZHRvbGVuZ3Roe1x2b2Zmc2V0fXstMWNtfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2Vbbm9ydWxlXXtmb290bm90ZW1pc2N9Cg==</text>
+        <text encoding="base64">XG5ld2NvbW1hbmR7XHNtYWxsZXJpbnR9e3tcbWF0aHNtYWxsZXJ7XGludH19fQoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">XHNldGZvb3Rub3RlcnVsZXs1ZW19Cg==</text>
+        <text encoding="base64">XHVzZXBhY2thZ2Vbbm9ydWxlXXtmb290bm90ZW1pc2N9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JSAgICBcc2VjdGlvbntLdXJ3YX1kCg==</text>
+        <text encoding="base64">XHNldGZvb3Rub3RlcnVsZXs1ZW19Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XHJlbmV3Y29tbWFuZFxmb290bm90ZXJ1bGV7XHJ1bGV7XGx9ezVwdH19Cg==</text>
+        <text encoding="base64">JSAgICBcc2VjdGlvbntLdXJ3YX1kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JVx0aXRsZWZvcm1hdHtcZXh0ZW5kZWRTZWN0aW9ufVtydW5pbl17fXt9e317fVtdCg==</text>
+        <text encoding="base64">XHJlbmV3Y29tbWFuZFxmb290bm90ZXJ1bGV7XHJ1bGV7XGx9ezVwdH19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">XG1ha2VhdG90aGVyCg==</text>
+        <text encoding="base64">JVx0aXRsZWZvcm1hdHtcZXh0ZW5kZWRTZWN0aW9ufVtydW5pbl17fXt9e317fVtdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">XG1ha2VhdGxldHRlcgo=</text>
+        <text encoding="base64">XG1ha2VhdG90aGVyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">XG5ld2NvbW1hbmR7XHNlY3Rpb259WzJde1xzZWN0aW9uWyMxXXsjMVxub3JtYWxmb250e1xwcm90ZWN0XGZvb3Rub3RleyMyfX1cdGV4dGJmey59fX0K</text>
+        <text encoding="base64">XG1ha2VhdGxldHRlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XG5ld2NvbW1hbmR7XHNlY3Rpb259WzJde1xzZWN0aW9uWyMxXXsjMVxub3JtYWxmb250e1xwcm90ZWN0XGZvb3Rub3RleyMyfX1cdGV4dGJmey59fX0K</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
