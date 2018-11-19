@@ -937,6 +937,12 @@
         <mark key="." line="29" column="54" />
         <mark key="^" line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/cv/skills.tex" timestamp="1542660023872">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="29" column="39" />
+        <mark key="." line="29" column="39" />
+        <mark key="^" line="29" column="39" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea1/src/test/java/jb/TaskFileReaderTest.java" timestamp="1538899231465">
         <mark key="[" line="37" column="32" />
         <mark key="]" line="37" column="32" />
@@ -1465,17 +1471,17 @@
       <jump line="131" column="0" filename="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2V7ZXVsZXJ9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Linux</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>Linux</text>
       </register>
       <register name="/" type="4">
         <text>fran</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">XGFkZHRvbGVuZ3Roe1x2b2Zmc2V0fXstMWNtfQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgCiUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICBcY3Zza2lsbAogICAge0xpbnV4fSAlIENhdGVnb3J5CiAgICB7QXJjaCwgRGViaWFuLCBVYnVudHV9ICUgU2tpbGxzICAgIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">XHVzZXBhY2thZ2V7ZXVsZXJ9Cg==</text>
