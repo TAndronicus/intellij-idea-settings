@@ -307,6 +307,12 @@
         <mark key="." line="75" column="45" />
         <mark key="^" line="2" column="117" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dl4j-tutorial/src/main/scala/ND4JDemo.scala" timestamp="1542921224425">
+        <mark key="[" line="4" column="41" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/Workspace/Java/pea/src/Runner.java" timestamp="1539246742078">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="36" />
@@ -593,11 +599,11 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dl4j-tutorial/src/main/scala/EmnistDemo.scala" timestamp="1542918296801">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/dl4j-tutorial/src/main/scala/EmnistDemo.scala" timestamp="1542921192389">
+        <mark key="[" line="27" column="25" />
+        <mark key="]" line="27" column="32" />
+        <mark key="." line="27" column="32" />
+        <mark key="^" line="27" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/ibdb/backend/ibdb-java-maven/pom.xml" timestamp="1530303703413">
         <mark key="[" line="23" column="22" />
@@ -1479,7 +1485,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciBtID0gTmQ0ago=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>Nd</text>
@@ -1491,31 +1497,31 @@
         <text encoding="base64">CiAgCiUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICBcY3Zza2lsbAogICAge0xpbnV4fSAlIENhdGVnb3J5CiAgICB7QXJjaCwgRGViaWFuLCBVYnVudHV9ICUgU2tpbGxzICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBtID0gTmQ0ago=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXQgPSBOZDRqLnplCg==</text>
+        <text encoding="base64">ICAgIE5kNAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNsZjRqIiAlICJzbGY0ai1sb2c0ajEyIiAlICIxLjguMC1iZXRhMiIK</text>
+        <text encoding="base64">ICAgIHZhciBtID0gTkQ0Sgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2V7ZXVsZXJ9Cg==</text>
+        <text encoding="base64">ICAgIHZhciBtID0gTmQ0ago=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2V7YW1zc3ltYn0K</text>
+        <text encoding="base64">ICAgIHZhbCBtYXQgPSBOZDRqLnplCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">XG5ld2NvbW1hbmR7XHNtYWxsZXJpbnR9e3tcbWF0aHNtYWxsZXJ7XGludH19fQoK</text>
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNsZjRqIiAlICJzbGY0ai1sb2c0ajEyIiAlICIxLjguMC1iZXRhMiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2Vbbm9ydWxlXXtmb290bm90ZW1pc2N9Cg==</text>
+        <text encoding="base64">XHVzZXBhY2thZ2V7ZXVsZXJ9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">XHNldGZvb3Rub3RlcnVsZXs1ZW19Cg==</text>
+        <text encoding="base64">XHVzZXBhY2thZ2V7YW1zc3ltYn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JSAgICBcc2VjdGlvbntLdXJ3YX1kCg==</text>
+        <text encoding="base64">XG5ld2NvbW1hbmR7XHNtYWxsZXJpbnR9e3tcbWF0aHNtYWxsZXJ7XGludH19fQoK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
