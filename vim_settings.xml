@@ -959,6 +959,11 @@
         <mark key="]" line="9" column="13" />
         <mark key="." line="9" column="13" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/dl4j-tutorial/src/main/scala/ND4JDemo.scala" timestamp="1542920616704">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/util/ModelUtils.kt" timestamp="1540232615838">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -1474,10 +1479,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNsZjRqIiAlICJzbGY0ai1sb2c0ajEyIiAlICIxLjguMC1iZXRhMiIK</text>
+        <text encoding="base64">ICAgIHZhciBtID0gTmQ0ago=</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>Nd</text>
       </register>
       <register name="/" type="4">
         <text>fran</text>
@@ -1486,31 +1491,31 @@
         <text encoding="base64">CiAgCiUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICBcY3Zza2lsbAogICAge0xpbnV4fSAlIENhdGVnb3J5CiAgICB7QXJjaCwgRGViaWFuLCBVYnVudHV9ICUgU2tpbGxzICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNsZjRqIiAlICJzbGY0ai1sb2c0ajEyIiAlICIxLjguMC1iZXRhMiIK</text>
+        <text encoding="base64">ICAgIHZhciBtID0gTmQ0ago=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2V7ZXVsZXJ9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBtYXQgPSBOZDRqLnplCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2V7YW1zc3ltYn0K</text>
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNsZjRqIiAlICJzbGY0ai1sb2c0ajEyIiAlICIxLjguMC1iZXRhMiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XG5ld2NvbW1hbmR7XHNtYWxsZXJpbnR9e3tcbWF0aHNtYWxsZXJ7XGludH19fQoK</text>
+        <text encoding="base64">XHVzZXBhY2thZ2V7ZXVsZXJ9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2Vbbm9ydWxlXXtmb290bm90ZW1pc2N9Cg==</text>
+        <text encoding="base64">XHVzZXBhY2thZ2V7YW1zc3ltYn0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">XHNldGZvb3Rub3RlcnVsZXs1ZW19Cg==</text>
+        <text encoding="base64">XG5ld2NvbW1hbmR7XHNtYWxsZXJpbnR9e3tcbWF0aHNtYWxsZXJ7XGludH19fQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JSAgICBcc2VjdGlvbntLdXJ3YX1kCg==</text>
+        <text encoding="base64">XHVzZXBhY2thZ2Vbbm9ydWxlXXtmb290bm90ZW1pc2N9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">XHJlbmV3Y29tbWFuZFxmb290bm90ZXJ1bGV7XHJ1bGV7XGx9ezVwdH19Cg==</text>
+        <text encoding="base64">XHNldGZvb3Rub3RlcnVsZXs1ZW19Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JVx0aXRsZWZvcm1hdHtcZXh0ZW5kZWRTZWN0aW9ufVtydW5pbl17fXt9e317fVtdCg==</text>
+        <text encoding="base64">JSAgICBcc2VjdGlvbntLdXJ3YX1kCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
