@@ -1024,11 +1024,11 @@
         <mark key="." line="26" column="137" />
         <mark key="^" line="26" column="137" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dl4j-tutorial/src/main/scala/ND4JDemo.sc" timestamp="1543047548155">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="24" />
-        <mark key="^" line="8" column="24" />
-        <mark key="." line="8" column="24" />
+      <file name="/mnt/mag/Workspace/JVM/dl4j-tutorial/src/main/scala/ND4JDemo.sc" timestamp="1543063176373">
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="0" column="36" />
+        <mark key="." line="5" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/pea/src/Item.java" timestamp="1539246034266">
         <mark key="[" line="0" column="0" />
@@ -1496,11 +1496,11 @@
       <jump line="131" column="0" filename="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIE5kNGouY3IK</text>
+      <register name="&quot;" type="4">
+        <text>Nd4j.</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>Nd4j.</text>
       </register>
       <register name="/" type="4">
         <text>fran</text>
@@ -1509,31 +1509,31 @@
         <text encoding="base64">CiAgCiUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICBcY3Zza2lsbAogICAge0xpbnV4fSAlIENhdGVnb3J5CiAgICB7QXJjaCwgRGViaWFuLCBVYnVudHV9ICUgU2tpbGxzICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE5kNGouY3IK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5uZDRqLmxpbmFsZy5mYWN0b3J5Lk5kNGoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBtID0gTmQ0ai4K</text>
+        <text encoding="base64">ICAgIE5kNGouY3IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBtID0gTmQK</text>
+        <text encoding="base64">ICAgIHZhciBtID0gTmQ0ai4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBtID0gTmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE5kNAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBtID0gTkQ0Sgo=</text>
+        <text encoding="base64">ICAgIE5kNAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBtID0gTmQ0ago=</text>
+        <text encoding="base64">ICAgIHZhciBtID0gTkQ0Sgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXQgPSBOZDRqLnplCg==</text>
+        <text encoding="base64">ICAgIHZhciBtID0gTmQ0ago=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLnNsZjRqIiAlICJzbGY0ai1sb2c0ajEyIiAlICIxLjguMC1iZXRhMiIK</text>
+        <text encoding="base64">ICAgIHZhbCBtYXQgPSBOZDRqLnplCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
