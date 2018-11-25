@@ -526,11 +526,11 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/Runner.scala" timestamp="1543133786518">
-        <mark key="[" line="0" column="15" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
-        <mark key="^" line="0" column="5" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/Runner.scala" timestamp="1543138261527">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+        <mark key="^" line="0" column="33" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/SimpleLimitation.java" timestamp="1540053445123">
         <mark key="[" line="33" column="63" />
@@ -750,7 +750,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1542915694946">
+      <file name="/fragment.java" timestamp="1543137069399">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
@@ -1002,6 +1002,12 @@
         <mark key="]" line="12" column="75" />
         <mark key="^" line="12" column="75" />
         <mark key="." line="12" column="75" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/build.sbt" timestamp="1543137681261">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="71" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf/src/main/java/LinearSVCExample.java" timestamp="1534585974556">
         <mark key="[" line="23" column="0" />
@@ -1362,7 +1368,7 @@
         <mark key="." line="21" column="13" />
         <mark key="^" line="21" column="18" />
       </file>
-      <file name="/sbtShell" timestamp="1543042627553">
+      <file name="/sbtShell" timestamp="1543138289333">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/clfobj/ClfObject.kt" timestamp="1538217151892">
@@ -1502,11 +1508,11 @@
       <jump line="131" column="0" filename="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>class</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHNjLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>class</text>
+        <text>sparkSession</text>
       </register>
       <register name="/" type="4">
         <text>fran</text>
@@ -1515,31 +1521,31 @@
         <text encoding="base64">CiAgCiUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICBcY3Zza2lsbAogICAge0xpbnV4fSAlIENhdGVnb3J5CiAgICB7QXJjaCwgRGViaWFuLCBVYnVudHV9ICUgU2tpbGxzICAgIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5uZDRqLmxpbmFsZy5mYWN0b3J5Lk5kNGoK</text>
+        <text encoding="base64">ICAgIHNjLgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE5kNGouY3IK</text>
+        <text encoding="base64">ICAgIHZhbCBzZXNzID0gU3BhcmtTCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBtID0gTmQ0ai4K</text>
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLmFwYWNoZS5zcGFyayIgJSAic3BhcmstY29yZV8yLjExIiAlICIyLjQuMCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBtID0gTmQK</text>
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLmFwYWNoZS5zcGFyayIgJSAic3BhcmstbWxsaWJfMi4xMiIgJSAiMi40LjAiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5uZDRqLmxpbmFsZy5mYWN0b3J5Lk5kNGoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIE5kNAo=</text>
+        <text encoding="base64">ICAgIE5kNGouY3IK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBtID0gTkQ0Sgo=</text>
+        <text encoding="base64">ICAgIHZhciBtID0gTmQ0ai4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBtID0gTmQ0ago=</text>
+        <text encoding="base64">ICAgIHZhbCBtID0gTmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXQgPSBOZDRqLnplCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
