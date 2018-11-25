@@ -526,6 +526,12 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/Runner.scala" timestamp="1543133786518">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/SimpleLimitation.java" timestamp="1540053445123">
         <mark key="[" line="33" column="63" />
         <mark key="]" line="15" column="0" />
@@ -1497,10 +1503,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Nd4j.</text>
+        <text>class</text>
       </register>
       <register name="-" type="4">
-        <text>Nd4j.</text>
+        <text>class</text>
       </register>
       <register name="/" type="4">
         <text>fran</text>
