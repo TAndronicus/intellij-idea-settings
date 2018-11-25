@@ -526,10 +526,11 @@
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/Runner.scala" timestamp="1543139887630">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/Runner.scala" timestamp="1543154901561">
+        <mark key="[" line="8" column="62" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/SimpleLimitation.java" timestamp="1540053445123">
         <mark key="[" line="33" column="63" />
@@ -812,10 +813,11 @@
         <mark key="." line="40" column="7" />
         <mark key="^" line="40" column="7" />
       </file>
-      <file name="/Dummy.scala" timestamp="1542746356961">
-        <mark key="]" line="0" column="11" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="11" />
+      <file name="/Dummy.scala" timestamp="1543154862516">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/config/Opts.java" timestamp="1535571708572">
         <mark key="[" line="0" column="15" />
@@ -1002,11 +1004,11 @@
         <mark key="^" line="12" column="75" />
         <mark key="." line="12" column="75" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/build.sbt" timestamp="1543139314356">
-        <mark key="[" line="6" column="59" />
-        <mark key="]" line="6" column="60" />
-        <mark key="^" line="6" column="71" />
-        <mark key="." line="6" column="60" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/build.sbt" timestamp="1543154735657">
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="8" column="53" />
+        <mark key="^" line="8" column="53" />
+        <mark key="." line="8" column="53" />
       </file>
       <file name="$USER_HOME$/Workspace/Java/clf/src/main/java/LinearSVCExample.java" timestamp="1534585974556">
         <mark key="[" line="23" column="0" />
@@ -1508,43 +1510,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNjLgo=</text>
+        <text encoding="base64">ICAgIHZhbCBzYyA9IG5ldyBTcGFya0NvbnRleHQoY29uZikKICAgIHNjLnRleHRGaWxlKCJBL2Jpb2RlZy5jc3YiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>host</text>
+        <text>mllib</text>
       </register>
       <register name="/" type="4">
         <text>fran</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgCiUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICBcY3Zza2lsbAogICAge0xpbnV4fSAlIENhdGVnb3J5CiAgICB7QXJjaCwgRGViaWFuLCBVYnVudHV9ICUgU2tpbGxzICAgIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLmFwYWNoZS5zcGFyayIgJSAic3BhcmstbWxsaWJfMi4xMiIgJSAiMi40LjAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNjLgo=</text>
+        <text encoding="base64">ICAgIHZhbCBzYyA9IG5ldyBTcGFya0NvbnRleHQoY29uZikKICAgIHNjLnRleHRGaWxlKCJBL2Jpb2RlZy5jc3YiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldyBTcAo=</text>
+        <text encoding="base64">ICAgIHZhbCBzcyA9IG5ldyBTcGFya1NlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsue1NwYXJrQ29uZiwgU3BhcmtDb250ZXh0fQo=</text>
+        <text encoding="base64">ICAgIHNjLmZpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHNjLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzZXNzID0gU3BhcmtTCg==</text>
+        <text encoding="base64">Ly8gICAgd2FpdCgxMDAwMCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLmFwYWNoZS5zcGFyayIgJSAic3BhcmstY29yZV8yLjExIiAlICIyLjQuMCIK</text>
+        <text encoding="base64">ICAgIHNjLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLmFwYWNoZS5zcGFyayIgJSAic3BhcmstbWxsaWJfMi4xMiIgJSAiMi40LjAiCg==</text>
+        <text encoding="base64">ICAgIG5ldyBTcAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5uZDRqLmxpbmFsZy5mYWN0b3J5Lk5kNGoK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsue1NwYXJrQ29uZiwgU3BhcmtDb250ZXh0fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE5kNGouY3IK</text>
+        <text encoding="base64">ICAgIHNjLgo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
