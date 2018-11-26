@@ -739,6 +739,11 @@
         <mark key="^" line="64" column="0" />
         <mark key="." line="9" column="16" />
       </file>
+      <file name="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/cv.tex" timestamp="1543265858716">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/pea/src/main/java/jb/algorithm/limitation/CorrectLimitation.java" timestamp="1540578442183">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="8" column="7" />
@@ -1515,7 +1520,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFsIHNxbENvbnRleHQgPSBuZXcgb3JnLmFwYWNoZS5zcGFyay5zcWwuU1FMQ29udGV4dChzYykKaW1wb3J0IHNxbENvbnRleHQuaW1wbGljaXRzLl8K</text>
+        <text encoding="base64">XHVzZXBhY2thZ2V7Zm9udHNwZWN9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>format(&quot;csv&quot;)</text>
@@ -1527,31 +1532,31 @@
         <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLmFwYWNoZS5zcGFyayIgJSAic3BhcmstbWxsaWJfMi4xMiIgJSAiMi40LjAiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFsIHNxbENvbnRleHQgPSBuZXcgb3JnLmFwYWNoZS5zcGFyay5zcWwuU1FMQ29udGV4dChzYykKaW1wb3J0IHNxbENvbnRleHQuaW1wbGljaXRzLl8K</text>
+        <text encoding="base64">XHVzZXBhY2thZ2V7Zm9udHNwZWN9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLkRhdGFGcmFtZQo=</text>
+        <text encoding="base64">dmFsIHNxbENvbnRleHQgPSBuZXcgb3JnLmFwYWNoZS5zcGFyay5zcWwuU1FMQ29udGV4dChzYykKaW1wb3J0IHNxbENvbnRleHQuaW1wbGljaXRzLl8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIERhdGFmcgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLkRhdGFGcmFtZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBzYyA9IG5ldyBTcGFya0NvbnRleHQoY29uZikKICAgIHNjLnRleHRGaWxlKCJBL2Jpb2RlZy5jc3YiKQo=</text>
+        <text encoding="base64">ICAgIERhdGFmcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBzcyA9IG5ldyBTcGFya1NlCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzYyA9IG5ldyBTcGFya0NvbnRleHQoY29uZikKICAgIHNjLnRleHRGaWxlKCJBL2Jpb2RlZy5jc3YiKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNjLmZpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzcyA9IG5ldyBTcGFya1NlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNjLgo=</text>
+        <text encoding="base64">ICAgIHNjLmZpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgd2FpdCgxMDAwMCkK</text>
+        <text encoding="base64">ICAgIHNjLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNjLgo=</text>
+        <text encoding="base64">Ly8gICAgd2FpdCgxMDAwMCkK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
