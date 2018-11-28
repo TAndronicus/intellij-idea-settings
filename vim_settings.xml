@@ -416,9 +416,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.scala" timestamp="1543181550403">
-        <mark key="[" line="9" column="87" />
-        <mark key="]" line="11" column="18" />
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.scala" timestamp="1543437499672">
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="9" column="86" />
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
@@ -655,6 +655,12 @@
         <mark key="]" line="19" column="28" />
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="26" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.sc" timestamp="1543438249005">
+        <mark key="[" line="5" column="83" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1543128876794">
         <mark key="[" line="0" column="0" />
@@ -1524,8 +1530,10 @@
       <register name="/" type="4">
         <text>fran</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bGlicmFyeURlcGVuZGVuY2llcyArPSAib3JnLmFwYWNoZS5zcGFyayIgJSAic3BhcmstbWxsaWJfMi4xMiIgJSAiMi40LjAiCg==</text>
+      <register name="0" type="4">
+        <text>val conf = new SparkConf().setAppName(&quot;dtree-merge&quot;).setMaster(&quot;local&quot;)
+    val ss = SparkSession.builder().config(conf).getOrCreate()
+    var data = ss.read.option(&quot;inferSchema&quot;, &quot;true&quot;).format(&quot;csv&quot;).load(&quot;A/biodeg.csv&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHZhbCBzYyA9IG5ldyBTcGFya0NvbnRleHQoY29uZikKICAgIHNjLnRleHRGaWxlKCJBL2Jpb2RlZy5jc3YiKQo=</text>
