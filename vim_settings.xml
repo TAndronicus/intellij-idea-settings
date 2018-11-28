@@ -416,9 +416,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.scala" timestamp="1543437499672">
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="9" column="86" />
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.scala" timestamp="1543438830248">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="75" />
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="18" />
       </file>
@@ -656,11 +656,11 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.sc" timestamp="1543438249005">
-        <mark key="[" line="5" column="83" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.sc" timestamp="1543438833365">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="71" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="8" />
       </file>
       <file name="/Dummy.txt" timestamp="1543128876794">
         <mark key="[" line="0" column="0" />
@@ -1381,7 +1381,7 @@
         <mark key="." line="21" column="13" />
         <mark key="^" line="21" column="18" />
       </file>
-      <file name="/sbtShell" timestamp="1543138902703">
+      <file name="/sbtShell" timestamp="1543439119249">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/media/jb/145C91ED5C91CA3E/Workspace/Java/clf-integration/src/main/java/jb/data/clfobj/ClfObject.kt" timestamp="1538217151892">
@@ -1525,15 +1525,13 @@
         <text encoding="base64">ICAgIHZhbCBzYyA9IG5ldyBTcGFya0NvbnRleHQoY29uZikKICAgIHNjLnRleHRGaWxlKCJBL2Jpb2RlZy5jc3YiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>mllib</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>fran</text>
       </register>
-      <register name="0" type="4">
-        <text>val conf = new SparkConf().setAppName(&quot;dtree-merge&quot;).setMaster(&quot;local&quot;)
-    val ss = SparkSession.builder().config(conf).getOrCreate()
-    var data = ss.read.option(&quot;inferSchema&quot;, &quot;true&quot;).format(&quot;csv&quot;).load(&quot;A/biodeg.csv&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCBjb25mID0gbmV3IFNwYXJrQ29uZigpLnNldEFwcE5hbWUoImR0cmVlLW1lcmdlIikuc2V0TWFzdGVyKCJsb2NhbCIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHZhbCBzYyA9IG5ldyBTcGFya0NvbnRleHQoY29uZikKICAgIHNjLnRleHRGaWxlKCJBL2Jpb2RlZy5jc3YiKQo=</text>
