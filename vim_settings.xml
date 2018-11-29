@@ -6,8 +6,14 @@
       <file name="/sbtShell" timestamp="1543439286849">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.scala" timestamp="1543440230629">
-        <mark key="[" line="9" column="87" />
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.12/srcs/spark-mllib_2.12-2.4.0-sources.jar!/org/apache/spark/ml/feature/Interaction.scala" timestamp="1543508897990">
+        <mark key="'" line="73" column="52" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.scala" timestamp="1543526006226">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.sc" timestamp="1543439884808">
         <mark key="[" line="15" column="32" />
@@ -16,7 +22,9 @@
         <mark key="^" line="15" column="32" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="73" column="52" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.12/srcs/spark-mllib_2.12-2.4.0-sources.jar!/org/apache/spark/ml/feature/Interaction.scala" />
+    </jumps>
     <registers>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -31,17 +39,25 @@
         <text encoding="base64">CnZhciBuZ3JhbSA9IG5ldyBOR3JhbSgpLnNldE4oMikuc2V0SW5wdXRDb2woIndvcmRzIikuc2V0T3V0cHV0Q29sKCJuZ3JhbXMiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>import org.apache.spark.ml.feature.NGram</text>
+        <text>interaction</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
