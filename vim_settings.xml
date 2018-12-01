@@ -74,11 +74,11 @@
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Config.java" timestamp="1543666196606">
         <mark key="[" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/init/GreedySolInit.java" timestamp="1543671945606">
-        <mark key="[" line="38" column="22" />
-        <mark key="]" line="38" column="92" />
-        <mark key="." line="38" column="92" />
-        <mark key="^" line="18" column="44" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/init/GreedySolInit.java" timestamp="1543678737847">
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="24" column="77" />
+        <mark key="." line="24" column="77" />
+        <mark key="^" line="24" column="77" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/Neighborhood.java" timestamp="1543676145307">
         <mark key="[" line="0" column="21" />
@@ -86,11 +86,11 @@
         <mark key="^" line="8" column="50" />
         <mark key="." line="8" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543678016368">
-        <mark key="[" line="23" column="58" />
-        <mark key="]" line="30" column="21" />
-        <mark key="." line="30" column="21" />
-        <mark key="^" line="30" column="21" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543678810297">
+        <mark key="[" line="23" column="57" />
+        <mark key="]" line="23" column="58" />
+        <mark key="." line="23" column="58" />
+        <mark key="^" line="33" column="36" />
       </file>
       <file name="/fragment.java" timestamp="1543672060519">
         <mark key="[" line="0" column="0" />
@@ -107,8 +107,8 @@
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bestSolution</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZWwgPSBzdHJpbmdzLnJlbW92ZSgyKTsKICAgICAgICBzdHJpbmdzLmFkZCg0LCBlbCk7Cg==</text>
@@ -135,7 +135,7 @@
         <text encoding="base64">ICAgICAgICBTdHJpbmcgZWwgPSBzdHJpbmdzLnJlbW92ZSgyKTsKICAgICAgICBzdHJpbmdzLmFkZCg0LCBlbCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>bestSolution</text>
       </register>
     </registers>
     <search>
