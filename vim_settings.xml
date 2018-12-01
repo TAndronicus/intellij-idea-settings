@@ -2,14 +2,177 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/file/FileReader.java" timestamp="1543666328159">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/SolInit.java" timestamp="1543667265558">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Solver.java" timestamp="1543666569979">
+        <mark key="[" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/model/Solution.java" timestamp="1543667689523">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/SA.java" timestamp="1543666755434">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/FileReader.java" timestamp="1543666163901">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="18" column="39" />
+        <mark key="^" line="6" column="13" />
+        <mark key="." line="18" column="39" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/Solver.java" timestamp="1543666698186">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="6" column="37" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Config.java" timestamp="1543666196606">
+        <mark key="[" line="2" column="21" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/init/GreedySolInit.java" timestamp="1543667959505">
+        <mark key="[" line="13" column="31" />
+        <mark key="]" line="13" column="47" />
+        <mark key="^" line="13" column="47" />
+        <mark key="." line="13" column="47" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543667180023">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="7" column="7" />
+        <mark key="." line="7" column="7" />
+        <mark key="^" line="7" column="7" />
+      </file>
+    </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIH0KCg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>Problem problem</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldExvd2VyTGltaXQoaW50IGxvd2VyTGltaXQpIHsKICAgICAgICB0aGlzLmxvd2VyTGltaXQgPSBsb3dlckxpbWl0Owo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH0KCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0TG93ZXJMaW1pdCgpIHsKICAgICAgICByZXR1cm4gbG93ZXJMaW1pdDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0KCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLmRpc3RhbmNlID0gZGlzdGFuY2U7CiAgICAgICAgdGhpcy5sb3dlckxpbWl0ID0gbG93ZXJMaW1pdDsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTb2x1dGlvbihEZXF1ZTxDaXR5PiBjaXRpZXMsIGludCBkaXN0YW5jZSwgaW50IGxvd2VyTGltaXQpIHsKICAgICAgICB0aGlzLmNpdGllcyA9IGNpdGllczsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGxvd2VyTGltaXQ7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>Problem problem</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
