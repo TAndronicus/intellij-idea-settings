@@ -18,6 +18,11 @@
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Solver.java" timestamp="1543666569979">
         <mark key="[" line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/init/SolInit.java" timestamp="1543668047888">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/model/Solution.java" timestamp="1543667689523">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -44,11 +49,11 @@
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Config.java" timestamp="1543666196606">
         <mark key="[" line="2" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/init/GreedySolInit.java" timestamp="1543667959505">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="47" />
-        <mark key="^" line="13" column="47" />
-        <mark key="." line="13" column="47" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/init/GreedySolInit.java" timestamp="1543669254650">
+        <mark key="[" line="26" column="8" />
+        <mark key="]" line="26" column="8" />
+        <mark key="." line="26" column="8" />
+        <mark key="^" line="26" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543667180023">
         <mark key="[" line="3" column="0" />
@@ -60,37 +65,37 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGZpbmFsSSA9IGk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Problem problem</text>
+        <text encoding="base64">aW50IHNob3J0ZXN0RGlzdCA9IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldExvd2VyTGltaXQoaW50IGxvd2VyTGltaXQpIHsKICAgICAgICB0aGlzLmxvd2VyTGltaXQgPSBsb3dlckxpbWl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzdGFuY2UgKz0gcm91dGUuZ2V0TGFzdCgpLmdldERpc3RhbmNlcygpW25leHRDaXR5LmdldEluZGV4KCldOwogICAgICAgICAgICByb3V0ZS5vZmZlckxhc3QobmV4dENpdHkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2l0eSBuZXh0Q2l0eSA9IHN0YWNrLnN0cmVhbSgpLmZpbHRlcihjaXR5IC0+IGNpdHkuZ2V0SW5kZXgoKSAhPSBmaW5hbEkpLnNvcnRlZChDb21wYXJhdG9yLmNvbXBhcmluZ0ludCgoKENpdHkpIGNpdHkgLT4gcm91dGUuZ2V0TGFzdCgpLmdldERpc3RhbmNlcygpW2NpdHkuXSkuZmluZEZpcnN0KCkuZ2V0KCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0TG93ZXJMaW1pdCgpIHsKICAgICAgICByZXR1cm4gbG93ZXJMaW1pdDsK</text>
+        <text encoding="base64">ICAgICAgICBEZXF1ZSBjaXRpZXMgPSBuZXcgTGlua2VkTGlzdCgpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmRpc3RhbmNlID0gZGlzdGFuY2U7CiAgICAgICAgdGhpcy5sb3dlckxpbWl0ID0gbG93ZXJMaW1pdDsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldExvd2VyTGltaXQoaW50IGxvd2VyTGltaXQpIHsKICAgICAgICB0aGlzLmxvd2VyTGltaXQgPSBsb3dlckxpbWl0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTb2x1dGlvbihEZXF1ZTxDaXR5PiBjaXRpZXMsIGludCBkaXN0YW5jZSwgaW50IGxvd2VyTGltaXQpIHsKICAgICAgICB0aGlzLmNpdGllcyA9IGNpdGllczsK</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgaW50IGxvd2VyTGltaXQ7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0TG93ZXJMaW1pdCgpIHsKICAgICAgICByZXR1cm4gbG93ZXJMaW1pdDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CS8vIHdyaXRlIHlvdXIgY29kZSBoZXJlCg==</text>
+        <text encoding="base64">ICAgIH0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Problem problem</text>
+        <text encoding="base64">aW50IHNob3J0ZXN0RGlzdCA9IA==</text>
       </register>
     </registers>
     <search>
