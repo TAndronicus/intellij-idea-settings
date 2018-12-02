@@ -123,11 +123,17 @@
         <mark key="." line="40" column="44" />
         <mark key="^" line="42" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/model/SolutionContainer.java" timestamp="1543735535968">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="4" column="29" />
-        <mark key="^" line="4" column="29" />
-        <mark key="." line="4" column="29" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/model/SolutionContainer.java" timestamp="1543737374869">
+        <mark key="[" line="20" column="30" />
+        <mark key="]" line="17" column="7" />
+        <mark key="^" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/tabulist/ConstantLifetimeTabuList.java" timestamp="1543738213677">
+        <mark key="[" line="26" column="50" />
+        <mark key="]" line="27" column="19" />
+        <mark key="^" line="27" column="19" />
+        <mark key="." line="27" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Config.java" timestamp="1543666196606">
         <mark key="[" line="2" column="21" />
@@ -147,11 +153,11 @@
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/neighboorhood/Aspiration.java" timestamp="1543729573064">
         <mark key="[" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543735504815">
-        <mark key="[" line="32" column="73" />
-        <mark key="]" line="33" column="15" />
-        <mark key="." line="33" column="15" />
-        <mark key="^" line="33" column="15" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543738526716">
+        <mark key="[" line="32" column="57" />
+        <mark key="]" line="32" column="58" />
+        <mark key="." line="32" column="58" />
+        <mark key="^" line="37" column="25" />
       </file>
       <file name="/fragment.java" timestamp="1543691976909">
         <mark key="[" line="0" column="0" />
@@ -175,7 +181,7 @@
         <text encoding="base64">ICAgICAgICB9Cgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>break;</text>
+        <text>0</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKENpdHkgY2l0eSA6IGluaXRpYWxTb2x1dGlvbi5nZXRDaXRpZXMoKSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2l0eS5nZXRJbmRleCgpICsgIiAiKTsK</text>
@@ -202,7 +208,7 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>break;</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
