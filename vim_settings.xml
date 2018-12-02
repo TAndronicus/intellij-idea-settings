@@ -15,6 +15,12 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/aspiration/AbsoluteAspiration.java" timestamp="1543781465741">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="44" />
+        <mark key="^" line="12" column="44" />
+        <mark key="." line="12" column="44" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/neighboorhood/Swap.java" timestamp="1543692449129">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="52" />
@@ -144,10 +150,11 @@
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/neighboorhood/Aspiration.java" timestamp="1543729573064">
         <mark key="[" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543780641364">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543781793035">
+        <mark key="[" line="42" column="33" />
+        <mark key="]" line="80" column="11" />
+        <mark key="." line="80" column="11" />
+        <mark key="^" line="80" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1543749296290">
         <mark key="[" line="0" column="0" />
@@ -168,37 +175,37 @@
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLm5pby5maWxlLlBhdGhzLmdldDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYWxsVmFsdWVzLnNpemUoKSA9PSBwb3coZGltcywgMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgKCFhbGxWYWx1ZXMuaXNFbXB0eSgpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlucHV0KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY291bnRlciA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa3Vyd2EudHJpbSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcga3Vyd2EgPSAiICAgIGhlIGhlIGhlICAiOwo=</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgYWxsVmFsdWVzLnNpemUoKSA9PSBwb3coZGltcywgMik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXRjaGVyIG1hdGNoZXIgPSBwYXR0ZXJuLm1hdGNoZXIocyk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1hdGNoZXIubWF0Y2hlcygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgKCFhbGxWYWx1ZXMuaXNFbXB0eSgpKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJhYmMxMjM0NXF3ZXJ0eSI7CiAgICAgICAgUGF0dGVybiBwYXR0ZXJuID0gUGF0dGVybi5jb21waWxlKCJhYmMoWzAtOV0qKXF3ZXJ0eSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY291bnRlciA9IDA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>false</text>
       </register>
     </registers>
     <search>
