@@ -3,9 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/file/FileReader.java" timestamp="1543666328159">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/file/FileReader.java" timestamp="1543747267169">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="38" />
         <mark key="^" line="0" column="11" />
         <mark key="." line="12" column="0" />
       </file>
@@ -20,11 +20,6 @@
         <mark key="]" line="14" column="52" />
         <mark key="^" line="14" column="52" />
         <mark key="." line="14" column="52" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea/src/main/java/jb/runner/Runner.java" timestamp="1543681339386">
-        <mark key="[" line="28" column="53" />
-        <mark key="]" line="28" column="54" />
-        <mark key="." line="28" column="54" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/FileReader.java" timestamp="1543666163901">
         <mark key="[" line="0" column="10" />
@@ -50,6 +45,18 @@
         <mark key="." line="18" column="61" />
         <mark key="^" line="18" column="61" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/FuckedUpFormatParser.java" timestamp="1543747223249">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/file/FuckedUpFormatParser.java" timestamp="1543749877152">
+        <mark key="[" line="51" column="15" />
+        <mark key="]" line="51" column="32" />
+        <mark key="^" line="51" column="32" />
+        <mark key="." line="51" column="32" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/init/RandomSolInit.java" timestamp="1543734383147">
         <mark key="[" line="23" column="15" />
         <mark key="]" line="23" column="38" />
@@ -74,11 +81,6 @@
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Solver.java" timestamp="1543666569979">
         <mark key="[" line="0" column="10" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/init/SolInit.java" timestamp="1543668047888">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="24" />
-        <mark key="." line="10" column="24" />
-      </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/neighboorhood/Insert.java" timestamp="1543692617420">
         <mark key="[" line="12" column="59" />
         <mark key="]" line="14" column="52" />
@@ -90,11 +92,6 @@
         <mark key="]" line="37" column="0" />
         <mark key="^" line="34" column="27" />
         <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/model/Solution.java" timestamp="1543667689523">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/tabulist/TabuList.java" timestamp="1543693295687">
         <mark key="[" line="6" column="32" />
@@ -147,17 +144,17 @@
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/neighboorhood/Aspiration.java" timestamp="1543729573064">
         <mark key="[" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543745463230">
-        <mark key="[" line="29" column="111" />
-        <mark key="]" line="39" column="24" />
-        <mark key="." line="39" column="24" />
-        <mark key="^" line="39" column="24" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543750169198">
+        <mark key="[" line="32" column="112" />
+        <mark key="]" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+        <mark key="^" line="32" column="28" />
       </file>
-      <file name="/fragment.java" timestamp="1543691976909">
+      <file name="/fragment.java" timestamp="1543749296290">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/temp/Thermostat.java" timestamp="1543689767472">
         <mark key="[" line="6" column="25" />
@@ -169,40 +166,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBTb2xJbml0IHNvbEluaXQgPSBuZXcgUmFuZG9tU29sSW5pdCgpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLm5pby5maWxlLlBhdGhzLmdldDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZXItLTsK</text>
+        <text encoding="base64">ICAgICAgICBhc3NlcnQgYWxsVmFsdWVzLnNpemUoKSA9PSBwb3coZGltcywgMik7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGltZXItLTsK</text>
+      <register name="&quot;" type="4">
+        <text>FileReader</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRpbWVyID09IDApIGJyZWFrOwo=</text>
+        <text encoding="base64">ICAgICAgICAgKCFhbGxWYWx1ZXMuaXNFbXB0eSgpKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHN0YXRpYyBTb2xJbml0IHNvbEluaXQgPSBuZXcgR3JlZWR5U29sSW5pdCgpOwovLyAgICBzdGF0aWMgU29sdmVyIHNvbHZlciA9IG5ldyBTQShuZXcgSW5zZXJ0KCksIG5ldyBTaW1wbGVUaGVybW9zdGF0KDIwMCwgMSwgLjAxKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgY291bnRlciA9IDA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa3Vyd2EudHJpbSgpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKENpdHkgY2l0eSA6IGluaXRpYWxTb2x1dGlvbi5nZXRDaXRpZXMoKSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2l0eS5nZXRJbmRleCgpICsgIiAiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcga3Vyd2EgPSAiICAgIGhlIGhlIGhlICAiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXRjaGVyIG1hdGNoZXIgPSBwYXR0ZXJuLm1hdGNoZXIocyk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG1hdGNoZXIubWF0Y2hlcygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKEludGVnZXIgZWwgOiBhcikgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGVsICsgIiAiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJhYmMxMjM0NXF3ZXJ0eSI7CiAgICAgICAgUGF0dGVybiBwYXR0ZXJuID0gUGF0dGVybi5jb21waWxlKCJhYmMoWzAtOV0qKXF3ZXJ0eSIpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgTGlzdDxJbnRlZ2VyPiBhciA9IEludFN0cmVhbS5yYW5nZSgwLCBwcm9ibGVtLmdldENpdGllcygpLnNpemUoKSkubWFwVG9PYmooSW50ZWdlcjo6dmFsdWVPZikuY29sbGVjdCh0b0xpc3QoKSk7CiAgICAgICAgQ29sbGVjdGlvbnMuc2h1ZmZsZShhcik7</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMucwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGxpbmUuc3RhcnRzV2l0aCgiRElNRU5TSU9OICIpKSB7CiAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PD8gZXh0ZW5kcyA=</text>
+        <text>FileReader</text>
       </register>
     </registers>
     <search>
