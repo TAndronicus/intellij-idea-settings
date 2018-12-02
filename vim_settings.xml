@@ -153,11 +153,11 @@
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/neighboorhood/Aspiration.java" timestamp="1543729573064">
         <mark key="[" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543738526716">
-        <mark key="[" line="32" column="57" />
-        <mark key="]" line="32" column="58" />
-        <mark key="." line="32" column="58" />
-        <mark key="^" line="37" column="25" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543743732602">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+        <mark key="^" line="28" column="23" />
       </file>
       <file name="/fragment.java" timestamp="1543691976909">
         <mark key="[" line="0" column="0" />
@@ -178,37 +178,37 @@
         <text encoding="base64">ICAgIHN0YXRpYyBTb2xJbml0IHNvbEluaXQgPSBuZXcgUmFuZG9tU29sSW5pdCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cgo=</text>
+        <text encoding="base64">ICAgIC8vICAgIHN0YXRpYyBTb2xJbml0IHNvbEluaXQgPSBuZXcgR3JlZWR5U29sSW5pdCgpOwovLyAgICBzdGF0aWMgU29sdmVyIHNvbHZlciA9IG5ldyBTQShuZXcgSW5zZXJ0KCksIG5ldyBTaW1wbGVUaGVybW9zdGF0KDIwMCwgMSwgLjAxKSk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>1000</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKENpdHkgY2l0eSA6IGluaXRpYWxTb2x1dGlvbi5nZXRDaXRpZXMoKSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2l0eS5nZXRJbmRleCgpICsgIiAiKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKENpdHkgY2l0eSA6IGluaXRpYWxTb2x1dGlvbi5nZXRDaXRpZXMoKSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY2l0eS5nZXRJbmRleCgpICsgIiAiKTsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBmb3IgKEludGVnZXIgZWwgOiBhcikgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50KGVsICsgIiAiKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgTGlzdDxJbnRlZ2VyPiBhciA9IEludFN0cmVhbS5yYW5nZSgwLCBwcm9ibGVtLmdldENpdGllcygpLnNpemUoKSkubWFwVG9PYmooSW50ZWdlcjo6dmFsdWVPZikuY29sbGVjdCh0b0xpc3QoKSk7CiAgICAgICAgQ29sbGVjdGlvbnMuc2h1ZmZsZShhcik7</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBBcnJheXMucwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>1000</text>
       </register>
     </registers>
     <search>
