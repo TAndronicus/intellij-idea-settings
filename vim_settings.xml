@@ -153,11 +153,11 @@
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/neighboorhood/Aspiration.java" timestamp="1543729573064">
         <mark key="[" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543743732602">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="28" column="23" />
-        <mark key="." line="28" column="23" />
-        <mark key="^" line="28" column="23" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543744448020">
+        <mark key="[" line="52" column="38" />
+        <mark key="]" line="52" column="85" />
+        <mark key="." line="52" column="85" />
+        <mark key="^" line="52" column="85" />
       </file>
       <file name="/fragment.java" timestamp="1543691976909">
         <mark key="[" line="0" column="0" />
@@ -181,7 +181,7 @@
         <text encoding="base64">ICAgIC8vICAgIHN0YXRpYyBTb2xJbml0IHNvbEluaXQgPSBuZXcgR3JlZWR5U29sSW5pdCgpOwovLyAgICBzdGF0aWMgU29sdmVyIHNvbHZlciA9IG5ldyBTQShuZXcgSW5zZXJ0KCksIG5ldyBTaW1wbGVUaGVybW9zdGF0KDIwMCwgMSwgLjAxKSk7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1000</text>
+        <text>.</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB9Cgo=</text>
@@ -208,7 +208,7 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text>1000</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
