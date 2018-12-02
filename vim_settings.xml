@@ -150,13 +150,12 @@
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/neighboorhood/Aspiration.java" timestamp="1543729573064">
         <mark key="[" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543781793035">
-        <mark key="[" line="42" column="33" />
-        <mark key="]" line="80" column="11" />
-        <mark key="." line="80" column="11" />
-        <mark key="^" line="80" column="11" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543782886615">
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1543749296290">
+      <file name="/fragment.java" timestamp="1543782744095">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -175,37 +174,37 @@
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLm5pby5maWxlLlBhdGhzLmdldDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHRpbWVyID0gMTAwMDAwOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHRpbWVyID0gMTAwMDAwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlucHV0KQo=</text>
+        <text encoding="base64">Ly8gICAgICAgIFNvbHZlciBzb2x2ZXIgPSBuZXcgVFMobmV3IENvbnN0YW50TGlmZXRpbWVUYWJ1TGlzdCgxMCksIG5ldyBTd2FwKCksIG5ldyBSZWxhdGl2ZUFzcGlyYXRpb24oLjAxKSwgMTAwMCk7Ci8vICAgICAgICBTb2x2ZXIgc29sdmVyID0gbmV3IFNBKG5ldyBTd2FwKCksIG5ldyBTaW1wbGVUaGVybW9zdGF0KDEwMDAsIDEwLCAuMSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnQgYWxsVmFsdWVzLnNpemUoKSA9PSBwb3coZGltcywgMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgKCFhbGxWYWx1ZXMuaXNFbXB0eSgpKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlucHV0KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgY291bnRlciA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>Int</text>
       </register>
     </registers>
     <search>
