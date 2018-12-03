@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/file/FileReader.java" timestamp="1543747267169">
@@ -27,11 +27,11 @@
         <mark key="^" line="14" column="52" />
         <mark key="." line="14" column="52" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/ReportGenerator.java" timestamp="1543866211461">
-        <mark key="[" line="37" column="37" />
-        <mark key="]" line="62" column="112" />
-        <mark key="^" line="62" column="112" />
-        <mark key="." line="62" column="112" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/ReportGenerator.java" timestamp="1543867028736">
+        <mark key="[" line="72" column="28" />
+        <mark key="]" line="72" column="27" />
+        <mark key="^" line="72" column="27" />
+        <mark key="." line="72" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/FileReader.java" timestamp="1543666163901">
         <mark key="[" line="0" column="10" />
@@ -184,7 +184,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Problem problem</text>
+        <text>close();</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -211,7 +211,7 @@
         <text encoding="base64">ICAgICAgICB9CiAgICAgICAgbmVpZ2hib3Job29kVHlwZSA9IDA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Problem problem</text>
+        <text>close();</text>
       </register>
     </registers>
     <search>
