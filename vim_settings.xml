@@ -27,11 +27,11 @@
         <mark key="^" line="14" column="52" />
         <mark key="." line="14" column="52" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/ReportGenerator.java" timestamp="1543864933342">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="24" column="38" />
-        <mark key="." line="24" column="38" />
-        <mark key="^" line="22" column="39" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/ReportGenerator.java" timestamp="1543866211461">
+        <mark key="[" line="37" column="37" />
+        <mark key="]" line="62" column="112" />
+        <mark key="^" line="62" column="112" />
+        <mark key="." line="62" column="112" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/FileReader.java" timestamp="1543666163901">
         <mark key="[" line="0" column="10" />
@@ -63,11 +63,11 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/file/FuckedUpFormatParser.java" timestamp="1543749877152">
-        <mark key="[" line="50" column="15" />
-        <mark key="]" line="50" column="32" />
-        <mark key="^" line="50" column="32" />
-        <mark key="." line="50" column="32" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/file/FuckedUpFormatParser.java" timestamp="1543866718770">
+        <mark key="[" line="23" column="62" />
+        <mark key="]" line="33" column="66" />
+        <mark key="^" line="33" column="66" />
+        <mark key="." line="33" column="66" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/init/RandomSolInit.java" timestamp="1543734383147">
         <mark key="[" line="23" column="15" />
@@ -162,7 +162,7 @@
         <mark key="." line="139" column="42" />
         <mark key="^" line="139" column="42" />
       </file>
-      <file name="/fragment.java" timestamp="1543782744095">
+      <file name="/fragment.java" timestamp="1543866608841">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="^" line="0" column="7" />
@@ -178,13 +178,13 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGZpbGUxID0gImV4LzEiOwo=</text>
+        <text encoding="base64">ICAgICAgICBTb2x2ZXIgdDFzYVN3YSA9IG5ldyBTQShuZXcgU3dhcCgpLCB0aGVybW9zdGF0KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIGZpbGUxID0gImV4LzEiOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Problem problem</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -211,7 +211,7 @@
         <text encoding="base64">ICAgICAgICB9CiAgICAgICAgbmVpZ2hib3Job29kVHlwZSA9IDA7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>Problem problem</text>
       </register>
     </registers>
     <search>
