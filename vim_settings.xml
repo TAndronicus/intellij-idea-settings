@@ -15,11 +15,11 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/aspiration/AbsoluteAspiration.java" timestamp="1543781465741">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="44" />
-        <mark key="^" line="12" column="44" />
-        <mark key="." line="12" column="44" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/aspiration/AbsoluteAspiration.java" timestamp="1543859286128">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/neighboorhood/Swap.java" timestamp="1543692449129">
         <mark key="[" line="14" column="15" />
@@ -120,11 +120,11 @@
         <mark key="." line="40" column="44" />
         <mark key="^" line="42" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/model/SolutionContainer.java" timestamp="1543737374869">
-        <mark key="[" line="20" column="30" />
-        <mark key="]" line="17" column="7" />
-        <mark key="^" line="17" column="7" />
-        <mark key="." line="17" column="7" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/model/SolutionContainer.java" timestamp="1543858932151">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="25" column="84" />
+        <mark key="^" line="25" column="84" />
+        <mark key="." line="25" column="84" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/tabulist/ConstantLifetimeTabuList.java" timestamp="1543738213677">
         <mark key="[" line="26" column="50" />
@@ -150,10 +150,11 @@
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/neighboorhood/Aspiration.java" timestamp="1543729573064">
         <mark key="[" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543782886615">
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="86" column="0" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Main.java" timestamp="1543861009704">
+        <mark key="[" line="141" column="47" />
+        <mark key="]" line="141" column="43" />
+        <mark key="." line="141" column="43" />
+        <mark key="^" line="141" column="43" />
       </file>
       <file name="/fragment.java" timestamp="1543782744095">
         <mark key="[" line="0" column="0" />
@@ -174,37 +175,37 @@
         <text encoding="base64">aW1wb3J0IHN0YXRpYyBqYXZhLm5pby5maWxlLlBhdGhzLmdldDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHRpbWVyID0gMTAwMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3QgPSBzY2FubmVyLm5leHQoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3QuaXNFbXB0eSgpKTsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IHRpbWVyID0gMTAwMDAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3QgPSBzY2FubmVyLm5leHQoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3QuaXNFbXB0eSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXNwaXJhdGlvblR5cGUgPSAwOwogICAgICAgICAgICB3aGlsZSAoYXNwaXJhdGlvblR5cGUgIT0gMSAmJiBhc3BpcmF0aW9uVHlwZSAhPSAyKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFNvbHZlciBzb2x2ZXIgPSBuZXcgVFMobmV3IENvbnN0YW50TGlmZXRpbWVUYWJ1TGlzdCgxMCksIG5ldyBTd2FwKCksIG5ldyBSZWxhdGl2ZUFzcGlyYXRpb24oLjAxKSwgMTAwMCk7Ci8vICAgICAgICBTb2x2ZXIgc29sdmVyID0gbmV3IFNBKG5ldyBTd2FwKCksIG5ldyBTaW1wbGVUaGVybW9zdGF0KDEwMDAsIDEwLCAuMSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSAobmVpZ2hib3Job29kVHlwZSAhPSAxICYmIG5laWdoYm9yaG9vZFR5cGUgIT0gMikgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgbmVpZ2hib3Job29kVHlwZSA9IDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAoKQo=</text>
+        <text encoding="base64">ICAgICAgICBzb2x2ZXJUeXBlID0gMDsKICAgICAgICB3aGlsZSAoc29sdmVyVHlwZSAhPSAxICYmIHNvbHZlclR5cGUgIT0gMikgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlucHV0KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQmlGdW5jdGlvbjxTb2x1dGlvbiwgU29sdXRpb24sIEJvb2xlYW4+IGNvbXBhcmF0b3IgPSA7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IHRpbWVyID0gMTAwMDAwOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Int</text>
+        <text>timer</text>
       </register>
     </registers>
     <search>
