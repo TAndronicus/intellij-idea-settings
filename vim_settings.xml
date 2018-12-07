@@ -9,11 +9,11 @@
       <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.12/srcs/spark-mllib_2.12-2.4.0-sources.jar!/org/apache/spark/ml/feature/Interaction.scala" timestamp="1543508897990">
         <mark key="'" line="73" column="52" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.scala" timestamp="1544206711183">
-        <mark key="[" line="12" column="87" />
-        <mark key="]" line="17" column="28" />
-        <mark key="^" line="14" column="22" />
-        <mark key="." line="17" column="28" />
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.scala" timestamp="1544211689086">
+        <mark key="[" line="31" column="68" />
+        <mark key="]" line="31" column="33" />
+        <mark key="^" line="31" column="14" />
+        <mark key="." line="31" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.sc" timestamp="1543439884808">
         <mark key="[" line="15" column="32" />
@@ -45,7 +45,7 @@
         <text encoding="base64">CnZhciBuZ3JhbSA9IG5ldyBOR3JhbSgpLnNldE4oMikuc2V0SW5wdXRDb2woIndvcmRzIikuc2V0T3V0cHV0Q29sKCJuZ3JhbXMiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>a</text>
       </register>
     </registers>
     <search>
@@ -64,6 +64,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
