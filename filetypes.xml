@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
+      <mapping ext="bbl" type="Native" />
       <mapping pattern="test0" type="PLAIN_TEXT" />
       <mapping ext="aux" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
