@@ -33,6 +33,12 @@
         <mark key="^" line="14" column="52" />
         <mark key="." line="14" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountSpaces.tex" timestamp="1544474748882">
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="24" column="3" />
+        <mark key="." line="2" column="14" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/ReportGenerator.java" timestamp="1543867028736">
         <mark key="[" line="72" column="28" />
         <mark key="]" line="72" column="27" />
@@ -45,11 +51,11 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="18" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/jucs.tex" timestamp="1544472556764">
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="14" />
-        <mark key="." line="20" column="14" />
-        <mark key="^" line="20" column="14" />
+      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/jucs.tex" timestamp="1544475324766">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+        <mark key="^" line="22" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/Solver.java" timestamp="1543666698186">
         <mark key="[" line="2" column="24" />
@@ -108,11 +114,12 @@
       <file name="/Dummy.txt" timestamp="1543783534755">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseAcc.tex" timestamp="1544389512688">
-        <mark key="[" line="0" column="24" />
-        <mark key="]" line="0" column="24" />
-        <mark key="." line="0" column="24" />
-        <mark key="^" line="0" column="23" />
+      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseAcc.tex" timestamp="1544474764065">
+        <mark key="'" line="133" column="3" />
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="14" />
+        <mark key="^" line="112" column="3" />
+        <mark key="." line="2" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/Solver.java" timestamp="1543666569979">
         <mark key="[" line="0" column="10" />
@@ -123,12 +130,12 @@
         <mark key="^" line="14" column="52" />
         <mark key="." line="14" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountSel.tex" timestamp="1544389076450">
-        <mark key="'" line="145" column="10" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="132" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="101" column="115" />
+      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountSel.tex" timestamp="1544474769874">
+        <mark key="'" line="135" column="11" />
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="135" column="11" />
+        <mark key="." line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/jb/algorithm/temp/SimpleThermostat.java" timestamp="1543690684954">
         <mark key="[" line="37" column="0" />
@@ -142,9 +149,15 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseRej.tex" timestamp="1544389411104">
-        <mark key="[" line="144" column="11" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseRej.tex" timestamp="1544475281856">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/met.tex" timestamp="1544475359597">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/ex/test0" timestamp="1543670056723">
         <mark key="[" line="0" column="0" />
@@ -224,43 +237,46 @@
       <jump line="95" column="11" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/reCountSpaces.tex" />
       <jump line="4" column="13" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseRej.tex" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseAcc.tex" />
+      <jump line="133" column="3" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseAcc.tex" />
+      <jump line="135" column="11" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountSel.tex" />
+      <jump line="112" column="0" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseRej.tex" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIFxjYXB0aW9ue1F1YWxpdHkgb2YgY2xhc3NpZmljYXRpb24gKEFDQykgYXMgYSBmdW5jdGlvbiBvZiBjb3VudCBvZiBzdWJzcGFjZXMgZm9yIDkgQkNzLCAyIHNlbGVjdGVkIGNsYXNzaWZpZXJzIGFuZCBtZWRpYW4gbWV0aG9kLn0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgpcbmV3cGFnZQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIFxtZWRza2lwCgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.tex}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIFxtZWRza2lwCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFxjYXB0aW9ue0pha2/Fm8SHIGtsYXN5ZmlrYWNqaSAoTUNDKSB3IHphbGXFvG5vxZtjaSBvZCBsaWN6YnkgcG9kcHJ6ZXN0cnplbmkgZGxhIGtsYXN5ZmlrYXRvcmEgcmVmZXJlbmN5am5lZ28gaSB6aW50ZWdyb3dhbmVnbyBkbGEgOSBtb2RlbGkgYmF6b3d5Y2gsIDIgbW9kZWxpIHd5YnJhbnljaCB3IHByb2Nlc2llIHNlbGVrY2ppIGkgbWV0b2R5IGludGVncmFjamkgbWVkaWFuxIUufQo=</text>
+        <text encoding="base64">ICAgIFxuZXdwYWdlCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFxjYXB0aW9ue0pha2/Fm8SHIGtsYXN5ZmlrYWNqaSAoQUNDKSB3IHphbGXFvG5vxZtjaSBvZCBsaWN6YnkgcG9kcHJ6ZXN0cnplbmkgZGxhIGtsYXN5ZmlrYXRvcmEgcmVmZXJlbmN5am5lZ28gaSB6aW50ZWdyb3dhbmVnbyBkbGEgOSBtb2RlbGkgYmF6b3d5Y2gsIDIgbW9kZWxpIHd5YnJhbnljaCB3IHByb2Nlc2llIHNlbGVrY2ppIGkgbWV0b2R5IGludGVncmFjamkgbWVkaWFuxIUufQo=</text>
+        <text encoding="base64">XGJlZ2lue3RhYmxlfVtwaCFdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFxjYXB0aW9ue0pha2/Fm8SHIGtsYXN5ZmlrYWNqaSAoTUNDKSB3IHphbGXFvG5vxZtjaSBvZCBsaWN6YnkgcG9kcHJ6ZXN0cnplbmkgZGxhIGtsYXN5ZmlrYXRvcmEgcmVmZXJlbmN5am5lZ28gaSB6aW50ZWdyb3dhbmVnbyBkbGEgOSBtb2RlbGkgYmF6b3d5Y2gsIDIgbW9kZWxpIHd5YnJhbnljaCB3IHByb2Nlc2llIHNlbGVrY2ppIGkgbWV0b2R5IGludGVncmFjamkgxZtyZWRuacSFIHdhxbxvbsSFLn0K</text>
+        <text encoding="base64">XGVuZHt0YWJsZX0KCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFxjYXB0aW9ue0pha2/Fm8SHIGtsYXN5ZmlrYWNqaSAoQUNDKSB3IHphbGXFvG5vxZtjaSBvZCBsaWN6YnkgcG9kcHJ6ZXN0cnplbmkgZGxhIGtsYXN5ZmlrYXRvcmEgcmVmZXJlbmN5am5lZ28gaSB6aW50ZWdyb3dhbmVnbyBkbGEgOSBtb2RlbGkgYmF6b3d5Y2gsIDIgbW9kZWxpIHd5YnJhbnljaCB3IHByb2Nlc2llIHNlbGVrY2ppIGkgbWV0b2R5IGludGVncmFjamkgxZtyZWRuacSFIHdhxbxvbsSFLn0K</text>
+        <text encoding="base64">XGJlZ2lue3RhYmxlfVtwaCFdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFxjYXB0aW9ue0pha2/Fm8SHIGtsYXN5ZmlrYWNqaSAoTUNDKSB3IHphbGXFvG5vxZtjaSBvZCBsaWN6Ynkga2xhc3lmaWthdG9yw7N3IGJhem93eWNoIGRsYSBrbGFzeWZpa2F0b3JhIHJlZmVyZW5jeWpuZWdvIGkgemludGVncm93YW5lZ28gZGxhIDkgbW9kZWxpIGJhem93eWNoLCAzIHBvZHByemVzdHJ6ZW5pIGkgbWV0b2R5IGludGVncmFjamkgbWVkaWFuxIUufQo=</text>
+        <text encoding="base64">XGVuZHt0YWJsZX0KCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFxjYXB0aW9ue0pha2/Fm8SHIGtsYXN5ZmlrYWNqaSAoQUNDKSB3IHphbGXFvG5vxZtjaSBvZCBsaWN6Ynkga2xhc3lmaWthdG9yw7N3IGJhem93eWNoIGRsYSBrbGFzeWZpa2F0b3JhIHJlZmVyZW5jeWpuZWdvIGkgemludGVncm93YW5lZ28gZGxhIDkgbW9kZWxpIGJhem93eWNoLCAzIHBvZHByemVzdHJ6ZW5pIGkgbWV0b2R5IGludGVncmFjamkgbWVkaWFuxIUufQo=</text>
+        <text encoding="base64">XGVuZHt0YWJsZX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFxjYXB0aW9ue0pha2/Fm8SHIGtsYXN5ZmlrYWNqaSAoTUNDKSB3IHphbGXFvG5vxZtjaSBvZCBsaWN6Ynkga2xhc3lmaWthdG9yw7N3IGJhem93eWNoIGRsYSBrbGFzeWZpa2F0b3JhIHJlZmVyZW5jeWpuZWdvIGkgemludGVncm93YW5lZ28gZGxhIDkgbW9kZWxpIGJhem93eWNoLCA0IHBvZHByemVzdHJ6ZW5pIGkgbWV0b2R5IGludGVncmFjamkgxZtyZWRuacSFIHdhxbxvbsSFLn0K</text>
+        <text encoding="base64">ClxiZWdpbnt0YWJsZX1bcGghXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFxjYXB0aW9ue0pha2/Fm8SHIGtsYXN5ZmlrYWNqaSAoQUNDKSB3IHphbGXFvG5vxZtjaSBvZCBsaWN6Ynkga2xhc3lmaWthdG9yw7N3IGJhem93eWNoIGRsYSBrbGFzeWZpa2F0b3JhIHJlZmVyZW5jeWpuZWdvIGkgemludGVncm93YW5lZ28gZGxhIDkgbW9kZWxpIGJhem93eWNoLCA0IHBvZHByemVzdHJ6ZW5pIGkgbWV0b2R5IGludGVncmFjamkgxZtyZWRuacSFIHdhxbxvbsSFLn0K</text>
+        <text encoding="base64">XGJlZ2lue3RhYmxlfVtwaCFdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.tex}</text>
+        <text>!</text>
       </register>
     </registers>
     <search>
