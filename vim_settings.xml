@@ -12,6 +12,16 @@
       <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.12/srcs/spark-mllib_2.12-2.4.0-sources.jar!/org/apache/spark/ml/feature/Interaction.scala" timestamp="1543508897990">
         <mark key="'" line="73" column="52" />
       </file>
+      <file name="$USER_HOME$/Documents/JUCS/met.tex" timestamp="1544546386957">
+        <mark key="[" line="16" column="121" />
+      </file>
+      <file name="$USER_HOME$/Workspace/LaTeX/CV/cv.tex" timestamp="1544305273709">
+        <mark key="'" line="0" column="35" />
+        <mark key="[" line="74" column="34" />
+        <mark key="]" line="74" column="34" />
+        <mark key="^" line="107" column="5" />
+        <mark key="." line="74" column="34" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.scala" timestamp="1544213568942">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -23,34 +33,47 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="15" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/JUCS/stat.tex" timestamp="1544547190064">
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="73" column="52" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.12/srcs/spark-mllib_2.12-2.4.0-sources.jar!/org/apache/spark/ml/feature/Interaction.scala" />
+      <jump line="0" column="35" filename="$USER_HOME$/Workspace/LaTeX/CV/cv.tex" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNsZkRhdGEuc2VsZWN0KCQic3BhcnNlRmVhdHVyZXMiKQo=</text>
+        <text encoding="base64">JT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiUgdGhpcyBwYXJ0IGlzIGEgc2ltcGxlIGNvdmVyIGxldHRlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGEgPSBpbnQudHJhbnNmb3JtKGRhdGEpCg==</text>
+        <text encoding="base64">JVxyZWNpcGllbnR7SHVtYW4gUmVzb3VyY2VzfXtTb21lIENvbXBhbnkgTHRkLlxcU29tZSBTdHJlZXQgMTIzXFwxMjM0NSBTb21lIENpdHl9CiVcZGF0ZXtcdG9kYXl9CiVcb3BlbmluZ3tEZWFyIFNpciBvciBNYWRhbSx9CiVcY2xvc2luZ3tTaW5jZXJlbHkgeW91cnMsfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBpbnQgPSBuZXcgSW50ZXJhY3Rpb24oKQogICAgaW50LnNldElucHV0Q29scyhBcnJheSgiX2MwIiwgIl9jMSIpKS5zZXRPdXRwdXRDb2woImZlYXR1cmVfdmVjIikK</text>
+        <text encoding="base64">JVxlbmNsb3N1cmVbQXR0YWNoZWRde2N1cnJpY3VsdW0gdml0XGFle319CgolXG1ha2VsZXR0ZXJ0aXRsZQoKJVxsaXBzdW1bMS0zXQoKJVxtYWtlbGV0dGVyY2xvc2luZwoK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIHdvcmREYXRhRnJhbWUgPSBzcGFyay5jcmVhdGVEYXRhRnJhbWUoU2VxKAogICgwLCBBcnJheSgiSGkiLCAiSSIsICJoZWFyZCIsICJhYm91dCIsICJTcGFyayIpKSwKICAoMSwgQXJyYXkoIkkiLCAid2lzaCIsICJKYXZhIiwgImNvdWxkIiwgInVzZSIsICJjYXNlIiwgImNsYXNzZXMiKSksCiAgKDIsIEFycmF5KCJMb2dpc3RpYyIsICJyZWdyZXNzaW9uIiwgIm1vZGVscyIsICJhcmUiLCAibmVhdCIpKQopKS50b0RGKCJpZCIsICJ3b3JkcyIpCgp2YXIgbmdyYW0gPSBuZXcgTkdyYW0oKS5zZXROKDIpLnNldElucHV0Q29sKCJ3b3JkcyIpLnNldE91dHB1dENvbCgibmdyYW1zIikKCnZhciBuZ3JhbURhdGFGcmFtZSA9IG5ncmFtLnRyYW5zZm9ybShkYXRhRnJhbWUpCm5ncmFtRGF0YUZyYW1lLnNlbGVjdCgibmdyYW1zIikuc2hvdyhmYWxzZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIHdvcmREYXRhRnJhbWUgPSBzcGFyay5jcmVhdGVEYXRhRnJhbWUoU2VxKAogICgwLCBBcnJheSgiSGkiLCAiSSIsICJoZWFyZCIsICJhYm91dCIsICJTcGFyayIpKSwKICAoMSwgQXJyYXkoIkkiLCAid2lzaCIsICJKYXZhIiwgImNvdWxkIiwgInVzZSIsICJjYXNlIiwgImNsYXNzZXMiKSksCiAgKDIsIEFycmF5KCJMb2dpc3RpYyIsICJyZWdyZXNzaW9uIiwgIm1vZGVscyIsICJhcmUiLCAibmVhdCIpKQopKS50b0RGKCJpZCIsICJ3b3JkcyIpCgp2YXIgbmdyYW0gPSBuZXcgTkdyYW0oKS5zZXROKDIpLnNldElucHV0Q29sKCJ3b3JkcyIpLnNldE91dHB1dENvbCgibmdyYW1zIikKCnZhciBuZ3JhbURhdGFGcmFtZSA9IGt1cndhLnRyYW5zZm9ybShkYXRhRnJhbWUpCmNodWouc2VsZWN0KCJuZ3JhbXMiKS5zaG93KGZhbHNlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnZhciBuZ3JhbSA9IG5ldyBOR3JhbSgpLnNldE4oMikuc2V0SW5wdXRDb2woIndvcmRzIikuc2V0T3V0cHV0Q29sKCJuZ3JhbXMiKQo=</text>
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">JT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiUgdGhpcyBwYXJ0IGlzIGEgc2ltcGxlIGNvdmVyIGxldHRlcgpcY2xlYXJwYWdlCgpccmVjaXBpZW50e0h1bWFuIFJlc291cmNlc317U29tZSBDb21wYW55IEx0ZC5cXFNvbWUgU3RyZWV0IDEyM1xcMTIzNDUgU29tZSBDaXR5fSAKXGRhdGV7XHRvZGF5fQpcb3BlbmluZ3tEZWFyIFNpciBvciBNYWRhbSx9ClxjbG9zaW5ne1NpbmNlcmVseSB5b3Vycyx9ClxlbmNsb3N1cmVbQXR0YWNoZWRde2N1cnJpY3VsdW0gdml0XGFle319CgpcbWFrZWxldHRlcnRpdGxlCgpcbGlwc3VtWzEtM10gCgpcbWFrZWxldHRlcmNsb3NpbmcKCgpcZW5ke2RvY3VtZW50fQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNsZkRhdGEuc2VsZWN0KCQic3BhcnNlRmVhdHVyZXMiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>.select($&quot;sparseFeatures&quot;)</text>
+        <text>color1</text>
       </register>
     </registers>
     <search>
@@ -75,6 +98,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
