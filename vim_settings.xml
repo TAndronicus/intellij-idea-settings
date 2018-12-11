@@ -2,109 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/Documents/JUCS/conclusion.tex" timestamp="1544547712606">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/sbtShell" timestamp="1543439286849">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1544213115425">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.12/srcs/spark-mllib_2.12-2.4.0-sources.jar!/org/apache/spark/ml/feature/Interaction.scala" timestamp="1543508897990">
-        <mark key="'" line="73" column="52" />
-      </file>
-      <file name="$USER_HOME$/Documents/JUCS/met.tex" timestamp="1544546386957">
-        <mark key="[" line="16" column="121" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/CV/cv.tex" timestamp="1544305273709">
-        <mark key="'" line="0" column="35" />
-        <mark key="[" line="74" column="34" />
-        <mark key="]" line="74" column="34" />
-        <mark key="^" line="107" column="5" />
-        <mark key="." line="74" column="34" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.scala" timestamp="1544213568942">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.sc" timestamp="1543439884808">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/JUCS/stat.tex" timestamp="1544547190064">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="73" column="52" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.12/srcs/spark-mllib_2.12-2.4.0-sources.jar!/org/apache/spark/ml/feature/Interaction.scala" />
-      <jump line="0" column="35" filename="$USER_HOME$/Workspace/LaTeX/CV/cv.tex" />
-    </jumps>
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">JT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiUgdGhpcyBwYXJ0IGlzIGEgc2ltcGxlIGNvdmVyIGxldHRlcgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">JVxyZWNpcGllbnR7SHVtYW4gUmVzb3VyY2VzfXtTb21lIENvbXBhbnkgTHRkLlxcU29tZSBTdHJlZXQgMTIzXFwxMjM0NSBTb21lIENpdHl9CiVcZGF0ZXtcdG9kYXl9CiVcb3BlbmluZ3tEZWFyIFNpciBvciBNYWRhbSx9CiVcY2xvc2luZ3tTaW5jZXJlbHkgeW91cnMsfQoK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">JVxlbmNsb3N1cmVbQXR0YWNoZWRde2N1cnJpY3VsdW0gdml0XGFle319CgolXG1ha2VsZXR0ZXJ0aXRsZQoKJVxsaXBzdW1bMS0zXQoKJVxtYWtlbGV0dGVyY2xvc2luZwoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">JT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiUgdGhpcyBwYXJ0IGlzIGEgc2ltcGxlIGNvdmVyIGxldHRlcgpcY2xlYXJwYWdlCgpccmVjaXBpZW50e0h1bWFuIFJlc291cmNlc317U29tZSBDb21wYW55IEx0ZC5cXFNvbWUgU3RyZWV0IDEyM1xcMTIzNDUgU29tZSBDaXR5fSAKXGRhdGV7XHRvZGF5fQpcb3BlbmluZ3tEZWFyIFNpciBvciBNYWRhbSx9ClxjbG9zaW5ne1NpbmNlcmVseSB5b3Vycyx9ClxlbmNsb3N1cmVbQXR0YWNoZWRde2N1cnJpY3VsdW0gdml0XGFle319CgpcbWFrZWxldHRlcnRpdGxlCgpcbGlwc3VtWzEtM10gCgpcbWFrZWxldHRlcmNsb3NpbmcKCgpcZW5ke2RvY3VtZW50fQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNsZkRhdGEuc2VsZWN0KCQic3BhcnNlRmVhdHVyZXMiKQo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>color1</text>
-      </register>
-    </registers>
+    <filemarks />
+    <jumps />
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
   </component>
 </application>
