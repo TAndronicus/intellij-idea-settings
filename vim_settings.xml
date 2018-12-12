@@ -9,8 +9,11 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/stat.tex" timestamp="1544640965914">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/stat.tex" timestamp="1544644760603">
+        <mark key="[" line="31" column="10" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+        <mark key="^" line="31" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/jucs.tex" timestamp="1544640046287">
         <mark key="[" line="3" column="19" />
@@ -46,41 +49,41 @@
       <jump line="134" column="8" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseRej.tex" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>{|l|l|l|l|l|l|l|l|l|}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFxjYXB0aW9ue3AtLXZhbHVlcyBvZiBXaWxjb3hvbiB0ZXN0IG9mIGRpZmZlcmVuY2VzIHBvcHVsYXRpb24gYmV0d2VlbiBBQ0MgYW5kIE1DQyBvZiBpbnRlZ3JhdGVkIGNsYXNzaWZpZXIgYW5kIG1ham9yaXR5IHZvdGluZy59Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFxuZXdwYWdlCgo=</text>
+        <text encoding="base64">ICAgIFxjYXB0aW9ue3Atd2FydG/Fm2NpIHRlc3R1IG1lZGlhbm93ZWdvIHBvcHVsYWNqaSBBQ0MgaSBNQ0Mga2xhc3lmaWthdG9yw7N3IHppbnRlZ3Jvd2FueWNoIGkgZ8WCb3Nvd2FuaWEgd2nEmWtzem/Fm2Npb3dlZ28gZGxhIGJhZGFueWNoIG1ldG9kIGludGVncmFjamkgKGJleiBtZXRvZHkgYmFnZ2luZykufQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>[</text>
+        <text>Mediany</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFxjYXB0aW9ue3AtLXZhbHVlcyBvZiBXaWxjb3hvbiB0ZXN0IHBvcHVsYWNqaSByw7PFvG5pY3kgQUNDIGkgTUNDIGtsYXN5ZmlrYXRvcsOzdyB6aW50ZWdyb3dhbnljaCBpIGfFgm9zb3dhbmlhIHdpxJlrc3pvxZtjaW93ZWdvIGRsYSBiYWRhbnljaCBtZXRvZCBpbnRlZ3JhY2ppIChiZXogbWV0b2R5IGJhZ2dpbmcpLn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ClxjbGVhcnBhZ2UK</text>
+        <text encoding="base64">V2hlbmV2ZXIgdGhlIHN0YXRpc3RpY2FsIHRlc3RzIHJlamVjdCB0aGUgaHlwb3RoZXNpcywgdGhhdCBhbnkgb2YgdGhlIHBvcHVsYXRpb25zIGlzIG5vcm1hbCwgbm9uLXBhcmFtZXRyaWMgdGVzdHMgd2VyZSB1c2VkOiBLcnVza2FsLVdhbGxpcywgRnJpZWRtYW4gYW5kIFdpbGNveG9uLgpJbiBhbnkgb3RoZXIgY2FzZSB0LVN0dWRlbnQgYW5kIEFOT1ZBIHRlc3RzIHdlcmUgY29uZHVjdGVkLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V2hlbiB0ZXN0cyBiZXR3ZWVuIHR3byBwcHVsYXRpb25zIGFyZSBjb25zaWRlcmVkLCB0d28gZXh0cmVtZSBwYXJhbWV0ZXIgdmFsdWVzIGFyZSB0YWtlbi4KVGhpcyBtZWFucywgdGhhdCwgZm9yIGV4YW1wbGUsIGhhdmluZyBzcGFjZSBkaXZpc2lvbiBpbnRvIDMsIDQsIFxsZG90cywgMTAgc3Vic3BhY2VzLCB0d28tcG9wdWxhdGlvbiB0ZXN0cyAoV2lsY294b24ncyBhbmQgdC1TdHVkZW50J3MpIGFyZSBjb25kdWN0ZWQgYWdhaW5zdCByZXN1bHQgcG9wdWxhdGlvbnMgYWNoaWV2ZWQgd2l0aCBkaXZpc2lvbiBpbnRvIDMgYW5kIDEwIHN1YnNwYWNlcy4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ClxjbGVhcnBhZ2UK</text>
+        <text encoding="base64">S29sbW9nb3Jvdy1TbWlybm92IGFuZCBTaGFwaXJvLVdpbGsgdGVzdHMgd2VyZSBjb25kdWN0ZWQgdG8gZGV0ZXJtaW5lIG5vcm1hbGl0eSBvZiByZXN1bHRzLgpGdXJ0aGVyIGluIHRoaXMgYXJ0aWNsZSBwLXZhbHVlIGlzIHRoZSBsb3dlc3QgdmFsdWUgYW1vbmcgYWxsIHRlc3RlZCBwb3B1bGF0aW9ucy4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFxuZXdwYWdlCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ClxjbGVhcnBhZ2UK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ClxjbGVhcnBhZ2UK</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>Mediany</text>
       </register>
     </registers>
     <search>
@@ -99,6 +102,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
