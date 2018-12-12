@@ -9,6 +9,12 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/stat.tex" timestamp="1544640965914">
+        <mark key="[" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/jucs.tex" timestamp="1544640046287">
+        <mark key="[" line="3" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountSel.tex" timestamp="1544638371210">
         <mark key="'" line="136" column="7" />
         <mark key="[" line="2" column="14" />
@@ -23,26 +29,31 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="92" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseRej.tex" timestamp="1544638374813">
-        <mark key="'" line="136" column="7" />
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="2" column="14" />
-        <mark key="." line="2" column="14" />
-        <mark key="^" line="136" column="7" />
+      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseRej.tex" timestamp="1544640472219">
+        <mark key="'" line="134" column="8" />
+        <mark key="[" line="134" column="5" />
+        <mark key="]" line="134" column="8" />
+        <mark key="." line="134" column="8" />
+        <mark key="^" line="134" column="8" />
       </file>
     </filemarks>
     <jumps>
       <jump line="136" column="7" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseAcc.tex" />
-      <jump line="136" column="7" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseRej.tex" />
       <jump line="136" column="7" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountSel.tex" />
       <jump line="92" column="7" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountSpaces.tex" />
+      <jump line="2" column="15" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseRej.tex" />
+      <jump line="136" column="0" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseRej.tex" />
+      <jump line="134" column="8" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseRej.tex" />
     </jumps>
     <registers>
+      <register name="0" type="4">
+        <text>{|l|l|l|l|l|l|l|l|l|}</text>
+      </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFxuZXdwYWdlCgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>!</text>
+        <text>[</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -69,14 +80,26 @@
         <text encoding="base64">ClxjbGVhcnBhZ2UK</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>[</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
-    <shortcut-conflicts />
+    <history>
+      <history-search />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
