@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/Solver.java" timestamp="1544947801156">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="8" column="66" />
+        <mark key="^" line="8" column="66" />
+        <mark key="." line="8" column="66" />
+      </file>
       <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseAcc.tex" timestamp="1544638898536">
         <mark key="'" line="136" column="7" />
         <mark key="[" line="2" column="14" />
@@ -15,17 +21,11 @@
         <mark key="." line="11" column="97" />
         <mark key="^" line="11" column="97" />
       </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/jucs.tex" timestamp="1544646860465">
-        <mark key="[" line="4" column="17" />
-        <mark key="]" line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-      </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/conclusion.tex" timestamp="1544647756811">
-        <mark key="[" line="7" column="65" />
-        <mark key="]" line="7" column="56" />
-        <mark key="." line="7" column="56" />
-        <mark key="^" line="7" column="56" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/init/RandomInitializer.java" timestamp="1544948008020">
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="13" column="3" />
+        <mark key="^" line="13" column="3" />
+        <mark key="." line="13" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountSel.tex" timestamp="1544937426442">
         <mark key="'" line="24" column="7" />
@@ -47,6 +47,50 @@
         <mark key="]" line="134" column="8" />
         <mark key="." line="134" column="8" />
         <mark key="^" line="134" column="8" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/Solver.java" timestamp="1544947804965">
+        <mark key="]" line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/jucs.tex" timestamp="1544646860465">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/conclusion.tex" timestamp="1544647756811">
+        <mark key="[" line="7" column="65" />
+        <mark key="]" line="7" column="56" />
+        <mark key="." line="7" column="56" />
+        <mark key="^" line="7" column="56" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/Runner.java" timestamp="1544947093710">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/GA.java" timestamp="1544947851988">
+        <mark key="[" line="9" column="75" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/Initializer.java" timestamp="1544947943764">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/Runner.java" timestamp="1544947859062">
+        <mark key="[" line="16" column="48" />
+        <mark key="]" line="18" column="30" />
+        <mark key="^" line="18" column="30" />
+        <mark key="." line="18" column="30" />
+      </file>
+      <file name="/fragment.java" timestamp="1544947154032">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
