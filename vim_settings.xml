@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/co/PmxCO.java" timestamp="1544987402911">
-        <mark key="[" line="25" column="12" />
-        <mark key="]" line="30" column="21" />
-        <mark key="." line="30" column="21" />
-        <mark key="^" line="30" column="21" />
-      </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/Solver.java" timestamp="1544947801156">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="8" column="66" />
@@ -20,12 +14,6 @@
         <mark key="]" line="3" column="54" />
         <mark key="." line="3" column="54" />
         <mark key="^" line="3" column="54" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/select/NBestSelector.java" timestamp="1544970821100">
-        <mark key="[" line="22" column="113" />
-        <mark key="]" line="24" column="33" />
-        <mark key="." line="24" column="33" />
-        <mark key="^" line="24" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/res.tex" timestamp="1545081994887">
         <mark key="[" line="154" column="83" />
@@ -85,21 +73,13 @@
         <mark key="." line="0" column="10" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/GA.java" timestamp="1544987453115">
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="15" />
-        <mark key="." line="24" column="15" />
-        <mark key="^" line="34" column="32" />
+        <mark key="^" line="56" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/Evaluator.java" timestamp="1544957627203">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="8" column="60" />
         <mark key="." line="8" column="60" />
         <mark key="^" line="8" column="60" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/Runner.java" timestamp="1544987549658">
-        <mark key="[" line="29" column="23" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="29" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/eval/Evaluator.java" timestamp="1544958117312">
         <mark key="[" line="8" column="9" />
@@ -131,10 +111,10 @@
         <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/util/Util.java" timestamp="1544971357338">
-        <mark key="[" line="36" column="15" />
-        <mark key="]" line="36" column="54" />
-        <mark key="." line="36" column="54" />
-        <mark key="^" line="36" column="54" />
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="54" />
+        <mark key="." line="11" column="54" />
+        <mark key="^" line="11" column="54" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/init/RandomInitializer.java" timestamp="1544952552134">
         <mark key="[" line="16" column="24" />
