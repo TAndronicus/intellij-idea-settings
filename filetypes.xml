@@ -3,7 +3,9 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="bbl" type="Native" />
+      <mapping pattern="results-dmp" type="PLAIN_TEXT" />
       <mapping pattern="test0" type="PLAIN_TEXT" />
+      <mapping pattern="results-dmp2" type="PLAIN_TEXT" />
       <mapping ext="aux" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
