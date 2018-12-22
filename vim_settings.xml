@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/co/PmxCO.java" timestamp="1545144989730">
-        <mark key="[" line="17" column="31" />
-        <mark key="]" line="17" column="33" />
-        <mark key="." line="17" column="33" />
-        <mark key="^" line="17" column="33" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/co/PmxCO.java" timestamp="1545341563448">
+        <mark key="[" line="44" column="15" />
+        <mark key="]" line="44" column="15" />
+        <mark key="." line="44" column="15" />
+        <mark key="^" line="26" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/Uczelnia/Doktorat/Projektowanie efektywnych algorytmów/3/rozdzial02.tex" timestamp="1545335483790">
+        <mark key="[" line="71" column="187" />
+        <mark key="]" line="70" column="130" />
+        <mark key="." line="70" column="130" />
+        <mark key="^" line="70" column="130" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/Solver.java" timestamp="1544947801156">
         <mark key="[" line="0" column="10" />
@@ -21,37 +27,22 @@
         <mark key="." line="3" column="54" />
         <mark key="^" line="3" column="54" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/mutation/ScrambleMutator.java" timestamp="1545148696707">
-        <mark key="[" line="34" column="27" />
-        <mark key="]" line="34" column="27" />
-        <mark key="." line="34" column="27" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/mutation/ScrambleMutator.java" timestamp="1545341430792">
+        <mark key="[" line="24" column="55" />
+        <mark key="]" line="24" column="56" />
+        <mark key="." line="24" column="56" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/select/NBestSelector.java" timestamp="1545151857653">
-        <mark key="[" line="35" column="34" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="13" column="20" />
-        <mark key="^" line="13" column="20" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/select/NBestSelector.java" timestamp="1545332970080">
+        <mark key="[" line="54" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/mutation/InversionMutator.java" timestamp="1545150792447">
-        <mark key="[" line="34" column="27" />
-        <mark key="]" line="34" column="27" />
-        <mark key="^" line="42" column="3" />
-        <mark key="." line="34" column="27" />
-      </file>
-      <file name="/a.dummy" timestamp="1545148361099">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/mutation/InversionMutator.java" timestamp="1545341390934">
+        <mark key="[" line="32" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/res.tex" timestamp="1545081994887">
         <mark key="[" line="154" column="83" />
         <mark key="]" line="154" column="83" />
         <mark key="^" line="154" column="83" />
         <mark key="." line="154" column="83" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/Mutator.java" timestamp="1545144762459">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="8" column="52" />
-        <mark key="^" line="8" column="52" />
-        <mark key="." line="8" column="52" />
       </file>
       <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountSpaces.tex" timestamp="1545071033273">
         <mark key="[" line="0" column="0" />
@@ -86,6 +77,12 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/Uczelnia/Doktorat/Projektowanie efektywnych algorytmów/3/rozdzial01.tex" timestamp="1545331616473">
+        <mark key="[" line="29" column="108" />
+        <mark key="]" line="29" column="108" />
+        <mark key="^" line="29" column="108" />
+        <mark key="." line="29" column="108" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/Solver.java" timestamp="1544958169137">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="7" />
@@ -104,16 +101,29 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/GA.java" timestamp="1545332650718">
+        <mark key="[" line="65" column="5" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="58" column="128" />
+      </file>
+      <file name="$USER_HOME$/Workspace/LaTeX/JUCS/resSelected.tex" timestamp="1545240411794">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/Evaluator.java" timestamp="1544957627203">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="8" column="60" />
         <mark key="." line="8" column="60" />
         <mark key="^" line="8" column="60" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/Runner.java" timestamp="1545151624647">
-        <mark key="]" line="4" column="71" />
-        <mark key="^" line="4" column="71" />
-        <mark key="." line="4" column="71" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/Runner.java" timestamp="1545242572979">
+        <mark key="'" line="91" column="26" />
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="75" column="136" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/eval/Evaluator.java" timestamp="1544958117312">
         <mark key="[" line="8" column="9" />
@@ -139,16 +149,22 @@
         <mark key="." line="2" column="8" />
         <mark key="^" line="2" column="8" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/runner/LoadRunner.java" timestamp="1545372195192">
+        <mark key="[" line="41" column="26" />
+        <mark key="]" line="49" column="20" />
+        <mark key="." line="49" column="20" />
+        <mark key="^" line="49" column="21" />
+      </file>
       <file name="$USER_HOME$/Workspace/LaTeX/JUCS/met.tex" timestamp="1545072304603">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/util/Util.java" timestamp="1545148413582">
-        <mark key="[" line="40" column="4" />
-        <mark key="]" line="40" column="16" />
-        <mark key="." line="40" column="16" />
-        <mark key="^" line="40" column="16" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/util/Util.java" timestamp="1544971357338">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="54" />
+        <mark key="." line="11" column="54" />
+        <mark key="^" line="11" column="54" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/init/RandomInitializer.java" timestamp="1544952552134">
         <mark key="[" line="16" column="24" />
@@ -156,16 +172,12 @@
         <mark key="." line="16" column="25" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/Downloads/JUCS/res.tex" timestamp="1545233169453">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="165" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Downloads/JUCS/stat.tex" timestamp="1545233637246">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/runner/Runner.java" timestamp="1545340703260">
+        <mark key="'" line="79" column="42" />
+        <mark key="[" line="116" column="4" />
+        <mark key="]" line="116" column="9" />
+        <mark key="^" line="116" column="9" />
+        <mark key="." line="116" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/met.tex" timestamp="1545081421882">
         <mark key="[" line="16" column="40" />
@@ -173,22 +185,15 @@
         <mark key="." line="16" column="70" />
         <mark key="^" line="16" column="70" />
       </file>
-      <file name="$USER_HOME$/Downloads/JUCS/jucs.tex" timestamp="1545233180083">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/Workspace/JVM/pea-heuristic/src/main/java/jb/Main.java" timestamp="1545165590048">
+        <mark key="[" line="114" column="5" />
+        <mark key="]" line="153" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/Selector.java" timestamp="1544958261439">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="26" />
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/mutation/Mutator.java" timestamp="1545145132071">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="4" />
-        <mark key="^" line="6" column="41" />
-        <mark key="." line="6" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/conclusion.tex" timestamp="1545081177340">
         <mark key="[" line="6" column="83" />
@@ -201,7 +206,7 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="10" column="44" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/eval/SimpleEvaluator.java" timestamp="1544958085872">
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/eval/SimpleEvaluator.java" timestamp="1545332846453">
         <mark key="[" line="14" column="15" />
         <mark key="]" line="14" column="25" />
         <mark key="^" line="14" column="25" />
@@ -213,8 +218,23 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1544986497970">
+      <file name="$USER_HOME$/Documents/Uczelnia/Doktorat/Projektowanie efektywnych algorytmów/3/rozdzial03.tex" timestamp="1545331791240">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="19" column="111" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/co/OrderCO.java" timestamp="1545341499094">
+        <mark key="[" line="47" column="5" />
+        <mark key="]" line="59" column="4" />
+        <mark key="." line="49" column="12" />
+        <mark key="^" line="26" column="10" />
+      </file>
+      <file name="/fragment.java" timestamp="1545339493756">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Uczelnia/Doktorat/Projektowanie efektywnych algorytmów/3/Dyplom.tex" timestamp="1545331658137">
+        <mark key="[" line="534" column="47" />
+        <mark key="]" line="534" column="48" />
+        <mark key="." line="534" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -225,48 +245,48 @@
       <jump line="136" column="0" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseRej.tex" />
       <jump line="134" column="8" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseRej.tex" />
       <jump line="87" column="68" filename="$USER_HOME$/Workspace/JVM/pea-heuristic/src/main/java/jb/Main.java" />
-      <jump line="51" column="33" filename="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/co/PmxCO.java" />
-      <jump line="20" column="4" filename="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/co/PmxCO.java" />
+      <jump line="91" column="26" filename="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/Runner.java" />
+      <jump line="79" column="42" filename="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/runner/Runner.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgIFxjZW50ZXJpbmcKICAgIFxjYXB0aW9ue1F1YWxpdHkgb2YgY2xhc3NpZmljYXRpb24gKEFDQykgYXMgYSBmdW5jdGlvbiBvZiBjb3VudCBvZiBzdWJzcGFjZXMgZm9yIDkgQkNzLCAyIHNlbGVjdGVkIGNsYXNzaWZpZXJzIGFuZCBtZWRpYW4gbWV0aG9kLn0KICAgIFxsYWJlbHtzcGFjZV9wYXJ0c19hY2NfbWVkaWFufQogICAgXGJlZ2lue3RhYnVsYXJ9e3xsfGx8bHxsfGx8bHxsfGx8bHxsfH0KICAgICAgICBcaGxpbmUKICAgICAgICAmIFxtdWx0aWNvbHVtbns5fXtsfH17TGljemJhIHBvZHByemVzdHJ6ZW5pfSBcXCBcaGxpbmUKICAgICAgICAmIDMgICAgICAgJiA0ICAgICAgJiA1ICAgICAgJiA2ICAgICAgJiA3ICAgICAgJiA4ICAgICAgJiA5ICAgICAgJiAxMCAgICAgJiAgICAgICAgXFwgXGhsaW5lCiAgICAgICAgQmF6YSBkYW55Y2ggICAgICAgICAgICAgICAgICAgICYgXG11bHRpY29sdW1uezh9e2x8fXtJQ30gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIE1WICAgICBcXCBcaGxpbmUKICAgICAgICBiaW9kZWcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYgMCw3MjQgJiAwLDcyMyAmIDAsNzI2ICYgMCw3MjQgJiAwLDcyNiAmIDAsNzI2ICYgMCw3MjYgJiAwLDcyNyAmIDAsNzIzIFxcIFxobGluZQogICAgICAgIGJ1cGEgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiAwLDU3NyAmIDAsNTczICYgMCw1NjkgJiAwLDU3NyAmIDAsNTc2ICYgMCw1NzQgJiAwLDU3NiAmIDAsNTcxICYgMCw1ODIgXFwgXGhsaW5lCiAgICAgICAgY3J5b3RoZXJhcHkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIDAsODI1ICYgMCw4MTQgJiAwLDg0MSAmIDAsODQ0ICYgMCw4MjggJiAwLDgzMyAmIDAsODQxICYgMCw4NDUgJiAwLDkwMSBcXCBcaGxpbmUKICAgICAgICBkYXRhXF9iYW5rbm90ZS4uLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiAwLDg4OCAmIDAsODkyICYgMCw4OTggJiAwLDg5MSAmIDAsOTAyICYgMCw4OTQgJiAwLDkwMCAmIDAsODk4ICYgMCw4OTEgXFwgXGhsaW5lCiAgICAgICAgaGFiZXJtYW4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIDAsNzc1ICYgMCw3NzMgJiAwLDc2NCAmIDAsNzcxICYgMCw3NzEgJiAwLDc2NSAmIDAsNzcyICYgMCw3NzAgJiAwLDc3MCBcXCBcaGxpbmUKICAgICAgICBpb25vc3BoZXJlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYgMCw4ODYgJiAwLDg4OCAmIDAsODkyICYgMCw4ODYgJiAwLDg5MCAmIDAsODg4ICYgMCw4OTEgJiAwLDg5MyAmIDAsODM5IFxcIFxobGluZQogICAgICAgIG1ldGVyXF9hICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiAwLDgxMCAmIDAsODExICYgMCw3ODIgJiAwLDc2OSAmIDAsNzY5ICYgMCw3ODUgJiAwLDcyNiAmIDAsNzQ4ICYgMCw3NDMgXFwgXGhsaW5lCiAgICAgICAgcG9wXF9mYWlsdXJlcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIDAsOTI3ICYgMCw5MjYgJiAwLDkyNiAmIDAsOTMwICYgMCw5MzAgJiAwLDkyOCAmIDAsOTI3ICYgMCw5MjkgJiAwLDkyMyBcXCBcaGxpbmUKICAgICAgICBzZWlzbWljXF9idW1wcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYgMCw5MzEgJiAwLDkzMSAmIDAsOTMxICYgMCw5MzEgJiAwLDkzMSAmIDAsOTMxICYgMCw5MzEgJiAwLDkzMSAmIDAsOTM4IFxcIFxobGluZQogICAgICAgIHR3b25vcm0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiAwLDc0NyAmIDAsNzQ4ICYgMCw3NDggJiAwLDc0OCAmIDAsNzQ4ICYgMCw3NDcgJiAwLDc0OCAmIDAsNzQ4ICYgMCw3NDggXFwgXGhsaW5lCiAgICAgICAgd2RiYyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIDAsOTMzICYgMCw5MzUgJiAwLDkzNCAmIDAsOTM2ICYgMCw5MzIgJiAwLDkzNCAmIDAsOTMyICYgMCw5MzUgJiAwLDk0MCBcXCBcaGxpbmUKICAgICAgICB3aXNjb25zaW4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYgMCw5NDcgJiAwLDk0NiAmIDAsOTQ4ICYgMCw5NDYgJiAwLDk0NiAmIDAsOTQ2ICYgMCw5NDYgJiAwLDk0NiAmIDAsOTUyIFxcIFxobGluZQogICAgXGVuZHt0YWJ1bGFyfQoKICAgIFxjZW50ZXJpbmcKICAgIFxjYXB0aW9ue1F1YWxpdHkgb2YgY2xhc3NpZmljYXRpb24gKE1DQykgYXMgYSBmdW5jdGlvbiBvZiBjb3VudCBvZiBzdWJzcGFjZXMgZm9yIDkgQkNzLCAyIHNlbGVjdGVkIGNsYXNzaWZpZXJzIGFuZCBtZWRpYW4gbWV0aG9kLn0KICAgIFxsYWJlbHtzcGFjZV9wYXJ0c19tY2NfbWVkaWFufQogICAgXGJlZ2lue3RhYnVsYXJ9e3xsfGx8bHxsfGx8bHxsfGx8bHxsfH0KICAgICAgICBcaGxpbmUKICAgICAgICAmIFxtdWx0aWNvbHVtbns5fXtsfH17TGljemJhIHBvZHByemVzdHJ6ZW5pfSBcXCBcaGxpbmUKICAgICAgICAmIDMgICAgICAgJiA0ICAgICAgJiA1ICAgICAgJiA2ICAgICAgJiA3ICAgICAgJiA4ICAgICAgJiA5ICAgICAgJiAxMCAgICAgJiAgICAgICAgXFwgXGhsaW5lCiAgICAgICAgQmF6YSBkYW55Y2ggICAgICAgICAgICAgICAgICAgICYgXG11bHRpY29sdW1uezh9e2x8fXtJQ30gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIE1WICAgICBcXCBcaGxpbmUKICAgICAgICBiaW9kZWcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYgMCwzMzEgJiAwLDMyMCAmIDAsMzMzICYgMCwzMzIgJiAwLDMzMyAmIDAsMzMyICYgMCwzMzMgJiAwLDMzNSAmIDAsMzE5IFxcIFxobGluZQogICAgICAgIGJ1cGEgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiAwLDEzMCAmIDAsMTQwICYgMCwxMTYgJiAwLDEzMSAmIDAsMTMxICYgMCwxMzkgJiAwLDE0MCAmIDAsMTA5ICYgMCwxMDggXFwgXGhsaW5lCiAgICAgICAgY3J5b3RoZXJhcHkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIDAsNjY0ICYgMCw2MzUgJiAwLDY5NCAmIDAsNzAzICYgMCw2NzEgJiAwLDY4MiAmIDAsNzAwICYgMCw3MDQgJiAwLDgxNSBcXCBcaGxpbmUKICAgICAgICBkYXRhXF9iYW5rbm90ZS4uLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiAwLDc3NSAmIDAsNzgyICYgMCw3OTUgJiAwLDc4MCAmIDAsODAzICYgMCw3ODcgJiAwLDc5OCAmIDAsNzkzICYgMCw3NzkgXFwgXGhsaW5lCiAgICAgICAgaGFiZXJtYW4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIDAsMjU3ICYgMCwyNTcgJiAwLDIxOCAmIDAsMjQwICYgMCwyNDAgJiAwLDIxMyAmIDAsMjM2ICYgMCwyMzcgJiAwLDIwNSBcXCBcaGxpbmUKICAgICAgICBpb25vc3BoZXJlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYgMCw3NTUgJiAwLDc1NyAmIDAsNzY4ICYgMCw3NTUgJiAwLDc2NCAmIDAsNzYwICYgMCw3NjUgJiAwLDc2OSAmIDAsNjMwIFxcIFxobGluZQogICAgICAgIG1ldGVyXF9hICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiAwLDYzMSAmIDAsNjQ4ICYgMCw1OTAgJiAwLDU1MSAmIDAsNTYzICYgMCw1OTIgJiAwLDQ3NSAmIDAsNTEzICYgMCw0ODAgXFwgXGhsaW5lCiAgICAgICAgcG9wXF9mYWlsdXJlcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIDAsNDYyICYgMCw0NTcgJiAwLDQ2MiAmIDAsNDk4ICYgMCw0ODUgJiAwLDQ3OCAmIDAsNDcwICYgMCw0NzIgJiAwLDQzNSBcXCBcaGxpbmUKICAgICAgICBzZWlzbWljXF9idW1wcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYgMCwwMTkgJiAwLDAxNyAmIDAsMDE3ICYgMCwwMTcgJiAwLDAxNyAmIDAsMDE3ICYgMCwwMTcgJiAwLDAxNyAmIDAsMDAwIFxcIFxobGluZQogICAgICAgIHR3b25vcm0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiAwLDAwMCAmIDAsMDAwICYgMCwwMDAgJiAwLDAwMCAmIDAsMDAwICYgMCwwMDAgJiAwLDAwMCAmIDAsMDAwICYgMCwwMDAgXFwgXGhsaW5lCiAgICAgICAgd2RiYyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIDAsODU5ICYgMCw4NjEgJiAwLDg1OSAmIDAsODY0ICYgMCw4NTYgJiAwLDg2MCAmIDAsODU0ICYgMCw4NjEgJiAwLDg3MiBcXCBcaGxpbmUKICAgICAgICB3aXNjb25zaW4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYgMCw4MjkgJiAwLDgyOCAmIDAsODMyICYgMCw4MjYgJiAwLDgyOCAmIDAsODI4ICYgMCw4MjcgJiAwLDgyNyAmIDAsODk0IFxcIFxobGluZQogICAgXGVuZHt0YWJ1bGFyfQpcZW5ke3RhYmxlfQoKXG5ld3BhZ2UK</text>
       </register>
       <register name="-" type="4">
-        <text>startIndex</text>
+        <text>new Solution(newRoute, calculateDistance(newRoute));</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTXV0YXRvciBtdXRhdG9yID0gbmV3IFNjcmFtYmxlTXV0YXRvcigxLCAuMSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CgogICAgcHJpdmF0ZSBTb2x1dGlvbiBzdHJhaWdodGVuU29sdXRpb24oQ2l0eVtdIGNpdGllcykgewogICAgICAgIGludCBjb3VudGVyID0gMDsKICAgICAgICB3aGlsZSAoY2l0aWVzW2NvdW50ZXJdLmdldEluZGV4KCkgIT0gMCkgY291bnRlcisrOwogICAgICAgIERlcXVlPENpdHk+IG5ld1JvdXRlID0gbmV3IExpbmtlZExpc3Q8PigpOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgY2l0aWVzLmxlbmd0aDsgaSsrKSB7CiAgICAgICAgICAgIG5ld1JvdXRlLm9mZmVyTGFzdChjaXRpZXNbY291bnRlcl0pOwogICAgICAgICAgICBjb3VudGVyKys7CiAgICAgICAgICAgIGNvdW50ZXIgJT0gY2l0aWVzLmxlbmd0aDsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG5ldyBTb2x1dGlvbihuZXdSb3V0ZSwgY2FsY3VsYXRlRGlzdGFuY2UobmV3Um91dGUpKTsKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ClxGbG9hdEJhcnJpZXIK</text>
+        <text encoding="base64">ICAgICAgICBEZXF1ZTxDaXR5PiBuZXdSb3V0ZSA9IG5ldyBMaW5rZWRMaXN0PD4oQXJyYXlzLmFzTGlzdChkZXNjZW5kYW50Um91dGUpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">XG5ld3BhZ2UK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2V7YWZ0ZXJwYWdlfQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDEwOyBpKyspIHsKICAgICAgICAgICAgbG9nU29sdXRpb24oaW5pdGlhbGl6ZXIuZ2VuZXJhdGVQb3B1bGF0aW9uKHByb2JsZW0uZ2V0Q2l0aWVzKCksICgoTkJlc3RTZWxlY3RvcikgKChHQSkgc29sdmVyKS5nZXRTZWxlY3RvcigpKS5nZXRTaXplKCkpLmdldCgwKSwgMSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XGFmdGVycGFnZXtcY2xlYXJwYWdlfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3QgLz0gMTA7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICAgICAgCiAgICAgICAgcHJpdmF0ZSBzdGF0aWMgdm9pZCBsb2dTb2x1dGlvbihTb2x1dGlvbiBzb2x1dGlvbiwgbG9uZyB0aW1lKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRGlzdGFuY2U6ICIgKyBzb2x1dGlvbi5nZXREaXN0YW5jZSgpKTsKICAgICAgICAgICAgUXVldWU8Q2l0eT4gdmlzaXRlZENpdGllcyA9IHNvbHV0aW9uLmdldENpdGllcygpOwogICAgICAgICAgICBTdHJpbmdCdWlsZGVyIHN0cmluZ0J1aWxkZXIgPSBuZXcgU3RyaW5nQnVpbGRlcigiUm91dGU6ICIgKyB2aXNpdGVkQ2l0aWVzLnJlbW92ZSgpLmdldEluZGV4KCkpOwogICAgICAgICAgICB3aGlsZSAoIXZpc2l0ZWRDaXRpZXMuaXNFbXB0eSgpKSBzdHJpbmdCdWlsZGVyLmFwcGVuZCgiIC0+ICIgKyB2aXNpdGVkQ2l0aWVzLnJlbW92ZSgpLmdldEluZGV4KCkpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RyaW5nQnVpbGRlci5hcHBlbmQoIiAtPiAwIikudG9TdHJpbmcoKSk7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRmluaXNoZWQgaW4gIiArIHRpbWUgKyAibXMiKTsKICAgICAgICB9</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQbXhDTy5jcmVhdGVEZXNjZW5kYW50KHNvbHV0aW9uMSwgc29sdXRpb24yLCBuZXcgaW50W117MywgN30pOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaGVoIik7Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTb2x1dGlvbiBzb2x1dGlvbjEgPSBuZXcgU29sdXRpb24obmV3IExpbmtlZExpc3Q8PihBcnJheXMuYXNMaXN0KGNpdGllczEpKSwgMCk7CiAgICAgICAgU29sdXRpb24gc29sdXRpb24yID0gbmV3IFNvbHV0aW9uKG5ldyBMaW5rZWRMaXN0PD4oQXJyYXlzLmFzTGlzdChjaXRpZXMyKSksIDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBDaXR5KDYsIG51bGwpLCBuZXcgQ2l0eSg1LCBudWxsKSwKICAgICAgICAgICAgICAgIG5ldyBDaXR5KDEsIG51bGwpLCBuZXcgQ2l0eSg0LCBudWxsKX07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBDaXR5KDMsIG51bGwpLCBuZXcgQ2l0eSg3LCBudWxsKSwKICAgICAgICAgICAgICAgIG5ldyBDaXR5KDgsIG51bGwpLCBuZXcgQ2l0eSgyLCBudWxsKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
@@ -277,7 +297,9 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>2</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
