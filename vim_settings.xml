@@ -87,7 +87,7 @@
         <mark key="." line="0" column="9" />
         <mark key="^" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/parser/TreeParser.scala" timestamp="1545701010774">
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/parser/TreeParser.scala" timestamp="1545751957448">
         <mark key="[" line="16" column="15" />
         <mark key="]" line="18" column="20" />
         <mark key="." line="18" column="20" />
@@ -220,11 +220,11 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1545738875013">
-        <mark key="[" line="41" column="72" />
-        <mark key="]" line="41" column="39" />
-        <mark key="^" line="41" column="80" />
-        <mark key="." line="41" column="39" />
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1545751964575">
+        <mark key="[" line="55" column="76" />
+        <mark key="]" line="55" column="82" />
+        <mark key="^" line="55" column="82" />
+        <mark key="." line="55" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/jucs.tex" timestamp="1545079529657">
         <mark key="[" line="8" column="33" />
@@ -262,11 +262,11 @@
         <mark key="." line="49" column="20" />
         <mark key="^" line="49" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/model/Rect.scala" timestamp="1545701006122">
-        <mark key="[" line="2" column="77" />
-        <mark key="]" line="2" column="81" />
-        <mark key="^" line="2" column="81" />
-        <mark key="." line="2" column="81" />
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/model/Rect.scala" timestamp="1545751848524">
+        <mark key="[" line="3" column="124" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/LaTeX/JUCS/met.tex" timestamp="1545072304603">
         <mark key="[" line="2" column="0" />
@@ -373,31 +373,31 @@
         <text encoding="base64">ICAgIHZhbCBjaGVjayA9IGEuc2xpZGluZygwLCAyKS50b1ZlY3Rvcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8KLy8gICAgfQo=</text>
+        <text encoding="base64">Ly8gICAgYmFzZU1vZGVscy5tYXAoYm0gPT4gVHJlZVBhcnNlci5kdDJyZWN0KCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHJvb3RSZWN0ID0gbmV3IFJlY3QoKQovLyAgICBmb3IgKGkgPC0gMCB0byAyKSB7Cg==</text>
+        <text encoding="base64">Ly8KLy8gICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBjaGVjayA9IGEuc2xpZGluZygwLCAyKS50b1ZlY3RvcgogICAgdmFsIGNoZWNrMSA9IGEuZHJvcCgxKS5zbGlkaW5nKDAsIDIpLnRvVmVjdG9yCg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIHJvb3RSZWN0ID0gbmV3IFJlY3QoKQovLyAgICBmb3IgKGkgPC0gMCB0byAyKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBtaW5zID0gYS5kcm9wKDEpLnNsaWRpbmcoMSwgMikudG9WZWN0b3IK</text>
+        <text encoding="base64">ICAgIHZhbCBjaGVjayA9IGEuc2xpZGluZygwLCAyKS50b1ZlY3RvcgogICAgdmFsIGNoZWNrMSA9IGEuZHJvcCgxKS5zbGlkaW5nKDAsIDIpLnRvVmVjdG9yCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bWlucy50b0FycmF5Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBtaW5zID0gYS5kcm9wKDEpLnNsaWRpbmcoMSwgMikudG9WZWN0b3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bWlucy50b0FycmF5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBwaXBlbGluZSA9IG5ldyBQaXBlbGluZSgpLnNldFN0YWdlcyhBcnJheShmZWF0dXJlVmVjdG9yaXplciwgZmVhdHVyZVNlbGVjdG9yLCBkdCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBudWxsCg==</text>
+        <text encoding="base64">ICAgIHZhbCBwaXBlbGluZSA9IG5ldyBQaXBlbGluZSgpLnNldFN0YWdlcyhBcnJheShmZWF0dXJlVmVjdG9yaXplciwgZmVhdHVyZVNlbGVjdG9yLCBkdCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFyZW50Lm1heChub2RlLmFzSW5zdGFuY2VPZltJbnRlcm5hbE5vZGVdLnNwbGl0LmZlYXR1cmVJbmRleCkKICAgICAgZHQycmVjdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBudWxsCg==</text>
       </register>
     </registers>
     <search>
