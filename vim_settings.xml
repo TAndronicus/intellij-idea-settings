@@ -209,10 +209,10 @@
       <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/mutation/InversionMutator.java" timestamp="1545341390934">
         <mark key="[" line="32" column="40" />
       </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/awesome-cv.cls" timestamp="1546204890756">
-        <mark key="'" line="506" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="24" />
+      <file name="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/awesome-cv.cls" timestamp="1546207719121">
+        <mark key="'" line="198" column="71" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="97" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/res.tex" timestamp="1545081994887">
         <mark key="[" line="154" column="83" />
@@ -238,11 +238,11 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/cv/cv.tex" timestamp="1546205192952">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="10" column="19" />
+      <file name="$USER_HOME$/Workspace/LaTeX/cv/cv.tex" timestamp="1546206049302">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
         <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Uczelnia/Doktorat/Projektowanie efektywnych algorytmów/3/rozdzial01.tex" timestamp="1545331616473">
         <mark key="[" line="29" column="108" />
@@ -281,12 +281,12 @@
         <mark key="." line="5" column="20" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/cv/cv.cls" timestamp="1546204892399">
-        <mark key="'" line="123" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/Workspace/LaTeX/cv/cv.cls" timestamp="1546207728803">
+        <mark key="'" line="129" column="31" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="8" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="48" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/dl4j-demo/build.gradle" timestamp="1545980174077">
         <mark key="[" line="3" column="0" />
@@ -434,6 +434,14 @@
       <jump line="506" column="0" filename="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/awesome-cv.cls" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/LaTeX/cv/out/cv.log" />
       <jump line="1388" column="0" filename="$USER_HOME$/Workspace/LaTeX/cv/out/cv.log" />
+      <jump line="72" column="0" filename="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/awesome-cv.cls" />
+      <jump line="362" column="0" filename="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/awesome-cv.cls" />
+      <jump line="20" column="6" filename="$USER_HOME$/Workspace/LaTeX/cv/cv.cls" />
+      <jump line="16" column="83" filename="$USER_HOME$/Workspace/LaTeX/cv/cv.cls" />
+      <jump line="163" column="0" filename="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/awesome-cv.cls" />
+      <jump line="368" column="0" filename="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/awesome-cv.cls" />
+      <jump line="198" column="71" filename="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/awesome-cv.cls" />
+      <jump line="126" column="31" filename="$USER_HOME$/Workspace/LaTeX/cv/cv.cls" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -446,42 +454,35 @@
         <text>2</text>
       </register>
       <register name="0" type="4">
-        <text>\name{Claud D.}{Park}
-\position{Software Architect{\enskip\cdotp\enskip}Security Expert}
-\address{42-8, Bangbae-ro 15-gil, Seocho-gu, Seoul, 00681, Rep. of KOREA}
-
-\mobile{(+82) 10-9030-1843}
-\email{posquit0.bj@gmail.com}
-\homepage{www.posquit0.com}
-\github{posquit0}
-\linkedin{posquit0}</text>
+        <text>\newcommand*{\fontdir}[1][fonts/]{\def\@fontdir{#1}}
+\fontdir</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2V7c291cmNlc2Fuc3Byb30K</text>
+        <text encoding="base64">XFJlcXVpcmVQYWNrYWdle3VuaWNvZGUtbWF0aH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoIiMiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoIiMiKQo=</text>
+        <text encoding="base64">XG5ld2NvbW1hbmR7XGFjdkhlYWRlclNvY2lhbFNlcH17XHF1YWRcdGV4dGJhclxxdWFkfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBtYXQyID0gCg==</text>
+        <text encoding="base64">XGhvbWVwYWdle3d3dy5wb3NxdWl0MC5jb219Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoIiMjIyIpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFxAZXh0cmFpbmZvJQogICAgICAgIH0lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQoIiMjIyIpCiAgICAgIHByaW50KG1hdC50b1N0cmluZykK</text>
+        <text encoding="base64">ICAgICAgICAgIFxAZXh0cmFpbmZvJQogICAgICAgIH0lCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciAoXyA8LSAxIHRvIDEwKSB7CiAgICAgIG1hdCA9IG1hdC5tdWxpKG1hdCkK</text>
+        <text encoding="base64">ICAgICAgICB7JQogICAgICAgICAgXGlmYm9vbHtpc3N0YXJ0fXtcc2V0Ym9vbHtpc3N0YXJ0fXtmYWxzZX19e1xhY3ZIZWFkZXJTb2NpYWxTZXB9JQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnQobWF0KQo=</text>
+        <text encoding="base64">ICAgICAgXGlmdGhlbmVsc2V7XGlzdW5kZWZpbmVke1xAZXh0cmFpbmZvfX0lCiAgICAgICAge30lCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFxocmVme2h0dHBzOi8vd3d3LnhpbmcuY29tL3Byb2ZpbGUvXEB4aW5nfXtcZmFYaW5nU3F1YXJlXGFjdkhlYWRlckljb25TZXBcQHhpbmd9CiAgICAgICAgfSUK</text>
       </register>
     </registers>
     <search>
