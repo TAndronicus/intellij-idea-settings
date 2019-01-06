@@ -61,7 +61,7 @@
         <mark key="." line="10" column="7" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="/Dummy.scala" timestamp="1546005823745">
+      <file name="/Dummy.scala" timestamp="1546779371685">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -132,11 +132,11 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1546777912375">
-        <mark key="[" line="60" column="8" />
-        <mark key="]" line="23" column="18" />
-        <mark key="." line="23" column="18" />
-        <mark key="^" line="23" column="18" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1546779341517">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="56" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/runner/Runner.java" timestamp="1546458619619">
         <mark key="'" line="79" column="42" />
@@ -508,31 +508,31 @@
         <text encoding="base64">CgpcbmV3ZW52aXJvbm1lbnR7Y3Zob25vcnN9ewpcdnNwYWNle1xhY3ZTZWN0aW9uQ29udGVudFRvcFNraXB9Clx2c3BhY2V7LTJtbX0KXGJlZ2lue2NlbnRlcn0KXHNldGxlbmd0aFx0YWJjb2xzZXB7MHB0fQpcc2V0bGVuZ3Roe1xleHRyYXJvd2hlaWdodH17MHB0fQpcYmVnaW57dGFidWxhcip9e1x0ZXh0d2lkdGh9e0B7XGV4dHJhY29sc2Vwe1xmaWxsfX0gQ3sxLjVjbX0gTHtcdGV4dHdpZHRoIC0gNC4wY219IFJ7Mi41Y219fQp9ewpcZW5ke3RhYnVsYXIqfQpcZW5ke2NlbnRlcn0KfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gRAo=</text>
+        <text encoding="base64">ICAgIHZhbCBhID0gbmV3IERlY2lzaW9uVHJlZUNsYXNzaWZpY2F0aW9uTW9kZWwoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBhID0gRAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciAoaSA8LSAwIHVudGlsIDU7IGogPC0gMCB1bnRpbCA1KSB7CiAgICAgIHByaW50KGkgKyAiXyIgKyBqICsgIlxuIikK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">XG5ld2NvbW1hbmR7XGFjdkhlYWRlclNvY2lhbFNlcH17XHF1YWRcdGV4dGJhclxxdWFkfQo=</text>
+        <text encoding="base64">ICAgIGZvciAoaSA8LSAwIHVudGlsIDU7IGogPC0gMCB1bnRpbCA1KSB7CiAgICAgIHByaW50KGkgKyAiXyIgKyBqICsgIlxuIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">XG5ld2NvbW1hbmQqe1xmYW1pbHluYW1lfVsxXXtcZGVmXEBsYXN0bmFtZXsjMX19ClxkZWZcQGZhbWlseW5hbWV7XEBsYXN0bmFtZX0K</text>
+        <text encoding="base64">XG5ld2NvbW1hbmR7XGFjdkhlYWRlclNvY2lhbFNlcH17XHF1YWRcdGV4dGJhclxxdWFkfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JVxlbmR7dGFidWxhcip9CiVcZW5ke2NlbnRlcn0K</text>
+        <text encoding="base64">XG5ld2NvbW1hbmQqe1xmYW1pbHluYW1lfVsxXXtcZGVmXEBsYXN0bmFtZXsjMX19ClxkZWZcQGZhbWlseW5hbWV7XEBsYXN0bmFtZX0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JVxiZWdpbnt0YWJ1bGFyKn17XHRleHR3aWR0aH17QHtcZXh0cmFjb2xzZXB7XGZpbGx9fSBDezEuNWNtfSBMe1x0ZXh0d2lkdGggLSA0LjBjbX0gUnsyLjVjbX19Cg==</text>
+        <text encoding="base64">JVxlbmR7dGFidWxhcip9CiVcZW5ke2NlbnRlcn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JVxiZWdpbntjZW50ZXJ9Cg==</text>
+        <text encoding="base64">JVxiZWdpbnt0YWJ1bGFyKn17XHRleHR3aWR0aH17QHtcZXh0cmFjb2xzZXB7XGZpbGx9fSBDezEuNWNtfSBMe1x0ZXh0d2lkdGggLSA0LjBjbX0gUnsyLjVjbX19Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgpcbmV3Y29tbWFuZCp7XGN2aW50ZXJlc3R9WzFdewpcZW50cnl0aXRsZXN0eWxleyMxfSBcXAp9</text>
+      <register name="9" type="2">
+        <text encoding="base64">JVxiZWdpbntjZW50ZXJ9Cg==</text>
       </register>
     </registers>
     <search>
