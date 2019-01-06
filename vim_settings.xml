@@ -56,6 +56,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/data.csv" timestamp="1546796509351">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
       <file name="$USER_HOME$/Workspace/LaTeX/cv/cv/writing.tex" timestamp="1546712649979">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -157,11 +163,11 @@
         <mark key="." line="24" column="76" />
         <mark key="^" line="24" column="76" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1546786077117">
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1546796668728">
+        <mark key="[" line="15" column="80" />
+        <mark key="]" line="15" column="80" />
+        <mark key="^" line="15" column="80" />
+        <mark key="." line="15" column="80" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/parser/Kurwa.scala" timestamp="1546793225004">
         <mark key="[" line="5" column="20" />
@@ -242,11 +248,10 @@
         <mark key="^" line="21" column="8" />
         <mark key="." line="21" column="9" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/parser/TreeParser.scala" timestamp="1546792318708">
-        <mark key="[" line="47" column="17" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="15" column="7" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/parser/TreeParser.scala" timestamp="1546796256107">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/JUCS/conclusion.tex" timestamp="1545560756563">
         <mark key="[" line="8" column="151" />
@@ -273,6 +278,10 @@
         <mark key="]" line="137" column="116" />
         <mark key="." line="137" column="0" />
         <mark key="^" line="207" column="120" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/server/SparkEmbedded.scala" timestamp="1546796202014">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="55" />
       </file>
       <file name="$USER_HOME$/Workspace/LaTeX/JUCS/stat.tex" timestamp="1545072358119">
         <mark key="[" line="2" column="0" />
@@ -534,34 +543,34 @@
         <text>2</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CgpcbmV3ZW52aXJvbm1lbnR7Y3Zob25vcnN9ewpcdnNwYWNle1xhY3ZTZWN0aW9uQ29udGVudFRvcFNraXB9Clx2c3BhY2V7LTJtbX0KXGJlZ2lue2NlbnRlcn0KXHNldGxlbmd0aFx0YWJjb2xzZXB7MHB0fQpcc2V0bGVuZ3Roe1xleHRyYXJvd2hlaWdodH17MHB0fQpcYmVnaW57dGFidWxhcip9e1x0ZXh0d2lkdGh9e0B7XGV4dHJhY29sc2Vwe1xmaWxsfX0gQ3sxLjVjbX0gTHtcdGV4dHdpZHRoIC0gNC4wY219IFJ7Mi41Y219fQp9ewpcZW5ke3RhYnVsYXIqfQpcZW5ke2NlbnRlcn0KfQ==</text>
+        <text encoding="base64">ICB2YWwgY29uZiA9IG5ldyBTcGFya0NvbmYoKS5zZXRBcHBOYW1lKCJkdHJlZS1tZXJnZSIpLnNldE1hc3RlcigibG9jYWwiKQogIHZhbCBzcyA9IFNwYXJrU2Vzc2lvbi5idWlsZGVyLmNvbmZpZyhjb25mKS5nZXRPckNyZWF0ZQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE5vZGUuCg==</text>
+        <text encoding="base64">ICAgICAgdmFsIGEgPSBuZXcgRGVjaXNpb25UcmVlQ2xhc3NpZmljYXRpb25Nb2RlbCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW50ZXJOb2RlLl8K</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIE5vZGUuCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbXBvcnQgaW50ZXJOb2RlLl8K</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWwudHJlZS4K</text>
+        <text encoding="base64">ICAgIE5vZGUuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGEgPSBOb2RlLgo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWwudHJlZS4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5tbGxpYi50cmVlLm1vZGVsLk5vZGUK</text>
+        <text encoding="base64">ICAgICAgdmFsIGEgPSBOb2RlLgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uY29yYmEuc2UuaW1wbC5vcmJ1dGlsLmdyYXBoLk5vZGUK</text>
+        <text encoding="base64">Ly9pbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5tbGxpYi50cmVlLm1vZGVsLk5vZGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgTm9kZS4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5zdW4uY29yYmEuc2UuaW1wbC5vcmJ1dGlsLmdyYXBoLk5vZGUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBOaWwK</text>
+        <text encoding="base64">ICAgICAgTm9kZS4K</text>
       </register>
     </registers>
     <search>
