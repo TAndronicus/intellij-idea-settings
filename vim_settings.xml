@@ -249,11 +249,11 @@
         <mark key="^" line="21" column="8" />
         <mark key="." line="21" column="9" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/parser/TreeParser.scala" timestamp="1546892008447">
-        <mark key="[" line="31" column="152" />
-        <mark key="]" line="31" column="152" />
-        <mark key="." line="31" column="152" />
-        <mark key="^" line="31" column="151" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/parser/TreeParser.scala" timestamp="1546893128642">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="32" column="4" />
+        <mark key="." line="31" column="205" />
+        <mark key="^" line="31" column="205" />
       </file>
       <file name="$USER_HOME$/Documents/JUCS/conclusion.tex" timestamp="1545560756563">
         <mark key="[" line="8" column="151" />
@@ -524,8 +524,8 @@
       <register name="/" type="4">
         <text>2</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBzMSA9IFNwYXJrRW1iZWRkZWQuc3MucmVhZC5vcHRpb24oImluZmVyU2NoZW1hIiwgInRydWUiKS5mb3JtYXQoImNzdiIpLmxvYWQoIkEvYS5jc3YiKQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">dmFsIG0gPSByZWN0cy5tYXAoCiAgICAgIGdlb21ldHJpY2FsUmVwcmVzZW50YXRpb24gPT4gZ2VvbWV0cmljYWxSZXByZXNlbnRhdGlvbi5maWx0ZXIoXy5pc1dpdGhpbihtaW5zLCBtYXhlcykpLmdyb3VwQnkoXy5sYWJlbCkubWFwVmFsdWVzW0RvdWJsZV0odiA9PiB2Lm1hcChfLnZvbHVtZSkuc3VtKS5yZWR1Y2UoKGExLCBhMikgPT4gaWYgKGExLl8yID4gYTIuXzIpIGExIGVsc2UgYTIpLl8xCiAgICAp</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBrdiA9PiAoaywgdikKICAgICAgKQo=</text>
