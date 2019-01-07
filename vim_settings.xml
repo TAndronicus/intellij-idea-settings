@@ -63,11 +63,11 @@
         <mark key="." line="10" column="7" />
         <mark key="^" line="2" column="17" />
       </file>
-      <file name="/Dummy.scala" timestamp="1546888518458">
+      <file name="/Dummy.scala" timestamp="1546892051425">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="0" column="30" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/model/SimpleNode.scala" timestamp="1546804336755">
         <mark key="[" line="6" column="40" />
@@ -249,11 +249,11 @@
         <mark key="^" line="21" column="8" />
         <mark key="." line="21" column="9" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/parser/TreeParser.scala" timestamp="1546891523796">
-        <mark key="[" line="32" column="8" />
-        <mark key="]" line="32" column="9" />
-        <mark key="." line="32" column="9" />
-        <mark key="^" line="32" column="9" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/parser/TreeParser.scala" timestamp="1546892008447">
+        <mark key="[" line="31" column="152" />
+        <mark key="]" line="31" column="152" />
+        <mark key="." line="31" column="152" />
+        <mark key="^" line="31" column="151" />
       </file>
       <file name="$USER_HOME$/Documents/JUCS/conclusion.tex" timestamp="1545560756563">
         <mark key="[" line="8" column="151" />
@@ -528,31 +528,31 @@
         <text encoding="base64">ICAgIHZhbCBzMSA9IFNwYXJrRW1iZWRkZWQuc3MucmVhZC5vcHRpb24oImluZmVyU2NoZW1hIiwgInRydWUiKS5mb3JtYXQoImNzdiIpLmxvYWQoIkEvYS5jc3YiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAoKGEsIGIpKSA9PiAoYSwgYikK</text>
+        <text encoding="base64">ICAgICAgICBrdiA9PiAoaywgdikKICAgICAgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdm9sID0gcGFyZW50Lm1pbi5pbmRpY2VzLm1hcChpID0+IHBhcmVudC5tYXgoaSkgLSBwYXJlbnQubWluKGkpKS5wcm9kdWN0CiAgICAgICAgdmFsIG1pZCA9IHBhcmVudC5taW4uaW5kaWNlcy5tYXAoaSA9PiBwYXJlbnQubWluKGkpICsgcGFyZW50Lm1heChpKSkudG9BcnJheQo=</text>
+        <text encoding="base64">ICAgICAgICAoKGEsIGIpKSA9PiAoYSwgYikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YXIgdm9sdW1lID0gMEQK</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdm9sID0gcGFyZW50Lm1pbi5pbmRpY2VzLm1hcChpID0+IHBhcmVudC5tYXgoaSkgLSBwYXJlbnQubWluKGkpKS5wcm9kdWN0CiAgICAgICAgdmFsIG1pZCA9IHBhcmVudC5taW4uaW5kaWNlcy5tYXAoaSA9PiBwYXJlbnQubWluKGkpICsgcGFyZW50Lm1heChpKSkudG9BcnJheQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGMgPSBjCg==</text>
+        <text encoding="base64">ICB2YXIgdm9sdW1lID0gMEQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgd2hpbGUgKHRydWUpIHt9Cg==</text>
+        <text encoding="base64">ICAgIGMgPSBjCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHMxID0gc3Vic2V0cygwKS51bmlvbihzdWJzZXRzKDEpKS5zZWxlY3QoIl9jMCIpCi8vICAgIHZhbCBzMiA9IHN1YnNldHMoMikudW5pb24oc3Vic2V0cygxKSkuc2VsZWN0KCJfYzAiKQo=</text>
+        <text encoding="base64">Ly8gICAgd2hpbGUgKHRydWUpIHt9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGlucHV0ID0gU3BhcmtFbWJlZGRlZC5zcy5yZWFkLm9wdGlvbigiaW5mZXJTY2hlbWEiLCAidHJ1ZSIpLmZvcm1hdCgiY3N2IikubG9hZCgiQS9iaW9kZWcuY3N2IikKLy8gICAgdmFsIHN1YnNldHMgPSBpbnB1dC5yYW5kb21TcGxpdChBcnJheSguNCwgLjIsIC40KSkK</text>
+        <text encoding="base64">Ly8gICAgdmFsIHMxID0gc3Vic2V0cygwKS51bmlvbihzdWJzZXRzKDEpKS5zZWxlY3QoIl9jMCIpCi8vICAgIHZhbCBzMiA9IHN1YnNldHMoMikudW5pb24oc3Vic2V0cygxKSkuc2VsZWN0KCJfYzAiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIGlucHV0ID0gU3BhcmtFbWJlZGRlZC5zcy5yZWFkLm9wdGlvbigiaW5mZXJTY2hlbWEiLCAidHJ1ZSIpLmZvcm1hdCgiY3N2IikubG9hZCgiQS9iaW9kZWcuY3N2IikKLy8gICAgdmFsIHN1YnNldHMgPSBpbnB1dC5yYW5kb21TcGxpdChBcnJheSguNCwgLjIsIC40KSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YXIgdGVzdCA9IG1heCgwKSAtIG1pbigwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
