@@ -3,595 +3,74 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/co/PmxCO.java" timestamp="1545341563448">
-        <mark key="[" line="44" column="15" />
-        <mark key="]" line="44" column="15" />
-        <mark key="." line="44" column="15" />
-        <mark key="^" line="26" column="10" />
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1546982458882">
+        <mark key="[" line="16" column="47" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/io/FileReader.scala" timestamp="1545595998667">
-        <mark key="[" line="11" column="3" />
-        <mark key="]" line="11" column="3" />
-        <mark key="." line="11" column="3" />
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/test/scala/TreeParserTest.scala" timestamp="1546981146998">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="19" />
+        <mark key="." line="22" column="19" />
+        <mark key="^" line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/Solver.java" timestamp="1544947801156">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="8" column="66" />
-        <mark key="^" line="8" column="66" />
-        <mark key="." line="8" column="66" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1546965428157">
-        <mark key="[" line="17" column="22" />
-        <mark key="]" line="17" column="22" />
-        <mark key="." line="17" column="22" />
-        <mark key="^" line="17" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/stat.tex" timestamp="1545080996350">
-        <mark key="[" line="3" column="119" />
-        <mark key="]" line="3" column="54" />
-        <mark key="." line="3" column="54" />
-        <mark key="^" line="3" column="54" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/mutation/ScrambleMutator.java" timestamp="1545341430792">
-        <mark key="[" line="24" column="55" />
-        <mark key="]" line="24" column="56" />
-        <mark key="." line="24" column="56" />
-      </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountSpaces.tex" timestamp="1545071033273">
+      <file name="/Dummy.scala" timestamp="1546982440975">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/JUCS/res.tex" timestamp="1545072457257">
-        <mark key="[" line="5" column="14" />
-        <mark key="]" line="5" column="14" />
-        <mark key="." line="5" column="14" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/CO.java" timestamp="1544964292437">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="8" column="58" />
-        <mark key="^" line="8" column="58" />
-        <mark key="." line="8" column="58" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/JUCS/jucs.tex" timestamp="1545072338330">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/JUCS/stat.tex" timestamp="1545560690174">
-        <mark key="[" line="20" column="102" />
-        <mark key="]" line="20" column="109" />
-        <mark key="^" line="20" column="109" />
-        <mark key="." line="20" column="109" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1546967371929">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/JUCS/resSelected.tex" timestamp="1545240411794">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/Evaluator.java" timestamp="1544957627203">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="8" column="60" />
-        <mark key="." line="8" column="60" />
-        <mark key="^" line="8" column="60" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/util/Conf.scala" timestamp="1545821629939">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="29" />
-        <mark key="^" line="7" column="29" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/Runner.scala" timestamp="1545585387498">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/parser/TreeParser.scala" timestamp="1546967375765">
-        <mark key="[" line="33" column="18" />
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="25" />
-        <mark key="^" line="33" column="25" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/Rect.scala" timestamp="1545660453583">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="2" column="47" />
-        <mark key="^" line="2" column="41" />
-        <mark key="." line="2" column="47" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dl4j-demo/pom.xml" timestamp="1545981457460">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="20" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/select/Selector.java" timestamp="1544958393487">
-        <mark key="[" line="8" column="53" />
-        <mark key="]" line="8" column="75" />
-        <mark key="^" line="8" column="75" />
-        <mark key="." line="8" column="75" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/JUCS/conclusion.tex" timestamp="1545072371991">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/JUCS/exp.tex" timestamp="1545072326200">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/FeatureSelector.scala" timestamp="1545595975549">
-        <mark key="[" line="2" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/Selector.scala" timestamp="1545587828193">
-        <mark key="[" line="2" column="17" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/Selector.java" timestamp="1544958261439">
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/TreeParser.scala" timestamp="1545660493700">
-        <mark key="[" line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/util/Const.scala" timestamp="1545821637173">
-        <mark key="[" line="7" column="31" />
-        <mark key="]" line="7" column="11" />
-        <mark key="^" line="7" column="11" />
-        <mark key="." line="7" column="11" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dl4jdemo/pom.xml" timestamp="1545947514454">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="7" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dl4j-demo/src/test/scala/NoneTest.scala" timestamp="1546014478857">
-        <mark key="'" line="34" column="33" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-        <mark key="^" line="49" column="34" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/selector/Selector.scala" timestamp="1545596226376">
-        <mark key="[" line="8" column="20" />
-        <mark key="]" line="8" column="20" />
-        <mark key="^" line="8" column="76" />
-        <mark key="." line="8" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/exp.tex" timestamp="1545081542410">
-        <mark key="[" line="10" column="44" />
-        <mark key="]" line="10" column="44" />
-        <mark key="^" line="10" column="44" />
-        <mark key="." line="10" column="44" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/eval/SimpleEvaluator.java" timestamp="1545332846453">
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="25" />
-        <mark key="^" line="14" column="25" />
-        <mark key="." line="14" column="25" />
-      </file>
-      <file name="$USER_HOME$/Documents/JUCS/met.tex" timestamp="1545465496707">
-        <mark key="[" line="12" column="143" />
-        <mark key="]" line="17" column="232" />
-        <mark key="." line="17" column="232" />
-        <mark key="^" line="17" column="232" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/server/SparkEmbedded.scala" timestamp="1545651258104">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Doktorat/Projektowanie efektywnych algorytmów/3/Dyplom.tex" timestamp="1545331658137">
-        <mark key="[" line="534" column="47" />
-        <mark key="]" line="534" column="48" />
-        <mark key="." line="534" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/JUCS/conclusion.tex" timestamp="1545560756563">
-        <mark key="[" line="8" column="151" />
-        <mark key="]" line="8" column="147" />
-        <mark key="^" line="8" column="147" />
-        <mark key="." line="8" column="147" />
-      </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Doktorat/Projektowanie efektywnych algorytmów/3/rozdzial02.tex" timestamp="1545335483790">
-        <mark key="[" line="71" column="187" />
-        <mark key="]" line="70" column="130" />
-        <mark key="." line="70" column="130" />
-        <mark key="^" line="70" column="130" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/select/NBestSelector.java" timestamp="1545332970080">
-        <mark key="[" line="54" column="5" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/mutation/InversionMutator.java" timestamp="1545341390934">
-        <mark key="[" line="32" column="40" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/awesome-cv.cls" timestamp="1546207719121">
-        <mark key="'" line="198" column="71" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="97" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/res.tex" timestamp="1545081994887">
-        <mark key="[" line="154" column="83" />
-        <mark key="]" line="154" column="83" />
-        <mark key="^" line="154" column="83" />
-        <mark key="." line="154" column="83" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/JUCS/stat.tex" timestamp="1545072358119">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-        <mark key="^" line="2" column="8" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/io/FileReader.scala" timestamp="1545585335576">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/init/Initializer.java" timestamp="1544952165625">
-        <mark key="[" line="9" column="37" />
-        <mark key="]" line="9" column="7" />
-        <mark key="." line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/cv/cv.tex" timestamp="1546206049302">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Doktorat/Projektowanie efektywnych algorytmów/3/rozdzial01.tex" timestamp="1545331616473">
-        <mark key="[" line="29" column="108" />
-        <mark key="]" line="29" column="108" />
-        <mark key="^" line="29" column="108" />
-        <mark key="." line="29" column="108" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/Solver.java" timestamp="1544958169137">
-        <mark key="[" line="8" column="4" />
-        <mark key="]" line="8" column="7" />
-        <mark key="^" line="8" column="7" />
-        <mark key="." line="8" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/jucs.tex" timestamp="1545079529657">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="32" />
-        <mark key="^" line="8" column="32" />
-        <mark key="." line="8" column="32" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/Runner.java" timestamp="1544947093710">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/feature/FeatureSelector.scala" timestamp="1545596596488">
-        <mark key="[" line="3" column="50" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="20" />
-        <mark key="^" line="5" column="20" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/cv/cv.cls" timestamp="1546207728803">
-        <mark key="'" line="129" column="31" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="49" column="8" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dl4j-demo/build.gradle" timestamp="1545980174077">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="44" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/GA.java" timestamp="1545332650718">
-        <mark key="[" line="65" column="5" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="58" column="128" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/test/scala/RectTest.scala" timestamp="1546968070287">
-        <mark key="[" line="23" column="57" />
-        <mark key="]" line="23" column="53" />
-        <mark key="^" line="23" column="53" />
-        <mark key="." line="23" column="53" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/eval/Evaluator.java" timestamp="1544958117312">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="14" />
-        <mark key="^" line="8" column="14" />
-        <mark key="." line="8" column="14" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dl4j-demo/build.sbt" timestamp="1545993666438">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/runner/LoadRunner.java" timestamp="1545372195192">
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="49" column="20" />
-        <mark key="." line="49" column="20" />
-        <mark key="^" line="49" column="21" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/model/Rect.scala" timestamp="1546968126781">
-        <mark key="[" line="16" column="32" />
-        <mark key="]" line="16" column="33" />
-        <mark key="^" line="16" column="36" />
-        <mark key="." line="16" column="33" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/JUCS/met.tex" timestamp="1545072304603">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/util/Util.java" timestamp="1544971357338">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="54" />
-        <mark key="." line="11" column="54" />
-        <mark key="^" line="11" column="54" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/.gitignore" timestamp="1545585227000">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="6" />
-        <mark key="^" line="2" column="6" />
-        <mark key="." line="2" column="6" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/init/RandomInitializer.java" timestamp="1544952552134">
-        <mark key="[" line="16" column="24" />
-        <mark key="]" line="16" column="25" />
-        <mark key="." line="16" column="25" />
-        <mark key="^" line="16" column="30" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/Conf.scala" timestamp="1545585574231">
-        <mark key="[" line="4" column="21" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/met.tex" timestamp="1545081421882">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="16" column="70" />
-        <mark key="." line="16" column="70" />
-        <mark key="^" line="16" column="70" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/SparkEmbedded.scala" timestamp="1545584344623">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="." line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/server/SparkEmbedded.scala" timestamp="1545585365718">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/cv.tex" timestamp="1546205176419">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="63" column="18" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/conclusion.tex" timestamp="1545081177340">
-        <mark key="[" line="6" column="83" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/test/scala/TreeParserTest.scala" timestamp="1546968196960">
-        <mark key="[" line="28" column="3" />
-        <mark key="]" line="30" column="26" />
-        <mark key="." line="30" column="26" />
-        <mark key="^" line="30" column="26" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/util/Util.scala" timestamp="1545841521537">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="38" column="49" />
-        <mark key="]" line="38" column="87" />
-        <mark key="." line="38" column="87" />
-        <mark key="^" line="38" column="87" />
-      </file>
-      <file name="$USER_HOME$/Documents/JUCS/res.tex" timestamp="1545465611228">
-        <mark key="[" line="3" column="165" />
-        <mark key="]" line="3" column="40" />
-        <mark key="." line="3" column="40" />
-        <mark key="^" line="3" column="40" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/Initializer.java" timestamp="1544947943764">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/algorithm/co/OrderCO.java" timestamp="1545341499094">
-        <mark key="[" line="47" column="5" />
-        <mark key="]" line="59" column="4" />
-        <mark key="." line="49" column="12" />
-        <mark key="^" line="26" column="10" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/FileReader.scala" timestamp="1545585320619">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-      </file>
-      <file name="/fragment.java" timestamp="1545339493756">
-        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/test/scala/RectTest.scala" timestamp="1546981710649">
+        <mark key="[" line="25" column="52" />
+        <mark key="]" line="25" column="31" />
+        <mark key="." line="25" column="31" />
+        <mark key="^" line="25" column="31" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/parser/TreeParser.scala" timestamp="1546981949680">
+        <mark key="[" line="36" column="5" />
+        <mark key="]" line="39" column="5" />
+        <mark key="^" line="39" column="5" />
+        <mark key="." line="39" column="5" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="136" column="7" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseAcc.tex" />
-      <jump line="136" column="7" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountSel.tex" />
-      <jump line="92" column="7" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountSpaces.tex" />
-      <jump line="2" column="15" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseRej.tex" />
-      <jump line="136" column="0" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseRej.tex" />
-      <jump line="134" column="8" filename="$USER_HOME$/Documents/Uczelnia/Publikacje/Contemporary/JUCS/resCountBaseRej.tex" />
-      <jump line="87" column="68" filename="$USER_HOME$/Workspace/JVM/pea-heuristic/src/main/java/jb/Main.java" />
-      <jump line="91" column="26" filename="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/Runner.java" />
-      <jump line="79" column="42" filename="$USER_HOME$/Workspace/JVM/pea-ga/src/jb/runner/Runner.java" />
-      <jump line="37" column="29" filename="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" />
-      <jump line="55" column="31" filename="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" />
-      <jump line="23" column="0" filename="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/util/Util.scala" />
-      <jump line="32" column="33" filename="$USER_HOME$/Workspace/JVM/dl4j-demo/src/test/scala/NoneTest.scala" />
-      <jump line="401" column="16" filename="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/awesome-cv.cls" />
-      <jump line="118" column="0" filename="$USER_HOME$/Workspace/LaTeX/cv/cv.cls" />
-      <jump line="506" column="0" filename="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/awesome-cv.cls" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/LaTeX/cv/out/cv.log" />
-      <jump line="1388" column="0" filename="$USER_HOME$/Workspace/LaTeX/cv/out/cv.log" />
-      <jump line="72" column="0" filename="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/awesome-cv.cls" />
-      <jump line="362" column="0" filename="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/awesome-cv.cls" />
-      <jump line="20" column="6" filename="$USER_HOME$/Workspace/LaTeX/cv/cv.cls" />
-      <jump line="16" column="83" filename="$USER_HOME$/Workspace/LaTeX/cv/cv.cls" />
-      <jump line="163" column="0" filename="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/awesome-cv.cls" />
-      <jump line="368" column="0" filename="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/awesome-cv.cls" />
-      <jump line="198" column="71" filename="$USER_HOME$/Workspace/LaTeX/Awesome-CV/examples/awesome-cv.cls" />
-      <jump line="126" column="31" filename="$USER_HOME$/Workspace/LaTeX/cv/cv.cls" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFxjZW50ZXJpbmcKICAgIFxjYXB0aW9ue1F1YWxpdHkgb2YgY2xhc3NpZmljYXRpb24gKEFDQykgYXMgYSBmdW5jdGlvbiBvZiBjb3VudCBvZiBzdWJzcGFjZXMgZm9yIDkgQkNzLCAyIHNlbGVjdGVkIGNsYXNzaWZpZXJzIGFuZCBtZWRpYW4gbWV0aG9kLn0KICAgIFxsYWJlbHtzcGFjZV9wYXJ0c19hY2NfbWVkaWFufQogICAgXGJlZ2lue3RhYnVsYXJ9e3xsfGx8bHxsfGx8bHxsfGx8bHxsfH0KICAgICAgICBcaGxpbmUKICAgICAgICAmIFxtdWx0aWNvbHVtbns5fXtsfH17TGljemJhIHBvZHByemVzdHJ6ZW5pfSBcXCBcaGxpbmUKICAgICAgICAmIDMgICAgICAgJiA0ICAgICAgJiA1ICAgICAgJiA2ICAgICAgJiA3ICAgICAgJiA4ICAgICAgJiA5ICAgICAgJiAxMCAgICAgJiAgICAgICAgXFwgXGhsaW5lCiAgICAgICAgQmF6YSBkYW55Y2ggICAgICAgICAgICAgICAgICAgICYgXG11bHRpY29sdW1uezh9e2x8fXtJQ30gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIE1WICAgICBcXCBcaGxpbmUKICAgICAgICBiaW9kZWcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYgMCw3MjQgJiAwLDcyMyAmIDAsNzI2ICYgMCw3MjQgJiAwLDcyNiAmIDAsNzI2ICYgMCw3MjYgJiAwLDcyNyAmIDAsNzIzIFxcIFxobGluZQogICAgICAgIGJ1cGEgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiAwLDU3NyAmIDAsNTczICYgMCw1NjkgJiAwLDU3NyAmIDAsNTc2ICYgMCw1NzQgJiAwLDU3NiAmIDAsNTcxICYgMCw1ODIgXFwgXGhsaW5lCiAgICAgICAgY3J5b3RoZXJhcHkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIDAsODI1ICYgMCw4MTQgJiAwLDg0MSAmIDAsODQ0ICYgMCw4MjggJiAwLDgzMyAmIDAsODQxICYgMCw4NDUgJiAwLDkwMSBcXCBcaGxpbmUKICAgICAgICBkYXRhXF9iYW5rbm90ZS4uLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiAwLDg4OCAmIDAsODkyICYgMCw4OTggJiAwLDg5MSAmIDAsOTAyICYgMCw4OTQgJiAwLDkwMCAmIDAsODk4ICYgMCw4OTEgXFwgXGhsaW5lCiAgICAgICAgaGFiZXJtYW4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIDAsNzc1ICYgMCw3NzMgJiAwLDc2NCAmIDAsNzcxICYgMCw3NzEgJiAwLDc2NSAmIDAsNzcyICYgMCw3NzAgJiAwLDc3MCBcXCBcaGxpbmUKICAgICAgICBpb25vc3BoZXJlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYgMCw4ODYgJiAwLDg4OCAmIDAsODkyICYgMCw4ODYgJiAwLDg5MCAmIDAsODg4ICYgMCw4OTEgJiAwLDg5MyAmIDAsODM5IFxcIFxobGluZQogICAgICAgIG1ldGVyXF9hICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiAwLDgxMCAmIDAsODExICYgMCw3ODIgJiAwLDc2OSAmIDAsNzY5ICYgMCw3ODUgJiAwLDcyNiAmIDAsNzQ4ICYgMCw3NDMgXFwgXGhsaW5lCiAgICAgICAgcG9wXF9mYWlsdXJlcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIDAsOTI3ICYgMCw5MjYgJiAwLDkyNiAmIDAsOTMwICYgMCw5MzAgJiAwLDkyOCAmIDAsOTI3ICYgMCw5MjkgJiAwLDkyMyBcXCBcaGxpbmUKICAgICAgICBzZWlzbWljXF9idW1wcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYgMCw5MzEgJiAwLDkzMSAmIDAsOTMxICYgMCw5MzEgJiAwLDkzMSAmIDAsOTMxICYgMCw5MzEgJiAwLDkzMSAmIDAsOTM4IFxcIFxobGluZQogICAgICAgIHR3b25vcm0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiAwLDc0NyAmIDAsNzQ4ICYgMCw3NDggJiAwLDc0OCAmIDAsNzQ4ICYgMCw3NDcgJiAwLDc0OCAmIDAsNzQ4ICYgMCw3NDggXFwgXGhsaW5lCiAgICAgICAgd2RiYyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIDAsOTMzICYgMCw5MzUgJiAwLDkzNCAmIDAsOTM2ICYgMCw5MzIgJiAwLDkzNCAmIDAsOTMyICYgMCw5MzUgJiAwLDk0MCBcXCBcaGxpbmUKICAgICAgICB3aXNjb25zaW4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYgMCw5NDcgJiAwLDk0NiAmIDAsOTQ4ICYgMCw5NDYgJiAwLDk0NiAmIDAsOTQ2ICYgMCw5NDYgJiAwLDk0NiAmIDAsOTUyIFxcIFxobGluZQogICAgXGVuZHt0YWJ1bGFyfQoKICAgIFxjZW50ZXJpbmcKICAgIFxjYXB0aW9ue1F1YWxpdHkgb2YgY2xhc3NpZmljYXRpb24gKE1DQykgYXMgYSBmdW5jdGlvbiBvZiBjb3VudCBvZiBzdWJzcGFjZXMgZm9yIDkgQkNzLCAyIHNlbGVjdGVkIGNsYXNzaWZpZXJzIGFuZCBtZWRpYW4gbWV0aG9kLn0KICAgIFxsYWJlbHtzcGFjZV9wYXJ0c19tY2NfbWVkaWFufQogICAgXGJlZ2lue3RhYnVsYXJ9e3xsfGx8bHxsfGx8bHxsfGx8bHxsfH0KICAgICAgICBcaGxpbmUKICAgICAgICAmIFxtdWx0aWNvbHVtbns5fXtsfH17TGljemJhIHBvZHByemVzdHJ6ZW5pfSBcXCBcaGxpbmUKICAgICAgICAmIDMgICAgICAgJiA0ICAgICAgJiA1ICAgICAgJiA2ICAgICAgJiA3ICAgICAgJiA4ICAgICAgJiA5ICAgICAgJiAxMCAgICAgJiAgICAgICAgXFwgXGhsaW5lCiAgICAgICAgQmF6YSBkYW55Y2ggICAgICAgICAgICAgICAgICAgICYgXG11bHRpY29sdW1uezh9e2x8fXtJQ30gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIE1WICAgICBcXCBcaGxpbmUKICAgICAgICBiaW9kZWcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYgMCwzMzEgJiAwLDMyMCAmIDAsMzMzICYgMCwzMzIgJiAwLDMzMyAmIDAsMzMyICYgMCwzMzMgJiAwLDMzNSAmIDAsMzE5IFxcIFxobGluZQogICAgICAgIGJ1cGEgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiAwLDEzMCAmIDAsMTQwICYgMCwxMTYgJiAwLDEzMSAmIDAsMTMxICYgMCwxMzkgJiAwLDE0MCAmIDAsMTA5ICYgMCwxMDggXFwgXGhsaW5lCiAgICAgICAgY3J5b3RoZXJhcHkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIDAsNjY0ICYgMCw2MzUgJiAwLDY5NCAmIDAsNzAzICYgMCw2NzEgJiAwLDY4MiAmIDAsNzAwICYgMCw3MDQgJiAwLDgxNSBcXCBcaGxpbmUKICAgICAgICBkYXRhXF9iYW5rbm90ZS4uLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiAwLDc3NSAmIDAsNzgyICYgMCw3OTUgJiAwLDc4MCAmIDAsODAzICYgMCw3ODcgJiAwLDc5OCAmIDAsNzkzICYgMCw3NzkgXFwgXGhsaW5lCiAgICAgICAgaGFiZXJtYW4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIDAsMjU3ICYgMCwyNTcgJiAwLDIxOCAmIDAsMjQwICYgMCwyNDAgJiAwLDIxMyAmIDAsMjM2ICYgMCwyMzcgJiAwLDIwNSBcXCBcaGxpbmUKICAgICAgICBpb25vc3BoZXJlICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYgMCw3NTUgJiAwLDc1NyAmIDAsNzY4ICYgMCw3NTUgJiAwLDc2NCAmIDAsNzYwICYgMCw3NjUgJiAwLDc2OSAmIDAsNjMwIFxcIFxobGluZQogICAgICAgIG1ldGVyXF9hICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiAwLDYzMSAmIDAsNjQ4ICYgMCw1OTAgJiAwLDU1MSAmIDAsNTYzICYgMCw1OTIgJiAwLDQ3NSAmIDAsNTEzICYgMCw0ODAgXFwgXGhsaW5lCiAgICAgICAgcG9wXF9mYWlsdXJlcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIDAsNDYyICYgMCw0NTcgJiAwLDQ2MiAmIDAsNDk4ICYgMCw0ODUgJiAwLDQ3OCAmIDAsNDcwICYgMCw0NzIgJiAwLDQzNSBcXCBcaGxpbmUKICAgICAgICBzZWlzbWljXF9idW1wcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYgMCwwMTkgJiAwLDAxNyAmIDAsMDE3ICYgMCwwMTcgJiAwLDAxNyAmIDAsMDE3ICYgMCwwMTcgJiAwLDAxNyAmIDAsMDAwIFxcIFxobGluZQogICAgICAgIHR3b25vcm0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJiAwLDAwMCAmIDAsMDAwICYgMCwwMDAgJiAwLDAwMCAmIDAsMDAwICYgMCwwMDAgJiAwLDAwMCAmIDAsMDAwICYgMCwwMDAgXFwgXGhsaW5lCiAgICAgICAgd2RiYyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAmIDAsODU5ICYgMCw4NjEgJiAwLDg1OSAmIDAsODY0ICYgMCw4NTYgJiAwLDg2MCAmIDAsODU0ICYgMCw4NjEgJiAwLDg3MiBcXCBcaGxpbmUKICAgICAgICB3aXNjb25zaW4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICYgMCw4MjkgJiAwLDgyOCAmIDAsODMyICYgMCw4MjYgJiAwLDgyOCAmIDAsODI4ICYgMCw4MjcgJiAwLDgyNyAmIDAsODk0IFxcIFxobGluZQogICAgXGVuZHt0YWJ1bGFyfQpcZW5ke3RhYmxlfQoKXG5ld3BhZ2UK</text>
-      </register>
-      <register name="-" type="4">
-        <text>max</text>
-      </register>
-      <register name="/" type="4">
-        <text>2</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSZWN0KEFycmF5KDAsIDApLCBBcnJheSgyLCAyKSksIC8vaXMgd2l0aGluLCAwCg==</text>
-      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSZWN0KEFycmF5KDIsIDIpLCBBcnJheSgzLCAzKSkK</text>
+        <text encoding="base64">ICAgIHZhbCBiID0gKHY6IEFycmF5W1JlY3RdKSA9PiB2Lm1hcChfLnZvbHVtZSkuc3VtCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDBECg==</text>
+        <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXkoMCwgMSwgMikKICAgIHByaW50KGEubGVuZ3RoIC8gMkQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KGIucmVkdWNlKGZmKSkK</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBmZiA9IChhMTogRG91YmxlLCBhMjogRG91YmxlKSA9PiBpZiAoYTEgPiBhMikgYTEgKyAyIGVsc2UgYTIgLSAyCg==</text>
+        <text encoding="base64">ICAgIHZhbCBhcnJheXMgPSBBcnJheSgKICAgICAgQQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXkoMEQsIDIpCiAgICB2YWwgYiA9IEFycmF5KDFELCA3KQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZWN0LmlzKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDBECg==</text>
+        <text encoding="base64">ICAgIHJlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBjID0gKGEgKysgYikubWFwKF8vMikK</text>
+        <text encoding="base64">ICAgICAgICBSZWN0KEFycmF5KDAsIDApLCBBcnJheSgyLCAyKSwgMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KGMudmlldykK</text>
+        <text encoding="base64">ICAgICAgICBSZWN0KEFycmF5KDAsIDApLCBBcnJheSgyLCAyKSwgMSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">XFJlcXVpcmVQYWNrYWdle3VuaWNvZGUtbWF0aH0K</text>
+        <text encoding="base64">ICAgICAgICBSZWN0KEFycmF5KDAsIDApLCBBcnJheSgyLCAyKSwgMSksCg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
       </register>
     </registers>
     <search>
-      <last-search>2</last-search>
-      <last-offset />
-      <last-pattern>2</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry>2</entry>
-      </history-search>
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Y</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed U</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>shift ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed OPEN_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed 2</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed CLOSE_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>shift ctrl pressed 6</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
   </component>
 </application>
