@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1546982458882">
-        <mark key="[" line="16" column="47" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1546983556892">
+        <mark key="[" line="19" column="14" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="19" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/test/scala/TreeParserTest.scala" timestamp="1546981146998">
         <mark key="[" line="22" column="20" />
@@ -14,7 +15,7 @@
         <mark key="." line="22" column="19" />
         <mark key="^" line="22" column="19" />
       </file>
-      <file name="/Dummy.scala" timestamp="1546982440975">
+      <file name="/Dummy.scala" timestamp="1546983180644">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="25" />
         <mark key="^" line="0" column="25" />
@@ -36,34 +37,34 @@
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBiID0gKHY6IEFycmF5W1JlY3RdKSA9PiB2Lm1hcChfLnZvbHVtZSkuc3VtCg==</text>
+        <text encoding="base64">ICAgIGMuZm9yZWFjaFtVbml0XSgoaywgdik6IChJbnQsIEludCkgPT4gcHJpbnQoayArICI6ICIgKyB2ICsgIlxuIikpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXkoMCwgMSwgMikKICAgIHByaW50KGEubGVuZ3RoIC8gMkQpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBjID0gYSArKyBiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgIGMubWFwKChrLCB2KSA9PiBrICsgIl8iICsgdikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBhcnJheXMgPSBBcnJheSgKICAgICAgQQo=</text>
+        <text encoding="base64">ICAgIHZhbCBiID0gKHY6IEFycmF5W1JlY3RdKSA9PiB2Lm1hcChfLnZvbHVtZSkuc3VtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChyZWN0LmlzKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXkoMCwgMSwgMikKICAgIHByaW50KGEubGVuZ3RoIC8gMkQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJlCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBSZWN0KEFycmF5KDAsIDApLCBBcnJheSgyLCAyKSwgMSkK</text>
+        <text encoding="base64">ICAgIHZhbCBhcnJheXMgPSBBcnJheSgKICAgICAgQQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBSZWN0KEFycmF5KDAsIDApLCBBcnJheSgyLCAyKSwgMSksCg==</text>
+        <text encoding="base64">ICAgIGFzc2VydChyZWN0LmlzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZWN0KEFycmF5KDAsIDApLCBBcnJheSgyLCAyKSwgMSksCg==</text>
+        <text encoding="base64">ICAgIHJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
