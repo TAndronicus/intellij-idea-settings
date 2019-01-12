@@ -188,7 +188,7 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1547227539917">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1547278763479">
         <mark key="[" line="65" column="47" />
         <mark key="]" line="65" column="52" />
         <mark key="." line="65" column="52" />
@@ -281,12 +281,11 @@
         <mark key="." line="17" column="232" />
         <mark key="^" line="17" column="232" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/test/scala/TreeParserTest.scala" timestamp="1547276158517">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/test/scala/TreeParserTest.scala" timestamp="1547278512519">
         <mark key="'" line="27" column="35" />
-        <mark key="[" line="56" column="174" />
-        <mark key="]" line="56" column="174" />
-        <mark key="^" line="56" column="171" />
-        <mark key="." line="56" column="174" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Uczelnia/Doktorat/Projektowanie efektywnych algorytmów/3/rozdzial03.tex" timestamp="1546632295921">
         <mark key="[" line="9" column="104" />
@@ -563,31 +562,31 @@
         <text encoding="base64">ICAgIGFzc2VydCh0cmVlLmFzSW5zdGFuY2VPZltJbnRlcm5hbFNpbXBsZU5vZGVdLmxlZnRDaGlsZC5hc0luc3RhbmNlT2ZbSW50ZXJuYWxTaW1wbGVOb2RlXS5sZWZ0Q2hpbGQuYXNJbnN0YW5jZU9mW0ludGVybmFsU2ltcGxlTm9kZV0uc3BsaXQudmFsdWUgPT0gMSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vIHRyZWUgc3RydWN0dXJlCiAgICBhc3NlcnQodHJlZS5hc0luc3RhbmNlT2ZbSW50ZV0pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMZWFmU2ltcGxlTm9kZShjYWxjdWxhdGVMYWJlbChtaW5zLCBtYXhlcywgcmVjdHMpKQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDdWJlKEFycmF5KDAsIDApLCBBcnJheSgyLCAyKSwgMSkKICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgKSwKICAgICAgQXJyYXkoCg==</text>
+        <text encoding="base64">ICAgICAgICBMZWFmU2ltcGxlTm9kZShjYWxjdWxhdGVMYWJlbChtaW5zLCBtYXhlcywgcmVjdHMpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBDdWJlKEFycmF5KDAsIDApLCBBcnJheSgyLCAyKSksIC8vaXMgd2l0aGluLCAwCiAgICAgICAgQ3ViZShBcnJheSgxLjUsIDApLCBBcnJheSgyLjUsIDIpLCAxKSAvLyBpcyBub3Qgd2l0aGluIDEK</text>
+        <text encoding="base64">ICAgICAgICBDdWJlKEFycmF5KDAsIDApLCBBcnJheSgyLCAyKSwgMSkKICAgICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgQXJyYXkoCiAgICAgICAgQ3ViZShBcnJheSgwLCAwKSwgQXJyYXkoMiwgMikpLCAvL2lzIHdpdGhpbiwgMAo=</text>
+        <text encoding="base64">ICAgICAgKSwKICAgICAgQXJyYXkoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBDdWJlKEFycmF5KDAsIDApLCBBcnJheSgyLCAyKSksIC8vaXMgd2l0aGluLCAwCiAgICAgICAgQ3ViZShBcnJheSgxLjUsIDApLCBBcnJheSgyLjUsIDIpLCAxKSAvLyBpcyBub3Qgd2l0aGluIDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgZ2V0RWxDdWJlU2l6ZShtaW5zOiBBcnJheVtEb3VibGVdLCBtYXhlczogQXJyYXlbRG91YmxlXSkgPSA/Pz8K</text>
+        <text encoding="base64">ICAgICAgQXJyYXkoCiAgICAgICAgQ3ViZShBcnJheSgwLCAwKSwgQXJyYXkoMiwgMikpLCAvL2lzIHdpdGhpbiwgMAo=</text>
       </register>
     </registers>
     <search>
