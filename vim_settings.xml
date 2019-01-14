@@ -2,50 +2,9 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1547066365873">
-        <mark key="[" line="62" column="12" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/model/IntegratedDecisionTreeModel.scala" timestamp="1547069390454">
-        <mark key="[" line="21" column="33" />
-        <mark key="]" line="21" column="68" />
-        <mark key="." line="21" column="33" />
-        <mark key="^" line="23" column="96" />
-      </file>
-      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.12/srcs/spark-mllib_2.12-2.4.0-sources.jar!/org/apache/spark/ml/classification/DecisionTreeClassifier.scala" timestamp="1547068980532">
-        <mark key="'" line="248" column="15" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/model/SimpleSplit.scala" timestamp="1547067974258">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="44" />
-        <mark key="^" line="2" column="44" />
-        <mark key="." line="2" column="44" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="246" column="7" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.12/srcs/spark-mllib_2.12-2.4.0-sources.jar!/org/apache/spark/ml/classification/DecisionTreeClassifier.scala" />
-      <jump line="248" column="15" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.12/srcs/spark-mllib_2.12-2.4.0-sources.jar!/org/apache/spark/ml/classification/DecisionTreeClassifier.scala" />
-    </jumps>
-    <registers>
-      <register name="0" type="4">
-        <text>throw new Exception(&quot;not yet impl&quot;)</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBvdmVycmlkZSBkZWYgcHJlZGljdCh0ZXN0RGF0YTogUkREW1ZlY3Rvcl0pOiBSRERbRG91YmxlXSA9IHsKCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3BhcmsubWxsaWIuY2xhc3NpZmljYXRpb24uQ2xhc3NpZmljYXRpb25Nb2RlbAppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5tbGxpYi5saW5hbGcuVmVjdG9yCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgogIGRlZiB0cmF2ZXJzZVRyZWUocm9vdE5vZGU6IFNpbXBsZU5vZGUsIHRlc3REYXRhOiBWZWN0b3IpOiBEb3VibGUgPSB7CiAgICAKICB9</text>
-      </register>
-      <register name="-" type="4">
-        <text>???</text>
-      </register>
-    </registers>
+    <filemarks />
+    <jumps />
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -54,18 +13,6 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
