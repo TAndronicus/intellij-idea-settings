@@ -9,11 +9,17 @@
         <mark key="." line="14" column="62" />
         <mark key="^" line="14" column="62" />
       </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" timestamp="1547662670622">
-        <mark key="[" line="30" column="37" />
-        <mark key="]" line="59" column="30" />
-        <mark key="." line="59" column="30" />
-        <mark key="^" line="59" column="30" />
+      <file name="$USER_HOME$/Workspace/LaTeX/test/src/main.tex" timestamp="1547665960175">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" timestamp="1547664303472">
+        <mark key="'" line="299" column="0" />
+        <mark key="[" line="94" column="84" />
+        <mark key="]" line="32" column="32" />
+        <mark key="." line="32" column="32" />
+        <mark key="^" line="32" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/LaTeX/my-cv/cv.tex" timestamp="1547653864948">
         <mark key="[" line="2" column="7" />
@@ -30,12 +36,12 @@
       <file name="/fragment.java" timestamp="1547586678660">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" timestamp="1547660156328">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="36" column="67" />
-        <mark key="]" line="36" column="67" />
-        <mark key="." line="36" column="67" />
-        <mark key="^" line="37" column="64" />
+      <file name="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" timestamp="1547666291549">
+        <mark key="'" line="136" column="59" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="45" column="67" />
+        <mark key="." line="45" column="67" />
+        <mark key="^" line="46" column="64" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1547488383996">
         <mark key="[" line="13" column="50" />
@@ -43,43 +49,52 @@
         <mark key="^" line="10" column="45" />
         <mark key="." line="10" column="45" />
       </file>
+      <file name="$USER_HOME$/Workspace/LaTeX/my-cv/cv/honors.tex" timestamp="1547664193289" />
     </filemarks>
     <jumps>
       <jump line="128" column="0" filename="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" />
+      <jump line="301" column="12" filename="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" />
+      <jump line="33" column="29" filename="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" />
+      <jump line="303" column="0" filename="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" />
+      <jump line="32" column="29" filename="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" />
+      <jump line="302" column="13" filename="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" />
+      <jump line="299" column="0" filename="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" />
+      <jump line="127" column="59" filename="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>Tekst</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBcaXRlbSBcdEl0ZW0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JSAgICBcbm9pbmRlbnQK</text>
+        <text encoding="base64">ICAgIFRoZSBmb2xsb3dpbmcgYXJpdGhtZXRpYyBpcyBlYXN5Ogo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFxub2luZGVudAo=</text>
+        <text encoding="base64">ICAgICAgICBcaXRlbSBcdFZhbHVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFxub2luZGVudAo=</text>
+        <text encoding="base64">ICAgIFxkZWZpbmVjb2xvcnt0Q29sb3J9e2dyYXl9ezB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAkNSs2PVxyZXN1bHQkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBcYm94ZWR7Cg==</text>
+        <text encoding="base64">ICAgICAgICBcaXRlbSBcRlBldmFse1xyZXN1bHR9e3JvdW5kKDIrMy81KnBpLDUpfSUKICAgICAgICAkMiszLzVcdGltZXNccGk9XHJlc3VsdCQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">XHVzZXBhY2thZ2V7Y2FsY30K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JSUKJSUgQXV0aG9yOiBqYgolJSAxLzE2LzE5CiUlCgolIFByZWFtYmxlCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">XHNldG1haW5mb250e0xhdGluIE1vZGVybiBSb21hbn0K</text>
+        <text encoding="base64">JSBEb2N1bWVudAo=</text>
       </register>
       <register name="-" type="4">
-        <text>sourcepro</text>
+        <text>\tDiff\tValue}</text>
       </register>
     </registers>
     <search>
