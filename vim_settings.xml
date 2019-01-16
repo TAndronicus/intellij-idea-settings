@@ -15,14 +15,21 @@
         <mark key="." line="2" column="11" />
         <mark key="^" line="2" column="11" />
       </file>
+      <file name="$USER_HOME$/Workspace/LaTeX/latex-project/test.tex" timestamp="1547659382350">
+        <mark key="[" line="11" column="43" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+      </file>
       <file name="/fragment.java" timestamp="1547586678660">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" timestamp="1547656150713">
-        <mark key="[" line="155" column="76" />
-        <mark key="]" line="129" column="76" />
-        <mark key="." line="129" column="76" />
-        <mark key="^" line="129" column="76" />
+      <file name="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" timestamp="1547660156328">
+        <mark key="'" line="122" column="0" />
+        <mark key="[" line="36" column="67" />
+        <mark key="]" line="36" column="67" />
+        <mark key="." line="36" column="67" />
+        <mark key="^" line="37" column="64" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1547488383996">
         <mark key="[" line="13" column="50" />
@@ -31,22 +38,42 @@
         <mark key="." line="10" column="45" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="128" column="0" filename="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" />
+    </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">RnVuY3Rpb248RmxvYXQsIEZsb2F0PiBmdW4gPSB4IC0+IDIgKiB4Ow==</text>
+        <text>Tekst</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">XHNldG1haW5mb250e0xhdGluIE1vZGVybiBSb21hbn0K</text>
+        <text encoding="base64">JSAgICBcbm9pbmRlbnQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2V7Zm9udHNwZWN9Cgo=</text>
+        <text encoding="base64">ICAgIFxub2luZGVudAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgU2l6ZV9heGlzXzAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IFNpemVfYXhpc18xLAo=</text>
+        <text encoding="base64">ICAgIFxub2luZGVudAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBcYm94ZWR7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">XHNldG1haW5mb250e0xhdGluIE1vZGVybiBSb21hbn0K</text>
       </register>
       <register name="-" type="4">
-        <text>Charter</text>
+        <text>slshape</text>
       </register>
     </registers>
     <search>
