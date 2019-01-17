@@ -3,11 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1547586731112">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="47" />
-        <mark key="." line="14" column="62" />
-        <mark key="^" line="14" column="62" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1547755580601">
+        <mark key="[" line="8" column="140" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1547586678660">
         <mark key="[" line="0" column="0" />
@@ -25,10 +24,16 @@
         <text encoding="base64">RnVuY3Rpb248RmxvYXQsIEZsb2F0PiBmdW4gPSB4IC0+IDIgKiB4Ow==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RyaW5nKTsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBGdW5jdGlvbjxGbG9hdCwgRmxvYXQ+IGZ1biA9IHggLT4gMiAqIHg7CiAgICAgICAgZmxvYXRbXVtdIGFyID0gbmV3IGZsb2F0W11bXXt7LjFGLCAuMkZ9LCB7LjNGLCAuNEZ9LCB7LjVGLCAuNkZ9fTsKICAgICAgICBBcnJheXMuc3RyZWFtKGVsZW1lbl93aXNlX2Z1bmN0aW9uKGFyLCBmdW4pKS5mb3JFYWNoKGkgLT4gU3lzdGVtLm91dC5wcmludGxuKGkpKTsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgU2l6ZV9heGlzXzAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW50IFNpemVfYXhpc18xLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>myFunc(x[i][j]) ;</text>
+        <text>filter</text>
       </register>
     </registers>
     <search>
