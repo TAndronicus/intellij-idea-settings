@@ -8,11 +8,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1547830823180">
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="27" column="40" />
-        <mark key="." line="27" column="40" />
-        <mark key="^" line="27" column="40" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1547831510550">
+        <mark key="[" line="13" column="51" />
+        <mark key="]" line="13" column="53" />
+        <mark key="." line="13" column="53" />
+        <mark key="^" line="13" column="53" />
       </file>
     </filemarks>
     <jumps />
@@ -21,16 +21,25 @@
         <text encoding="base64">ICAgIHZhbCBmaW5hbFNjb3JlcyA9IEFycmF5KDBELCAwRCwgMEQsIDBELCAwRCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbAo=</text>
+        <text encoding="base64">Ly8gICAgdmFsIGZpbmFsU2NvcmVzID0gQXJyYXkoMEQsIDBELCAwRCwgMEQsIDBEKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJhbmdlcy5pbmRpY2VzLnRvTWFwKGkgPT4gbnVtcy5maWx0ZXIoaSA9PiBpID49IG1pbiAmJiBpIDw9IG1heCkpCg==</text>
+        <text encoding="base64">ICAgICAgc2NvcmVzLmluZGljZXMuZm9yZWFjaChpID0+IGZpbmFsU2NvcmVzKGkpID0gc2NvcmVzKGkpKQo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdmFsIHNjb3Jlcwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJhbmdlcy5pbmRpY2VzLnRvTWFwKGkgPT4gbnVtcy5maWx0ZXIoaSA9PiBpID49IG1pbiAmJiBpIDw9IG1heCkpCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXkoNSwgNCwgMywgMikKICAgIHZhciBjID0gQXJyYXkoMSwgMikKICAgIGZvciAoYiA8LSBhKSB7CiAgICAgIGMgOis9IGIKICAgIH0KICAgIGMuZm9yZWFjaChpID0+IHByaW50KGkgKyAiXG4iKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Array(0D, 0D, 0D, 0D, 0D)</text>
+        <text>print(i + &quot;\n&quot;))</text>
       </register>
     </registers>
     <search>
