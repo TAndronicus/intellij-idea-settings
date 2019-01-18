@@ -3,6 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/functions/WeightAggregators.scala" timestamp="1547835995339">
+        <mark key="[" line="8" column="81" />
+        <mark key="]" line="8" column="84" />
+        <mark key="." line="8" column="84" />
+        <mark key="^" line="8" column="84" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1547836021274">
+        <mark key="[" line="48" column="48" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1547823727345">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -18,7 +27,7 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBmaW5hbFNjb3JlcyA9IEFycmF5KDBELCAwRCwgMEQsIDBELCAwRCkK</text>
+        <text encoding="base64">ICB2YWwgc3VtT2ZWb2x1bWVzOiBBcnJheVtDdWJlXSA9PiBEb3VibGUgPSAoYXI6IEFycmF5W0N1YmVdKSA9PiBhci5tYXAoXy52b2x1bWUpLnN1bQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
