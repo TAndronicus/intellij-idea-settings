@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1547837233851">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/functions/WeightAggregators.scala" timestamp="1547835995339">
         <mark key="[" line="8" column="81" />
         <mark key="]" line="8" column="84" />
@@ -13,14 +16,14 @@
         <mark key="[" line="48" column="48" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1547823727345">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1547834750338">
-        <mark key="[" line="11" column="16" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1547837344831">
+        <mark key="[" line="26" column="14" />
         <mark key="]" line="11" column="16" />
-        <mark key="^" line="11" column="16" />
+        <mark key="^" line="26" column="28" />
         <mark key="." line="11" column="16" />
       </file>
     </filemarks>
@@ -54,7 +57,7 @@
         <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXkoNSwgNCwgMywgMikKICAgIHZhciBjID0gQXJyYXkoMSwgMikKICAgIGZvciAoYiA8LSBhKSB7CiAgICAgIGMgOis9IGIKICAgIH0KICAgIGMuZm9yZWFjaChpID0+IHByaW50KGkgKyAiXG4iKSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">NSwgMTAsIA==</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
