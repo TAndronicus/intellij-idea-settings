@@ -3,124 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1547586731112">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="8" column="47" />
-        <mark key="." line="14" column="62" />
-        <mark key="^" line="14" column="62" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/test/src/main.tex" timestamp="1547665960175">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" timestamp="1547669949396">
-        <mark key="'" line="296" column="0" />
-        <mark key="[" line="27" column="29" />
-        <mark key="]" line="27" column="34" />
-        <mark key="^" line="27" column="34" />
-        <mark key="." line="27" column="34" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/my-cv/cv.tex" timestamp="1547653864948">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="11" />
-        <mark key="." line="2" column="11" />
-        <mark key="^" line="2" column="11" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/latex-project/test.tex" timestamp="1547659382350">
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-      </file>
-      <file name="/fragment.java" timestamp="1547586678660">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" timestamp="1547666291549">
-        <mark key="'" line="136" column="59" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="45" column="67" />
-        <mark key="." line="45" column="67" />
-        <mark key="^" line="46" column="64" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1547488383996">
-        <mark key="[" line="13" column="50" />
-        <mark key="]" line="10" column="45" />
-        <mark key="^" line="10" column="45" />
-        <mark key="." line="10" column="45" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1547823727345">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="128" column="0" filename="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" />
-      <jump line="301" column="12" filename="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" />
-      <jump line="33" column="29" filename="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" />
-      <jump line="303" column="0" filename="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" />
-      <jump line="32" column="29" filename="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" />
-      <jump line="302" column="13" filename="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" />
-      <jump line="299" column="0" filename="$USER_HOME$/Workspace/LaTeX/my-cv/jb-cv.cls" />
-      <jump line="127" column="59" filename="$USER_HOME$/Workspace/LaTeX/latex-project/kur.tex" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBcaXRlbSBcdEl0ZW0K</text>
-      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFRoZSBmb2xsb3dpbmcgYXJpdGhtZXRpYyBpcyBlYXN5Ogo=</text>
+        <text encoding="base64">ICAgIHJhbmdlcy5pbmRpY2VzLnRvTWFwKGkgPT4gbnVtcy5maWx0ZXIoaSA9PiBpID49IG1pbiAmJiBpIDw9IG1heCkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBcaXRlbSBcdFZhbHVlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFxkZWZpbmVjb2xvcnt0Q29sb3J9e2dyYXl9ezB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkNSs2PVxyZXN1bHQkCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBcaXRlbSBcRlBldmFse1xyZXN1bHR9e3JvdW5kKDIrMy81KnBpLDUpfSUKICAgICAgICAkMiszLzVcdGltZXNccGk9XHJlc3VsdCQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">XHVzZXBhY2thZ2V7Y2FsY30K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">JSUKJSUgQXV0aG9yOiBqYgolJSAxLzE2LzE5CiUlCgolIFByZWFtYmxlCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">JSBEb2N1bWVudAo=</text>
-      </register>
-      <register name="-" type="4">
-        <text>\tDiff\tValue}</text>
+        <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXkoNSwgNCwgMywgMikKICAgIHZhciBjID0gQXJyYXkoMSwgMikKICAgIGZvciAoYiA8LSBhKSB7CiAgICAgIGMgOis9IGIKICAgIH0KICAgIGMuZm9yZWFjaChpID0+IHByaW50KGkgKyAiXG4iKSkK</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search />
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <history />
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
@@ -130,6 +41,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed M</text>
@@ -148,6 +62,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed E</text>
