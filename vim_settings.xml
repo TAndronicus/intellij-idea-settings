@@ -15,10 +15,17 @@
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1547836021274">
         <mark key="[" line="48" column="48" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1547823727345">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1547843957335">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="115" />
+        <mark key="." line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1547843250699">
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="13" column="63" />
+        <mark key="." line="13" column="63" />
+        <mark key="^" line="13" column="63" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1547838519964">
         <mark key="[" line="26" column="0" />
@@ -28,43 +35,43 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICB2YWwgc3VtT2ZWb2x1bWVzOiBBcnJheVtDdWJlXSA9PiBEb3VibGUgPSAoYXI6IEFycmF5W0N1YmVdKSA9PiBhci5tYXAoXy52b2x1bWUpLnN1bQo=</text>
+      <register name="0" type="4">
+        <text>new String(Files.readAllBytes(Paths.get(&quot;A/bi&quot;))).getBytes(StandardCharsets.UTF_8).length</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigiXG4iICsgZmlsZW5hbWVzKGluZGV4KSkK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgRmlsZVJlYWRlcihuZXcgRmlsZSgiQS9iaSIpKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbmFsU2NvcmVzLmZvcmVhY2goaSA9PiBpLmZvcmVhY2goaiA9PiBwcmludChqICsgIiwgIikpKQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmxvYXRbXVtdIGVsZW1lbl93aXNlX2Z1bmN0aW9uKGZsb2F0W11bXSB4LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBGdW5jdGlvbjxGbG9hdCwgRmxvYXQ+IGYpIHsKCiAgICAgICAgZmxvYXRbXVtdIENvbnN0cnVjdGVkX2FycmF5ID0gbmV3IGZsb2F0W3gubGVuZ3RoXVt4WzBdLmxlbmd0aF07CiAgICAgICAgZm9yIChpbnQgaT0wOyBpPHgubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCB4WzBdLmxlbmd0aDsgaisrKSB7CiAgICAgICAgICAgICAgICBDb25zdHJ1Y3RlZF9hcnJheVtpXVtqXSA9IGYuYXBwbHkoeFtpXVtqXSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgcmV0dXJuIENvbnN0cnVjdGVkX2FycmF5OwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGZpbmFsU2NvcmVzID0gQXJyYXkoMEQsIDBELCAwRCwgMEQsIDBEKQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBTdHJpbmdbXSBzdHJpbmdzID0gQXJyYXlzLnN0cmVhbSgiYWJjOmRlZjpnaGk6bnVsbCIuc3BsaXQoIjoiKSkubWFwKHN0ciAtPiBzdHIuZXF1YWxzKCJudWxsIikgPyBudWxsIDogc3RyKS50b0FycmF5KFN0cmluZ1tdOjpuZXcpOwogICAgICAgIEFycmF5cy5zdHJlYW0oc3RyaW5ncykuZm9yRWFjaChTeXN0ZW0ub3V0OjpwcmludGxuKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2NvcmVzLmluZGljZXMuZm9yZWFjaChpID0+IGZpbmFsU2NvcmVzKGkpID0gc2NvcmVzKGkpKQo=</text>
+        <text encoding="base64">ICAgIH0KICAgIGMuZm9yZWFjaChpID0+IHByaW50KGkgKyAiXG4iKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHNjb3Jlcwo=</text>
+        <text encoding="base64">ICAgIGZvciAoYiA8LSBhKSB7CiAgICAgIGMgOis9IGIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbAo=</text>
+        <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXkoNSwgNCwgMywgMikKICAgIHZhciBjID0gQXJyYXkoMSwgMikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJhbmdlcy5pbmRpY2VzLnRvTWFwKGkgPT4gbnVtcy5maWx0ZXIoaSA9PiBpID49IG1pbiAmJiBpIDw9IG1heCkpCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigiXG4iICsgZmlsZW5hbWVzKGluZGV4KSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXkoNSwgNCwgMywgMikKICAgIHZhciBjID0gQXJyYXkoMSwgMikKICAgIGZvciAoYiA8LSBhKSB7CiAgICAgIGMgOis9IGIKICAgIH0KICAgIGMuZm9yZWFjaChpID0+IHByaW50KGkgKyAiXG4iKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text />
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history />
     <shortcut-conflicts>
