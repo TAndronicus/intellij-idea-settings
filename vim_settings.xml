@@ -3,8 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1547837233851">
+      <file name="/Dummy.txt" timestamp="1547883316761">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dl4j-demo/src/test/scala/NoneTest.scala" timestamp="1547878499069">
         <mark key="[" line="62" column="0" />
@@ -37,6 +40,12 @@
         <mark key="]" line="13" column="63" />
         <mark key="." line="13" column="63" />
         <mark key="^" line="13" column="63" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/deeplearning4j/nd4j/nd4j-backends/nd4j-api-parent/nd4j-api/src/main/java/org/nd4j/linalg/ops/transforms/Transforms.java" timestamp="1547883202042">
+        <mark key="[" line="669" column="22" />
+        <mark key="]" line="669" column="32" />
+        <mark key="^" line="669" column="32" />
+        <mark key="." line="669" column="32" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1547838519964">
         <mark key="[" line="26" column="0" />
