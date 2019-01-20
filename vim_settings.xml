@@ -32,11 +32,11 @@
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1547836021274">
         <mark key="[" line="48" column="48" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1548017430479">
-        <mark key="[" line="26" column="76" />
-        <mark key="]" line="26" column="98" />
-        <mark key="." line="26" column="98" />
-        <mark key="^" line="26" column="98" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1548018379287">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="21" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1547966821458">
         <mark key="'" line="32" column="8" />
@@ -71,34 +71,34 @@
         <text encoding="base64">TGlzdDxTdHJpbmc+IGwxID0gQXJyYXlzLmFzTGlzdCg=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudGVyKys7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gbDIuc3RyZWFtKCkuZmlsdGVyKGl0ZW0gLT4gbDEuY29udGFpbnMoaXRlbSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudGVyKys7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAoK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgSXRlcmF0b3I8U3RyaW5nPiBpdGVyYXRvciA9IGwxLml0ZXJhdG9yKCk7CiAgICAgICAgd2hpbGUgKGl0ZXJhdG9yLmhhc05leHQoKSk=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IFN0cmluZyhGaWxlcy5yZWFkQWxsQnl0ZXMoUGF0aHMuZ2V0KCJBL2JpIikpKS5nZXRCeXRlcyhTdGFuZGFyZENoYXJzZXRzLlVURl84KS5sZW5ndGgpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgdmFyIGZvb3M6IFNlcVtGb29dID0gTmlsCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgZm9vcwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgZi5tYXAoZnIgPT4gZnIuZm9vcykK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAudmlhKGZsb3cpCiAgICAgICAgLm1hcChyZXNwb25zZSA9PiBVbm1hcnNoYWwocmVzcG9uc2UuZW50aXR5KS50b1tGb29SZXNwb25zZV0pCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgU291cmNlCiAgICAgICAgLnNpbmdsZShyZXEpCg==</text>
-      </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">cmVkdWNlZCA9IA==</text>
       </register>
     </registers>
     <search>
