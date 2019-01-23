@@ -6,6 +6,10 @@
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/build.sbt" timestamp="1547964300824">
         <mark key="[" line="9" column="72" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/io/FileReader.scala" timestamp="1548266930252">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="92" />
+      </file>
       <file name="/Dummy.txt" timestamp="1547883316761">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -68,7 +72,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">TGlzdDxTdHJpbmc+IGwxID0gQXJyYXlzLmFzTGlzdCg=</text>
+        <text>val input = SparkEmbedded.ss.read.option(&quot;inferSchema&quot;, &quot;true&quot;).format(format).load(path)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gbDIuc3RyZWFtKCkuZmlsdGVyKGl0ZW0gLT4gbDEuY29udGFpbnMoaXRlbSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
