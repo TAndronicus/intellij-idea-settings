@@ -3,6 +3,61 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/mnt/mag/Workspace/JVM/normalizer/build.sbt" timestamp="1548508118311">
+        <mark key="[" line="7" column="70" />
+        <mark key="]" line="7" column="70" />
+        <mark key="." line="7" column="70" />
+        <mark key="^" line="7" column="70" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1548018379287">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="21" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/server/SparkEmbedded.scala" timestamp="1548508907684">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dl4j-demo/src/test/scala/NoneTest.scala" timestamp="1547878499069">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="18" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="58" column="15" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/functions/WeightAggregators.scala" timestamp="1547835995339">
+        <mark key="[" line="8" column="81" />
+        <mark key="]" line="8" column="84" />
+        <mark key="." line="8" column="84" />
+        <mark key="^" line="8" column="84" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1548364152667">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/server/SparkEmbedded.scala" timestamp="1548508198103">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="39" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/norm/Normalizer.scala" timestamp="1548509537213">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="23" />
+        <mark key="^" line="8" column="23" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/Normalizer.scala" timestamp="1548508890180">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/deeplearning4j/nd4j/nd4j-backends/nd4j-api-parent/nd4j-api/src/main/java/org/nd4j/linalg/ops/transforms/Transforms.java" timestamp="1547883202042">
+        <mark key="[" line="669" column="22" />
+        <mark key="]" line="669" column="32" />
+        <mark key="^" line="669" column="32" />
+        <mark key="." line="669" column="32" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/build.sbt" timestamp="1547964300824">
         <mark key="[" line="9" column="72" />
       </file>
@@ -16,14 +71,19 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/Runner.scala" timestamp="1548509360111">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="25" />
+        <mark key="^" line="7" column="25" />
+        <mark key="." line="7" column="25" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1547836021274">
         <mark key="[" line="48" column="48" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1548018379287">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-        <mark key="^" line="18" column="21" />
+      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/Runner.scala" timestamp="1548508870865">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1547966821458">
         <mark key="'" line="32" column="8" />
@@ -37,6 +97,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/build.sbt" timestamp="1548508109885">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="69" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1547897946624">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -47,37 +111,19 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dl4j-demo/src/test/scala/NoneTest.scala" timestamp="1547878499069">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="18" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="58" column="15" />
-      </file>
       <file name="/mnt/mag/Workspace/JVM/dl4j-demo/build.sbt" timestamp="1547877693433">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/functions/WeightAggregators.scala" timestamp="1547835995339">
-        <mark key="[" line="8" column="81" />
-        <mark key="]" line="8" column="84" />
-        <mark key="." line="8" column="84" />
-        <mark key="^" line="8" column="84" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1548507754929">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1548364152667">
+      <file name="/fragment.java" timestamp="1548507782068">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1548364363126">
-        <mark key="[" line="33" column="9" />
-        <mark key="]" line="28" column="42" />
-        <mark key="^" line="28" column="42" />
-        <mark key="." line="28" column="42" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/deeplearning4j/nd4j/nd4j-backends/nd4j-api-parent/nd4j-api/src/main/java/org/nd4j/linalg/ops/transforms/Transforms.java" timestamp="1547883202042">
-        <mark key="[" line="669" column="22" />
-        <mark key="]" line="669" column="32" />
-        <mark key="^" line="669" column="32" />
-        <mark key="." line="669" column="32" />
       </file>
     </filemarks>
     <jumps>
@@ -85,43 +131,43 @@
       <jump line="31" column="8" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>val input = SparkEmbedded.ss.read.option(&quot;inferSchema&quot;, &quot;true&quot;).format(format).load(path)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCBkaXJGcm9tID0gRmlsZShmcm9tKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIk5vcm1hbGl6ZWQgdXNpbmcgTF4xIG5vcm0iKQo=</text>
+        <text encoding="base64">ICAgIGRpckZyb20uYXNJbnN0YW5jZU9mW0RpcmVjdG9yeV0uZmlsZXMuZm9yZWFjaChub3JtYWxpemUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHZhbCBjb25mID0gbmV3IFNwYXJrQ29uZigpLnNldEFwcE5hbWUoImR0cmVlLW1lcmdlIikuc2V0TWFzdGVyKCJsb2NhbCIpCiAgICAvLyAgICB2YWwgc3MgPSBTcGFya1Nlc3Npb24uYnVpbGRlci5jb25maWcoY29uZikuZ2V0T3JDcmVhdGUKICAgIC8vICAgIHZhbCBzMSA9IFNwYXJrRW1iZWRkZWQuc3MucmVhZC5vcHRpb24oImluZmVyU2NoZW1hIiwgInRydWUiKS5mb3JtYXQoImNzdiIpLmxvYWQoIkEvYi5jc3YiKQogICAgLy8gICAgdmFsIHMyID0gU3BhcmtFbWJlZGRlZC5zcy5yZWFkLm9wdGlvbigiaW5mZXJTY2hlbWEiLCAidHJ1ZSIpLmZvcm1hdCgiY3N2IikubG9hZCgiQS9hLmNzdiIpCiAgICAvLyAgICBzMS51bmlvbkFsbChzMikuZXhjZXB0KHMxLmludGVyc2VjdChzMikpLnNob3coKQogICAgLy8gICAgcHJpbnQoIiMjIyBTZWNvbmQgIyMjIikKICAgIC8vICAgIHMxLmV4Y2VwdChzMikudW5pb24oczIuZXhjZXB0KHMxKSkuc2hvdygpCiAgICB2YWwgYSA9IEFycmF5KDUsIDQsIDMsIDIpCiAgICB2YXIgYyA9IEFycmF5KDEsIDIpCiAgICBmb3IgKGIgPC0gYSkgewogICAgICBjIDorPSBiCiAgICB9CiAgICBjLmZvcmVhY2goaSA9PiBwcmludChpICsgIlxuIikpCg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnJlZmxlY3QuaW8ue0RpcmVjdG9yeSwgRmlsZX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gbDIuc3RyZWFtKCkuZmlsdGVyKGl0ZW0gLT4gbDEuY29udGFpbnMoaXRlbSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudGVyKys7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">cGFja2FnZSByCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAoK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIk5vcm1hbGl6ZWQgdXNpbmcgTF4xIG5vcm0iKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgSXRlcmF0b3I8U3RyaW5nPiBpdGVyYXRvciA9IGwxLml0ZXJhdG9yKCk7CiAgICAgICAgd2hpbGUgKGl0ZXJhdG9yLmhhc05leHQoKSk=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vICAgIHZhbCBjb25mID0gbmV3IFNwYXJrQ29uZigpLnNldEFwcE5hbWUoImR0cmVlLW1lcmdlIikuc2V0TWFzdGVyKCJsb2NhbCIpCiAgICAvLyAgICB2YWwgc3MgPSBTcGFya1Nlc3Npb24uYnVpbGRlci5jb25maWcoY29uZikuZ2V0T3JDcmVhdGUKICAgIC8vICAgIHZhbCBzMSA9IFNwYXJrRW1iZWRkZWQuc3MucmVhZC5vcHRpb24oImluZmVyU2NoZW1hIiwgInRydWUiKS5mb3JtYXQoImNzdiIpLmxvYWQoIkEvYi5jc3YiKQogICAgLy8gICAgdmFsIHMyID0gU3BhcmtFbWJlZGRlZC5zcy5yZWFkLm9wdGlvbigiaW5mZXJTY2hlbWEiLCAidHJ1ZSIpLmZvcm1hdCgiY3N2IikubG9hZCgiQS9hLmNzdiIpCiAgICAvLyAgICBzMS51bmlvbkFsbChzMikuZXhjZXB0KHMxLmludGVyc2VjdChzMikpLnNob3coKQogICAgLy8gICAgcHJpbnQoIiMjIyBTZWNvbmQgIyMjIikKICAgIC8vICAgIHMxLmV4Y2VwdChzMikudW5pb24oczIuZXhjZXB0KHMxKSkuc2hvdygpCiAgICB2YWwgYSA9IEFycmF5KDUsIDQsIDMsIDIpCiAgICB2YXIgYyA9IEFycmF5KDEsIDIpCiAgICBmb3IgKGIgPC0gYSkgewogICAgICBjIDorPSBiCiAgICB9CiAgICBjLmZvcmVhY2goaSA9PiBwcmludChpICsgIlxuIikpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obmV3IFN0cmluZyhGaWxlcy5yZWFkQWxsQnl0ZXMoUGF0aHMuZ2V0KCJBL2JpIikpKS5nZXRCeXRlcyhTdGFuZGFyZENoYXJzZXRzLlVURl84KS5sZW5ndGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gbDIuc3RyZWFtKCkuZmlsdGVyKGl0ZW0gLT4gbDEuY29udGFpbnMoaXRlbSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGZvb3M6IFNlcVtGb29dID0gTmlsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb3VudGVyKys7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZm9vcwo=</text>
+        <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID0gaW5wdXQuc2VsZWN0KCk=</text>
+        <text>.name</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search />
