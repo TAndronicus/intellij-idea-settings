@@ -40,11 +40,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="39" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/norm/Normalizer.scala" timestamp="1548509537213">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="23" />
-        <mark key="." line="8" column="23" />
-        <mark key="^" line="8" column="23" />
+      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/norm/Normalizer.scala" timestamp="1548511321986">
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
+        <mark key="^" line="10" column="12" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/Normalizer.scala" timestamp="1548508890180">
         <mark key="[" line="0" column="0" />
@@ -71,11 +71,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/Runner.scala" timestamp="1548509360111">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="25" />
+      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/Runner.scala" timestamp="1548511226404">
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
         <mark key="^" line="7" column="25" />
-        <mark key="." line="7" column="25" />
+        <mark key="." line="7" column="23" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1547836021274">
         <mark key="[" line="48" column="48" />
@@ -162,7 +162,7 @@
         <text encoding="base64">ICAgIAoK</text>
       </register>
       <register name="-" type="4">
-        <text>.name</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
