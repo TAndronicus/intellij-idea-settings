@@ -33,18 +33,21 @@
         <mark key="." line="8" column="84" />
         <mark key="^" line="8" column="84" />
       </file>
-      <file name="/Dummy.scala" timestamp="1548521531178">
+      <file name="/Dummy.scala" timestamp="1548533432301">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/server/SparkEmbedded.scala" timestamp="1548508198103">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="39" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/norm/Normalizer.scala" timestamp="1548524372363">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="13" column="2" />
-        <mark key="." line="13" column="2" />
-        <mark key="^" line="13" column="2" />
+      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/norm/Normalizer.scala" timestamp="1548533554124">
+        <mark key="[" line="18" column="71" />
+        <mark key="]" line="18" column="147" />
+        <mark key="." line="18" column="147" />
+        <mark key="^" line="18" column="147" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/Normalizer.scala" timestamp="1548508890180">
         <mark key="[" line="0" column="0" />
@@ -135,34 +138,34 @@
         <text encoding="base64">ICAgIHZhbCBkaXJGcm9tID0gRmlsZShmcm9tKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEdyb3VwCg==</text>
+        <text encoding="base64">cm93LmdldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbCgiIikuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRpckZyb20uYXNJbnN0YW5jZU9mW0RpcmVjdG9yeV0uZmlsZXMuZm9yZWFjaChub3JtYWxpemUpCg==</text>
+        <text encoding="base64">ICAgIEludFN0cmVhbS5yYW5nZSgwLCBzdGF0cy5sZW5ndGggLyAyKS5tYXAoaSA9PiApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHNjYWxhLnJlZmxlY3QuaW8ue0RpcmVjdG9yeSwgRmlsZX0K</text>
+        <text encoding="base64">ICAgIHZhbCBkZk5vcm0gPSBkZi5zZWxlY3QoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGoK</text>
+        <text encoding="base64">ICAgIGNvbHMudG9NYXAoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFja2FnZSByCg==</text>
+        <text encoding="base64">ICAgIGNvbHMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIk5vcm1hbGl6ZWQgdXNpbmcgTF4xIG5vcm0iKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBtID0gZGYuYWdnKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHZhbCBjb25mID0gbmV3IFNwYXJrQ29uZigpLnNldEFwcE5hbWUoImR0cmVlLW1lcmdlIikuc2V0TWFzdGVyKCJsb2NhbCIpCiAgICAvLyAgICB2YWwgc3MgPSBTcGFya1Nlc3Npb24uYnVpbGRlci5jb25maWcoY29uZikuZ2V0T3JDcmVhdGUKICAgIC8vICAgIHZhbCBzMSA9IFNwYXJrRW1iZWRkZWQuc3MucmVhZC5vcHRpb24oImluZmVyU2NoZW1hIiwgInRydWUiKS5mb3JtYXQoImNzdiIpLmxvYWQoIkEvYi5jc3YiKQogICAgLy8gICAgdmFsIHMyID0gU3BhcmtFbWJlZGRlZC5zcy5yZWFkLm9wdGlvbigiaW5mZXJTY2hlbWEiLCAidHJ1ZSIpLmZvcm1hdCgiY3N2IikubG9hZCgiQS9hLmNzdiIpCiAgICAvLyAgICBzMS51bmlvbkFsbChzMikuZXhjZXB0KHMxLmludGVyc2VjdChzMikpLnNob3coKQogICAgLy8gICAgcHJpbnQoIiMjIyBTZWNvbmQgIyMjIikKICAgIC8vICAgIHMxLmV4Y2VwdChzMikudW5pb24oczIuZXhjZXB0KHMxKSkuc2hvdygpCiAgICB2YWwgYSA9IEFycmF5KDUsIDQsIDMsIDIpCiAgICB2YXIgYyA9IEFycmF5KDEsIDIpCiAgICBmb3IgKGIgPC0gYSkgewogICAgICBjIDorPSBiCiAgICB9CiAgICBjLmZvcmVhY2goaSA9PiBwcmludChpICsgIlxuIikpCg==</text>
+        <text encoding="base64">ICAgIGRmLmNvbHVtbnMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gbDIuc3RyZWFtKCkuZmlsdGVyKGl0ZW0gLT4gbDEuY29udGFpbnMoaXRlbSkpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLkNvbHVtbgppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuZnVuY3Rpb25zLnttYXgsIG1pbn0K</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>Double</text>
       </register>
     </registers>
     <search>
