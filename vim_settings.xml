@@ -33,7 +33,7 @@
         <mark key="." line="8" column="84" />
         <mark key="^" line="8" column="84" />
       </file>
-      <file name="/Dummy.scala" timestamp="1548533432301">
+      <file name="/Dummy.scala" timestamp="1548537356159">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="6" />
@@ -43,11 +43,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="39" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/norm/Normalizer.scala" timestamp="1548533554124">
-        <mark key="[" line="18" column="71" />
-        <mark key="]" line="18" column="147" />
-        <mark key="." line="18" column="147" />
-        <mark key="^" line="18" column="147" />
+      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/norm/Normalizer.scala" timestamp="1548537980030">
+        <mark key="[" line="28" column="28" />
+        <mark key="]" line="28" column="28" />
+        <mark key="." line="28" column="28" />
+        <mark key="^" line="28" column="42" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/Normalizer.scala" timestamp="1548508890180">
         <mark key="[" line="0" column="0" />
@@ -138,34 +138,34 @@
         <text encoding="base64">ICAgIHZhbCBkaXJGcm9tID0gRmlsZShmcm9tKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm93LmdldAo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZmlsZS5nZXROYW1lKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbCgiIikuCg==</text>
+        <text encoding="base64">ICAgICAgIF8gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEludFN0cmVhbS5yYW5nZSgwLCBzdGF0cy5sZW5ndGggLyAyKS5tYXAoaSA9PiApCg==</text>
+        <text encoding="base64">cm93LmdldAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBkZk5vcm0gPSBkZi5zZWxlY3QoKQo=</text>
+        <text encoding="base64">ICAgIGNvbCgiIikuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbHMudG9NYXAoKQo=</text>
+        <text encoding="base64">ICAgIEludFN0cmVhbS5yYW5nZSgwLCBzdGF0cy5sZW5ndGggLyAyKS5tYXAoaSA9PiApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbHMK</text>
+        <text encoding="base64">ICAgIHZhbCBkZk5vcm0gPSBkZi5zZWxlY3QoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBtID0gZGYuYWdnKCkK</text>
+        <text encoding="base64">ICAgIGNvbHMudG9NYXAoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRmLmNvbHVtbnMK</text>
+        <text encoding="base64">ICAgIGNvbHMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLkNvbHVtbgppbXBvcnQgb3JnLmFwYWNoZS5zcGFyay5zcWwuZnVuY3Rpb25zLnttYXgsIG1pbn0K</text>
+        <text encoding="base64">ICAgIHZhbCBtID0gZGYuYWdnKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>Double</text>
+        <text>repartition</text>
       </register>
     </registers>
     <search>
