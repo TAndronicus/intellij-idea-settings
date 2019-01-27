@@ -91,11 +91,11 @@
         <mark key="." line="8" column="84" />
         <mark key="^" line="8" column="84" />
       </file>
-      <file name="/Dummy.scala" timestamp="1548600737100">
+      <file name="/Dummy.scala" timestamp="1548605062340">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="51" />
+        <mark key="." line="0" column="51" />
+        <mark key="^" line="0" column="51" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1548507754929">
         <mark key="[" line="22" column="0" />
@@ -107,10 +107,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="39" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/norm/Normalizer.scala" timestamp="1548600602004">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/norm/Normalizer.scala" timestamp="1548605066453">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="34" column="43" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/Normalizer.scala" timestamp="1548508890180">
         <mark key="[" line="0" column="0" />
@@ -133,38 +134,38 @@
       <jump line="31" column="8" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBkaXJGcm9tID0gRmlsZShmcm9tKQo=</text>
+      <register name="0" type="4">
+        <text>new File(to + &quot;/&quot; + file.getName + &quot;tmp&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbAo=</text>
+        <text encoding="base64">ICAgIG5ldyBGaWxlKHRvKS5saXN0RmlsZXMoKS5maWx0ZXIoXy5pc0RpcmVjdG9yeSkuZm9yZWFjaChfLmRlbGV0ZSgpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbHNOb3JtLgo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oImhlaCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZmlsZS5nZXROYW1lKQo=</text>
+        <text encoding="base64">ICAgIHNvdXJjZURpci5kZWxldGUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIF8gCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oc291cmNlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cm93LmdldAo=</text>
+        <text encoding="base64">Ly8gICAgdmFsIHNvdXJjZSA9IGZpbGUubGlzdEZpbGVzKCkuZmlsdGVyKF8uZ2V0TmFtZS5lbmRzV2l0aCgiLmNzdiIpKS5oZWFkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbCgiIikuCg==</text>
+        <text encoding="base64">ICAgIGNvbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEludFN0cmVhbS5yYW5nZSgwLCBzdGF0cy5sZW5ndGggLyAyKS5tYXAoaSA9PiApCg==</text>
+        <text encoding="base64">ICAgIGNvbHNOb3JtLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBkZk5vcm0gPSBkZi5zZWxlY3QoKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZmlsZS5nZXROYW1lKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbHMudG9NYXAoKQo=</text>
+        <text encoding="base64">ICAgICAgIF8gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>repartition</text>
+        <text>new File(to + &quot;/&quot; + file.getName + &quot;tmp&quot;)</text>
       </register>
     </registers>
     <search>
