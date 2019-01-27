@@ -3,64 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/mnt/mag/Workspace/JVM/normalizer/build.sbt" timestamp="1548508118311">
-        <mark key="[" line="7" column="70" />
-        <mark key="]" line="7" column="70" />
-        <mark key="." line="7" column="70" />
-        <mark key="^" line="7" column="70" />
-      </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1548018379287">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-        <mark key="^" line="18" column="21" />
-      </file>
-      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/server/SparkEmbedded.scala" timestamp="1548508907684">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="/mnt/mag/Workspace/JVM/dl4j-demo/src/test/scala/NoneTest.scala" timestamp="1547878499069">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="18" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="58" column="15" />
-      </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/functions/WeightAggregators.scala" timestamp="1547835995339">
-        <mark key="[" line="8" column="81" />
-        <mark key="]" line="8" column="84" />
-        <mark key="." line="8" column="84" />
-        <mark key="^" line="8" column="84" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1548537356159">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/server/SparkEmbedded.scala" timestamp="1548508198103">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="39" />
-      </file>
-      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/norm/Normalizer.scala" timestamp="1548537980030">
-        <mark key="[" line="28" column="28" />
-        <mark key="]" line="28" column="28" />
-        <mark key="." line="28" column="28" />
-        <mark key="^" line="28" column="42" />
-      </file>
-      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/Normalizer.scala" timestamp="1548508890180">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="20" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="20" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/deeplearning4j/nd4j/nd4j-backends/nd4j-api-parent/nd4j-api/src/main/java/org/nd4j/linalg/ops/transforms/Transforms.java" timestamp="1547883202042">
-        <mark key="[" line="669" column="22" />
-        <mark key="]" line="669" column="32" />
-        <mark key="^" line="669" column="32" />
-        <mark key="." line="669" column="32" />
-      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/build.sbt" timestamp="1547964300824">
         <mark key="[" line="9" column="72" />
       </file>
@@ -80,8 +22,26 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="23" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/normalizer/build.sbt" timestamp="1548508118311">
+        <mark key="[" line="7" column="70" />
+        <mark key="]" line="7" column="70" />
+        <mark key="." line="7" column="70" />
+        <mark key="^" line="7" column="70" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1548018379287">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="18" column="21" />
+        <mark key="." line="18" column="21" />
+        <mark key="^" line="18" column="21" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1547836021274">
         <mark key="[" line="48" column="48" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/server/SparkEmbedded.scala" timestamp="1548508907684">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/Runner.scala" timestamp="1548508870865">
         <mark key="[" line="0" column="0" />
@@ -114,16 +74,56 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dl4j-demo/src/test/scala/NoneTest.scala" timestamp="1547878499069">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="18" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="58" column="15" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dl4j-demo/build.sbt" timestamp="1547877693433">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/functions/WeightAggregators.scala" timestamp="1547835995339">
+        <mark key="[" line="8" column="81" />
+        <mark key="]" line="8" column="84" />
+        <mark key="." line="8" column="84" />
+        <mark key="^" line="8" column="84" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1548537356159">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1548507754929">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="^" line="22" column="0" />
         <mark key="." line="22" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/server/SparkEmbedded.scala" timestamp="1548508198103">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="39" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/norm/Normalizer.scala" timestamp="1548596021949">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="28" />
+        <mark key="." line="28" column="28" />
+        <mark key="^" line="28" column="42" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/Normalizer.scala" timestamp="1548508890180">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/deeplearning4j/nd4j/nd4j-backends/nd4j-api-parent/nd4j-api/src/main/java/org/nd4j/linalg/ops/transforms/Transforms.java" timestamp="1547883202042">
+        <mark key="[" line="669" column="22" />
+        <mark key="]" line="669" column="32" />
+        <mark key="^" line="669" column="32" />
+        <mark key="." line="669" column="32" />
       </file>
       <file name="/fragment.java" timestamp="1548507782068">
         <mark key="[" line="0" column="0" />
@@ -170,7 +170,7 @@
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search />
