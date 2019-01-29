@@ -65,8 +65,10 @@
         <mark key="^" line="669" column="32" />
         <mark key="." line="669" column="32" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/build.sbt" timestamp="1547964300824">
-        <mark key="[" line="9" column="72" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/build.sbt" timestamp="1548781213866">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/io/FileReader.scala" timestamp="1548266930252">
         <mark key="[" line="9" column="4" />
@@ -90,10 +92,11 @@
         <mark key="^" line="8" column="29" />
         <mark key="." line="8" column="29" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1548685570646">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1548781745035">
         <mark key="[" line="48" column="48" />
-        <mark key="]" line="48" column="48" />
-        <mark key="." line="48" column="48" />
+        <mark key="]" line="48" column="50" />
+        <mark key="." line="48" column="50" />
+        <mark key="^" line="48" column="50" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/Runner.scala" timestamp="1548508870865">
         <mark key="[" line="0" column="0" />
@@ -109,10 +112,10 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="7" column="69" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1548682500682">
-        <mark key="[" line="15" column="26" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="35" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1548781237681">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="20" />
+        <mark key="." line="13" column="20" />
         <mark key="^" line="15" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/dl4j-demo/src/test/scala/NoneTest.scala" timestamp="1547878170294">
@@ -153,31 +156,31 @@
         <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oaXNCYWxhbmNlZCgiKCkoIikpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigiXG5SdW5uaW5nIGZvcjogIiArIGZpbGVuYW1lcyhpbmRleCkpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKHdvcmQudG9DaGFyQXJyYXkoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlscwo=</text>
+        <text encoding="base64">Ly9UT0RPOiBDYW4gYmUgcmVtb3ZlZAoKbGlicmFyeURlcGVuZGVuY2llcyArKz0gU2VxKAogICJjb20udHlwZXNhZmUuYWtrYSIgJSUgImFra2EtaHR0cCIgJSAiMTAuMS43IiwKICAiY29tLnR5cGVzYWZlLmFra2EiICUlICJha2thLWh0dHAtdGVzdGtpdCIgJSAiMTAuMS43IiAlIFRlc3QKKQoKbGlicmFyeURlcGVuZGVuY2llcyArKz0gU2VxKAogICJjb20udHlwZXNhZmUuYWtrYSIgJSUgImFra2Etc3RyZWFtIiAlICIyLjUuMTkiLAogICJjb20udHlwZXNhZmUuYWtrYSIgJSUgImFra2Etc3RyZWFtLXRlc3RraXQiICUgIjIuNS4xOSIgJSBUZXN0CikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5ldyBGaWxlKHRvKS5saXN0RmlsZXMoKS5maWx0ZXIoXy5pc0RpcmVjdG9yeSkuZm9yZWFjaChfLmRlbGV0ZSgpKQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigiXG5SdW5uaW5nIGZvcjogIiArIGZpbGVuYW1lcyhpbmRleCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oImhlaCIpCg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKHdvcmQudG9DaGFyQXJyYXkoKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNvdXJjZURpci5kZWxldGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdVdGlscwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oc291cmNlKQo=</text>
+        <text encoding="base64">ICAgIG5ldyBGaWxlKHRvKS5saXN0RmlsZXMoKS5maWx0ZXIoXy5pc0RpcmVjdG9yeSkuZm9yZWFjaChfLmRlbGV0ZSgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIHNvdXJjZSA9IGZpbGUubGlzdEZpbGVzKCkuZmlsdGVyKF8uZ2V0TmFtZS5lbmRzV2l0aCgiLmNzdiIpKS5oZWFkCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oImhlaCIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbAo=</text>
+        <text encoding="base64">ICAgIHNvdXJjZURpci5kZWxldGUoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>v</text>
