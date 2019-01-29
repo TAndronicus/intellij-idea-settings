@@ -21,6 +21,9 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/parser/TreeParser.scala" timestamp="1548784512102">
+        <mark key="'" line="8" column="6" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dl4j-demo/src/test/scala/NoneTest.scala" timestamp="1547878499069">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="18" />
@@ -155,6 +158,7 @@
     <jumps>
       <jump line="36" column="42" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" />
       <jump line="31" column="8" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" />
+      <jump line="8" column="6" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/parser/TreeParser.scala" />
     </jumps>
     <registers>
       <register name="0" type="2">
@@ -190,13 +194,21 @@
       <register name="-" type="4">
         <text>v</text>
       </register>
+      <register name="/" type="4">
+        <text>2</text>
+      </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>2</last-search>
+      <last-offset />
+      <last-pattern>2</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>2</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
