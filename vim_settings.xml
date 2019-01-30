@@ -24,6 +24,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/server/SparkEmbedded.scala" timestamp="1548881544284">
+        <mark key="[" line="8" column="66" />
+        <mark key="]" line="8" column="66" />
+        <mark key="." line="8" column="66" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/Edge.scala" timestamp="1548870376749">
         <mark key="[" line="9" column="44" />
         <mark key="]" line="9" column="45" />
@@ -228,7 +233,7 @@
         <text encoding="base64">CiAgb3ZlcnJpZGUgZGVmIGhhc2hDb2RlKCk6IEludCA9IChtaW4uc3VtICsgbWF4LnN1bSkudG9JbnQKCiAgb3ZlcnJpZGUgZGVmIGVxdWFscyhvYmo6IEFueSk6IEJvb2xlYW4gPSB7CiAgICBvYmogbWF0Y2ggewogICAgICBjYXNlIGVkZ2U6IEVkZ2UgPT4KICAgICAgICB2YWwgKG9NaW4sIG9NYXgpID0gKGVkZ2UubWF4LCBlZGdlLm1pbikKICAgICAgICBpZiAob01pbi5sZW5ndGggPT0gbWluLmxlbmd0aCAmJiBvTWF4Lmxlbmd0aCA9PSBtYXgubGVuZ3RoKSB7CiAgICAgICAgICAKICAgICAgICB9CiAgICAgIGNhc2UgXyA9PiBmYWxzZQogICAgfQogIH0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>???</text>
+        <text>local</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
