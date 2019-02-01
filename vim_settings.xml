@@ -65,7 +65,7 @@
         <mark key="]" line="11" column="26" />
         <mark key="." line="11" column="26" />
       </file>
-      <file name="/Dummy.scala" timestamp="1549041769742">
+      <file name="/Dummy.scala" timestamp="1549046057158">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/model/EdgeTest.scala" timestamp="1548870060830">
@@ -126,11 +126,11 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/MultiRunner.scala" timestamp="1548682013385">
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="15" column="35" />
-        <mark key="." line="15" column="35" />
-        <mark key="^" line="15" column="35" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/MultiRunner.scala" timestamp="1549046266520">
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="28" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/Runner.scala" timestamp="1548616594470">
         <mark key="[" line="7" column="41" />
@@ -170,7 +170,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/IntegratedDecisionTreeModel.scala" timestamp="1549042698781">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/IntegratedDecisionTreeModel.scala" timestamp="1549046047453">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
@@ -238,7 +238,7 @@
         <text encoding="base64">ICB0ZXN0KCJ2YWxpZGF0ZSIpIHsKICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
