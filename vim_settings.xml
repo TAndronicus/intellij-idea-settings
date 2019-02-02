@@ -171,11 +171,11 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/IntegratedDecisionTreeModel.scala" timestamp="1549092093103">
-        <mark key="[" line="38" column="77" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="46" column="198" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/IntegratedDecisionTreeModel.scala" timestamp="1549103642634">
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="40" column="14" />
+        <mark key="." line="40" column="14" />
+        <mark key="^" line="40" column="14" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dl4j-demo/build.sbt" timestamp="1547877693433">
         <mark key="[" line="8" column="0" />
@@ -239,7 +239,7 @@
         <text encoding="base64">ICB0ZXN0KCJ2YWxpZGF0ZSIpIHsKICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>local[*]&quot;)</text>
+        <text>println(&quot;Wrong&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
