@@ -132,6 +132,10 @@
         <mark key="." line="16" column="47" />
         <mark key="^" line="32" column="40" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/build.sbt" timestamp="1549195334117">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="8" column="71" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/Runner.scala" timestamp="1548616594470">
         <mark key="[" line="7" column="41" />
         <mark key="]" line="8" column="29" />
@@ -201,7 +205,9 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>edgeModel: Array[Edge], obj: Array[Double]</text>
+        <text>libraryDependencies += &quot;org.apache.spark&quot; % &quot;spark-core_2.12&quot; % &quot;2.4.0&quot;
+libraryDependencies += &quot;org.apache.spark&quot; % &quot;spark-sql_2.12&quot; % &quot;2.4.0&quot;
+libraryDependencies += &quot;org.apache.spark&quot; % &quot;spark-mllib_2.12&quot; % &quot;2.4.0&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXkoMSwgMikKICAgIHZhbCBiID0gQXJyYXkoNiwgMTQpCiAgICB2YWwgcmVzID0gbWF0aC5zcXJ0KGEuaW5kaWNlcy5tYXAoaSA9PiBtYXRoLnBvdyhhKGkpIC0gYihpKSwgMikpLnN1bSkKICAgIHByaW50bG4ocmVzKQo=</text>
