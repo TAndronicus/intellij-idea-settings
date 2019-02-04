@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/PreMappedIntegratedDecisionTreeModel.scala" timestamp="1549308784428">
+        <mark key="[" line="33" column="43" />
+        <mark key="]" line="33" column="60" />
+        <mark key="^" line="33" column="60" />
+        <mark key="." line="33" column="60" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/normalizer/build.sbt" timestamp="1548508118311">
         <mark key="[" line="7" column="70" />
         <mark key="]" line="7" column="70" />
@@ -43,11 +49,11 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/functions/DistMappingFunctions.scala" timestamp="1549125098385">
-        <mark key="[" line="4" column="58" />
-        <mark key="]" line="4" column="83" />
-        <mark key="." line="4" column="83" />
-        <mark key="^" line="4" column="83" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/functions/DistMappingFunctions.scala" timestamp="1549309227865">
+        <mark key="[" line="10" column="161" />
+        <mark key="]" line="12" column="195" />
+        <mark key="." line="12" column="195" />
+        <mark key="^" line="12" column="195" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/parser/TreeParser.scala" timestamp="1549117370056">
         <mark key="'" line="4" column="6" />
@@ -79,8 +85,11 @@
         <mark key="." line="8" column="84" />
         <mark key="^" line="8" column="84" />
       </file>
-      <file name="/Dummy.scala" timestamp="1549302995138">
+      <file name="/Dummy.scala" timestamp="1549311101526">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="94" />
+        <mark key="^" line="0" column="94" />
+        <mark key="." line="0" column="94" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/model/EdgeTest.scala" timestamp="1548870060830">
         <mark key="[" line="7" column="37" />
@@ -128,12 +137,6 @@
         <mark key="." line="73" column="31" />
         <mark key="^" line="65" column="20" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/parser/TreeParserTest.scala" timestamp="1549117586869">
-        <mark key="'" line="93" column="36" />
-        <mark key="[" line="93" column="36" />
-        <mark key="]" line="93" column="36" />
-        <mark key="." line="93" column="36" />
-      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/RectTest.scala" timestamp="1548869465221">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -145,10 +148,6 @@
         <mark key="]" line="26" column="42" />
         <mark key="." line="26" column="14" />
         <mark key="^" line="26" column="13" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/build.sbt" timestamp="1549195334117">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="71" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/Runner.scala" timestamp="1548616594470">
         <mark key="[" line="7" column="41" />
@@ -191,6 +190,12 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1549311558147">
+        <mark key="[" line="65" column="46" />
+        <mark key="]" line="65" column="80" />
+        <mark key="^" line="65" column="86" />
+        <mark key="." line="65" column="80" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549299393799">
         <mark key="[" line="8" column="10" />
         <mark key="]" line="8" column="60" />
@@ -203,12 +208,15 @@
         <mark key="." line="40" column="37" />
         <mark key="^" line="40" column="37" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1549302684046">
-        <mark key="'" line="53" column="77" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="45" />
-        <mark key="^" line="27" column="3" />
-        <mark key="." line="19" column="35" />
+      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.7-sources.jar!/scala/Predef.scala" timestamp="1549311324531">
+        <mark key="'" line="149" column="6" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1549309657408">
+        <mark key="'" line="54" column="92" />
+        <mark key="[" line="54" column="28" />
+        <mark key="]" line="54" column="84" />
+        <mark key="^" line="54" column="84" />
+        <mark key="." line="54" column="84" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1548618224447">
         <mark key="[" line="22" column="12" />
@@ -222,7 +230,7 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1549123452703">
+      <file name="/fragment.java" timestamp="1549307704730">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.java" timestamp="1548617087081">
@@ -239,10 +247,12 @@
       <jump line="20" column="50" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
       <jump line="93" column="36" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/parser/TreeParserTest.scala" />
       <jump line="53" column="77" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
+      <jump line="54" column="92" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
+      <jump line="149" column="6" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.7-sources.jar!/scala/Predef.scala" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIHZhbCBkZiA9IFNwYXJrRW1iZWRkZWQuc3MuY3JlYXRlRGF0YUZyYW1lKFNlcSgKICAgICAgKDEsIDIsIDUpLAogICAgICAoMiwgNCwgNyksCiAgICAgICgzLCA2LCA5KQogICAgKSkudG9ERigibGFiZWwiLCAibWluIiwgIm1heCIpCiAgICBpbXBvcnQgU3BhcmtFbWJlZGRlZC5zcy5pbXBsaWNpdHMuXwogICAgdmFsIGNsb25lRGYgPSBkZi5zZWxlY3QoZGYuY29sdW1ucy5tYXAoY29sKTpfKikKICAgICAgICAud2l0aENvbHVtblJlbmFtZWQoImxhYmVsIiwgImxhYmVsMSIpCiAgICAgICAgLndpdGhDb2x1bW5SZW5hbWVkKCJtaW4iLCAibWluMSIpCiAgICAgICAgLndpdGhDb2x1bW5SZW5hbWVkKCJtYXgiLCAibWF4MSIpCiAgICBkZi5jcm9zc0pvaW4oY2xvbmVEZikKICAgICAgLndoZXJlKCQibGFiZWwiICE9PSAkImxhYmVsMSIpCiAgICAgIC53aGVyZSgkIm1pbiIgPCAkIm1heDEiKQogICAgICAud2hlcmUoJCJtaW4xIiA8ICQibWF4Iikuc2hvdygp</text>
+        <text>input: DataFrame, selectedFeatures: Array[Int]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -272,7 +282,7 @@
         <text encoding="base64">ICAgICAgICBwcmludCgiIyMjIFNlY29uZCAjIyMiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
