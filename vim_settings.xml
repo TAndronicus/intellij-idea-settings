@@ -191,11 +191,11 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1549386386980">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1549387394365">
         <mark key="[" line="63" column="8" />
-        <mark key="]" line="63" column="8" />
-        <mark key="^" line="67" column="11" />
-        <mark key="." line="63" column="8" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549299393799">
         <mark key="[" line="8" column="10" />
@@ -212,11 +212,11 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.7-sources.jar!/scala/Predef.scala" timestamp="1549311324531">
         <mark key="'" line="149" column="6" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/util/UtilTest.scala" timestamp="1549386516038">
-        <mark key="[" line="7" column="42" />
-        <mark key="]" line="12" column="39" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="7" column="42" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/util/UtilTest.scala" timestamp="1549387709900">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="16" column="33" />
+        <mark key="^" line="16" column="33" />
+        <mark key="." line="16" column="33" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1549309657408">
         <mark key="'" line="54" column="92" />
@@ -258,8 +258,8 @@
       <jump line="149" column="6" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.7-sources.jar!/scala/Predef.scala" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICB2YWwgZGYgPSBTcGFya0VtYmVkZGVkLnNzLmNyZWF0ZURhdGFGcmFtZShTZXEoCiAgICAgICgxLCAyLCA1KSwKICAgICAgKDIsIDQsIDcpLAogICAgICAoMywgNiwgOSkKICAgICkpLnRvREYoInByb2R1Y3RfaWQiLCAibWluIiwgIm1heCIp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgKDMsIDYsIDkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgdmFsIGxhYiA9IHJvdy5nZXQoMCkK</text>
@@ -289,7 +289,7 @@
         <text encoding="base64">ICAgIHZhbCBuQ2xhc3NpZiA9IDMKICAgIHZhbCBuRmVhdHVyZXMgPSA0CiAgICB2YWwgZGl2aXNpb25zID0gQXJyYXkoMjAsIDQwLCA2MCkK</text>
       </register>
       <register name="-" type="4">
-        <text>emptyMap</text>
+        <text>max</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
