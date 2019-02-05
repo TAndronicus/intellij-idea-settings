@@ -191,11 +191,11 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1549387394365">
-        <mark key="[" line="63" column="8" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1549389447168">
+        <mark key="[" line="65" column="18" />
+        <mark key="]" line="65" column="39" />
+        <mark key="^" line="65" column="39" />
+        <mark key="." line="65" column="39" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549299393799">
         <mark key="[" line="8" column="10" />
@@ -212,11 +212,11 @@
       <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.7-sources.jar!/scala/Predef.scala" timestamp="1549311324531">
         <mark key="'" line="149" column="6" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/util/UtilTest.scala" timestamp="1549387709900">
-        <mark key="[" line="16" column="25" />
-        <mark key="]" line="16" column="33" />
-        <mark key="^" line="16" column="33" />
-        <mark key="." line="16" column="33" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/util/UtilTest.scala" timestamp="1549390431912">
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="17" column="33" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1549309657408">
         <mark key="'" line="54" column="92" />
@@ -289,7 +289,7 @@
         <text encoding="base64">ICAgIHZhbCBuQ2xhc3NpZiA9IDMKICAgIHZhbCBuRmVhdHVyZXMgPSA0CiAgICB2YWwgZGl2aXNpb25zID0gQXJyYXkoMjAsIDQwLCA2MCkK</text>
       </register>
       <register name="-" type="4">
-        <text>max</text>
+        <text>Double</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
