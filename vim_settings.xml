@@ -42,11 +42,11 @@
         <mark key="." line="9" column="45" />
         <mark key="^" line="9" column="45" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/ResultCatcher.scala" timestamp="1549481718909">
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="32" column="2" />
-        <mark key="." line="32" column="2" />
-        <mark key="^" line="32" column="2" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/ResultCatcher.scala" timestamp="1549483012841">
+        <mark key="[" line="27" column="19" />
+        <mark key="]" line="36" column="10" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="40" column="2" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/functions/DistMappingFunctions.scala" timestamp="1549392069228">
         <mark key="[" line="7" column="13" />
@@ -66,11 +66,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="58" column="15" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/test/scala/jb/util/UtilTest.scala" timestamp="1549482384644">
-        <mark key="[" line="23" column="14" />
-        <mark key="]" line="23" column="13" />
-        <mark key="^" line="23" column="13" />
-        <mark key="." line="23" column="13" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/test/scala/jb/util/UtilTest.scala" timestamp="1549483662988">
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="25" />
+        <mark key="^" line="33" column="25" />
+        <mark key="." line="33" column="25" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/functions/WeightAggregators.scala" timestamp="1547835995339">
         <mark key="[" line="8" column="81" />
@@ -147,11 +147,11 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/Util.scala" timestamp="1549482934449">
-        <mark key="[" line="67" column="5" />
-        <mark key="]" line="68" column="9" />
-        <mark key="^" line="68" column="9" />
-        <mark key="." line="68" column="9" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/Util.scala" timestamp="1549483003440">
+        <mark key="[" line="58" column="85" />
+        <mark key="]" line="67" column="9" />
+        <mark key="^" line="67" column="9" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1549383631594">
         <mark key="[" line="28" column="133" />
@@ -251,37 +251,37 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">CgogIGRlZiBhZ2dyZWdhdGU6IEFycmF5W0FycmF5W0RvdWJsZV1dID0gewogICAgaWYgKGlzRmlsbGVkKSB7CiAgICAgIGNvbnRhaW5lcigwKS5pbmRpY2VzLm1hcChpbmRleCA9PiBjb250YWluZXIubWFwKHNjb3JlID0+IHNjb3JlLmluZGljZXMubWFwKGlubmVySW5kZXggPT4gc2NvcmUoaW5uZXJJbmRleCkoaW5kZXgpKS5zdW0gLyBzY29yZS5sZW5ndGgpKS50b0FycmF5CiAgICB9IGVsc2UgewogICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiTm90IGZpbGxlZCIpCiAgICB9CiAgfQ==</text>
+        <text encoding="base64">CiAgICB2YWwgcmVzdWx0ID0gbmV3IEFycmF5W0FycmF5W0RvdWJsZV1dKGNvbnRhaW5lcigwKS5sZW5ndGgpCiAgICBmb3IgKG1pZEluZGV4IDwtIGNvbnRhaW5lcigwKS5pbmRpY2VzKSB7CiAgICAgIHZhbCBwYXJ0aWFsUmVzdWx0ID0gbmV3IEFycmF5W0RvdWJsZV0oY29udGFpbmVyKDApKDApLmxlbmd0aCkKICAgICAgZm9yIChpbm5lckluZGV4IDwtIGNvbnRhaW5lcigwKSgwKS5pbmRpY2VzKSB7CiAgICAgICAgcGFydGlhbFJlc3VsdChpbm5lckluZGV4KSA9IGNvbnRhaW5lci5tYXAoc2NvcmUgPT4gc2NvcmUobWlkSW5kZXgpKGlubmVySW5kZXgpKS5zdW0gLyBjb250YWluZXIubGVuZ3RoCiAgICAgIH0KICAgICAgcmVzdWx0KG1pZEluZGV4KSA9IHBhcnRpYWxSZXN1bHQKICAgIH0KICAgIHJlc3VsdA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgIGNvbnRhaW5lcigwKS5pbmRpY2VzLm1hcChpbmRleCA9PiBjb250YWluZXIubWFwKHNjb3JlID0+IHNjb3JlLmluZGljZXMubWFwKGlubmVySW5kZXggPT4gc2NvcmUoaW5uZXJJbmRleCkoaW5kZXgpKS5zdW0gLyBzY29yZS5sZW5ndGgpKS50b0FycmF5</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKG91dGVySW5kZXggPC0gY29udGFpbmVyLmluZGljZXMpIHsKICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgY29udGFpbmVyKDApLmluZGljZXMubWFwKGluZGV4ID0+IGNvbnRhaW5lci5tYXAoc2NvcmUgPT4gc2NvcmUuaW5kaWNlcy5tYXAoaW5uZXJJbmRleCA9PiBzY29yZShpbm5lckluZGV4KShpbmRleCkpLnN1bSAvIHNjb3JlLmxlbmd0aCkpLnRvQXJyYXkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc2NvcmUK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb250YWluZXIob3V0ZXJJbmRleCkoaW5uZXJJbmRleCkK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKG91dGVySW5kZXggPC0gY29udGFpbmVyLmluZGljZXMpIHsKICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc2NvcmUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJOb3QgZmlsbGVkIikK</text>
+        <text encoding="base64">ICAgICAgICBjb250YWluZXIob3V0ZXJJbmRleCkoaW5uZXJJbmRleCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0ZpbGxlZCkgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJOb3QgZmlsbGVkIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmIChpc0ZpbGxlZCkgewo=</text>
       </register>
       <register name="-" type="4">
-        <text>inner</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
