@@ -42,22 +42,17 @@
         <mark key="." line="9" column="45" />
         <mark key="^" line="9" column="45" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/ResultCatcher.scala" timestamp="1549479670248">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/ResultCatcher.scala" timestamp="1549481718909">
         <mark key="[" line="24" column="35" />
-        <mark key="]" line="24" column="34" />
-        <mark key="." line="24" column="34" />
-        <mark key="^" line="24" column="34" />
+        <mark key="]" line="32" column="2" />
+        <mark key="." line="32" column="2" />
+        <mark key="^" line="32" column="2" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/functions/DistMappingFunctions.scala" timestamp="1549392069228">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="7" column="20" />
         <mark key="." line="7" column="20" />
         <mark key="^" line="14" column="200" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549211624106">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="16" />
-        <mark key="." line="11" column="16" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" timestamp="1549383570189">
         <mark key="[" line="10" column="26" />
@@ -70,6 +65,12 @@
         <mark key="]" line="62" column="18" />
         <mark key="." line="62" column="0" />
         <mark key="^" line="58" column="15" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/test/scala/jb/util/UtilTest.scala" timestamp="1549482384644">
+        <mark key="[" line="23" column="14" />
+        <mark key="]" line="23" column="13" />
+        <mark key="^" line="23" column="13" />
+        <mark key="." line="23" column="13" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/functions/WeightAggregators.scala" timestamp="1547835995339">
         <mark key="[" line="8" column="81" />
@@ -146,6 +147,12 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/Util.scala" timestamp="1549482934449">
+        <mark key="[" line="67" column="5" />
+        <mark key="]" line="68" column="9" />
+        <mark key="^" line="68" column="9" />
+        <mark key="." line="68" column="9" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1549383631594">
         <mark key="[" line="28" column="133" />
         <mark key="]" line="28" column="133" />
@@ -182,11 +189,11 @@
         <mark key="^" line="65" column="39" />
         <mark key="." line="65" column="39" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549478368387">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549482172680">
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="28" column="0" />
         <mark key="^" line="23" column="80" />
-        <mark key="." line="27" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/IntegratedDecisionTreeModel.scala" timestamp="1549116130148">
         <mark key="[" line="0" column="16" />
@@ -222,7 +229,7 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="/fragment.java" timestamp="1549386469673">
+      <file name="/fragment.java" timestamp="1549481738682">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.java" timestamp="1548617087081">
@@ -243,38 +250,38 @@
       <jump line="149" column="6" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.7-sources.jar!/scala/Predef.scala" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHNjb3JlcyA9IHJ1bm5lci5jYWxjdWxhdGVNdklTY29yZXMoRklMRU5BTUVfUFJFRklYICsgZmlsZW5hbWUpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CgogIGRlZiBhZ2dyZWdhdGU6IEFycmF5W0FycmF5W0RvdWJsZV1dID0gewogICAgaWYgKGlzRmlsbGVkKSB7CiAgICAgIGNvbnRhaW5lcigwKS5pbmRpY2VzLm1hcChpbmRleCA9PiBjb250YWluZXIubWFwKHNjb3JlID0+IHNjb3JlLmluZGljZXMubWFwKGlubmVySW5kZXggPT4gc2NvcmUoaW5uZXJJbmRleCkoaW5kZXgpKS5zdW0gLyBzY29yZS5sZW5ndGgpKS50b0FycmF5CiAgICB9IGVsc2UgewogICAgICB0aHJvdyBuZXcgUnVudGltZUV4Y2VwdGlvbigiTm90IGZpbGxlZCIpCiAgICB9CiAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKG91dGVySW5kZXggPC0gY29udGFpbmVyLmluZGljZXMpIHsKICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgY2FuQ29uc3VtZTogQm9vbGVhbiA9IHsKICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc2NvcmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250YWluZXIob3V0ZXJJbmRleCkoaW5uZXJJbmRleCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwcml2YXRlIGRlZiBydW5SZXBzKHJlcHM6IEludCwgcnVubmVyOiBSdW5uZXIsIGZpbGVuYW1lOiBTdHJpbmcpID0gewogICAgdmFsIG1lYW5TY29yZXMgPSBuZXcgQXJyYXlbRG91YmxlXShydW5uZXIuZGl2aXNpb25zLmxlbmd0aCArIDEpCiAgICBmb3IgKF8gPC0gMC51bnRpbChyZXBzKSkgewogICAgICB2YWwgc2NvcmVzID0gcnVubmVyLmNhbGN1bGF0ZU12SVNjb3JlcyhGSUxFTkFNRV9QUkVGSVggKyBmaWxlbmFtZSkKICAgICAgc2NvcmVzLmluZGljZXMuZm9yZWFjaChpID0+IG1lYW5TY29yZXMoaSkgKz0gc2NvcmVzKGkpKQogICAgfQogICAgbWVhblNjb3Jlcy5tYXAoXyAvIHJlcHMpCiAgfQoK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgc2NvcmVzKGluZGV4KSA9IHJ1blJlcHMocmVwcywgcnVubmVyLCBmaWxlbmFtZXMoaW5kZXgpKQo=</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJOb3QgZmlsbGVkIikK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHNjb3Jlcwo=</text>
+        <text encoding="base64">ICAgIGlmIChpc0ZpbGxlZCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZmluYWxTY29yZXMubWFwKHNjID0+IGlmIChzYy5sYXN0ID4gc2MuaGVhZCkgMSBlbHNlIDApLnN1bS50b0RvdWJsZSAvIGZpbmFsU2NvcmVzLmxlbmd0aCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGxhYiA9IHJvdy5nZXQoMCkK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGVsc2Ugew==</text>
+        <text>inner</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
