@@ -66,11 +66,11 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="58" column="15" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/test/scala/jb/util/UtilTest.scala" timestamp="1549565121505">
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="28" />
-        <mark key="^" line="33" column="26" />
-        <mark key="." line="33" column="28" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/test/scala/jb/util/UtilTest.scala" timestamp="1549565898150">
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="55" column="22" />
+        <mark key="^" line="55" column="20" />
+        <mark key="." line="55" column="22" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/functions/WeightAggregators.scala" timestamp="1547835995339">
         <mark key="[" line="8" column="81" />
@@ -165,9 +165,9 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1549300798302">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="31" column="15" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1549565862439">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="29" column="33" />
         <mark key="." line="31" column="13" />
         <mark key="^" line="31" column="13" />
       </file>
@@ -251,7 +251,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>result.map(_.length == 2).foreach(assert)</text>
+        <text encoding="base64">ICAgIHZhbCBkZiA9IFNwYXJrRW1iZWRkZWQuc3MuY3JlYXRlRGF0YUZyYW1lKFNlcSgKICAgICAgKDEsIDIsIDUpLAogICAgICAoMiwgNCwgNyksCiAgICAgICgzLCA2LCA5KQogICAgKSkudG9ERigibGFiZWwiLCAibWluIiwgIm1heCIp</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICAgIGNvbnRhaW5lcigwKS5pbmRpY2VzLm1hcChpbmRleCA9PiBjb250YWluZXIubWFwKHNjb3JlID0+IHNjb3JlLmluZGljZXMubWFwKGlubmVySW5kZXggPT4gc2NvcmUoaW5uZXJJbmRleCkoaW5kZXgpKS5zdW0gLyBzY29yZS5sZW5ndGgpKS50b0FycmF5</text>
@@ -281,7 +281,7 @@
         <text encoding="base64">ICAgIGlmIChpc0ZpbGxlZCkgewo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
