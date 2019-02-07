@@ -66,9 +66,9 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="58" column="15" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/test/scala/jb/util/UtilTest.scala" timestamp="1549483662988">
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="25" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/test/scala/jb/util/UtilTest.scala" timestamp="1549563951212">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="44" />
         <mark key="^" line="33" column="25" />
         <mark key="." line="33" column="25" />
       </file>
@@ -251,7 +251,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICB2YWwgcmVzdWx0ID0gbmV3IEFycmF5W0FycmF5W0RvdWJsZV1dKGNvbnRhaW5lcigwKS5sZW5ndGgpCiAgICBmb3IgKG1pZEluZGV4IDwtIGNvbnRhaW5lcigwKS5pbmRpY2VzKSB7CiAgICAgIHZhbCBwYXJ0aWFsUmVzdWx0ID0gbmV3IEFycmF5W0RvdWJsZV0oY29udGFpbmVyKDApKDApLmxlbmd0aCkKICAgICAgZm9yIChpbm5lckluZGV4IDwtIGNvbnRhaW5lcigwKSgwKS5pbmRpY2VzKSB7CiAgICAgICAgcGFydGlhbFJlc3VsdChpbm5lckluZGV4KSA9IGNvbnRhaW5lci5tYXAoc2NvcmUgPT4gc2NvcmUobWlkSW5kZXgpKGlubmVySW5kZXgpKS5zdW0gLyBjb250YWluZXIubGVuZ3RoCiAgICAgIH0KICAgICAgcmVzdWx0KG1pZEluZGV4KSA9IHBhcnRpYWxSZXN1bHQKICAgIH0KICAgIHJlc3VsdA==</text>
+        <text>result.map(_.length == 2).foreach(assert)</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CiAgICAgIGNvbnRhaW5lcigwKS5pbmRpY2VzLm1hcChpbmRleCA9PiBjb250YWluZXIubWFwKHNjb3JlID0+IHNjb3JlLmluZGljZXMubWFwKGlubmVySW5kZXggPT4gc2NvcmUoaW5uZXJJbmRleCkoaW5kZXgpKS5zdW0gLyBzY29yZS5sZW5ndGgpKS50b0FycmF5</text>
