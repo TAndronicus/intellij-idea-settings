@@ -42,7 +42,7 @@
         <mark key="." line="9" column="45" />
         <mark key="^" line="9" column="45" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/ResultCatcher.scala" timestamp="1549648392907">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/ResultCatcher.scala" timestamp="1549649006431">
         <mark key="[" line="20" column="18" />
         <mark key="]" line="20" column="18" />
         <mark key="." line="20" column="18" />
@@ -181,11 +181,11 @@
         <mark key="^" line="65" column="39" />
         <mark key="." line="65" column="39" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549648119532">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549649066645">
         <mark key="[" line="9" column="45" />
         <mark key="]" line="9" column="45" />
         <mark key="." line="9" column="45" />
-        <mark key="^" line="28" column="33" />
+        <mark key="^" line="9" column="45" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/IntegratedDecisionTreeModel.scala" timestamp="1549116130148">
         <mark key="[" line="0" column="16" />
@@ -243,34 +243,34 @@
         <text>Array(&quot;E&quot;, &quot;F&quot;, &quot;G&quot;, &quot;H&quot;).map(col).map(first)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIEFycmF5KDBELCAwRCkK</text>
+        <text encoding="base64">ICAgIHZhbCByZXBzID0gMQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBzY29yZSA9IDBECg==</text>
+        <text encoding="base64">ICAgIHZhbCByZXBzID0gMQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4ocyJTY29yZSA9ICRzY29yZSIpCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIEFycmF5KDBELCAwRCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDBECg==</text>
+        <text encoding="base64">ICAgIHZhciBzY29yZSA9IDBECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRmLnNlbGVjdCgpCg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4ocyJTY29yZSA9ICRzY29yZSIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFNwYXJrRW1iZWRkZWQuc3Muc3FsKCJzZWxlY3QgKiBmcm9tIHRhYiIpCg==</text>
+        <text encoding="base64">ICAgIDBECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFNwYXJrRW1iZWRkZWQuc3Muc3FsKCJ1cGRhdGUgdGFiIHNldCBjID0gMSIpCg==</text>
+        <text encoding="base64">ICAgIGRmLnNlbGVjdCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRmLnNlbGVjdCgiaWQiKS5jb2xsCg==</text>
+        <text encoding="base64">ICAgIFNwYXJrRW1iZWRkZWQuc3Muc3FsKCJzZWxlY3QgKiBmcm9tIHRhYiIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBjb2x1bW5zID0gZGYuY29sdW1ucwogICAgdmFyIGRmMSA9IGRmLnNlbGVjdChjb2x1bW5zLm1hcChjb2wpOl8qKQogICAgdmFyIGRmMiA9IGRmLnNlbGVjdChjb2x1bW5zLm1hcChjb2wpOl8qKQogICAgY29sdW1ucy5mb3JlYWNoKG5hbWUgPT4gZGYxID0gZGYxLndpdGhDb2x1bW5SZW5hbWVkKG5hbWUsIG5hbWUgKyAiMSIpKQogICAgY29sdW1ucy5mb3JlYWNoKG5hbWUgPT4gZGYyID0gZGYyLndpdGhDb2x1bW5SZW5hbWVkKG5hbWUsIG5hbWUgKyAiMiIpKQogICAgZGYuam9pbihkZjEsICQiaWQiID09PSAkImlkMSIgLSAxKS5qb2luKGRmMiwgJCJpZCIgPT09ICQiaWQyIiArIDEpLndpdGhDb2x1bW4oIndpbmRvd0YiLCAkImMiICogYiArICQiYzEiICogYyArICQiYzIiICogYSkuc2hvdygpCgogICAgZGYuY3JlYXRlVGVtcFZpZXcoInRhYiIpCiAgICBTcGFya0VtYmVkZGVkLnNzCiAgICAgIC5zcWwocyJzZWxlY3QgJGIgKiB0MS5jICsgJGMgKiB0Mi5jICsgJGEgKiB0My5jIHJlc3VsdCAiICsKICAgICAgICAiZnJvbSB0YWIgdDEgam9pbiB0YWIgdDIgb24gdDEuaWQgPSB0Mi5pZCAtIDEgam9pbiB0YWIgdDMgb24gdDEuaWQgPSB0My5pZCArIDEiKS5zaG93KCkKCgoK</text>
+        <text encoding="base64">ICAgIFNwYXJrRW1iZWRkZWQuc3Muc3FsKCJ1cGRhdGUgdGFiIHNldCBjID0gMSIpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">cmVwcywg</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
