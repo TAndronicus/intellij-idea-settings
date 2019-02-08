@@ -161,11 +161,11 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1549623444685">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1549628277856">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="48" />
+        <mark key="." line="33" column="47" />
+        <mark key="^" line="33" column="47" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.scala" timestamp="1549386512661">
         <mark key="[" line="7" column="41" />
@@ -242,8 +242,8 @@
       <jump line="149" column="6" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.7-sources.jar!/scala/Predef.scala" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCAoYSwgYiwgYykgPSAoLjI1LCAuMjUsIC41KQo=</text>
+      <register name="0" type="4">
+        <text>Array(&quot;E&quot;, &quot;F&quot;, &quot;G&quot;, &quot;H&quot;).map(col).map(first)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRmLnNlbGVjdCgpCg==</text>
