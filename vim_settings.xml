@@ -42,7 +42,7 @@
         <mark key="." line="9" column="45" />
         <mark key="^" line="9" column="45" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/ResultCatcher.scala" timestamp="1549631935315">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/ResultCatcher.scala" timestamp="1549645811063">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="22" />
         <mark key="." line="12" column="22" />
@@ -184,10 +184,10 @@
         <mark key="^" line="65" column="39" />
         <mark key="." line="65" column="39" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549633849271">
-        <mark key="[" line="27" column="7" />
-        <mark key="]" line="28" column="33" />
-        <mark key="." line="28" column="33" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549645821853">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="9" column="45" />
+        <mark key="." line="9" column="45" />
         <mark key="^" line="28" column="33" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/IntegratedDecisionTreeModel.scala" timestamp="1549116130148">
@@ -273,7 +273,7 @@
         <text encoding="base64">ICAgIHZhbCBjb2x1bW5zID0gZGYuY29sdW1ucwogICAgdmFyIGRmMSA9IGRmLnNlbGVjdChjb2x1bW5zLm1hcChjb2wpOl8qKQogICAgdmFyIGRmMiA9IGRmLnNlbGVjdChjb2x1bW5zLm1hcChjb2wpOl8qKQogICAgY29sdW1ucy5mb3JlYWNoKG5hbWUgPT4gZGYxID0gZGYxLndpdGhDb2x1bW5SZW5hbWVkKG5hbWUsIG5hbWUgKyAiMSIpKQogICAgY29sdW1ucy5mb3JlYWNoKG5hbWUgPT4gZGYyID0gZGYyLndpdGhDb2x1bW5SZW5hbWVkKG5hbWUsIG5hbWUgKyAiMiIpKQogICAgZGYuam9pbihkZjEsICQiaWQiID09PSAkImlkMSIgLSAxKS5qb2luKGRmMiwgJCJpZCIgPT09ICQiaWQyIiArIDEpLndpdGhDb2x1bW4oIndpbmRvd0YiLCAkImMiICogYiArICQiYzEiICogYyArICQiYzIiICogYSkuc2hvdygpCgogICAgZGYuY3JlYXRlVGVtcFZpZXcoInRhYiIpCiAgICBTcGFya0VtYmVkZGVkLnNzCiAgICAgIC5zcWwocyJzZWxlY3QgJGIgKiB0MS5jICsgJGMgKiB0Mi5jICsgJGEgKiB0My5jIHJlc3VsdCAiICsKICAgICAgICAiZnJvbSB0YWIgdDEgam9pbiB0YWIgdDIgb24gdDEuaWQgPSB0Mi5pZCAtIDEgam9pbiB0YWIgdDMgb24gdDEuaWQgPSB0My5pZCArIDEiKS5zaG93KCkKCgoK</text>
       </register>
       <register name="-" type="4">
-        <text>Consumed</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
