@@ -203,10 +203,10 @@
         <mark key="^" line="65" column="39" />
         <mark key="." line="65" column="39" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549710683415">
-        <mark key="[" line="7" column="54" />
-        <mark key="]" line="7" column="55" />
-        <mark key="." line="7" column="55" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549713004325">
+        <mark key="[" line="7" column="26" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
         <mark key="^" line="19" column="59" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/IntegratedDecisionTreeModel.scala" timestamp="1549116130148">
@@ -299,7 +299,7 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>ExhaustiveResultCatcher</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
