@@ -137,9 +137,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/EagerResultCatcher.scala" timestamp="1549658831873">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/EagerResultCatcher.scala" timestamp="1549735088710">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="41" column="7" />
+        <mark key="[" line="27" column="86" />
         <mark key="]" line="42" column="58" />
         <mark key="." line="42" column="58" />
         <mark key="^" line="42" column="58" />
@@ -209,11 +209,11 @@
         <mark key="^" line="65" column="39" />
         <mark key="." line="65" column="39" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549713004325">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549734843316">
         <mark key="[" line="7" column="26" />
         <mark key="]" line="7" column="26" />
         <mark key="." line="7" column="26" />
-        <mark key="^" line="19" column="59" />
+        <mark key="^" line="7" column="27" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/IntegratedDecisionTreeModel.scala" timestamp="1549116130148">
         <mark key="[" line="0" column="16" />
@@ -305,7 +305,7 @@
         <text encoding="base64">ICB2YXIgY29udGFpbmVySW5kZXggPSAwCg==</text>
       </register>
       <register name="-" type="4">
-        <text>ExhaustiveResultCatcher</text>
+        <text>BatchExhaustiveResultCatcher</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
