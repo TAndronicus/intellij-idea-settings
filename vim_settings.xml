@@ -89,6 +89,9 @@
         <mark key="." line="8" column="84" />
         <mark key="^" line="8" column="84" />
       </file>
+      <file name="/Dummy.scala" timestamp="1549710246771">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/model/EdgeTest.scala" timestamp="1548870060830">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="7" column="37" />
@@ -176,11 +179,11 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1549628277856">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="48" />
-        <mark key="." line="31" column="47" />
-        <mark key="^" line="31" column="47" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1549710436791">
+        <mark key="[" line="15" column="26" />
+        <mark key="]" line="11" column="60" />
+        <mark key="." line="11" column="60" />
+        <mark key="^" line="11" column="60" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.scala" timestamp="1549386512661">
         <mark key="[" line="7" column="41" />
@@ -200,10 +203,10 @@
         <mark key="^" line="65" column="39" />
         <mark key="." line="65" column="39" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549708022042">
-        <mark key="[" line="7" column="51" />
-        <mark key="]" line="7" column="52" />
-        <mark key="." line="7" column="52" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549710683415">
+        <mark key="[" line="7" column="54" />
+        <mark key="]" line="7" column="55" />
+        <mark key="." line="7" column="55" />
         <mark key="^" line="19" column="59" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/IntegratedDecisionTreeModel.scala" timestamp="1549116130148">
@@ -212,11 +215,11 @@
         <mark key="." line="40" column="37" />
         <mark key="^" line="40" column="37" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/BatchExhaustiveResultCatcher.scala" timestamp="1549658721554">
-        <mark key="[" line="40" column="45" />
-        <mark key="]" line="40" column="53" />
-        <mark key="." line="40" column="53" />
-        <mark key="^" line="40" column="53" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/BatchExhaustiveResultCatcher.scala" timestamp="1549710475688">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="13" column="18" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/util/UtilTest.scala" timestamp="1549391048871">
         <mark key="[" line="20" column="33" />
@@ -230,11 +233,11 @@
         <mark key="." line="16" column="17" />
         <mark key="^" line="16" column="17" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/ExhaustiveResultCatcher.scala" timestamp="1549708516783">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/ExhaustiveResultCatcher.scala" timestamp="1549710450008">
         <mark key="[" line="11" column="18" />
-        <mark key="]" line="35" column="53" />
-        <mark key="^" line="35" column="53" />
-        <mark key="." line="35" column="53" />
+        <mark key="]" line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/.gitignore" timestamp="1549197796275">
         <mark key="[" line="4" column="2" />
@@ -269,34 +272,34 @@
         <text>sumRelativeDelta</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwLkVudHJ5IG1lbnRyeSA9IChNYXAuRW50cnkpaXRlcmF0b3IubmV4dCgpOwo=</text>
+        <text encoding="base64">ICAgIHZhbCBkZiA9IFNwYXJrRW1iZWRkZWQuc3MuY3JlYXRlRGF0YUZyYW1lKFNlcSgKICAgICAgKDEsIDIpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgKDIsIDQpLAogICAgICAoMywgNiksCiAgICAgICg0LCA1KSwKICAgICAgKDUsIDYpLAogICAgICAoNiwgOCkKICAgICkpLnRvREYoImlkIiwgImMiKQogICAgdmFsIChhLCBiLCBjKSA9ICguMjUsIC4yNSwgLjUpCgogICAgZGYuY3JlYXRlVGVtcFZpZXcoInRhYiIpCgogICAgU3BhcmtFbWJlZGRlZC5zcy5zcWwoImNyZWF0ZSB0YWJsZSByZXN1bHQoYyBkZWNpbWFsKSIpCiAgICBTcGFya0VtYmVkZGVkLnNzLnNxbCgic2VsZWN0IHQxLmMgZnJvbSAiKQogICAgQXJyYXkoIkUiLCAiRiIsICJHIiwgIkgiKS5tYXAoY29sKS5tYXAoZmlyc3QpCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwLkVudHJ5IG1lbnRyeSA9IChNYXAuRW50cnkpaXRlcmF0b3IubmV4dCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB2YWwgcmVzdWx0Q2F0Y2hlciA9IG5ldyBFeGhhdXN0aXZlUmVzdWx0Q2F0Y2hlciguMywgMTAsIDEwMCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29udGFpbmVySW5kZXggKz0gMQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YXIgY29udGFpbmVySW5kZXggPSAwCg==</text>
+        <text encoding="base64">ICB2YWwgcmVzdWx0Q2F0Y2hlciA9IG5ldyBFeGhhdXN0aXZlUmVzdWx0Q2F0Y2hlciguMywgMTAsIDEwMCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29udGFpbmVySW5kZXggKz0gMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJOb3QgZmlsbGVkIikK</text>
+        <text encoding="base64">ICB2YXIgY29udGFpbmVySW5kZXggPSAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0ZpbGxlZCkgewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>illed</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
