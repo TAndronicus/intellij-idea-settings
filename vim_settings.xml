@@ -203,6 +203,12 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/hello-world-server/src/main/java/jb/TestRestEndpoint.java" timestamp="1549743998238">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="10" column="25" />
+        <mark key="^" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1549389447168">
         <mark key="[" line="65" column="18" />
         <mark key="]" line="65" column="39" />
@@ -232,6 +238,11 @@
         <mark key="]" line="20" column="43" />
         <mark key="^" line="20" column="43" />
         <mark key="." line="20" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/hello-world-server/src/main/java/hello/world/server/Application.java" timestamp="1549743759785">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1548618224447">
         <mark key="[" line="22" column="12" />
@@ -305,7 +316,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>EagerResultCatcher</text>
+        <text>hello.world.server</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
