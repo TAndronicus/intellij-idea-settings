@@ -15,11 +15,11 @@
         <mark key="." line="7" column="70" />
         <mark key="^" line="7" column="70" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1548018379287">
-        <mark key="[" line="20" column="11" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="18" column="21" />
-        <mark key="^" line="18" column="21" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1549702309201">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="10" />
+        <mark key="^" line="15" column="10" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/RectTest.scala" timestamp="1548869443540">
         <mark key="[" line="2" column="44" />
@@ -269,31 +269,31 @@
         <text>sumRelativeDelta</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwLkVudHJ5IG1lbnRyeSA9IChNYXAuRW50cnkpaXRlcmF0b3IubmV4dCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YWwgcmVzdWx0Q2F0Y2hlciA9IG5ldyBFeGhhdXN0aXZlUmVzdWx0Q2F0Y2hlciguMywgMTAsIDEwMCkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29udGFpbmVySW5kZXggKz0gMQo=</text>
+        <text encoding="base64">ICB2YWwgcmVzdWx0Q2F0Y2hlciA9IG5ldyBFeGhhdXN0aXZlUmVzdWx0Q2F0Y2hlciguMywgMTAsIDEwMCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgY29udGFpbmVySW5kZXggPSAwCg==</text>
+        <text encoding="base64">ICAgICAgY29udGFpbmVySW5kZXggKz0gMQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB2YXIgY29udGFpbmVySW5kZXggPSAwCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJOb3QgZmlsbGVkIikK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChpc0ZpbGxlZCkgewo=</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIHRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKCJOb3QgZmlsbGVkIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnRhaW5lckluZGV4ID49IGJhdGNoU2l6ZQogIH0K</text>
+        <text encoding="base64">ICAgIGlmIChpc0ZpbGxlZCkgewo=</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
