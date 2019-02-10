@@ -116,11 +116,11 @@
         <mark key="^" line="59" column="65" />
         <mark key="." line="59" column="65" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" timestamp="1549739561014">
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="4" column="97" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" timestamp="1549776708679">
+        <mark key="[" line="36" column="102" />
+        <mark key="]" line="36" column="102" />
         <mark key="^" line="4" column="97" />
-        <mark key="." line="4" column="97" />
+        <mark key="." line="36" column="102" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/deeplearning4j/nd4j/nd4j-backends/nd4j-api-parent/nd4j-api/src/main/java/org/nd4j/linalg/ops/transforms/Transforms.java" timestamp="1547883202042">
         <mark key="[" line="669" column="22" />
@@ -215,10 +215,10 @@
         <mark key="^" line="65" column="39" />
         <mark key="." line="65" column="39" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549738833529">
-        <mark key="[" line="7" column="26" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="26" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549776675389">
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="7" column="62" />
+        <mark key="." line="7" column="62" />
         <mark key="^" line="5" column="19" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/IntegratedDecisionTreeModel.scala" timestamp="1549116130148">
@@ -227,10 +227,10 @@
         <mark key="." line="40" column="37" />
         <mark key="^" line="40" column="37" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/BatchExhaustiveResultCatcher.scala" timestamp="1549729659736">
-        <mark key="[" line="28" column="26" />
-        <mark key="]" line="28" column="26" />
-        <mark key="." line="28" column="26" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/BatchExhaustiveResultCatcher.scala" timestamp="1549776864780">
+        <mark key="[" line="36" column="102" />
+        <mark key="]" line="36" column="102" />
+        <mark key="." line="36" column="102" />
         <mark key="^" line="28" column="26" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/util/UtilTest.scala" timestamp="1549391048871">
@@ -316,7 +316,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>hello.world.server</text>
+        <text>container.length</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
