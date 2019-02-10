@@ -163,11 +163,11 @@
         <mark key="." line="7" column="70" />
         <mark key="^" line="7" column="70" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1549728935356">
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="32" />
-        <mark key="^" line="13" column="32" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1549817910352">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="19" column="8" />
+        <mark key="." line="19" column="8" />
+        <mark key="^" line="19" column="8" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/.gitignore" timestamp="1549656434296">
         <mark key="[" line="8" column="3" />
@@ -336,37 +336,37 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICB2YWwgbHN0ID0gZW0uZ2V0UmVmZXJlbmNlKExpc3Rpbmc6OmNsYXNzLmphdmEsIDFMKQogICAgICAgIGVtLnJlbW92ZShsc3Qp</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgYiA9IDE1OwogICAgICAgIGZvciAoZG91YmxlIG4gPSAyOyBuIDwgTWF0aC5jZWlsKE1hdGguc3FydCgyICogYiArIC4yNSkgLSAuNSk7IG4rKykgewogICAgICAgICAgICBkb3VibGUgY2FuZGlkYXRlID0gYiAvIG4gLSAobiAtIDEpIC8gMjsKICAgICAgICAgICAgaWYgKGNhbmRpZGF0ZSA9PSAoaW50KSBjYW5kaWRhdGUpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIiArIGNhbmRpZGF0ZSArIEludFN0cmVhbS5yYW5nZSgxLCAoaW50KSBuKS5tYXBUb09iaihpIC0+ICIgKyAiICsgKGNhbmRpZGF0ZSArIGkpKS5yZWR1Y2UoKHMxLCBzMikgLT4gczEgKyBzMikuZ2V0KCkgKyAiID0gIiArIGIpOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbS5jcmVhdGVRdWVyeSgiZGVsZXRlIGZyb20gIiArIExpc3Rpbmc6OmNsYXNzLnF1YWxpZmllZE5hbWUgKyAiIHdoZXJlIikK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGEgPSBuZXcgSW50ZWdlcigxKTsKICAgICAgICBIYXNoTWFwPFN0cmluZyxJbnRlZ2VyPiBobSA9IG5ldyBIYXNoTWFwPFN0cmluZyxJbnRlZ2VyPigpOwogICAgICAgIGhtLnB1dCgiamhvbiIsIDEyKTsKICAgICAgICBobS5wdXQoImNsYWlyIiwxMyk7CgogICAgICAgIFNldCBzZXQgPSBobS5lbnRyeVNldCgpOwogICAgICAgIEl0ZXJhdG9yIGl0ZXJhdG9yID0gc2V0Lml0ZXJhdG9yKCk7CiAgICAgICAgd2hpbGUoaXRlcmF0b3IuaGFzTmV4dCgpKSB7CiAgICAgICAgICAgIEludGVnZXIgdmFyPSBobS5nZXQoImpob24iKTsKICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm51bWJlciBpczogIit2YXIpOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHZhciBlbTogRW50aXR5TWFuYWdlcgo=</text>
+        <text encoding="base64">ICAgICAgICBlbS5jcmVhdGVRdWVyeSgiZGVsZXRlIGZyb20gIiArIExpc3Rpbmc6OmNsYXNzLnF1YWxpZmllZE5hbWUgKyAiIHdoZXJlIikK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gbWFpbl9saXN0aW5nIChpZCkKdmFsdWVzICgyKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHZhciBlbTogRW50aXR5TWFuYWdlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QENvbnRyb2xsZXIK</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gbWFpbl9saXN0aW5nIChpZCkKdmFsdWVzICgyKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmJpbmQuYW5ub3RhdGlvbi5SZXN0Q29udHJvbGxlcgo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">QENvbnRyb2xsZXIK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
+      </register>
       <register name="-" type="4">
-        <text>&quot;spierdalaj&quot;</text>
+        <text>ToObj</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
