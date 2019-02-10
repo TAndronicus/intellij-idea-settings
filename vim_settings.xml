@@ -36,11 +36,11 @@
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/server/SparkEmbedded.scala" timestamp="1549089679384">
-        <mark key="[" line="8" column="66" />
-        <mark key="]" line="8" column="66" />
-        <mark key="." line="8" column="66" />
-        <mark key="^" line="8" column="64" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/server/SparkEmbedded.scala" timestamp="1549781514467">
+        <mark key="[" line="17" column="44" />
+        <mark key="]" line="17" column="44" />
+        <mark key="." line="17" column="44" />
+        <mark key="^" line="17" column="44" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/Edge.scala" timestamp="1548870376749">
         <mark key="[" line="9" column="44" />
@@ -60,11 +60,11 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="14" column="200" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" timestamp="1549631870101">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="56" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" timestamp="1549781524771">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="24" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="12" column="21" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/ResultCatcher.scala" timestamp="1549778302233">
         <mark key="[" line="10" column="69" />
@@ -222,11 +222,11 @@
         <mark key="^" line="65" column="39" />
         <mark key="." line="65" column="39" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549779742800">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="15" column="67" />
-        <mark key="." line="15" column="67" />
-        <mark key="^" line="15" column="67" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549781635766">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="7" column="75" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/IntegratedDecisionTreeModel.scala" timestamp="1549116130148">
         <mark key="[" line="0" column="16" />
@@ -295,37 +295,37 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>args: Array[String]</text>
+        <text encoding="base64">CiAgZGVmIHNldExvZ1dhcm4oKTogVW5pdCA9IHsKICAgIExvZ2dlci5nZXRMb2dnZXIoIm9yZyIpLnNldExldmVsKExldmVsLldBUk4pCiAgICBMb2dnZXIuZ2V0TG9nZ2VyKCJha2thIikuc2V0TGV2ZWwoTGV2ZWwuV0FSTikKICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIGEgPSBTcGFya0VtYmVkZGVkLnNzLnNxbCgic2VsZWN0ICogZnJvbSBiIikK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHMiRmlsZTogJHtmaWxlbmFtZXMoaW5kZXgpfSIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgdmFsIGEgPSBTcGFya0VtYmVkZGVkLnNzLnNxbCgic2VsZWN0ICogZnJvbSBiIikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwcmludGxuKCJoZWgiKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBhID0gQXJyYXkoMSwgMiwgMykKICAgIGEgOis9IDQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBkZiA9IFNwYXJrRW1iZWRkZWQuc3MuY3JlYXRlRGF0YUZyYW1lKFNlcSgKICAgICAgKDEsIDIpLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKDIsIDQpLAogICAgICAoMywgNiksCiAgICAgICg0LCA1KSwKICAgICAgKDUsIDYpLAogICAgICAoNiwgOCkKICAgICkpLnRvREYoImlkIiwgImMiKQogICAgdmFsIChhLCBiLCBjKSA9ICguMjUsIC4yNSwgLjUpCgogICAgZGYuY3JlYXRlVGVtcFZpZXcoInRhYiIpCgogICAgU3BhcmtFbWJlZGRlZC5zcy5zcWwoImNyZWF0ZSB0YWJsZSByZXN1bHQoYyBkZWNpbWFsKSIpCiAgICBTcGFya0VtYmVkZGVkLnNzLnNxbCgic2VsZWN0IHQxLmMgZnJvbSAiKQogICAgQXJyYXkoIkUiLCAiRiIsICJHIiwgIkgiKS5tYXAoY29sKS5tYXAoZmlyc3QpCgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWFwLkVudHJ5IG1lbnRyeSA9IChNYXAuRW50cnkpaXRlcmF0b3IubmV4dCgpOwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBwcmludGxuKCJoZWgiKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhciBhID0gQXJyYXkoMSwgMiwgMykKICAgIGEgOis9IDQK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC4qOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCBkZiA9IFNwYXJrRW1iZWRkZWQuc3MuY3JlYXRlRGF0YUZyYW1lKFNlcSgKICAgICAgKDEsIDIpLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgKDIsIDQpLAogICAgICAoMywgNiksCiAgICAgICg0LCA1KSwKICAgICAgKDUsIDYpLAogICAgICAoNiwgOCkKICAgICkpLnRvREYoImlkIiwgImMiKQogICAgdmFsIChhLCBiLCBjKSA9ICguMjUsIC4yNSwgLjUpCgogICAgZGYuY3JlYXRlVGVtcFZpZXcoInRhYiIpCgogICAgU3BhcmtFbWJlZGRlZC5zcy5zcWwoImNyZWF0ZSB0YWJsZSByZXN1bHQoYyBkZWNpbWFsKSIpCiAgICBTcGFya0VtYmVkZGVkLnNzLnNxbCgic2VsZWN0IHQxLmMgZnJvbSAiKQogICAgQXJyYXkoIkUiLCAiRiIsICJHIiwgIkgiKS5tYXAoY29sKS5tYXAoZmlyc3QpCgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWFwLkVudHJ5IG1lbnRyeSA9IChNYXAuRW50cnkpaXRlcmF0b3IubmV4dCgpOwo=</text>
+      </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>Warn</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
