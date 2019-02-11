@@ -130,8 +130,11 @@
         <mark key="^" line="20" column="43" />
         <mark key="." line="20" column="43" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1549898031355">
-        <mark key="[" line="56" column="95" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1549904546537">
+        <mark key="[" line="57" column="68" />
+        <mark key="]" line="57" column="68" />
+        <mark key="^" line="57" column="61" />
+        <mark key="." line="57" column="68" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1548618224447">
         <mark key="[" line="22" column="12" />
@@ -291,11 +294,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1549897979353">
-        <mark key="[" line="60" column="22" />
-        <mark key="]" line="60" column="29" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1549904389491">
+        <mark key="[" line="70" column="6" />
+        <mark key="]" line="70" column="34" />
         <mark key="^" line="60" column="29" />
-        <mark key="." line="60" column="29" />
+        <mark key="." line="70" column="6" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549816640411">
         <mark key="[" line="30" column="57" />
@@ -339,7 +342,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgYiA9IDE1OwogICAgICAgIGZvciAoZG91YmxlIG4gPSAyOyBuIDwgTWF0aC5jZWlsKE1hdGguc3FydCgyICogYiArIC4yNSkgLSAuNSk7IG4rKykgewogICAgICAgICAgICBkb3VibGUgY2FuZGlkYXRlID0gYiAvIG4gLSAobiAtIDEpIC8gMjsKICAgICAgICAgICAgaWYgKGNhbmRpZGF0ZSA9PSAoaW50KSBjYW5kaWRhdGUpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIiArIGNhbmRpZGF0ZSArIEludFN0cmVhbS5yYW5nZSgxLCAoaW50KSBuKS5tYXBUb09iaihpIC0+ICIgKyAiICsgKGNhbmRpZGF0ZSArIGkpKS5yZWR1Y2UoKHMxLCBzMikgLT4gczEgKyBzMikuZ2V0KCkgKyAiID0gIiArIGIpOwogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+        <text>calculateMomentsByPrediction</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
@@ -369,7 +372,7 @@
         <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>input</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
