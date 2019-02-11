@@ -53,8 +53,11 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="/Dummy.scala" timestamp="1549729637064">
+      <file name="/Dummy.scala" timestamp="1549912517981">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="114" />
+        <mark key="^" line="0" column="114" />
+        <mark key="." line="0" column="114" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/model/EdgeTest.scala" timestamp="1548870060830">
         <mark key="[" line="7" column="37" />
@@ -284,11 +287,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1549907592266">
-        <mark key="[" line="72" column="6" />
-        <mark key="]" line="72" column="7" />
-        <mark key="^" line="72" column="55" />
-        <mark key="." line="72" column="7" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1549912461094">
+        <mark key="[" line="78" column="96" />
+        <mark key="]" line="78" column="96" />
+        <mark key="^" line="78" column="95" />
+        <mark key="." line="78" column="96" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549816640411">
         <mark key="[" line="30" column="57" />
@@ -331,38 +334,38 @@
       <jump line="25" column="5" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIGZvciAoaSA8LSBiYXNlTW9kZWxzLmluZGljZXMpIHsKICAgICAgZGF0YXNldCA9IGJhc2VNb2RlbHMoaSkuc2V0UHJlZGljdGlvbkNvbChQUkVESUNUSU9OICsgIl8iICsgaSkudHJhbnNmb3JtKGRhdGFzZXQpLmRyb3AoQ09MVU1OUzJEUk9QOiBfKikKICAgIH0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCBhdmdzID0gZGF0YXNldC5zZWxlY3Qoc2VsUE5hbWVzLm1hcChjb2wpLis6KGNvbChMQUJFTCkpOl8qKS5ncm91cEJ5KGNvbChMQUJFTCkpLmF2ZyhzZWxQTmFtZXM6XyopCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzZWxGTmFtZXMgPSBzZWxlY3RlZEZlYXR1cmVzLm1hcChpdGVtID0+IENPTF9QUkVGSVggKyBpdGVtKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGEgPSBuZXcgSW50ZWdlcigxKTsKICAgICAgICBIYXNoTWFwPFN0cmluZyxJbnRlZ2VyPiBobSA9IG5ldyBIYXNoTWFwPFN0cmluZyxJbnRlZ2VyPigpOwogICAgICAgIGhtLnB1dCgiamhvbiIsIDEyKTsKICAgICAgICBobS5wdXQoImNsYWlyIiwxMyk7CgogICAgICAgIFNldCBzZXQgPSBobS5lbnRyeVNldCgpOwogICAgICAgIEl0ZXJhdG9yIGl0ZXJhdG9yID0gc2V0Lml0ZXJhdG9yKCk7CiAgICAgICAgd2hpbGUoaXRlcmF0b3IuaGFzTmV4dCgpKSB7CiAgICAgICAgICAgIEludGVnZXIgdmFyPSBobS5nZXQoImpob24iKTsKICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm51bWJlciBpczogIit2YXIpOwoK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbS5jcmVhdGVRdWVyeSgiZGVsZXRlIGZyb20gIiArIExpc3Rpbmc6OmNsYXNzLnF1YWxpZmllZE5hbWUgKyAiIHdoZXJlIikK</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGEgPSBuZXcgSW50ZWdlcigxKTsKICAgICAgICBIYXNoTWFwPFN0cmluZyxJbnRlZ2VyPiBobSA9IG5ldyBIYXNoTWFwPFN0cmluZyxJbnRlZ2VyPigpOwogICAgICAgIGhtLnB1dCgiamhvbiIsIDEyKTsKICAgICAgICBobS5wdXQoImNsYWlyIiwxMyk7CgogICAgICAgIFNldCBzZXQgPSBobS5lbnRyeVNldCgpOwogICAgICAgIEl0ZXJhdG9yIGl0ZXJhdG9yID0gc2V0Lml0ZXJhdG9yKCk7CiAgICAgICAgd2hpbGUoaXRlcmF0b3IuaGFzTmV4dCgpKSB7CiAgICAgICAgICAgIEludGVnZXIgdmFyPSBobS5nZXQoImpob24iKTsKICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIm51bWJlciBpczogIit2YXIpOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbS5jcmVhdGVRdWVyeSgiZGVsZXRlIGZyb20gIiArIExpc3Rpbmc6OmNsYXNzLnF1YWxpZmllZE5hbWUgKyAiIHdoZXJlIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHZhciBlbTogRW50aXR5TWFuYWdlcgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gbWFpbl9saXN0aW5nIChpZCkKdmFsdWVzICgyKTsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHZhciBlbTogRW50aXR5TWFuYWdlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gbWFpbl9saXN0aW5nIChpZCkKdmFsdWVzICgyKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QENvbnRyb2xsZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFJlc3RDb250cm9sbGVyCg==</text>
+        <text encoding="base64">QENvbnRyb2xsZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>input</text>
+        <text>selPNames:_*)</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
