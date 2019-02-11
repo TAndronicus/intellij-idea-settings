@@ -74,25 +74,15 @@
         <mark key="^" line="59" column="65" />
         <mark key="." line="59" column="65" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" timestamp="1549807075305">
-        <mark key="'" line="25" column="5" />
-        <mark key="[" line="22" column="29" />
-        <mark key="]" line="25" column="66" />
-        <mark key="^" line="25" column="66" />
-        <mark key="." line="25" column="66" />
-      </file>
       <file name="$USER_HOME$/Workspace/JVM/deeplearning4j/nd4j/nd4j-backends/nd4j-api-parent/nd4j-api/src/main/java/org/nd4j/linalg/ops/transforms/Transforms.java" timestamp="1547883202042">
         <mark key="[" line="669" column="22" />
         <mark key="]" line="669" column="32" />
         <mark key="^" line="669" column="32" />
         <mark key="." line="669" column="32" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/EagerResultCatcher.scala" timestamp="1549806453343">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="40" column="58" />
-        <mark key="." line="30" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/prediction/Predictions.scala" timestamp="1549907491255">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="4" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hib-map/src/main/kotlin/jb/hibmap/HibMapApplication.kt" timestamp="1549810441315">
         <mark key="[" line="19" column="34" />
@@ -130,11 +120,11 @@
         <mark key="^" line="20" column="43" />
         <mark key="." line="20" column="43" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1549904546537">
-        <mark key="[" line="57" column="68" />
-        <mark key="]" line="57" column="68" />
-        <mark key="^" line="57" column="61" />
-        <mark key="." line="57" column="68" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1549907342967">
+        <mark key="[" line="57" column="113" />
+        <mark key="]" line="57" column="31" />
+        <mark key="^" line="57" column="31" />
+        <mark key="." line="57" column="31" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1548618224447">
         <mark key="[" line="22" column="12" />
@@ -294,11 +284,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1549904389491">
-        <mark key="[" line="70" column="6" />
-        <mark key="]" line="70" column="34" />
-        <mark key="^" line="60" column="29" />
-        <mark key="." line="70" column="6" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1549907592266">
+        <mark key="[" line="72" column="6" />
+        <mark key="]" line="72" column="7" />
+        <mark key="^" line="72" column="55" />
+        <mark key="." line="72" column="7" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549816640411">
         <mark key="[" line="30" column="57" />
@@ -342,7 +332,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>calculateMomentsByPrediction</text>
+        <text encoding="base64">ICAgIGZvciAoaSA8LSBiYXNlTW9kZWxzLmluZGljZXMpIHsKICAgICAgZGF0YXNldCA9IGJhc2VNb2RlbHMoaSkuc2V0UHJlZGljdGlvbkNvbChQUkVESUNUSU9OICsgIl8iICsgaSkudHJhbnNmb3JtKGRhdGFzZXQpLmRyb3AoQ09MVU1OUzJEUk9QOiBfKikKICAgIH0=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
