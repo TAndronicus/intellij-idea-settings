@@ -44,12 +44,12 @@
         <mark key="^" line="11" column="6" />
         <mark key="." line="11" column="6" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" timestamp="1550204490825">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" timestamp="1550253149961">
         <mark key="'" line="10" column="26" />
         <mark key="[" line="8" column="26" />
-        <mark key="]" line="10" column="26" />
-        <mark key="." line="10" column="26" />
-        <mark key="^" line="12" column="21" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="10" column="25" />
+        <mark key="^" line="10" column="25" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/ResultCatcher.scala" timestamp="1549806443662">
         <mark key="[" line="7" column="16" />
@@ -130,11 +130,11 @@
         <mark key="^" line="20" column="43" />
         <mark key="." line="20" column="43" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1550090738861">
-        <mark key="[" line="58" column="87" />
-        <mark key="]" line="58" column="87" />
-        <mark key="^" line="57" column="31" />
-        <mark key="." line="58" column="87" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1550253324467">
+        <mark key="[" line="7" column="35" />
+        <mark key="]" line="58" column="34" />
+        <mark key="^" line="58" column="34" />
+        <mark key="." line="58" column="34" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1548618224447">
         <mark key="[" line="22" column="12" />
@@ -253,10 +253,10 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/MultiRunner.scala" timestamp="1549394816973">
-        <mark key="[" line="21" column="34" />
-        <mark key="]" line="21" column="28" />
-        <mark key="." line="21" column="28" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/MultiRunner.scala" timestamp="1550253726275">
+        <mark key="[" line="12" column="74" />
+        <mark key="]" line="12" column="74" />
+        <mark key="." line="12" column="74" />
         <mark key="^" line="22" column="211" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/normalizer/src/main/scala/jb/Runner.scala" timestamp="1548616594470">
@@ -373,7 +373,7 @@
         <text encoding="base64">ICAgICAgdmFsIGNvbE5hbWUgPSAK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MjAsIA==</text>
+        <text encoding="base64">c3AiLCA=</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
