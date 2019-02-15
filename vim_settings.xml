@@ -106,6 +106,11 @@
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1550264464314">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/build.sbt" timestamp="1549294951446">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -130,11 +135,12 @@
         <mark key="^" line="20" column="43" />
         <mark key="." line="20" column="43" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1550253324467">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="58" column="34" />
-        <mark key="^" line="58" column="34" />
-        <mark key="." line="58" column="34" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1550264738261">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="59" column="83" />
+        <mark key="]" line="59" column="83" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="59" column="83" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1548618224447">
         <mark key="[" line="22" column="12" />
@@ -241,7 +247,7 @@
         <mark key="." line="20" column="20" />
         <mark key="^" line="20" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1549810064548">
+      <file name="/Dummy.txt" timestamp="1550264664067">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -271,11 +277,10 @@
         <mark key="^" line="4" column="2" />
         <mark key="." line="4" column="2" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/Util.scala" timestamp="1549483003440">
-        <mark key="[" line="58" column="85" />
-        <mark key="]" line="67" column="9" />
-        <mark key="^" line="67" column="9" />
-        <mark key="." line="59" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/Util.scala" timestamp="1550264488427">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hib-map/src/main/resources/db/cre_main_listing.sql" timestamp="1549815821999">
         <mark key="[" line="0" column="0" />
@@ -294,11 +299,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1550090709534">
-        <mark key="[" line="90" column="5" />
-        <mark key="]" line="91" column="16" />
-        <mark key="^" line="91" column="16" />
-        <mark key="." line="91" column="16" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1550264484141">
+        <mark key="[" line="50" column="3" />
+        <mark key="]" line="54" column="2" />
+        <mark key="^" line="53" column="31" />
+        <mark key="." line="53" column="31" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1549816640411">
         <mark key="[" line="30" column="57" />
@@ -340,40 +345,41 @@
       <jump line="7" column="21" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" />
       <jump line="25" column="5" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" />
       <jump line="10" column="26" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" />
+      <jump line="2" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>row.toSeq.takeRight(row.length - 1).toArray.map(parseDouble)</text>
+        <text encoding="base64">CgogIGRlZiBjbGVhckNhY2hlKHN1YnNldHM6IEFycmF5W0RhdGFzZXRbUm93XV0pID0gewogICAgc3Vic2V0cy5mb3JlYWNoKF8udW5wZXJzaXN0KQogIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE1hcC5lbXB0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHZhbCBzdGFydCA9IExvY2FsVGltZS5ub3cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBDT1VOVF9TVUZGSVggPSAiX2NudCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYWdncmVnYXRlLnByaW50U2NoZW1hKCkKICAgICAgcHJpbnRsbigiaGVoIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBkZWYgY2xlYXJDYWNoZShzdWJzZXRzOiBBcnJheVtEYXRhc2V0W1Jvd11dKSA9ID8/PwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgTmlsCg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdGFydCA9IExvY2FsVGltZS5ub3cKICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJ1Y3RGaWVsZCgiYXZnKCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsIGNvbE5hbWUgPSAK</text>
+        <text encoding="base64">ICAgIE1hcC5lbXB0eQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3AiLCA=</text>
+        <text>postMappingValidationMoments</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
