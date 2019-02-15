@@ -44,8 +44,9 @@
         <mark key="^" line="11" column="6" />
         <mark key="." line="11" column="6" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" timestamp="1550144330858">
-        <mark key="[" line="10" column="26" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" timestamp="1550204490825">
+        <mark key="'" line="10" column="26" />
+        <mark key="[" line="8" column="26" />
         <mark key="]" line="10" column="26" />
         <mark key="." line="10" column="26" />
         <mark key="^" line="12" column="21" />
@@ -338,6 +339,7 @@
       <jump line="48" column="46" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" />
       <jump line="7" column="21" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" />
       <jump line="25" column="5" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" />
+      <jump line="10" column="26" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -382,7 +384,7 @@
       <last-offset />
       <last-pattern>2</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
