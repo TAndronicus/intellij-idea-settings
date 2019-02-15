@@ -32,11 +32,11 @@
         <mark key="." line="7" column="20" />
         <mark key="^" line="14" column="200" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0b19ef4c-e79f-4153-ba58-7b751551bf90/console.sql" timestamp="1549815266145">
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="7" column="9" />
-        <mark key="^" line="1" column="8" />
-        <mark key="." line="7" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/0b19ef4c-e79f-4153-ba58-7b751551bf90/console.sql" timestamp="1550267130855">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="9" />
+        <mark key="^" line="13" column="9" />
+        <mark key="." line="13" column="9" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hib-map/src/main/kotlin/jb/hibmap/model/Listing.kt" timestamp="1549815750880">
         <mark key="[" line="8" column="0" />
@@ -247,7 +247,7 @@
         <mark key="." line="20" column="20" />
         <mark key="^" line="20" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550264664067">
+      <file name="/Dummy.txt" timestamp="1550266993761">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -352,34 +352,34 @@
         <text encoding="base64">CgogIGRlZiBjbGVhckNhY2hlKHN1YnNldHM6IEFycmF5W0RhdGFzZXRbUm93XV0pID0gewogICAgc3Vic2V0cy5mb3JlYWNoKF8udW5wZXJzaXN0KQogIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVsZXRlCmZyb20gbGlzdGluZwp3aGVyZSB0cnVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGFydCA9IExvY2FsVGltZS5ub3cK</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBzdGFydCA9IExvY2FsVGltZS5ub3cK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgY2xlYXJDYWNoZShzdWJzZXRzOiBBcnJheVtEYXRhc2V0W1Jvd11dKSA9ID8/PwoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBzdGFydCA9IExvY2FsVGltZS5ub3cKICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkZWYgY2xlYXJDYWNoZShzdWJzZXRzOiBBcnJheVtEYXRhc2V0W1Jvd11dKSA9ID8/PwoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIE1hcC5lbXB0eQo=</text>
+        <text encoding="base64">ICAgIHZhbCBzdGFydCA9IExvY2FsVGltZS5ub3cKICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>postMappingValidationMoments</text>
+        <text>select *</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
