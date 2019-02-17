@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/io/FileReader.scala" timestamp="1550437422809">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="85" />
+        <mark key="^" line="9" column="6" />
+        <mark key="." line="9" column="6" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/hib-map/src/main/kotlin/Controller.kt" timestamp="1549813193311">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="4" column="0" />
@@ -92,10 +98,6 @@
         <mark key="]" line="669" column="32" />
         <mark key="^" line="669" column="32" />
         <mark key="." line="669" column="32" />
-      </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/prediction/Predictions.scala" timestamp="1549907491255">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="4" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/akka-samples-main-scala/src/main/scala/sample/hello/Tr.java" timestamp="1550390464769">
         <mark key="[" line="2" column="17" />
@@ -378,8 +380,8 @@
       <jump line="77" column="5" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICB2YWwgbW9tZW50cyA9IG11dGFibGUuTWFwW0RvdWJsZSwgQXJyYXlbRG91YmxlXV0oKQogICAgZm9yIChyb3cgPC0gd2VpZ2h0ZWRNZWFuLmNvbGxlY3QoKSkgewogICAgICBtb21lbnRzLnB1dChwYXJzZURvdWJsZShyb3cuZ2V0RG91YmxlKDApKSwgcm93LnRvU2VxLnRha2VSaWdodChyb3cubGVuZ3RoIC0gMikudG9BcnJheS5tYXAocGFyc2VEb3VibGUpLm1hcChfIC8gcm93LmdldExvbmcoMSkpKQogICAgfQogICAgbW9tZW50cy50b01hcA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlucHV0LmNvbHVtbnMuZm9yZWFjaChuYW1lID0+IGlucHV0ID0gaW5wdXQud2l0aENvbHVtblJlbmFtZWQobmFtZSwgbmFtZSArICJfMSIpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIE1hcC5lbXB0eQo=</text>
