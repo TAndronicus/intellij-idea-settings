@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/io/FileReader.scala" timestamp="1550437422809">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/io/FileReader.scala" timestamp="1550507169078">
         <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="85" />
+        <mark key="]" line="10" column="0" />
         <mark key="^" line="9" column="6" />
-        <mark key="." line="9" column="6" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hib-map/src/main/kotlin/Controller.kt" timestamp="1549813193311">
         <mark key="[" line="2" column="0" />
@@ -314,7 +314,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/srcs/akka-actor_2.12-2.5.21-sources.jar!/akka/actor/Actor.scala" timestamp="1550389520345" />
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.scala" timestamp="1549386512661">
         <mark key="[" line="7" column="41" />
         <mark key="]" line="12" column="38" />
@@ -384,31 +383,31 @@
         <text encoding="base64">ICAgIGlucHV0LmNvbHVtbnMuZm9yZWFjaChuYW1lID0+IGlucHV0ID0gaW5wdXQud2l0aENvbHVtblJlbmFtZWQobmFtZSwgbmFtZSArICJfMSIpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIE1hcC5lbXB0eQo=</text>
+        <text encoding="base64">ICAgIGlucHV0LmNvbHVtbnMuZm9yZWFjaChuYW1lID0+IGlucHV0ID0gaW5wdXQud2l0aENvbHVtblJlbmFtZWQobmFtZSwgbmFtZSArICJfMSIpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgdmFsIG1vbWVudHMgPSBtdXRhYmxlLk1hcFtEb3VibGUsIEFycmF5W0RvdWJsZV1dKCkK</text>
+        <text encoding="base64">ICAgIE1hcC5lbXB0eQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgc2VsRk5hbWVzLm1hcCgic3VtKCgiICsgXyArIEFWRVJBR0VfU1VGRklYICsgIiAqICIgKyBQUkVESUNUSU9OICsgQ09VTlRfU1VGRklYICsgIikpIikubWFwKGNvbCkubWFwKF8gKiBjb2woInN1bSgiICsgUFJFRElDVElPTiArIENPVU5UX1NVRkZJWCArICIpIikpLm1hcChzdW0pOl8qKQogICAgTWFwLmVtcHR5CiAgfQoKfQo=</text>
+        <text encoding="base64">Ly8gICAgdmFsIG1vbWVudHMgPSBtdXRhYmxlLk1hcFtEb3VibGUsIEFycmF5W0RvdWJsZV1dKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigiaGVoIikK</text>
+        <text encoding="base64">ICAgICAgc2VsRk5hbWVzLm1hcCgic3VtKCgiICsgXyArIEFWRVJBR0VfU1VGRklYICsgIiAqICIgKyBQUkVESUNUSU9OICsgQ09VTlRfU1VGRklYICsgIikpIikubWFwKGNvbCkubWFwKF8gKiBjb2woInN1bSgiICsgUFJFRElDVElPTiArIENPVU5UX1NVRkZJWCArICIpIikpLm1hcChzdW0pOl8qKQogICAgTWFwLmVtcHR5CiAgfQoKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLndpdGhDb2x1bW5SZW5hbWVkKCJzdW0oIiArIFBSRURJQ1RJT04gKyBDT1VOVF9TVUZGSVggKyAiKSIsICJzdW0iKQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigiaGVoIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYmFzZU1vbWVudHMuZm9yZWFjaCgpCg==</text>
+        <text encoding="base64">ICAgICAgLndpdGhDb2x1bW5SZW5hbWVkKCJzdW0oIiArIFBSRURJQ1RJT04gKyBDT1VOVF9TVUZGSVggKyAiKSIsICJzdW0iKQo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYmFzZU1vbWVudHMuZm9yZWFjaCgpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICB2YXIgZGF0YXNldCA9IGlucHV0LnNlbGVjdChjb2woIioiKSkKICAgIHZhbCBzZWxGTmFtZXMgPSBzZWxlY3RlZEZlYXR1cmVzLm1hcChpdGVtID0+IENPTF9QUkVGSVggKyBpdGVtKQogICAgdmFsIHNjaGVtYSA9IFN0cnVjdFR5cGUoU2VxKAogICAgICBTdHJ1Y3RGaWVsZChQUkVESUNUSU9OLCBEb3VibGVUeXBlLCBudWxsYWJsZSA9IGZhbHNlKSwKICAgICAgU3RydWN0RmllbGQoUFJFRElDVElPTiArIENPVU5UX1NVRkZJWCwgTG9uZ1R5cGUsIG51bGxhYmxlID0gZmFsc2UpCiAgICApICsrIHNlbEZOYW1lcy5tYXAoXyArIEFWRVJBR0VfU1VGRklYKS5tYXAoaXRlbSA9PiBTdHJ1Y3RGaWVsZChpdGVtLCBEb3VibGVUeXBlLCBudWxsYWJsZSA9IHRydWUpKSkKICAgIHZhciBhZ2dyZWdhdGUgPSBTcGFya0VtYmVkZGVkLnNzLmNyZWF0ZURhdGFGcmFtZShTcGFya0VtYmVkZGVkLnNzLnNwYXJrQ29udGV4dC5lbXB0eVJERFtSb3ddLCBzY2hlbWEpCgogICAgZm9yIChpbmRleCA8LSBiYXNlTW9kZWxzLmluZGljZXMpIHsKICAgICAgZGF0YXNldCA9IGJhc2VNb2RlbHMoaW5kZXgpLnNldFByZWRpY3Rpb25Db2woUFJFRElDVElPTiArICJfIiArIGluZGV4KS50cmFuc2Zvcm0oZGF0YXNldCkuZHJvcChDT0xVTU5TMkRST1A6IF8qKQogICAgICBhZ2dyZWdhdGUgPSBhZ2dyZWdhdGUudW5pb24oZGF0YXNldC53aXRoQ29sdW1uUmVuYW1lZChQUkVESUNUSU9OICsgIl8iICsgaW5kZXgsIFBSRURJQ1RJT04pLmdyb3VwQnkoUFJFRElDVElPTikuYWdnKGNvdW50KFBSRURJQ1RJT04pLCBzZWxGTmFtZXMubWFwKGF2Zyk6IF8qKSkKICAgIH0KICAgIHZhbCB3ZWlnaHRlZE1lYW4gPSBhZ2dyZWdhdGUuZ3JvdXBCeShQUkVESUNUSU9OKS5hZ2coc3VtKFBSRURJQ1RJT04gKyBDT1VOVF9TVUZGSVgpLCBzZWxGTmFtZXMubWFwKF8gKyBBVkVSQUdFX1NVRkZJWCkubWFwKGNvbCkubWFwKF8gKiBjb2woUFJFRElDVElPTiArIENPVU5UX1NVRkZJWCkpLm1hcChzdW0pOiBfKik=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>weightedMean</text>
