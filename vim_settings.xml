@@ -126,11 +126,10 @@
         <mark key="^" line="8" column="57" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/hello-world-server/src/main/java/jb/TestRestEndpoint.java" timestamp="1549743998238">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="10" column="25" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="10" column="25" />
+      <file name="$USER_HOME$/Workspace/JVM/hello-world-server/src/main/java/jb/TestRestEndpoint.java" timestamp="1550610202920">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/db-filler/src/main/scala/jb/SparkEmbedded.scala" timestamp="1550523462884">
         <mark key="[" line="18" column="0" />
@@ -391,28 +390,28 @@
         <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgVGhyZWFkLnNsZWVwKDEwMDAwKQo=</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzZW5kZXIoKSkK</text>
+        <text encoding="base64">ICAgICAgVGhyZWFkLnNsZWVwKDEwMDAwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigia2lsbGluZyBzZWxmIikK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihzZW5kZXIoKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigiaW5pdGlhbGl6ZWQiKQo=</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigia2lsbGluZyBzZWxmIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigic2VuZGluZyBiYWNrIikK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgcHJpbnRsbigiaW5pdGlhbGl6ZWQiKQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcHJpbnRsbigic2VuZGluZyBiYWNrIikK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigiaW5pdGlhbGl6aW5nIHNwYXJrIikK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigiaW5pdGlhbGl6ZWQiKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc3MuCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbigiaW5pdGlhbGl6aW5nIHNwYXJrIikK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">OiBTdHJpbmcgPT4=</text>
