@@ -171,11 +171,11 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/greyhound/src/main/java/greyhound/configuration/ApplicationConfiguration.java" timestamp="1550690956511">
-        <mark key="[" line="54" column="37" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="54" column="33" />
+      <file name="$USER_HOME$/Workspace/JVM/greyhound/src/main/java/greyhound/configuration/ApplicationConfiguration.java" timestamp="1550692164023">
+        <mark key="[" line="55" column="33" />
+        <mark key="]" line="55" column="37" />
+        <mark key="." line="55" column="37" />
+        <mark key="^" line="55" column="37" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/PreMappedIntegratedDecisionTreeModel.scala" timestamp="1549308784428">
         <mark key="[" line="33" column="43" />
@@ -430,7 +430,7 @@
         <text encoding="base64">ICAgICAgcHJpbnRsbigic2VuZGluZyBiYWNrIikK</text>
       </register>
       <register name="-" type="4">
-        <text>root</text>
+        <text>Name</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
