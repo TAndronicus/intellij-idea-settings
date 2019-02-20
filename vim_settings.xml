@@ -91,10 +91,10 @@
         <mark key="]" line="35" column="38" />
         <mark key="." line="35" column="38" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/db-filler/src/main/scala/jb/actors/FilesLister.scala" timestamp="1550584949235">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/db-filler/src/main/scala/jb/actors/FilesLister.scala" timestamp="1550694836198">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/db-filler/src/main/scala/jb/actors/ScriptCreator.scala" timestamp="1550520414245">
         <mark key="[" line="18" column="9" />
@@ -404,31 +404,31 @@
         <text>'/mnt/mag/Workspace/JVM/dtree-merge/B/h' with (format csv);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHR5cGU+YnVuZGxlPC90eXBlPgo=</text>
+        <text encoding="base64">ICBGaWx0ZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkoKERhdGFTb3VyY2UpIGRhdGFTb3VyY2UpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHR5cGU+YnVuZGxlPC90eXBlPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlkYXRhU291cmNlLgo=</text>
+        <text encoding="base64">CQkoKERhdGFTb3VyY2UpIGRhdGFTb3VyY2UpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQlEcml2ZXJNYW5hZ2VyLnJlZ2lzdGVyKG5ldyBvcmcucG9zdGdyZXNxbC5Ecml2ZXIoKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">CQlkYXRhU291cmNlLgo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlEcml2ZXJNYW5hZ2VyLnJlZ2lzdGVyKG5ldyBvcmcucG9zdGdyZXNxbC5Ecml2ZXIoKSk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NDIuMi41PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">CQlkYXRhU291cmNlLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+bXlzcWw8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPm15c3FsLWNvbm5lY3Rvci1qYXZhPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj44LjAuMTU8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5PgoJCTwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuaGliZXJuYXRlL2hpYmVybmF0ZS1jb3JlIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NDIuMi41PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlkYXRhU291cmNlLnNldFBhc3N3b3JkKCJNdWt1bDE0ISQiKTsK</text>
+        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+bXlzcWw8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPm15c3FsLWNvbm5lY3Rvci1qYXZhPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj44LjAuMTU8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5PgoJCTwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuaGliZXJuYXRlL2hpYmVybmF0ZS1jb3JlIC0tPgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">KChBcnJheUxpc3QpIA==</text>
