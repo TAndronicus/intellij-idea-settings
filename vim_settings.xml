@@ -250,6 +250,11 @@
         <mark key="^" line="12" column="29" />
         <mark key="." line="12" column="29" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/deeplearning4j-introduction/sparkjava-mnist/src/main/java/it/ekursy/blog/dl4jintro/LeNetMnistDemo.java" timestamp="1550772288541">
+        <mark key="[" line="24" column="65" />
+        <mark key="]" line="24" column="179" />
+        <mark key="." line="24" column="65" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d49eef88-c4a0-4b7a-b996-e9d6a68b9408/console.sql" timestamp="1550267544500">
         <mark key="[" line="7" column="71" />
         <mark key="]" line="7" column="69" />
@@ -428,7 +433,7 @@
         <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+bXlzcWw8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPm15c3FsLWNvbm5lY3Rvci1qYXZhPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj44LjAuMTU8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5PgoJCTwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuaGliZXJuYXRlL2hpYmVybmF0ZS1jb3JlIC0tPgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KChBcnJheUxpc3QpIA==</text>
+        <text>src/main/resources/models/lenet-mnist-model.zip</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
