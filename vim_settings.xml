@@ -120,6 +120,11 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1550863062649">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/build.sbt" timestamp="1549294951446">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -402,38 +407,38 @@
       <jump line="25" column="66" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>'/mnt/mag/Workspace/JVM/dtree-merge/B/h' with (format csv);</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmZ1bmN0aW9ucy5jb2wK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBGaWx0ZXIK</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmZ1bmN0aW9ucy5jb2wK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHR5cGU+YnVuZGxlPC90eXBlPgo=</text>
+        <text encoding="base64">ICAgIGEuc2hvdygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkoKERhdGFTb3VyY2UpIGRhdGFTb3VyY2UpCg==</text>
+        <text encoding="base64">ICBGaWx0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlkYXRhU291cmNlLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHR5cGU+YnVuZGxlPC90eXBlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy4K</text>
+        <text encoding="base64">CQkoKERhdGFTb3VyY2UpIGRhdGFTb3VyY2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlEcml2ZXJNYW5hZ2VyLnJlZ2lzdGVyKG5ldyBvcmcucG9zdGdyZXNxbC5Ecml2ZXIoKSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">CQlkYXRhU291cmNlLgo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+NDIuMi41PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">CQlEcml2ZXJNYW5hZ2VyLnJlZ2lzdGVyKG5ldyBvcmcucG9zdGdyZXNxbC5Ecml2ZXIoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk8ZGVwZW5kZW5jeT4KCQkJPGdyb3VwSWQ+bXlzcWw8L2dyb3VwSWQ+CgkJCTxhcnRpZmFjdElkPm15c3FsLWNvbm5lY3Rvci1qYXZhPC9hcnRpZmFjdElkPgoJCQk8dmVyc2lvbj44LjAuMTU8L3ZlcnNpb24+CgkJPC9kZXBlbmRlbmN5PgoJCTwhLS0gaHR0cHM6Ly9tdm5yZXBvc2l0b3J5LmNvbS9hcnRpZmFjdC9vcmcuaGliZXJuYXRlL2hpYmVybmF0ZS1jb3JlIC0tPgo=</text>
+        <text encoding="base64">CQlkYXRhU291cmNlLgo=</text>
       </register>
       <register name="-" type="4">
-        <text>src/main/resources/models/lenet-mnist-model.zip</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
