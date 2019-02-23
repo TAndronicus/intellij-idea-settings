@@ -44,10 +44,8 @@
         <mark key="." line="7" column="24" />
         <mark key="^" line="7" column="24" />
       </file>
-      <file name="/Dummy.scala" timestamp="1550865617430">
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+      <file name="/Dummy.scala" timestamp="1550926070637">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/db-filler/src/main/scala/jb/Runner.scala" timestamp="1550521353361">
         <mark key="[" line="10" column="47" />
@@ -157,11 +155,11 @@
         <mark key="^" line="20" column="43" />
         <mark key="." line="20" column="43" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1550922255166">
-        <mark key="[" line="63" column="34" />
-        <mark key="]" line="64" column="67" />
-        <mark key="." line="64" column="67" />
-        <mark key="^" line="64" column="67" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1550928200466">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="56" column="6" />
+        <mark key="]" line="56" column="6" />
+        <mark key="." line="56" column="6" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1550512217213">
         <mark key="[" line="7" column="0" />
@@ -297,7 +295,7 @@
       <file name="/testdb.public.carrier [testdb@localhost]" timestamp="1550693221192">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550910002594">
+      <file name="/Dummy.txt" timestamp="1550928204944">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -344,12 +342,6 @@
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
-      </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1550920785929">
-        <mark key="[" line="118" column="4" />
-        <mark key="]" line="118" column="3" />
-        <mark key="." line="118" column="3" />
-        <mark key="^" line="118" column="3" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1550514327919">
         <mark key="[" line="9" column="0" />
@@ -425,40 +417,42 @@
       <jump line="74" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/Util.scala" />
       <jump line="0" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/Util.scala" />
       <jump line="25" column="66" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" />
+      <jump line="61" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
+      <jump line="94" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50bG4ocyJBZ2dyZWdhdGlvbjogJHtDaHJvbm9Vbml0Lk1JTExJUy5iZXR3ZWVuKGZpcnN0LCBzZWNvbmQpfSIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNlY29uZCA9IExvY2FsRGF0ZVRpbWUubm93CiAgICBwcmludGxuKHMiQ29tcG9zaXRpb246ICR7Q2hyb25vVW5pdC5NSUxMSVMuYmV0d2VlbihmaXJzdCwgc2Vjb25kKX0iKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlY29uZCA9IExvY2FsRGF0ZVRpbWUubm93CiAgICBwcmludGxuKHMiQWdncmVnYXRpb246ICR7Q2hyb25vVW5pdC5NSUxMSVMuYmV0d2VlbihmaXJzdCwgc2Vjb25kKX0iKQogICAgZmlyc3QgPSBMb2NhbERhdGVUaW1lLm5vdwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHNlY29uZCA9IExvY2FsRGF0ZVRpbWUubm93CiAgICBwcmludGxuKHMiU2luZ3VsYXIgbWFwcGluZ3M6ICR7Q2hyb25vVW5pdC5NSUxMSVMuYmV0d2VlbihmaXJzdCwgc2Vjb25kKX0iKQogICAgZmlyc3QgPSBMb2NhbERhdGVUaW1lLm5vdwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBzZWNvbmQgPSBMb2NhbERhdGVUaW1lLm5vdwogICAgcHJpbnRsbihzIlByZXBhcmF0aW9uOiAke0Nocm9ub1VuaXQuTUlMTElTLmJldHdlZW4oZmlyc3QsIHNlY29uZCl9IikKICAgIGZpcnN0ID0gTG9jYWxEYXRlVGltZS5ub3cK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBmaXJzdCA9IExvY2FsRGF0ZVRpbWUubm93Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHdlaWdodGVkTW9tZW50cy5jYWNoZSgpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBmaXJzdCA9IExvY2FsRGF0ZVRpbWUubm93Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBzZWNvbmQgPSBMb2NhbERhdGVUaW1lLm5vdwogICAgcHJpbnRsbihzIk1hcHBpbmc6ICR7Q2hyb25vVW5pdC5NSUxMSVMuYmV0d2VlbihmaXJzdCwgc2Vjb25kKX0iKQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lCmltcG9ydCBqYXZhLnRpbWUudGVtcG9yYWwuQ2hyb25vVW5pdAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lCmltcG9ydCBqYXZhLnRpbWUudGVtcG9yYWwuQ2hyb25vVW5pdAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbCBzZWNvbmQgPSBMb2NhbERhdGVUaW1lLm5vdwogICAgcHJpbnRsbihzIkNvbXBvc2l0aW9uOiAke0Nocm9ub1VuaXQuTUlMTElTLmJldHdlZW4oZmlyc3QsIHNlY29uZCl9IikK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhbCBmaXJzdCA9IExvY2FsRGF0ZVRpbWUubm93Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRhdGFzZXQuY2FjaGUoKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZGF0YXNldC5jYWNoZSgpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gICAgdmFsIHJlc3VsdCA9IHdlaWdodGVkTW9tZW50cy5zZWxlY3QoY29sKFBSRURJQ1RJT04pLmFzKExBQkVMKSwgc2VsRk5hbWVzLmluZGljZXMubWFwKGkgPT4gY29sKCkpKQogICAgdmFsIGZpcnN0ID0gTG9jYWxEYXRlVGltZS5ub3cKICAgIHdlaWdodGVkTW9tZW50cy5zaG93CiAgICB2YWwgc2Vjb25kID0gTG9jYWxEYXRlVGltZS5ub3cKICAgIHByaW50bG4ocyJDb21wb3NpdGluOiAke0Nocm9ub1VuaXQuTUlMTElTLmJldHdlZW4oZmlyc3QsIHNlY29uZCl9IikK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHNlY29uZCA9IExvY2FsRGF0ZVRpbWUubm93CiAgICBwcmludGxuKHMiQ29tcG9zaXRpb246ICR7Q2hyb25vVW5pdC5NSUxMSVMuYmV0d2VlbihmaXJzdCwgc2Vjb25kKX0iKQo=</text>
+      </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
