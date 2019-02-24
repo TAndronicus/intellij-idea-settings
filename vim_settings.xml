@@ -197,10 +197,11 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/jooq-demo/src/main/resources/library.xml" timestamp="1551031331172">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Workspace/JVM/jooq-demo/src/main/resources/library.xml" timestamp="1551040718532">
+        <mark key="[" line="24" column="25" />
+        <mark key="]" line="24" column="30" />
+        <mark key="." line="24" column="30" />
+        <mark key="^" line="24" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/jooq-demo/pom.xml" timestamp="1551030991510">
         <mark key="[" line="30" column="0" />
@@ -478,7 +479,7 @@
         <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lCmltcG9ydCBqYXZhLnRpbWUudGVtcG9yYWwuQ2hyb25vVW5pdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>jdbc:postgresql://localhost:5432/library</text>
+        <text>library</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
