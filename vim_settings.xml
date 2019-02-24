@@ -77,6 +77,12 @@
         <mark key="^" line="59" column="65" />
         <mark key="." line="59" column="65" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/jooq-demo/src/main/java/jb/Runner.java" timestamp="1551042235494">
+        <mark key="[" line="23" column="59" />
+        <mark key="]" line="23" column="59" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="23" column="59" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/deeplearning4j/nd4j/nd4j-backends/nd4j-api-parent/nd4j-api/src/main/java/org/nd4j/linalg/ops/transforms/Transforms.java" timestamp="1547883202042">
         <mark key="[" line="669" column="22" />
         <mark key="]" line="669" column="32" />
@@ -197,9 +203,9 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/jooq-demo/src/main/resources/library.xml" timestamp="1551040718532">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="30" />
+      <file name="$USER_HOME$/Workspace/JVM/jooq-demo/src/main/resources/library.xml" timestamp="1551041928410">
+        <mark key="[" line="5" column="13" />
+        <mark key="]" line="5" column="52" />
         <mark key="." line="24" column="30" />
         <mark key="^" line="24" column="30" />
       </file>
@@ -290,6 +296,12 @@
         <mark key="]" line="7" column="69" />
         <mark key="^" line="7" column="69" />
         <mark key="." line="7" column="69" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/54ba2077-1061-40bd-b8a4-6ce26a52984f/console.sql" timestamp="1551042320551">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+        <mark key="." line="15" column="27" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/server/SparkEmbedded.scala" timestamp="1550299111088">
         <mark key="[" line="18" column="44" />
@@ -412,7 +424,7 @@
         <mark key="^" line="6" column="69" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1550694049445">
+      <file name="/fragment.java" timestamp="1551041734594">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -449,7 +461,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>jdbc:postgresql://localhost:5432</text>
+        <text encoding="base64">Cmluc2VydCBpbnRvIGF1dGhvciAoaWQsIGZpcnN0X25hbWUsIGxhc3RfbmFtZSkKdmFsdWVzICgxLCAnSmVkcnplaicsICdCaWVkcnp5Y2tpJyk7</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA8cGFzc3dvcmQ+PC9wYXNzd29yZD4K</text>
@@ -479,7 +491,7 @@
         <text encoding="base64">aW1wb3J0IGphdmEudGltZS5Mb2NhbERhdGVUaW1lCmltcG9ydCBqYXZhLnRpbWUudGVtcG9yYWwuQ2hyb25vVW5pdAo=</text>
       </register>
       <register name="-" type="4">
-        <text>library</text>
+        <text>Biedrzycki</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
