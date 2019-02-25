@@ -8,6 +8,7 @@
       <mapping pattern="test0" type="PLAIN_TEXT" />
       <mapping pattern="results-dmp2" type="PLAIN_TEXT" />
       <mapping ext="aux" type="PLAIN_TEXT" />
+      <mapping ext="propperties" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
