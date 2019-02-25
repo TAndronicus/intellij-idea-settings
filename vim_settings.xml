@@ -226,11 +226,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="12" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1551118026599">
-        <mark key="[" line="19" column="46" />
-        <mark key="]" line="19" column="25" />
-        <mark key="." line="19" column="25" />
-        <mark key="^" line="19" column="25" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1551119530243">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/.gitignore" timestamp="1549656434296">
         <mark key="[" line="8" column="3" />
@@ -467,31 +466,31 @@
         <text encoding="base64">Cmluc2VydCBpbnRvIGF1dGhvciAoaWQsIGZpcnN0X25hbWUsIGxhc3RfbmFtZSkKdmFsdWVzICgxLCAnSmVkcnplaicsICdCaWVkcnp5Y2tpJyk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXVtdIG1hdCA9IHsgezEgLCAyICwgM30sCiAgICAgICAgICAgICAgICB7NiAsIDcgLCA4fSwKICAgICAgICAgICAgICAgIHsxMSwgMTIsIDEzfX07CiAgICAgICAgTGlzdDxMaXN0PEludGVnZXI+PiBkaWFnb25hbHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1hdC5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBMaXN0PEludGVnZXI+IGRpYWdvbmFsID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgTWF0aC5taW4oaSwgbWF0Lmxlbmd0aCAtIGkpICsgMTsgaisrKSB7CiAgICAgICAgICAgICAgICBkaWFnb25hbAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBtYXRbMF0ubGVuZ3RoIC0gTWF0aC5hYnMoaSkgKyAxOyBqKyspIHsKICAgICAgICAgICAgICAgIGRpYWdvbmFsLmFkZChtYXRbXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gLSBtYXRbMF0ubGVuZ3RoOyBpIDwgIG1hdFswXS5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBMaXN0PEludGVnZXI+IGRpYWdvbmFsID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBtYXRbMF0ubGVuZ3RoIC0gTWF0aC5hYnMoaSkgKyAxOyBqKyspIHsKICAgICAgICAgICAgICAgIGRpYWdvbmFsLmFkZChtYXRbXSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEphdmFSREQ8Um93PiBkcyA9IFNwYXJrRW1iZWRkZWQuc3MoKS5yZWFkKCkuZm9ybWF0KCJjc3YiKS5vcHRpb24oImluZmVyU2NoZW1hIiwgInRydWUiKS5sb2FkKCJBL2JpIikudG9KYXZhUkREKCk7CiAgICAgICAgTGlzdDxJbnRlZ2VyPiBsaXN0YSA9IG5ldyBBcnJheUxpc3Q8SW50ZWdlcj4oKXt7YWRkKDEpOyBhZGQoMik7IGFkZCgzKTt9fTsKICAgICAgICBKYXZhU3BhcmtDb250ZXh0IHNjID0gbmV3IEphdmFTcGFya0NvbnRleHQoKTsKICAgICAgICBKYXZhUkREPEludGVnZXI+IHJkZCA9IHNjLnBhcmFsbGVsaXplKGxpc3RhKTsK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gLSBtYXRbMF0ubGVuZ3RoOyBpIDwgIG1hdFswXS5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBMaXN0PEludGVnZXI+IGRpYWdvbmFsID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cGFzc3dvcmQ+PC9wYXNzd29yZD4K</text>
+        <text encoding="base64">Ly8gICAgICAgIEphdmFSREQ8Um93PiBkcyA9IFNwYXJrRW1iZWRkZWQuc3MoKS5yZWFkKCkuZm9ybWF0KCJjc3YiKS5vcHRpb24oImluZmVyU2NoZW1hIiwgInRydWUiKS5sb2FkKCJBL2JpIikudG9KYXZhUkREKCk7CiAgICAgICAgTGlzdDxJbnRlZ2VyPiBsaXN0YSA9IG5ldyBBcnJheUxpc3Q8SW50ZWdlcj4oKXt7YWRkKDEpOyBhZGQoMik7IGFkZCgzKTt9fTsKICAgICAgICBKYXZhU3BhcmtDb250ZXh0IHNjID0gbmV3IEphdmFTcGFya0NvbnRleHQoKTsKICAgICAgICBKYXZhUkREPEludGVnZXI+IHJkZCA9IHNjLnBhcmFsbGVsaXplKGxpc3RhKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cGFzc3dvcmQvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8cGFzc3dvcmQ+PC9wYXNzd29yZD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHR5cGU+YnVuZGxlPC90eXBlPgo=</text>
+        <text encoding="base64">ICAgICAgICA8cGFzc3dvcmQvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGFra2EuYWN0b3IuQWN0b3JTeXN0ZW0KaW1wb3J0IGFra2EudXRpbC5CeXRlU3RyaW5nCmltcG9ydCBzY2FsYS5jb25jdXJyZW50Ll8KaW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuZHVyYXRpb24uXwppbXBvcnQgamF2YS5uaW8uZmlsZS5QYXRocwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHR5cGU+YnVuZGxlPC90eXBlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFra2EuTm90VXNlZAo=</text>
+        <text encoding="base64">aW1wb3J0IGFra2EuYWN0b3IuQWN0b3JTeXN0ZW0KaW1wb3J0IGFra2EudXRpbC5CeXRlU3RyaW5nCmltcG9ydCBzY2FsYS5jb25jdXJyZW50Ll8KaW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuZHVyYXRpb24uXwppbXBvcnQgamF2YS5uaW8uZmlsZS5QYXRocwo=</text>
       </register>
       <register name="-" type="4">
         <text>Biedrzycki</text>
