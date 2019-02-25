@@ -77,10 +77,11 @@
         <mark key="." line="42" column="8" />
         <mark key="^" line="42" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/jooq-spring-demo/src/test/java/jb/JooqSpringDemoApplicationTests.java" timestamp="1551128361943">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Workspace/JVM/jooq-spring-demo/src/test/java/jb/JooqSpringDemoApplicationTests.java" timestamp="1551128448996">
+        <mark key="[" line="28" column="78" />
+        <mark key="]" line="28" column="78" />
+        <mark key="." line="28" column="78" />
+        <mark key="^" line="28" column="78" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/model/dt/IntegratedDecisionTreeModelTest.scala" timestamp="1549117478296">
         <mark key="[" line="59" column="59" />
@@ -501,31 +502,31 @@
         <text>Connection conn = DriverManager.getConnection(url, userName, password)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9CgogICAgICAgIC8vIEZvciB0aGUgc2FrZSBvZiB0aGlzIHR1dG9yaWFsLCBsZXQncyBrZWVwIGV4Y2VwdGlvbiBoYW5kbGluZyBzaW1wbGUKICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb25uZWN0aW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgKENvbm5lY3Rpb24gY29ubiA9IERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbih1cmwsIHVzZXJOYW1lLCBwYXNzd29yZCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBDb25uZWN0aW9uIGlzIHRoZSBvbmx5IEpEQkMgcmVzb3VyY2UgdGhhdCB3ZSBuZWVkCiAgICAgICAgLy8gUHJlcGFyZWRTdGF0ZW1lbnQgYW5kIFJlc3VsdFNldCBhcmUgaGFuZGxlZCBieSBqT09RLCBpbnRlcm5hbGx5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgICAgICB9CgogICAgICAgIC8vIEZvciB0aGUgc2FrZSBvZiB0aGlzIHR1dG9yaWFsLCBsZXQncyBrZWVwIGV4Y2VwdGlvbiBoYW5kbGluZyBzaW1wbGUKICAgICAgICBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnJ1bnRpbWU8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgKENvbm5lY3Rpb24gY29ubiA9IERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbih1cmwsIHVzZXJOYW1lLCBwYXNzd29yZCkpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnJ1bnRpbWU8L3Njb3BlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXVtdIG1hdCA9IHsgezEgLCAyICwgM30sCiAgICAgICAgICAgICAgICB7NiAsIDcgLCA4fSwKICAgICAgICAgICAgICAgIHsxMSwgMTIsIDEzfX07CiAgICAgICAgTGlzdDxMaXN0PEludGVnZXI+PiBkaWFnb25hbHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1hdC5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBMaXN0PEludGVnZXI+IGRpYWdvbmFsID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgTWF0aC5taW4oaSwgbWF0Lmxlbmd0aCAtIGkpICsgMTsgaisrKSB7CiAgICAgICAgICAgICAgICBkaWFnb25hbAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBtYXRbMF0ubGVuZ3RoIC0gTWF0aC5hYnMoaSkgKyAxOyBqKyspIHsKICAgICAgICAgICAgICAgIGRpYWdvbmFsLmFkZChtYXRbXSkK</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXVtdIG1hdCA9IHsgezEgLCAyICwgM30sCiAgICAgICAgICAgICAgICB7NiAsIDcgLCA4fSwKICAgICAgICAgICAgICAgIHsxMSwgMTIsIDEzfX07CiAgICAgICAgTGlzdDxMaXN0PEludGVnZXI+PiBkaWFnb25hbHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG1hdC5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBMaXN0PEludGVnZXI+IGRpYWdvbmFsID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgIGZvciAoaW50IGogPSAwOyBqIDwgTWF0aC5taW4oaSwgbWF0Lmxlbmd0aCAtIGkpICsgMTsgaisrKSB7CiAgICAgICAgICAgICAgICBkaWFnb25hbAogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>.jooqspringdemo</text>
