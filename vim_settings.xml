@@ -226,6 +226,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="12" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/jooq-spring-demo/src/main/java/jb/jooqspringdemo/JooqSpringDemoApplication.java" timestamp="1551124811439">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1551119530243">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -260,6 +265,12 @@
         <mark key="]" line="31" column="18" />
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/jooq-spring-demo/src/main/resources/library.xml" timestamp="1551125055371">
+        <mark key="[" line="42" column="51" />
+        <mark key="]" line="42" column="57" />
+        <mark key="^" line="42" column="57" />
+        <mark key="." line="42" column="57" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/db-filler/.gitignore" timestamp="1550518820690">
         <mark key="[" line="3" column="6" />
@@ -332,7 +343,7 @@
       <file name="/testdb.public.carrier [testdb@localhost]" timestamp="1550693221192">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551116631220">
+      <file name="/Dummy.txt" timestamp="1551124907192">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -493,7 +504,7 @@
         <text encoding="base64">aW1wb3J0IGFra2EuYWN0b3IuQWN0b3JTeXN0ZW0KaW1wb3J0IGFra2EudXRpbC5CeXRlU3RyaW5nCmltcG9ydCBzY2FsYS5jb25jdXJyZW50Ll8KaW1wb3J0IHNjYWxhLmNvbmN1cnJlbnQuZHVyYXRpb24uXwppbXBvcnQgamF2YS5uaW8uZmlsZS5QYXRocwo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>.jooqspringdemo</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
