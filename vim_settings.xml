@@ -432,9 +432,9 @@
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1551889025413">
-        <mark key="[" line="34" column="43" />
-        <mark key="]" line="34" column="43" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1551907995752">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="96" />
         <mark key="." line="34" column="43" />
         <mark key="^" line="34" column="53" />
       </file>
@@ -511,8 +511,8 @@
       <jump line="5" column="6" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">c2NvcmUoMCkgPiBzY29yZSgyKSB8fCBzY29yZSgxKSA+IHNjb3JlKDMp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vICAgIHZhbCBmaWxlbmFtZXMgPSBBcnJheSgiYmkiLCAiYnUiLCAiYyIsICJkIiwgImgiLCAiaSIsICJtIiwgInAiLCAic2UiLCAidCIsICJ3ZCIsICJ3aSIpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJlc3VsdAo=</text>
