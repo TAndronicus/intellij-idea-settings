@@ -9,6 +9,11 @@
         <mark key="^" line="9" column="6" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1551968481242">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/jooq-spring-demo/src/main/resources/codegen.sh" timestamp="1551126932734">
         <mark key="[" line="0" column="19" />
         <mark key="]" line="1" column="405" />
@@ -211,6 +216,12 @@
         <mark key="]" line="10" column="73" />
         <mark key="^" line="19" column="31" />
         <mark key="." line="10" column="73" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1551968500982">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="56" />
+        <mark key="." line="9" column="3" />
+        <mark key="^" line="9" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/.gitignore" timestamp="1549197796275">
         <mark key="[" line="4" column="2" />
@@ -511,38 +522,39 @@
       <jump line="5" column="6" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHZhbCBmaWxlbmFtZXMgPSBBcnJheSgiYmkiLCAiYnUiLCAiYyIsICJkIiwgImgiLCAiaSIsICJtIiwgInAiLCAic2UiLCAidCIsICJ3ZCIsICJ3aSIpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">c3RhdGljIEZ1bmN0aW9uPEEsIENvbXBhcmFibGU8SW50ZWdlcj4+IGdldEZ1bmN0aW9uKCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZ2V0RnVuY3Rpb24oKS5hcHBseShuZXcgQSg1KSkuY29tcGFyZVRvKEludGVnZXIudmFsdWVPZig1KSkpOwogICAgfQoKICAgIHN0YXRpYyA8VCBleHRlbmRzIENvbXBhcmFibGU8VD4+IEZ1bmN0aW9uPEEsIFQ+IGdldEZ1bmN0aW9uKCkgewogICAgICAgIHJldHVybiBBOjpnZXRYOwogICAgfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciByZXN1bHQgPSBBcnJheSgpCg==</text>
+      <register name="2" type="4">
+        <text>public class PlaygroundJava {
+}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGpiLnRlc3Rlci5GdWxsVGVzdGVyCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsKICAgIC8vICAgIHZhbCBjb25mID0gbmV3IFNwYXJrQ29uZigpLnNldEFwcE5hbWUoImR0cmVlLW1lcmdlIikuc2V0TWFzdGVyKCJsb2NhbCIpCiAgICAvLyAgICB2YWwgc3MgPSBTcGFya1Nlc3Npb24uYnVpbGRlci5jb25maWcoY29uZikuZ2V0T3JDcmVhdGUKICAgIC8vICAgIHZhbCBzMSA9IFNwYXJrRW1iZWRkZWQuc3MucmVhZC5vcHRpb24oImluZmVyU2NoZW1hIiwgInRydWUiKS5mb3JtYXQoImNzdiIpLmxvYWQoIkEvYi5jc3YiKQogICAgLy8gICAgdmFsIHMyID0gU3BhcmtFbWJlZGRlZC5zcy5yZWFkLm9wdGlvbigiaW5mZXJTY2hlbWEiLCAidHJ1ZSIpLmZvcm1hdCgiY3N2IikubG9hZCgiQS9hLmNzdiIpCiAgICAvLyAgICBzMS51bmlvbkFsbChzMikuZXhjZXB0KHMxLmludGVyc2VjdChzMikpLnNob3coKQogICAgLy8gICAgcHJpbnQoIiMjIyBTZWNvbmQgIyMjIikKICAgIC8vICAgIHMxLmV4Y2VwdChzMikudW5pb24oczIuZXhjZXB0KHMxKSkuc2hvdygpCiAgICB2YWwgYSA9IEFycmF5KDUsIDQsIDMsIDIpCiAgICB2YXIgYyA9IEFycmF5KDEsIDIpCiAgICBmb3IgKGIgPC0gYSkgewogICAgICBjIDorPSBiCiAgICB9CiAgICBjLmZvcmVhY2goaSA9PiBwcmludChpICsgIlxuIikpCiAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBtdlF1YWxpdHlNZWFzdXJlMiA9IEZ1bGxUZXN0ZXIudGVzdE12KHRlc3RlZFN1YnNldCwgbkNsYXNzaWYpCg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICB2YWwgbWF0Y2hlcyA9IHJlZkxhYmVscy5pbmRpY2VzLm1hcChpID0+IHByZWRpY3Rpb25zKGkpID09IHJlZkxhYmVscyhpKSkKICAgIG1hdGNoZXMuY291bnQoaSA9PiBpKS50b0RvdWJsZSAvIG1hdGNoZXMubGVuZ3Ro</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhciByZXN1bHQgPSBBcnJheSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IGpiLnRlc3Rlci5GdWxsVGVzdGVyCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICB2YWwgbWF0Y2hlZCA9IG12TGFiZWxzLmluZGljZXMubWFwKGkgPT4gKG12TGFiZWxzKGkpLCByZWZMYWJlbHMoaSkpKS5ncm91cEJ5KGlkZW50aXR5KS5tYXBWYWx1ZXMoXy5zaXplKQogICAgdmFsICh0cCwgdG4sIGZwLCBmbikgPSAobWF0Y2hlZCgoMSwgMSkpLCBtYXRjaGVkKCgwLCAwKSksIG1hdGNoZWQoKDEsIDApKSwgbWF0Y2hlZCgoMCwgMSkpKQogICAgKCh0cCArIHRuKS50b0RvdWJsZSAvICh0cCArIHRuICsgZnAgKyBmbiksCiAgICAgICh0cCAqIHRuIC0gZnAgKiBmbikudG9Eb3VibGUgLyBtYXRoLnNxcnQoKHRwICsgZnApICogKHRwICsgZm4pICogKHRuICsgZnApICogKHRuICsgZm4pKSk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhbCBtdlF1YWxpdHlNZWFzdXJlMiA9IEZ1bGxUZXN0ZXIudGVzdE12KHRlc3RlZFN1YnNldCwgbkNsYXNzaWYpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIG1hdGNoZWQuY291bnQoaSA9PiBpKS50b0RvdWJsZSAvIG1hdGNoZWQubGVuZ3RoCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICB2YWwgbWF0Y2hlcyA9IHJlZkxhYmVscy5pbmRpY2VzLm1hcChpID0+IHByZWRpY3Rpb25zKGkpID09IHJlZkxhYmVscyhpKSkKICAgIG1hdGNoZXMuY291bnQoaSA9PiBpKS50b0RvdWJsZSAvIG1hdGNoZXMubGVuZ3Ro</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBtYXRjaGVkID0gbXZMYWJlbHMuaW5kaWNlcy5tYXAoaSA9PiBtdkxhYmVscyhpKSA9PSByZWZMYWJlbHMoaSkpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2NvcmUubGFzdCA+IHNjb3JlLmhlYWQ=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>2</text>
@@ -556,9 +568,7 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>2</entry>
-      </history-search>
+      <history-search />
       <history-cmd />
       <history-expr />
       <history-input />
