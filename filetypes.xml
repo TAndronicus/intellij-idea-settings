@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
       <mapping ext="bbl" type="Native" />
       <mapping pattern="results-dmp" type="PLAIN_TEXT" />
       <mapping pattern="result" type="PLAIN_TEXT" />
