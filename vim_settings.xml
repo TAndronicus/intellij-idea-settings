@@ -3,30 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1552057334443">
-        <mark key="[" line="17" column="36" />
-      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1552064219030" />
     </filemarks>
     <jumps />
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihnZW5lcmF0ZSgiIiwgMykpOwovLyAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKExvY2FsRGF0ZS5vZigyMDE5LCAzLCAyKS5mb3JtYXQoRGF0ZVRpbWVGb3JtYXR0ZXIub2ZQYXR0ZXJuKCJFRUUgZGQgTU1NIFlZWVkiKSkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaGloaWFoaGkiLnNwbGl0KCJoaSIpLmxlbmd0aCAtIDEpOwo=</text>
-      </register>
-    </registers>
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history />
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
