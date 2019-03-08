@@ -6,11 +6,11 @@
       <file name="/Dummy.txt" timestamp="1552066137631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1552069123994">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="34" column="44" />
-        <mark key="^" line="34" column="44" />
-        <mark key="." line="34" column="44" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1552075273838">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="27" />
+        <mark key="^" line="28" column="25" />
+        <mark key="." line="28" column="27" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1547823727345">
         <mark key="[" line="14" column="0" />
@@ -24,16 +24,28 @@
         <text encoding="base64">ICAgICAgICBpbnRbXSBudW1iZXJzID0gezEyLCAzNiwgMiwgNSwxMiwzMX07CiAgICAgICAgaW50IG1pbiA9IG51bWJlcnNbMF0gKyBudW1iZXJzWzFdOyAvLyBpbnN0YW50aWF0ZSByYW5kb21seQogICAgICAgIGludCBtYXggPSBudW1iZXJzWzBdICsgbnVtYmVyc1sxXTsgLy8gaW5zdGFudGlhdGUgcmFuZG9tbHkKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG51bWJlcnMubGVuZ3RoIC0gMTsgaSsrKSB7CiAgICAgICAgICAgIG1pbiA9IE1hdGgubWluKG51bWJlcnNbaV0gKyBudW1iZXJzW2kgKyAxXSwgbWluKTsKICAgICAgICAgICAgbWF4ID0gTWF0aC5tYXgobnVtYmVyc1tpXSArIG51bWJlcnNbaSArIDFdLCBtYXgpOwogICAgICAgIH0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWluICsgIiwgIiArIG1heCk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJiYW5hbmFzIjsKICAgICAgICByZW1vdmVEdXBsaWNhdGUocyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJhbmdlcy5pbmRpY2VzLnRvTWFwKGkgPT4gbnVtcy5maWx0ZXIoaSA9PiBpID49IG1pbiAmJiBpIDw9IG1heCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWluID0gTWF0aC5taW4obnVtYmVyc1tpXSArIG51bWJlcnNbaSArIDFdLCBtaW4pOwogICAgICAgICAgICBtYXggPSBNYXRoLm1heChudW1iZXJzW2ldICsgbnVtYmVyc1tpICsgMV0sIG1heCk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgbWF4ID0gbnVtYmVyc1swXSArIG51bWJlcnNbMV07IC8vIGluc3RhbnRpYXRlIHJhbmRvbWx5CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW1iZXJzLmxlbmd0aCAtIDE7IGkrKykgewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpbnRbXSBudW1iZXJzID0gezEyLCAzNiwgMiwgNSwxMiwzMX07CiAgICAgICAgaW50IG1pbiA9IG51bWJlcnNbMF0gKyBudW1iZXJzWzFdOyAvLyBpbnN0YW50aWF0ZSByYW5kb21seQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJiYW5hbmFzIjsKICAgICAgICByZW1vdmVEdXBsaWNhdGUocyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJhbmdlcy5pbmRpY2VzLnRvTWFwKGkgPT4gbnVtcy5maWx0ZXIoaSA9PiBpID49IG1pbiAmJiBpIDw9IG1heCkpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXkoNSwgNCwgMywgMikKICAgIHZhciBjID0gQXJyYXkoMSwgMikKICAgIGZvciAoYiA8LSBhKSB7CiAgICAgIGMgOis9IGIKICAgIH0KICAgIGMuZm9yZWFjaChpID0+IHByaW50KGkgKyAiXG4iKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>min</text>
+        <text>min + &quot;, &quot; + max);</text>
       </register>
     </registers>
     <search>
