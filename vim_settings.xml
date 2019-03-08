@@ -6,6 +6,12 @@
       <file name="/Dummy.txt" timestamp="1552066137631">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1552069123994">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="34" column="44" />
+        <mark key="^" line="34" column="44" />
+        <mark key="." line="34" column="44" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1547823727345">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -14,11 +20,20 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBpbnRbXSBudW1iZXJzID0gezEyLCAzNiwgMiwgNSwxMiwzMX07CiAgICAgICAgaW50IG1pbiA9IG51bWJlcnNbMF0gKyBudW1iZXJzWzFdOyAvLyBpbnN0YW50aWF0ZSByYW5kb21seQogICAgICAgIGludCBtYXggPSBudW1iZXJzWzBdICsgbnVtYmVyc1sxXTsgLy8gaW5zdGFudGlhdGUgcmFuZG9tbHkKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG51bWJlcnMubGVuZ3RoIC0gMTsgaSsrKSB7CiAgICAgICAgICAgIG1pbiA9IE1hdGgubWluKG51bWJlcnNbaV0gKyBudW1iZXJzW2kgKyAxXSwgbWluKTsKICAgICAgICAgICAgbWF4ID0gTWF0aC5tYXgobnVtYmVyc1tpXSArIG51bWJlcnNbaSArIDFdLCBtYXgpOwogICAgICAgIH0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obWluICsgIiwgIiArIG1heCk7</text>
+      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJhbmdlcy5pbmRpY2VzLnRvTWFwKGkgPT4gbnVtcy5maWx0ZXIoaSA9PiBpID49IG1pbiAmJiBpIDw9IG1heCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJiYW5hbmFzIjsKICAgICAgICByZW1vdmVEdXBsaWNhdGUocyk7Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIHJhbmdlcy5pbmRpY2VzLnRvTWFwKGkgPT4gbnVtcy5maWx0ZXIoaSA9PiBpID49IG1pbiAmJiBpIDw9IG1heCkpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXkoNSwgNCwgMywgMikKICAgIHZhciBjID0gQXJyYXkoMSwgMikKICAgIGZvciAoYiA8LSBhKSB7CiAgICAgIGMgOis9IGIKICAgIH0KICAgIGMuZm9yZWFjaChpID0+IHByaW50KGkgKyAiXG4iKSkK</text>
+      </register>
+      <register name="-" type="4">
+        <text>min</text>
       </register>
     </registers>
     <search>
