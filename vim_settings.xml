@@ -4,15 +4,18 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/MultiRunner.scala" timestamp="1552136779126">
-        <mark key="[" line="30" column="47" />
-        <mark key="]" line="30" column="45" />
-        <mark key="." line="30" column="45" />
+        <mark key="[" line="34" column="47" />
+        <mark key="]" line="34" column="45" />
+        <mark key="." line="34" column="45" />
       </file>
       <file name="/Dummy.txt" timestamp="1552066137631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1552131161429">
-        <mark key="[" line="10" column="26" />
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1552163298662">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="26" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1552075273838">
         <mark key="[" line="28" column="27" />
@@ -53,7 +56,7 @@
         <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXkoNSwgNCwgMywgMikKICAgIHZhciBjID0gQXJyYXkoMSwgMikKICAgIGZvciAoYiA8LSBhKSB7CiAgICAgIGMgOis9IGIKICAgIH0KICAgIGMuZm9yZWFjaChpID0+IHByaW50KGkgKyAiXG4iKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>min + &quot;, &quot; + max);</text>
+        <text encoding="base64">MywgNSwg</text>
       </register>
     </registers>
     <search>
