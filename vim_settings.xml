@@ -23,11 +23,10 @@
         <mark key="." line="66" column="3" />
         <mark key="^" line="66" column="3" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1552075273838">
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="28" column="27" />
-        <mark key="^" line="28" column="25" />
-        <mark key="." line="28" column="27" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1552128147405">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1552120775405">
         <mark key="'" line="20" column="0" />
@@ -51,37 +50,37 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>iQualityMeasure</text>
+        <text encoding="base64">ICAgICAgICBJbnRTdHJlYW0ucmFuZ2UoMCwgYS5sZW5ndGgpLm1hcChpIC0+IGFbaV0pLmZvckVhY2goZWwgLT4gewogICAgICAgICAgICBpZiAoaXNPcGVuVG9rZW4oZWwpKSB7CiAgICAgICAgICAgICAgICBzdGFjay5wdXNoKGVsKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIG1hdGNoZXMoc3RhY2sucG9wKCksIGVsKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciByZXN1bHQgPSBBcnJheShtdlF1YWxpdHlNZWFzdXJlKQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBpbnRbXSBhcnJheSA9IHsxLCAyLCAzLCA0fTsKICAgICAgICBjdWJlKGFycmF5KTsKICAgICAgICBmb3IgKGludCBpIDogYXJyYXkpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkpOwogICAgICAgIH0KICAgIH0KCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA6Kz0gdGVzdElBY2MoaVByZWRpY3Rpb25zLCB0ZXN0ZWRTdWJzZXQpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSByZXN1bHQgPSBuZXcgaW50W2FycmF5Lmxlbmd0aF07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIGNvcyA9IHRydWU7CiAgICAgICAgY29zID8gc291dAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluID0gTWF0aC5taW4obnVtYmVyc1tpXSArIG51bWJlcnNbaSArIDFdLCBtaW4pOwogICAgICAgICAgICBtYXggPSBNYXRoLm1heChudW1iZXJzW2ldICsgbnVtYmVyc1tpICsgMV0sIG1heCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJqZSI7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHMubWF0Y2hlcygiXFxzLioiKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgbWF4ID0gbnVtYmVyc1swXSArIG51bWJlcnNbMV07IC8vIGluc3RhbnRpYXRlIHJhbmRvbWx5CiAgICAgICAgZm9yIChpbnQgaSA9IDA7IGkgPCBudW1iZXJzLmxlbmd0aCAtIDE7IGkrKykgewo=</text>
+        <text encoding="base64">ICAgIHZhciByZXN1bHQgPSBBcnJheShtdlF1YWxpdHlNZWFzdXJlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBudW1iZXJzID0gezEyLCAzNiwgMiwgNSwxMiwzMX07CiAgICAgICAgaW50IG1pbiA9IG51bWJlcnNbMF0gKyBudW1iZXJzWzFdOyAvLyBpbnN0YW50aWF0ZSByYW5kb21seQo=</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA6Kz0gdGVzdElBY2MoaVByZWRpY3Rpb25zLCB0ZXN0ZWRTdWJzZXQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJiYW5hbmFzIjsKICAgICAgICByZW1vdmVEdXBsaWNhdGUocyk7Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJhbmdlcy5pbmRpY2VzLnRvTWFwKGkgPT4gbnVtcy5maWx0ZXIoaSA9PiBpID49IG1pbiAmJiBpIDw9IG1heCkpCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>]</text>
       </register>
     </registers>
     <search>
