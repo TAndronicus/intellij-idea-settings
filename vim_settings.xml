@@ -64,11 +64,11 @@
       <file name="/fragment.java" timestamp="1552120801856">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/vavr-demo/src/main/java/Testi.java" timestamp="1552158738703">
-        <mark key="[" line="10" column="8" />
-        <mark key="]" line="10" column="38" />
-        <mark key="." line="10" column="38" />
-        <mark key="^" line="10" column="46" />
+      <file name="/mnt/mag/Workspace/JVM/vavr-demo/src/main/java/Testi.java" timestamp="1552160875426">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="21" />
+        <mark key="." line="22" column="25" />
+        <mark key="^" line="22" column="25" />
       </file>
     </filemarks>
     <jumps>
@@ -77,38 +77,38 @@
       <jump line="48" column="33" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBpbnRbXSBhciA9IHsxLCAzLCA1LCAyfTsKICAgICAgICBzb3J0KGFyKTsKICAgICAgICBmb3IgKGludCBpIDogYXIpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkpOwogICAgICAgIH0KICAgIH0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBtb250aCwgc3VtCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEb2cgYURvZyA9IG5ldyBEb2coIk1heCIpOwogICAgICAgIERvZyBvbGREb2cgPSBhRG9nOwoKICAgICAgICAvLyB3ZSBwYXNzIHRoZSBvYmplY3QgdG8gZm9vCiAgICAgICAgZm9vKGFEb2cpOwogICAgICAgIC8vIGFEb2cgdmFyaWFibGUgaXMgc3RpbGwgcG9pbnRpbmcgdG8gdGhlICJNYXgiIGRvZyB3aGVuIGZvbyguLi4pIHJldHVybnMKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRydWU6ICIgKyBhRG9nLmdldE5hbWUoKS5lcXVhbHMoIk1heCIpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZhbHNlOiAiICsgYURvZy5nZXROYW1lKCkuZXF1YWxzKCJGaWZpIikpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVHJ1ZTogIiArIChhRG9nID09IG9sZERvZykpOyAvLyB0cnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vcmVzdCBmaWVsZHMK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgTGF6eSBsYXp5ID0gTGF6eS5vZihNYXRoOjpyYW5kb20pOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQ2F0ZWdvcnkgY2F0ZWdvcnk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMYXp5KCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQ2hhcmFjdGVyKCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdFtpXSk7Ly8gIHByaW50IGluIGFzY2VuZGluZyBvcmRlcgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1pbiAhPSBpKSB7CiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgTGF6eSBsYXp5ID0gTGF6eS5vZihNYXRoOjpyYW5kb20pOw==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBMYXp5KCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgQ2hhcmFjdGVyKCkK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIGZhbHNl</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
     </registers>
     <search>
