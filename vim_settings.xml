@@ -64,10 +64,11 @@
       <file name="/fragment.java" timestamp="1552120801856">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/vavr-demo/src/main/java/Testi.java" timestamp="1552156186259">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/vavr-demo/src/main/java/Testi.java" timestamp="1552158738703">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="38" />
+        <mark key="." line="10" column="38" />
+        <mark key="^" line="10" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -80,34 +81,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBpbnRbXSBhciA9IHsxLCAzLCA1LCAyfTsKICAgICAgICBzb3J0KGFyKTsKICAgICAgICBmb3IgKGludCBpIDogYXIpIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGkpOwogICAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgTGF6eSBsYXp5ID0gTGF6eS5vZihNYXRoOjpyYW5kb20pOw==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBMYXp5KCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgQ2hhcmFjdGVyKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdFtpXSk7Ly8gIHByaW50IGluIGFzY2VuZGluZyBvcmRlcgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1pbiAhPSBpKSB7CiAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBmaW5hbCBpbnQgdGVtcCA9IGxpc3RbaV07CiAgICAgICAgICAgICAgICBsaXN0W2ldID0gbGlzdFttaW5dOwogICAgICAgICAgICAgICAgbGlzdFttaW5dID0gdGVtcDs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgTGF6eSBsYXp5ID0gTGF6eS5vZihNYXRoOjpyYW5kb20pOw==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBMYXp5KCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuZXcgQ2hhcmFjdGVyKCkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGlzdFtpXSk7Ly8gIHByaW50IGluIGFzY2VuZGluZyBvcmRlcgo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1pbiAhPSBpKSB7CiAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>// end sort</text>
+        <text encoding="base64">IC8vIGZhbHNl</text>
       </register>
     </registers>
     <search>
