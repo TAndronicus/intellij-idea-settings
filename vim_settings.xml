@@ -11,6 +11,11 @@
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="91" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/MultiRunner.scala" timestamp="1552122353441">
+        <mark key="[" line="30" column="55" />
+        <mark key="]" line="30" column="55" />
+        <mark key="." line="30" column="55" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1552121280823">
         <mark key="'" line="48" column="33" />
         <mark key="[" line="65" column="91" />
@@ -76,7 +81,7 @@
         <text encoding="base64">ICAgIHJhbmdlcy5pbmRpY2VzLnRvTWFwKGkgPT4gbnVtcy5maWx0ZXIoaSA9PiBpID49IG1pbiAmJiBpIDw9IG1heCkpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>{testIAcc, testMvAcc}</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
