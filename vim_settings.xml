@@ -25,6 +25,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.scala" timestamp="1552196607412">
+        <mark key="[" line="19" column="7" />
+        <mark key="]" line="19" column="28" />
+        <mark key="^" line="19" column="28" />
+        <mark key="." line="19" column="28" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/tester/Tester.scala" timestamp="1552120734048">
         <mark key="[" line="5" column="7" />
       </file>
@@ -81,7 +87,7 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsc3Quc3RyZWFtKCkuZmxhdE1hcChtIC0+IG0uZW50cnlTZXQoKS5zdHJlYW0oKSkubWFwKE1hcC5FbnRyeTo6Z2V0S2V5KTsK</text>
+        <text encoding="base64">ICAgIGRmLmdyb3VwQnkoInByb2R1Y3RfaWQiKS5zdW0oIm1pbiIsICJtYXgiKS5leHBsYWluKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBEb2cgYURvZyA9IG5ldyBEb2coIk1heCIpOwogICAgICAgIERvZyBvbGREb2cgPSBhRG9nOwoKICAgICAgICAvLyB3ZSBwYXNzIHRoZSBvYmplY3QgdG8gZm9vCiAgICAgICAgZm9vKGFEb2cpOwogICAgICAgIC8vIGFEb2cgdmFyaWFibGUgaXMgc3RpbGwgcG9pbnRpbmcgdG8gdGhlICJNYXgiIGRvZyB3aGVuIGZvbyguLi4pIHJldHVybnMKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIlRydWU6ICIgKyBhRG9nLmdldE5hbWUoKS5lcXVhbHMoIk1heCIpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZhbHNlOiAiICsgYURvZy5nZXROYW1lKCkuZXF1YWxzKCJGaWZpIikpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVHJ1ZTogIiArIChhRG9nID09IG9sZERvZykpOyAvLyB0cnVlCg==</text>
