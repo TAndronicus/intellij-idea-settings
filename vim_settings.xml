@@ -28,10 +28,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1552194917754">
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1552241607330">
         <mark key="[" line="59" column="83" />
-        <mark key="]" line="59" column="99" />
-        <mark key="." line="59" column="99" />
+        <mark key="]" line="59" column="83" />
+        <mark key="." line="59" column="83" />
         <mark key="^" line="59" column="99" />
       </file>
     </filemarks>
@@ -62,7 +62,7 @@
         <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXkoNSwgNCwgMywgMikKICAgIHZhciBjID0gQXJyYXkoMSwgMikKICAgIGZvciAoYiA8LSBhKSB7CiAgICAgIGMgOis9IGIKICAgIH0KICAgIGMuZm9yZWFjaChpID0+IHByaW50KGkgKyAiXG4iKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>preMappingValidationMoments</text>
+        <text>preMappingMoments</text>
       </register>
     </registers>
     <search>
