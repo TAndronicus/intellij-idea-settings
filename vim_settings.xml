@@ -13,8 +13,8 @@
       <file name="/Dummy.txt" timestamp="1552066137631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1552247151377">
-        <mark key="[" line="8" column="26" />
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1552341580341">
+        <mark key="[" line="10" column="13" />
         <mark key="]" line="8" column="31" />
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
@@ -30,12 +30,17 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1552277958342">
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1552341497708">
         <mark key="'" line="21" column="58" />
-        <mark key="[" line="59" column="83" />
-        <mark key="]" line="59" column="83" />
-        <mark key="." line="59" column="83" />
+        <mark key="[" line="42" column="8" />
+        <mark key="]" line="42" column="8" />
+        <mark key="." line="42" column="8" />
         <mark key="^" line="59" column="99" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" timestamp="1552341550825">
+        <mark key="[" line="10" column="73" />
+        <mark key="]" line="10" column="73" />
+        <mark key="." line="10" column="73" />
       </file>
     </filemarks>
     <jumps>
@@ -68,12 +73,12 @@
         <text encoding="base64">ICAgIHZhbCBhID0gQXJyYXkoNSwgNCwgMywgMikKICAgIHZhciBjID0gQXJyYXkoMSwgMikKICAgIGZvciAoYiA8LSBhKSB7CiAgICAgIGMgOis9IGIKICAgIH0KICAgIGMuZm9yZWFjaChpID0+IHByaW50KGkgKyAiXG4iKSkK</text>
       </register>
       <register name="-" type="4">
-        <text>preMappingMoments</text>
+        <text>.last</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search />
