@@ -15,6 +15,9 @@
         <mark key="^" line="14" column="29" />
         <mark key="." line="14" column="29" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/BatchExhaustiveResultCatcher.scala" timestamp="1552325941814">
+        <mark key="'" line="4" column="6" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/tester/Tester.scala" timestamp="1552120734048">
         <mark key="[" line="5" column="7" />
       </file>
@@ -29,6 +32,9 @@
         <mark key="]" line="12" column="29" />
         <mark key="." line="12" column="29" />
         <mark key="^" line="12" column="29" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/EagerResultCatcher.scala" timestamp="1552325937031">
+        <mark key="'" line="6" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" timestamp="1552195167071">
         <mark key="[" line="8" column="26" />
@@ -96,6 +102,12 @@
       <file name="$USER_HOME$/Workspace/JVM/greyhound/pom.xml" timestamp="1552217305170">
         <mark key="[" line="99" column="21" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" timestamp="1552325516056">
+        <mark key="[" line="47" column="81" />
+        <mark key="]" line="47" column="90" />
+        <mark key="." line="47" column="90" />
+        <mark key="^" line="47" column="90" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1552247096212">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="65" column="91" />
@@ -134,6 +146,8 @@
       <jump line="25" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
       <jump line="60" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
       <jump line="1" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
+      <jump line="6" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/EagerResultCatcher.scala" />
+      <jump line="4" column="6" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/BatchExhaustiveResultCatcher.scala" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -167,7 +181,7 @@
         <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>answer</text>
+        <text>.last -</text>
       </register>
     </registers>
     <search>
