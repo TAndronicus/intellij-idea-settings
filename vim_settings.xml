@@ -9,11 +9,6 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1552128147405">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/resources/test_data.sql" timestamp="1552340740464">
         <mark key="[" line="2" column="16" />
         <mark key="]" line="2" column="15" />
@@ -134,10 +129,11 @@
         <mark key="." line="47" column="90" />
         <mark key="^" line="47" column="90" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1552419116968">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1552420984810">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="21" column="181" />
+        <mark key="." line="19" column="20" />
+        <mark key="^" line="19" column="20" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/AuthorRepository.java" timestamp="1552339689848">
         <mark key="[" line="0" column="10" />
@@ -175,37 +171,37 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKHMuc3BsaXQoIlsgLF0iKSkuZmlsdGVyKHN0ciAtPiBzdHIubGVuZ3RoKCkgIT0gMSkuZmlsdGVyKHN0ciAtPiAhc3RyLmVxdWFscygiaHR0cCIpKQ==</text>
+        <text encoding="base64">ICAgICAgICBNYXA8TG9jYWxEYXRlLCBMaXN0PFN0YXRpc3RpY3M+PiBtYXAgPSBwcmljZXMKICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoZ3JvdXBpbmdCeShtIC0+IG0uZ2V0VXBkYXRlRGF0ZSgpLnRvSW5zdGFudCgpLmF0Wm9uZShab25lSWQuc3lzdGVtRGVmYXVsdCgpKS50b0xvY2FsRGF0ZSgpLCBIYXNoTWFwOjpuZXcsIG1hcHBpbmcoTWVudVByaWNlQnlEYXk6OmdldFN0YXRpc3RpY3MsIHRvTGlzdCgpKSkpOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KCkK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJuZXcsIHNpbmdsZSwgZmFsbGluLCBkcm9wcGluZywgZGF5cywgYXJ0d29yaywgaHVlc2hxLCBwcm9kdWN0aW9uLCBpc2VlZGF2aWRkcnVtcywgYW1wLCBiaWdlYXJsNywgbWl4LCByZWFsbHlnb2xkc21pdGgsIGh0dHBzLCAsICwgdCwgY28sIGRrNXhsNGNpY20sIGh0dHBzLCAsICwgdCwgY28sIHJ2cWt1bTBkazciOwogICAgICAgIEFycmF5cy5zdHJlYW0ocy5zcGxpdCgiWyAsXSIpKS5maWx0ZXIoc3RyIC0+IHN0ci5sZW5ndGgoKSAhPSAxKS5maWx0ZXIoc3RyIC0+ICFzdHIuZXF1YWxzKCJodHRwIikpLmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKHN0cmluZ3MpLnNvcnRlZCgpLmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
+        <text encoding="base64">Li4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBTdHJpbmdbXSBzdHJpbmdzID0geyJhYmMiLCAiYmNkIiwgImFhYSJ9Owo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFsdWVzIChuZSkK</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKHN0cmluZ3MpLnNvcnRlZCgpLmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gYXV0aG9yIChpZCwgZmlyc3RfbmFtZSwgc3VybmFtZSkgdmFsdWVzICgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBTdHJpbmdbXSBzdHJpbmdzID0geyJhYmMiLCAiYmNkIiwgImFhYSJ9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">dmFsdWVzIChuZSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCAK</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gYXV0aG9yIChpZCwgZmlyc3RfbmFtZSwgc3VybmFtZSkgdmFsdWVzICgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVnZXggPSAiXFxiWzAtOV17MSwzfSguKVswLTldezEsMn1cXGIiOwogICAgICAgIFBhdHRlcm4gcGF0dGVybiA9IFBhdHRlcm4uY29tcGlsZShyZWdleCk7CiAgICAgICAgTWF0Y2hlciBtYXRjaGVyID0gcGF0dGVybi5tYXRjaGVyKCJUYWJlbGEgMDI2LjEgLSBFTkMuIFNPQ0lBSVMgODUsMjAlIik7CgogICAgICAgIGlmIChtYXRjaGVyLmZpbmQoKSkgewogICAgICAgICAgICBTdHJpbmcgcmVzdWx0ID0gbWF0Y2hlci5ncm91cCgpLnJlcGxhY2UoIi4iLCAiLCIpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVzdWx0KTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQXJyYXlzLnRvU3RyaW5nKCIvZmUvZmUiLnNwbGl0KCIvIikpKTsK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCAK</text>
       </register>
       <register name="-" type="4">
-        <text>William</text>
+        <text>MenuPriceByDay::getUpdateDate</text>
       </register>
     </registers>
     <search>
