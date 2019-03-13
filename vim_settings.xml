@@ -96,17 +96,17 @@
       <file name="/Dummy.txt" timestamp="1552254560720">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1552405158563">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1552454454446">
         <mark key="[" line="8" column="26" />
-        <mark key="]" line="12" column="19" />
+        <mark key="]" line="8" column="26" />
         <mark key="^" line="12" column="19" />
-        <mark key="." line="12" column="19" />
+        <mark key="." line="8" column="26" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/MultiRunner.scala" timestamp="1552324432126">
-        <mark key="[" line="19" column="63" />
-        <mark key="]" line="12" column="5" />
-        <mark key="." line="12" column="5" />
-        <mark key="^" line="12" column="5" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/MultiRunner.scala" timestamp="1552454473915">
+        <mark key="[" line="34" column="56" />
+        <mark key="]" line="34" column="72" />
+        <mark key="." line="34" column="72" />
+        <mark key="^" line="34" column="72" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/599accff-3870-4681-9c18-54c54fd251a9/console.sql" timestamp="1552219251003">
         <mark key="[" line="7" column="98" />
@@ -201,7 +201,7 @@
         <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCAK</text>
       </register>
       <register name="-" type="4">
-        <text>MenuPriceByDay::getUpdateDate</text>
+        <text>350</text>
       </register>
     </registers>
     <search>
