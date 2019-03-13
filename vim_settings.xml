@@ -126,11 +126,11 @@
         <mark key="." line="47" column="90" />
         <mark key="^" line="47" column="90" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1552504187903">
-        <mark key="[" line="50" column="8" />
-        <mark key="]" line="50" column="208" />
-        <mark key="." line="50" column="208" />
-        <mark key="^" line="50" column="208" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1552505478665">
+        <mark key="[" line="52" column="35" />
+        <mark key="]" line="52" column="148" />
+        <mark key="." line="52" column="34" />
+        <mark key="^" line="52" column="34" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/AuthorRepository.java" timestamp="1552339689848">
         <mark key="[" line="0" column="10" />
@@ -167,8 +167,8 @@
       <jump line="4" column="6" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/BatchExhaustiveResultCatcher.scala" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVzdGlvbm5haXJlcy5zdHJlYW0oKS5mbGF0TWFwKHEgLT4gcS5nZXRUeXBlcygpLnN0cmVhbSgpLm1hcCh0IC0+IG5ldyBUeXBlUXVlc3Rpb25uYWlyZShxLCB0KSkpLmNvbGxlY3QoZ3JvdXBpbmdCeShUeXBlUXVlc3Rpb25uYWlyZTo6Z2V0VHlwZSkpOwo=</text>
+      <register name="0" type="4">
+        <text>questionnaires.stream().collect(groupingBy(Questionnaire::getName, mapping(Questionnaire::getTypes, identity())));</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBxdWVzdGlvbm5haXJlcy5zdHJlYW0oKS5jb2xsZWN0KGdyb3VwaW5nQnkoKSkK</text>
