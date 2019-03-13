@@ -83,11 +83,11 @@
         <mark key="^" line="12" column="71" />
         <mark key="." line="8" column="53" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/vavr-demo/src/test/java/VavrTest.java" timestamp="1552157442633">
-        <mark key="[" line="76" column="13" />
-        <mark key="]" line="73" column="40" />
-        <mark key="." line="73" column="40" />
-        <mark key="^" line="73" column="40" />
+      <file name="/mnt/mag/Workspace/JVM/vavr-demo/src/test/java/VavrTest.java" timestamp="1552500205611">
+        <mark key="[" line="96" column="58" />
+        <mark key="]" line="97" column="7" />
+        <mark key="." line="97" column="7" />
+        <mark key="^" line="97" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/vavr-demo/build.gradle" timestamp="1552140830390">
         <mark key="[" line="13" column="14" />
@@ -95,11 +95,8 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/vavr-demo/build.gradle" timestamp="1552217233722">
-        <mark key="[" line="15" column="62" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1552254560720">
-        <mark key="[" line="0" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/vavr-demo/build.gradle" timestamp="1552500011069">
+        <mark key="[" line="16" column="68" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1552454454446">
         <mark key="[" line="8" column="26" />
@@ -134,10 +131,10 @@
         <mark key="." line="47" column="90" />
         <mark key="^" line="47" column="90" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1552481881365">
-        <mark key="[" line="50" column="81" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1552499956231">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/AuthorRepository.java" timestamp="1552339689848">
         <mark key="[" line="0" column="10" />
@@ -174,38 +171,38 @@
       <jump line="4" column="6" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/BatchExhaustiveResultCatcher.scala" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBNYXA8TG9jYWxEYXRlLCBMaXN0PFN0YXRpc3RpY3M+PiBtYXAgPSBwcmljZXMKICAgICAgICAgICAgICAgIC5zdHJlYW0oKQogICAgICAgICAgICAgICAgLmNvbGxlY3QoZ3JvdXBpbmdCeShtIC0+IG0uZ2V0VXBkYXRlRGF0ZSgpLnRvSW5zdGFudCgpLmF0Wm9uZShab25lSWQuc3lzdGVtRGVmYXVsdCgpKS50b0xvY2FsRGF0ZSgpLCBIYXNoTWFwOjpuZXcsIG1hcHBpbmcoTWVudVByaWNlQnlEYXk6OmdldFN0YXRpc3RpY3MsIHRvTGlzdCgpKSkpOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsMS5hZGQoMSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgQXJyYXlMaXN0PD4oKS5mb3JFYWNoKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEphdmFQbGF5Z3JvdW5kIHsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJuZXcsIHNpbmdsZSwgZmFsbGluLCBkcm9wcGluZywgZGF5cywgYXJ0d29yaywgaHVlc2hxLCBwcm9kdWN0aW9uLCBpc2VlZGF2aWRkcnVtcywgYW1wLCBiaWdlYXJsNywgbWl4LCByZWFsbHlnb2xkc21pdGgsIGh0dHBzLCAsICwgdCwgY28sIGRrNXhsNGNpY20sIGh0dHBzLCAsICwgdCwgY28sIHJ2cWt1bTBkazciOwogICAgICAgIEFycmF5cy5zdHJlYW0ocy5zcGxpdCgiWyAsXSIpKS5maWx0ZXIoc3RyIC0+IHN0ci5sZW5ndGgoKSAhPSAxKS5maWx0ZXIoc3RyIC0+ICFzdHIuZXF1YWxzKCJodHRwIikpLmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEphdmFQbGF5Z3JvdW5kIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Li4K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcyA9ICJuZXcsIHNpbmdsZSwgZmFsbGluLCBkcm9wcGluZywgZGF5cywgYXJ0d29yaywgaHVlc2hxLCBwcm9kdWN0aW9uLCBpc2VlZGF2aWRkcnVtcywgYW1wLCBiaWdlYXJsNywgbWl4LCByZWFsbHlnb2xkc21pdGgsIGh0dHBzLCAsICwgdCwgY28sIGRrNXhsNGNpY20sIGh0dHBzLCAsICwgdCwgY28sIHJ2cWt1bTBkazciOwogICAgICAgIEFycmF5cy5zdHJlYW0ocy5zcGxpdCgiWyAsXSIpKS5maWx0ZXIoc3RyIC0+IHN0ci5sZW5ndGgoKSAhPSAxKS5maWx0ZXIoc3RyIC0+ICFzdHIuZXF1YWxzKCJodHRwIikpLmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KCkK</text>
+        <text encoding="base64">Li4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKHN0cmluZ3MpLnNvcnRlZCgpLmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IEFycmF5TGlzdDw+KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBTdHJpbmdbXSBzdHJpbmdzID0geyJhYmMiLCAiYmNkIiwgImFhYSJ9Owo=</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKHN0cmluZ3MpLnNvcnRlZCgpLmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFsdWVzIChuZSkK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBTdHJpbmdbXSBzdHJpbmdzID0geyJhYmMiLCAiYmNkIiwgImFhYSJ9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gYXV0aG9yIChpZCwgZmlyc3RfbmFtZSwgc3VybmFtZSkgdmFsdWVzICgpOwo=</text>
+        <text encoding="base64">dmFsdWVzIChuZSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
+        <text>{1, 3, 5}, {2, 4, 6})</text>
       </register>
     </registers>
     <search>
