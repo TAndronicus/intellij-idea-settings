@@ -21,21 +21,22 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/dao/AuthorRepositoryTest.java" timestamp="1552585923870">
-        <mark key="[" line="15" column="35" />
-        <mark key="]" line="30" column="7" />
-        <mark key="." line="30" column="7" />
-        <mark key="^" line="30" column="7" />
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/dao/AuthorRepositoryTest.java" timestamp="1552586922584">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="26" column="21" />
+        <mark key="." line="26" column="21" />
+        <mark key="^" line="26" column="21" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/HibernateMappingsApplicationTests.java" timestamp="1552339739704">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="14" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Author.java" timestamp="1552585994973">
-        <mark key="[" line="9" column="5" />
-        <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="4" />
-        <mark key="^" line="9" column="4" />
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Author.java" timestamp="1552586800200">
+        <mark key="'" line="23" column="33" />
+        <mark key="[" line="45" column="5" />
+        <mark key="]" line="46" column="3" />
+        <mark key="." line="46" column="3" />
+        <mark key="^" line="46" column="3" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/BatchExhaustiveResultCatcher.scala" timestamp="1552325941814">
         <mark key="'" line="4" column="6" />
@@ -54,11 +55,11 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Book.java" timestamp="1552585862862">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="12" column="7" />
-        <mark key="." line="12" column="7" />
-        <mark key="^" line="12" column="7" />
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Book.java" timestamp="1552586830600">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="29" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/EagerResultCatcher.scala" timestamp="1552325937031">
         <mark key="'" line="6" column="0" />
@@ -120,6 +121,11 @@
       <file name="$USER_HOME$/Workspace/JVM/greyhound/pom.xml" timestamp="1552217305170">
         <mark key="[" line="99" column="21" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/build.gradle" timestamp="1552586758546">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" timestamp="1552325516056">
         <mark key="[" line="47" column="81" />
         <mark key="]" line="47" column="90" />
@@ -165,40 +171,41 @@
       <jump line="1" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
       <jump line="6" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/EagerResultCatcher.scala" />
       <jump line="4" column="6" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/BatchExhaustiveResultCatcher.scala" />
+      <jump line="23" column="33" filename="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Author.java" />
     </jumps>
     <registers>
       <register name="0" type="4">
         <text>questionnaires.stream().collect(groupingBy(Questionnaire::getName, mapping(Questionnaire::getTypes, identity())));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">ICAgIGFubm90YXRpb25Qcm9jZXNzb3IgJ29yZy5wcm9qZWN0bG9tYm9rOmxvbWJvaycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QEJ1aWxkZXIKQE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">ICAgIEBFcXVhbHNBbmRIYXNoQ29kZS5JbmNsdWRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">QEVxdWFsc0FuZEhhc2hDb2RlKG9ubHlFeHBsaWNpdGx5SW5jbHVkZWQgPSB0cnVlLCBjYWxsU3VwZXIgPSBmYWxzZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEAK</text>
+        <text encoding="base64">QERhdGEKQEJ1aWxkZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBoYXdraW5nLnNldEZpcnN0TmFtZSgiU3RlcGhlbiIpOwogICAgICAgIGhhd2tpbmcuc2V0TGFzdE5hbWUoIkhhd2tpbmciKTsK</text>
+        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3RvcgpATm9BcmdzQ29uc3RydWN0b3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwZW5yb3NlLnNldEZpcnN0TmFtZSgiUm9nZXIiKTsK</text>
+        <text encoding="base64">ICAgIEBFcXVhbHNBbmRIYXNoQ29kZS5JbmNsdWRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QEJ1aWxkZXIKQE5vQXJnc0NvbnN0cnVjdG9yCkBSZXF1aXJlZEFyZ3NDb25zdHJ1Y3RvcgpAQWxsQXJnc0NvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">ICAgIEBFcXVhbHNBbmRIYXNoQ29kZS5JbmNsdWRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBoYXdraW5nLmJvbwo=</text>
+        <text encoding="base64">QEVxdWFsc0FuZEhhc2hDb2RlKG9ubHlFeHBsaWNpdGx5SW5jbHVkZWQgPSB0cnVlLCBjYWxsU3VwZXIgPSBmYWxzZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QEFsbEFyZ3NDb25zdHJ1Y3Rvcgo=</text>
+        <text encoding="base64">QERhdGEKQEJ1aWxkZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.builder().title</text>
       </register>
     </registers>
     <search>
