@@ -18,6 +18,12 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1552931826049">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="92" />
+        <mark key="." line="38" column="91" />
+        <mark key="^" line="38" column="91" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/greyhound/src/main/java/greyhound/Main.java" timestamp="1552243038653">
         <mark key="[" line="25" column="79" />
         <mark key="]" line="24" column="18" />
@@ -195,35 +201,35 @@
       <jump line="48" column="5" filename="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Author.java" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">CiAgICBASm9pblRhYmxlKG5hbWUgPSAiYXV0aG9yX2Jvb2siLAogICAgam9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lID0gImlkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiYXV0aG9yX2lkIiksCiAgICBpbnZlcnNlSm9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lID0gImF1dGhvcl9pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lID0gImlkIikp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJlYW0uY29uY2F0KEFycmF5cy5zdHJlYW0oYXJyYXlWYWxzKSwgU3RyZWFtLm9mKHNpbmdsZVZhbCkpLnRvQXJyYXkoU3RyaW5nW106Om5ldykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlucHV0LnNlbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuQWNjZXB0KFN5c3RlbS5vdXQ6OnByaW50bG4pCiAgICAgICAgICAgICAgICAuam9pbigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlucHV0LmNvbHVtbnMuY29uCg==</text>
+        <text encoding="base64">ICAgICAgICBDb21wbGV0YWJsZUZ1dHVyZS5zdXBwbHlBc3luYygoKSAtPiBUaHJlYWRMb2NhbFJhbmRvbS5jdXJyZW50KCkubmV4dEludCgxLCAxMCkpLy8gKiogZ2V0dGluZyBjb21waWxhdGlvbiBlcnJvciAqKioKICAgICAgICAgICAgICAgIC50aGVuQXBwbHkoTWF0aDo6c3FydCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBKb2luVGFibGUobmFtZSA9ICJhdXRob3JfYm9vayIsCg==</text>
+        <text encoding="base64">ICAgIGlucHV0LnNlbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGludmVyc2VKb2luQ29sdW1ucyA9IEBKb2luQ29sdW1uKG5hbWUgPSAiaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJhdXRob3JfaWQiKSkKLy8gICAgaW52ZXJzZUpvaW5Db2x1bW5zID0gQEpvaW5Db2x1bW4obmFtZSA9ICJhdXRob3JfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJpZCIpKQo=</text>
+        <text encoding="base64">ICAgIGlucHV0LmNvbHVtbnMuY29uCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBASm9pblRhYmxlKG5hbWUgPSAiYXV0aG9yX2Jvb2siKQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBKb2luVGFibGUobmFtZSA9ICJhdXRob3JfYm9vayIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGludmVyc2VKb2luQ29sdW1ucyA9IEBKb2luQ29sdW1uKG5hbWUgPSAiaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJhdXRob3JfaWQiKSkKLy8gICAgaW52ZXJzZUpvaW5Db2x1bW5zID0gQEpvaW5Db2x1bW4obmFtZSA9ICJhdXRob3JfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJpZCIpKQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRW50aXR5TWFuYWdlciBlbnRpdHlNYW5hZ2VyOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBASm9pblRhYmxlKG5hbWUgPSAiYXV0aG9yX2Jvb2siKQ==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmZsdXNoKCk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBBdXRob3IgZmluYWxIYXdraW5nID0gaGF3a2luZzsKICAgICAgICBBdXRob3IgZmluYWxQZW5yb3NlID0gcGVucm9zZTsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRW50aXR5TWFuYWdlciBlbnRpdHlNYW5hZ2VyOwo=</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
