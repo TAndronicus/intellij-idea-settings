@@ -114,6 +114,12 @@
         <mark key="." line="34" column="72" />
         <mark key="^" line="34" column="72" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1552929790375">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="20" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/599accff-3870-4681-9c18-54c54fd251a9/console.sql" timestamp="1552219251003">
         <mark key="[" line="7" column="98" />
         <mark key="]" line="8" column="0" />
@@ -193,31 +199,31 @@
         <text encoding="base64">CiAgICBASm9pblRhYmxlKG5hbWUgPSAiYXV0aG9yX2Jvb2siLAogICAgam9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lID0gImlkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiYXV0aG9yX2lkIiksCiAgICBpbnZlcnNlSm9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lID0gImF1dGhvcl9pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lID0gImlkIikp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBKb2luVGFibGUobmFtZSA9ICJhdXRob3JfYm9vayIsCg==</text>
+        <text encoding="base64">ICAgIGlucHV0LmNvbHVtbnMuY29uCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIEBKb2luVGFibGUobmFtZSA9ICJhdXRob3JfYm9vayIsCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGludmVyc2VKb2luQ29sdW1ucyA9IEBKb2luQ29sdW1uKG5hbWUgPSAiaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJhdXRob3JfaWQiKSkKLy8gICAgaW52ZXJzZUpvaW5Db2x1bW5zID0gQEpvaW5Db2x1bW4obmFtZSA9ICJhdXRob3JfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJpZCIpKQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICBASm9pblRhYmxlKG5hbWUgPSAiYXV0aG9yX2Jvb2siKQ==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRW50aXR5TWFuYWdlciBlbnRpdHlNYW5hZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmZsdXNoKCk7Cgo=</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRW50aXR5TWFuYWdlciBlbnRpdHlNYW5hZ2VyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBdXRob3IgZmluYWxIYXdraW5nID0gaGF3a2luZzsKICAgICAgICBBdXRob3IgZmluYWxQZW5yb3NlID0gcGVucm9zZTsK</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmZsdXNoKCk7Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdXRob3IgZmluYWxIYXdraW5nID0gaGF3a2luZzsKICAgICAgICBBdXRob3IgZmluYWxQZW5yb3NlID0gcGVucm9zZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFubm90YXRpb25Qcm9jZXNzb3IgJ29yZy5wcm9qZWN0bG9tYm9rOmxvbWJvaycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
