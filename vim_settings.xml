@@ -18,11 +18,10 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1552931826049">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1552939056688">
         <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="92" />
-        <mark key="." line="38" column="91" />
-        <mark key="^" line="38" column="91" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/greyhound/src/main/java/greyhound/Main.java" timestamp="1552243038653">
         <mark key="[" line="25" column="79" />
@@ -132,6 +131,12 @@
         <mark key="^" line="8" column="53" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1552939389327">
+        <mark key="[" line="18" column="90" />
+        <mark key="]" line="19" column="16" />
+        <mark key="^" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.scala" timestamp="1552196607412">
         <mark key="[" line="19" column="7" />
         <mark key="]" line="19" column="28" />
@@ -205,31 +210,31 @@
         <text encoding="base64">ICAgICAgICBTdHJlYW0uY29uY2F0KEFycmF5cy5zdHJlYW0oYXJyYXlWYWxzKSwgU3RyZWFtLm9mKHNpbmdsZVZhbCkpLnRvQXJyYXkoU3RyaW5nW106Om5ldykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuQWNjZXB0KFN5c3RlbS5vdXQ6OnByaW50bG4pCiAgICAgICAgICAgICAgICAuam9pbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJlYW0uY29uY2F0KEFycmF5cy5zdHJlYW0oYXJyYXlWYWxzKSwgU3RyZWFtLm9mKHNpbmdsZVZhbCkpLnRvQXJyYXkoU3RyaW5nW106Om5ldykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBDb21wbGV0YWJsZUZ1dHVyZS5zdXBwbHlBc3luYygoKSAtPiBUaHJlYWRMb2NhbFJhbmRvbS5jdXJyZW50KCkubmV4dEludCgxLCAxMCkpLy8gKiogZ2V0dGluZyBjb21waWxhdGlvbiBlcnJvciAqKioKICAgICAgICAgICAgICAgIC50aGVuQXBwbHkoTWF0aDo6c3FydCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuQWNjZXB0KFN5c3RlbS5vdXQ6OnByaW50bG4pCiAgICAgICAgICAgICAgICAuam9pbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlucHV0LnNlbAo=</text>
+        <text encoding="base64">ICAgICAgICBDb21wbGV0YWJsZUZ1dHVyZS5zdXBwbHlBc3luYygoKSAtPiBUaHJlYWRMb2NhbFJhbmRvbS5jdXJyZW50KCkubmV4dEludCgxLCAxMCkpLy8gKiogZ2V0dGluZyBjb21waWxhdGlvbiBlcnJvciAqKioKICAgICAgICAgICAgICAgIC50aGVuQXBwbHkoTWF0aDo6c3FydCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlucHV0LmNvbHVtbnMuY29uCg==</text>
+        <text encoding="base64">ICAgIGlucHV0LnNlbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBKb2luVGFibGUobmFtZSA9ICJhdXRob3JfYm9vayIsCg==</text>
+        <text encoding="base64">ICAgIGlucHV0LmNvbHVtbnMuY29uCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIEBKb2luVGFibGUobmFtZSA9ICJhdXRob3JfYm9vayIsCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGludmVyc2VKb2luQ29sdW1ucyA9IEBKb2luQ29sdW1uKG5hbWUgPSAiaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJhdXRob3JfaWQiKSkKLy8gICAgaW52ZXJzZUpvaW5Db2x1bW5zID0gQEpvaW5Db2x1bW4obmFtZSA9ICJhdXRob3JfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJpZCIpKQo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICBASm9pblRhYmxlKG5hbWUgPSAiYXV0aG9yX2Jvb2siKQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgRW50aXR5TWFuYWdlciBlbnRpdHlNYW5hZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
