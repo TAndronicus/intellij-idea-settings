@@ -9,7 +9,7 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="/hm.public.book [hm@localhost]" timestamp="1552589244683">
+      <file name="/hm.public.book [hm@localhost]" timestamp="1553372806163">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/resources/test_data.sql" timestamp="1552584553865">
@@ -29,26 +29,33 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/dao/AuthorRepositoryTest.java" timestamp="1552589253913">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/dao/AuthorRepositoryTest.java" timestamp="1553373538681">
+        <mark key="[" line="80" column="69" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+        <mark key="^" line="22" column="14" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Author.java" timestamp="1552593079437">
-        <mark key="'" line="45" column="5" />
-        <mark key="[" line="12" column="87" />
-        <mark key="]" line="12" column="100" />
-        <mark key="." line="12" column="100" />
-        <mark key="^" line="12" column="100" />
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Author.java" timestamp="1553373250186">
+        <mark key="'" line="48" column="5" />
+        <mark key="[" line="15" column="53" />
+        <mark key="]" line="15" column="56" />
+        <mark key="." line="15" column="56" />
+        <mark key="^" line="15" column="56" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/tester/Tester.scala" timestamp="1552120734048">
         <mark key="[" line="5" column="7" />
       </file>
-      <file name="/hm.public.author [hm@localhost]" timestamp="1552588921887">
+      <file name="/hm.public.author [hm@localhost]" timestamp="1553372792817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/dao/BookRepositoryTest.java" timestamp="1552592134677">
         <mark key="[" line="6" column="33" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/dao/AuthorRepository.java" timestamp="1553372427727">
+        <mark key="[" line="7" column="71" />
+        <mark key="]" line="9" column="52" />
+        <mark key="^" line="9" column="52" />
+        <mark key="." line="9" column="52" />
       </file>
       <file name="/hm.public.author_book [hm@localhost]" timestamp="1552588929693">
         <mark key="[" line="0" column="0" />
@@ -59,9 +66,9 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Book.java" timestamp="1552593052891">
-        <mark key="[" line="13" column="45" />
-        <mark key="]" line="13" column="50" />
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Book.java" timestamp="1553373221468">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="93" />
         <mark key="." line="13" column="50" />
         <mark key="^" line="13" column="50" />
       </file>
@@ -80,10 +87,10 @@
       <file name="/a.sql" timestamp="1552593299667">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/AbstractEntity.java" timestamp="1552340520964">
-        <mark key="[" line="8" column="53" />
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/AbstractEntity.java" timestamp="1553372129970">
+        <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="53" />
-        <mark key="^" line="12" column="71" />
+        <mark key="^" line="8" column="53" />
         <mark key="." line="8" column="53" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1553008898144">
@@ -116,13 +123,13 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
-      <file name="/dummy.sql" timestamp="1552589245042">
+      <file name="/dummy.sql" timestamp="1553372806321">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/vavr-demo/build.gradle" timestamp="1552500011069">
         <mark key="[" line="16" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1553008920983">
+      <file name="/Dummy.txt" timestamp="1553373829747">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1552454454446">
@@ -161,11 +168,11 @@
         <mark key="^" line="19" column="28" />
         <mark key="." line="19" column="28" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/resources/application.properties" timestamp="1553116485353">
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/resources/application.properties" timestamp="1553373545639">
         <mark key="[" line="5" column="30" />
-        <mark key="]" line="5" column="40" />
+        <mark key="]" line="5" column="30" />
         <mark key="^" line="5" column="40" />
-        <mark key="." line="5" column="40" />
+        <mark key="." line="5" column="30" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/greyhound/pom.xml" timestamp="1552217305170">
         <mark key="[" line="99" column="21" />
@@ -232,8 +239,8 @@
       <jump line="36" column="48" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICBkZWYgc3RoW0EsIEIsIENdOiAoQSA9PiBCKSA9PiBDID0gPz8/Cg==</text>
+      <register name="0" type="4">
+        <text>author_id</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGEudG9ERi5zCg==</text>
@@ -263,7 +270,7 @@
         <text encoding="base64">ICAgICAgICBCaWdEZWNpbWFsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>select()</text>
+        <text>update</text>
       </register>
     </registers>
     <search>
