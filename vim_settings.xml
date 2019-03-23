@@ -152,11 +152,11 @@
         <mark key="^" line="8" column="53" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1553008394138">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="20" column="14" />
-        <mark key="." line="20" column="14" />
-        <mark key="^" line="20" column="14" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1553347305944">
+        <mark key="[" line="20" column="11" />
+        <mark key="]" line="20" column="11" />
+        <mark key="." line="20" column="11" />
+        <mark key="^" line="20" column="17" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.scala" timestamp="1552196607412">
         <mark key="[" line="19" column="7" />
@@ -266,7 +266,7 @@
         <text encoding="base64">ICAgICAgICBTdHJlYW0uY29uY2F0KEFycmF5cy5zdHJlYW0oYXJyYXlWYWxzKSwgU3RyZWFtLm9mKHNpbmdsZVZhbCkpLnRvQXJyYXkoU3RyaW5nW106Om5ldykK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MjAsIA==</text>
+        <text>select()</text>
       </register>
     </registers>
     <search>
