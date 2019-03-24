@@ -18,10 +18,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1553095738759">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1553459800620">
+        <mark key="[" line="43" column="27" />
+        <mark key="]" line="43" column="137" />
+        <mark key="." line="43" column="28" />
+        <mark key="^" line="43" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/greyhound/src/main/java/greyhound/Main.java" timestamp="1552243038653">
         <mark key="[" line="25" column="79" />
@@ -180,11 +181,6 @@
       <file name="$USER_HOME$/Workspace/JVM/greyhound/pom.xml" timestamp="1552217305170">
         <mark key="[" line="99" column="21" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/build.gradle" timestamp="1552586758546">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1553009217500">
         <mark key="'" line="36" column="48" />
         <mark key="[" line="37" column="56" />
@@ -245,37 +241,37 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>author_id</text>
+        <text>BigDecimal.valueOf(90).multiply(BigDecimal.valueOf(10)).divide(BigDecimal.valueOf(90), 6, RoundingMode.HALF_UP)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICB2YWwgYSA9IChmb3IgKF8gPC0gMCB1bnRpbCA1KSB5aWVsZCBTZXEuZmlsbCgzKShSYW5kb20ubmV4dEludCgyKSkpLm1hcCh4ID0+ICh4KDApLCB4KDEpLCB4KDIpKSkKICAgIGltcG9ydCBTcGFya0VtYmVkZGVkLnNzLmltcGxpY2l0cy5fCiAgICBwcmludGxuKCJrayIpCg==</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyW10gaW50ZWdlcnMgPSB7MSwgMiwgM307Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZWYgc3RoW0EsIEIsIENdOiAoKEEsIEEpID0+IEIpID0+IEMgPSA/Pz8K</text>
+        <text encoding="base64">CiAgICB2YWwgYSA9IChmb3IgKF8gPC0gMCB1bnRpbCA1KSB5aWVsZCBTZXEuZmlsbCgzKShSYW5kb20ubmV4dEludCgyKSkpLm1hcCh4ID0+ICh4KDApLCB4KDEpLCB4KDIpKSkKICAgIGltcG9ydCBTcGFya0VtYmVkZGVkLnNzLmltcGxpY2l0cy5fCiAgICBwcmludGxuKCJrayIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGEudG9ERi5zCg==</text>
+        <text encoding="base64">ICBkZWYgc3RoW0EsIEIsIENdOiAoKEEsIEEpID0+IEIpID0+IEMgPSA/Pz8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBcnJheXMuc29ydChpbnRlZ2VycywgQ29tcGFyYXRvci5jb21wYXJpbmcoSW50ZWdlcjo6dG9TdHJpbmcpKTsK</text>
+        <text encoding="base64">ICAgIGEudG9ERi5zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLmltcGxpY2l0cy5fCg==</text>
+        <text encoding="base64">ICAgICAgICBBcnJheXMuc29ydChpbnRlZ2VycywgQ29tcGFyYXRvci5jb21wYXJpbmcoSW50ZWdlcjo6dG9TdHJpbmcpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHZhbCBhID0gU3BhcmtFbWJlZGRlZC5zcy5zcWwoInNlbGVjdCAqIGZyb20gYSB3aGVyZSBleGlzdHMoc2VsZWN0ICogZnJvbSBiIHdoZXJlIGEuX2M0MSA9IGIuX2M2MCkiKQogICAgLy8gICAgaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmZ1bmN0aW9ucy5jb2wKICAgIC8vICAgIHZhbCBjID0gYS5zZWxlY3QoYi5jb2x1bW5zLm1hcChjb2wpOl8qKQoKICAgIC8vICAgIGFyLmZvcmVhY2gocm93ID0+IHByaW50bG4ocm93KSkKICAgIC8vICAgIGFyLmZvcmVhY2goZWwgPT4gZWwpCg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBvcmcuYXBhY2hlLnNwYXJrLmltcGxpY2l0cy5fCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vICAgIHZhbCBhciA9IExpc3QoMSwgMiwgMywgNCwgNSkudG9ERi50b0phdmFSREQKICAgIGFyLmZvcmVhY2gocm93ID0+IEFycmF5KHBhcnNlRG91YmxlKHJvdy5fMSkpLnRvU2VxLnRvREYoKS5zaG93KCkpCg==</text>
+        <text encoding="base64">ICAgIC8vICAgIHZhbCBhID0gU3BhcmtFbWJlZGRlZC5zcy5zcWwoInNlbGVjdCAqIGZyb20gYSB3aGVyZSBleGlzdHMoc2VsZWN0ICogZnJvbSBiIHdoZXJlIGEuX2M0MSA9IGIuX2M2MCkiKQogICAgLy8gICAgaW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmZ1bmN0aW9ucy5jb2wKICAgIC8vICAgIHZhbCBjID0gYS5zZWxlY3QoYi5jb2x1bW5zLm1hcChjb2wpOl8qKQoKICAgIC8vICAgIGFyLmZvcmVhY2gocm93ID0+IHByaW50bG4ocm93KSkKICAgIC8vICAgIGFyLmZvcmVhY2goZWwgPT4gZWwpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBhciA9IEFycmF5KDEgLT4gQXJyYXkoMiwgNCksIDIgLT4gQXJyYXkoMywgMiksIDMgLT4gQXJyYXkoNCwgNSwgMyksIDQgLT4gQXJyYXkoNSwgMSwgMiksIDUgLT4gQXJyYXkoNikpCiAgICBpbXBvcnQgU3BhcmtFbWJlZGRlZC5zcy5pbXBsaWNpdHMuXwo=</text>
+        <text encoding="base64">ICAgIC8vICAgIHZhbCBhciA9IExpc3QoMSwgMiwgMywgNCwgNSkudG9ERi50b0phdmFSREQKICAgIGFyLmZvcmVhY2gocm93ID0+IEFycmF5KHBhcnNlRG91YmxlKHJvdy5fMSkpLnRvU2VxLnRvREYoKS5zaG93KCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGEuY3Jvc3NKb2luKGIpCg==</text>
+        <text encoding="base64">ICAgIHZhbCBhciA9IEFycmF5KDEgLT4gQXJyYXkoMiwgNCksIDIgLT4gQXJyYXkoMywgMiksIDMgLT4gQXJyYXkoNCwgNSwgMyksIDQgLT4gQXJyYXkoNSwgMSwgMiksIDUgLT4gQXJyYXkoNikpCiAgICBpbXBvcnQgU3BhcmtFbWJlZGRlZC5zcy5pbXBsaWNpdHMuXwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">NSwg</text>
+        <text>, RoundingMode.UP</text>
       </register>
     </registers>
     <search>
