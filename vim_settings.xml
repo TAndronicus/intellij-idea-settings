@@ -173,10 +173,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.scala" timestamp="1553662325563">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.scala" timestamp="1553712768599">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="41" />
+        <mark key="." line="8" column="41" />
+        <mark key="^" line="8" column="41" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/resources/application.properties" timestamp="1553373545639">
         <mark key="[" line="5" column="30" />
@@ -248,7 +249,7 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAuZW50cnlTZXQoKS5zdHJlYW0oKS5maWx0ZXIoZSAtPiBlLmdldEtleSgpLmVxdWFscygia2V5MSIpKS5maW5kRmlyc3QoKS5pZlByZXNlbnQoZSAtPiBlLmdldFZhbHVlKCkucmVtb3ZlKCJhMiIpKTsK</text>
+        <text encoding="base64">ICAgIGRlZiBidWlsZFNBTUxPYmplY3RbVF0oY2xheno6IFQpOiBUICA9IHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHZhbCBjID0gbmV3IENlbGxbU3RyaW5nXSgiaGVoIikK</text>
@@ -278,7 +279,7 @@
         <text encoding="base64">ICAgIHZhbCBkZiA9IFNwYXJrRW1iZWRkZWQuc3MuY3JlYXRlRGF0YUZyYW1lKFNlcSgKICAgICAgKDEsIDIsIDUpLAogICAgICAoMiwgNCwgNyksCiAgICAgICgzLCA2LCA5KSwKICAgICAgKDIsIDQsIDcpLAogICAgICAoMSwgNiwgMiksCiAgICAgICgyLCA2LCA0KSwKICAgICAgKDMsIDMsIDMpCiAgICApKS50b0RGKCJwcm9kdWN0X2lkIiwgIm1pbiIsICJtYXgiKQogICAgaW1wb3J0IFNwYXJrRW1iZWRkZWQuc3MuaW1wbGljaXRzLl8KICAgIGRmLmdyb3VwQnkoInByb2R1Y3RfaWQiKS5zdW0oIm1pbiIsICJtYXgiKS5leHBsYWluKCkKICAgIGRmLm9yZGVyQnkoInByb2R1Y3RfaWQiKS5ncm91cEJ5KCJwcm9kdWN0X2lkIikuc3VtKCJtaW4iLCAibWF4IikuZXhwbGFpbigpCi8vICAgIHZhbCBjbG9uZURmID0gZGYuc2VsZWN0KGRmLmNvbHVtbnMubWFwKGNvbCk6IF8qKQovLyAgICAgIC53aXRoQ29sdW1uUmVuYW1lZCgicHJvZHVjdF9pZCIsICJwcm9kdWN0X2lkMSIpCi8vICAgICAgLndpdGhDb2x1bW5SZW5hbWVkKCJtaW4iLCAibWluMSIpCi8vICAgICAgLndpdGhDb2x1bW5SZW5hbWVkKCJtYXgiLCAibWF4MSIpCi8vICAgIGRmLmNyb3NzSm9pbihjbG9uZURmKQovLyAgICAgIC53aGVyZSgkInByb2R1Y3RfaWQiIDwgJCJwcm9kdWN0X2lkMSIpCi8vICAgICAgLndoZXJlKCQibWluIiA8ICQibWF4MSIpCi8vICAgICAgLndoZXJlKCQibWluMSIgPCAkIm1heCIpLnNob3coKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>3, 5, 7</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
