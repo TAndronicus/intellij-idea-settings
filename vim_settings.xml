@@ -93,6 +93,12 @@
         <mark key="^" line="10" column="33" />
         <mark key="." line="10" column="33" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1553667557836">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+      </file>
       <file name="/a.sql" timestamp="1552593299667">
         <mark key="[" line="0" column="0" />
       </file>
@@ -206,6 +212,12 @@
         <mark key="." line="13" column="108" />
         <mark key="^" line="13" column="108" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1553667574930">
+        <mark key="[" line="59" column="83" />
+        <mark key="]" line="59" column="99" />
+        <mark key="." line="59" column="99" />
+        <mark key="^" line="59" column="99" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/AuthorRepository.java" timestamp="1552339689848">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="5" column="67" />
@@ -278,7 +290,7 @@
         <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBMaXN0PFN0cmluZz4+IHByb2R1Y3RzTmVlZGVkID0gbmV3IExpbmtlZEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>3, 5, 7</text>
+        <text>postMappingValidationMoments</text>
       </register>
     </registers>
     <search>
@@ -292,6 +304,9 @@
       <history-input />
     </history>
     <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
@@ -366,9 +381,6 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
