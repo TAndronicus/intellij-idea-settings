@@ -2,17 +2,376 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/AuthorRepositoryTest.java" timestamp="1552339709559">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="/hm.public.book [hm@localhost]" timestamp="1553372806163">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/resources/test_data.sql" timestamp="1552584553865">
+        <mark key="[" line="2" column="27" />
+        <mark key="]" line="2" column="33" />
+        <mark key="^" line="2" column="33" />
+        <mark key="." line="2" column="33" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1553627108719">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/greyhound/src/main/java/greyhound/Main.java" timestamp="1552243038653">
+        <mark key="[" line="25" column="79" />
+        <mark key="]" line="24" column="18" />
+        <mark key="." line="24" column="18" />
+        <mark key="^" line="24" column="18" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/dao/AuthorRepositoryTest.java" timestamp="1553373538681">
+        <mark key="[" line="80" column="69" />
+        <mark key="]" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.12/srcs/spark-mllib_2.12-2.4.0-sources.jar!/org/apache/spark/ml/classification/DecisionTreeClassifier.scala" timestamp="1553456827086">
+        <mark key="'" line="302" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Cell.scala" timestamp="1553547777161">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="12" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="2" column="12" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Author.java" timestamp="1553373250186">
+        <mark key="'" line="48" column="5" />
+        <mark key="[" line="15" column="53" />
+        <mark key="]" line="15" column="56" />
+        <mark key="." line="15" column="56" />
+        <mark key="^" line="15" column="56" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/tester/Tester.scala" timestamp="1552120734048">
+        <mark key="[" line="5" column="7" />
+      </file>
+      <file name="/hm.public.author [hm@localhost]" timestamp="1553372792817">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/dao/BookRepositoryTest.java" timestamp="1552592134677">
+        <mark key="[" line="6" column="33" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/dao/AuthorRepository.java" timestamp="1553372427727">
+        <mark key="[" line="7" column="71" />
+        <mark key="]" line="9" column="52" />
+        <mark key="^" line="9" column="52" />
+        <mark key="." line="9" column="52" />
+      </file>
+      <file name="/hm.public.author_book [hm@localhost]" timestamp="1552588929693">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/Book.java" timestamp="1552253541814">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Book.java" timestamp="1553373221468">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="93" />
+        <mark key="." line="13" column="50" />
+        <mark key="^" line="13" column="50" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1553008828002">
+        <mark key="[" line="9" column="94" />
+        <mark key="]" line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" timestamp="1553613126907">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+      </file>
+      <file name="/a.sql" timestamp="1552593299667">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/AbstractEntity.java" timestamp="1553372129970">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="53" />
+        <mark key="^" line="8" column="53" />
+        <mark key="." line="8" column="53" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1553008898144">
+        <mark key="[" line="44" column="85" />
+        <mark key="]" line="44" column="84" />
+        <mark key="^" line="44" column="84" />
+        <mark key="." line="44" column="84" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/dao/BookRepository.java" timestamp="1552588679595">
+        <mark key="[" line="9" column="10" />
+        <mark key="]" line="9" column="49" />
+        <mark key="^" line="9" column="49" />
+        <mark key="." line="9" column="49" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/vavr-demo/src/test/java/VavrTest.java" timestamp="1552500205611">
+        <mark key="[" line="96" column="58" />
+        <mark key="]" line="97" column="7" />
+        <mark key="." line="97" column="7" />
+        <mark key="^" line="97" column="7" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d49eef88-c4a0-4b7a-b996-e9d6a68b9408/console.sql" timestamp="1553626063925">
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" timestamp="1553009182622">
+        <mark key="[" line="14" column="41" />
+        <mark key="]" line="14" column="71" />
+        <mark key="^" line="14" column="71" />
+        <mark key="." line="14" column="71" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/vavr-demo/build.gradle" timestamp="1552140830390">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+      </file>
+      <file name="/dummy.sql" timestamp="1553372806321">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/vavr-demo/build.gradle" timestamp="1552500011069">
+        <mark key="[" line="16" column="68" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1553373829747">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1552454454446">
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="8" column="26" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/MultiRunner.scala" timestamp="1552454473915">
+        <mark key="[" line="34" column="56" />
+        <mark key="]" line="34" column="72" />
+        <mark key="." line="34" column="72" />
+        <mark key="^" line="34" column="72" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1553613103659">
+        <mark key="[" line="44" column="85" />
+        <mark key="]" line="44" column="86" />
+        <mark key="^" line="44" column="86" />
+        <mark key="." line="44" column="86" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/599accff-3870-4681-9c18-54c54fd251a9/console.sql" timestamp="1552219251003">
+        <mark key="[" line="7" column="98" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="53" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1553534619147">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.scala" timestamp="1553547234910">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/resources/application.properties" timestamp="1553373545639">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/greyhound/pom.xml" timestamp="1552217305170">
+        <mark key="[" line="99" column="21" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1553541658870">
+        <mark key="'" line="8" column="6" />
+        <mark key="[" line="37" column="44" />
+        <mark key="]" line="37" column="45" />
+        <mark key="." line="37" column="45" />
+        <mark key="^" line="37" column="72" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" timestamp="1552325516056">
+        <mark key="[" line="14" column="81" />
+        <mark key="]" line="14" column="90" />
+        <mark key="." line="14" column="90" />
+        <mark key="^" line="14" column="90" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1552944665515">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="193" />
+        <mark key="." line="13" column="108" />
+        <mark key="^" line="13" column="108" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/AuthorRepository.java" timestamp="1552339689848">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="5" column="67" />
+        <mark key="^" line="5" column="67" />
+        <mark key="." line="5" column="67" />
+      </file>
+      <file name="/fragment.java" timestamp="1552592131667">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/vavr-demo/src/main/java/Testi.java" timestamp="1552162353175">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="80" />
+        <mark key="." line="33" column="79" />
+        <mark key="^" line="33" column="79" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/AbstractEntity.java" timestamp="1552253530059">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="15" />
+        <mark key="^" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="20" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" />
+      <jump line="33" column="50" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner2.scala" />
+      <jump line="48" column="33" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
+      <jump line="33" column="25" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
+      <jump line="50" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
+      <jump line="25" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
+      <jump line="60" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
+      <jump line="1" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
+      <jump line="6" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/EagerResultCatcher.scala" />
+      <jump line="4" column="6" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/BatchExhaustiveResultCatcher.scala" />
+      <jump line="23" column="33" filename="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Author.java" />
+      <jump line="48" column="5" filename="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Author.java" />
+      <jump line="36" column="48" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" />
+      <jump line="202" column="4" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.12/srcs/spark-mllib_2.12-2.4.0-sources.jar!/org/apache/spark/ml/classification/DecisionTreeClassifier.scala" />
+      <jump line="302" column="0" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.12/srcs/spark-mllib_2.12-2.4.0-sources.jar!/org/apache/spark/ml/classification/DecisionTreeClassifier.scala" />
+      <jump line="8" column="6" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" />
+    </jumps>
+    <registers>
+      <register name="0" type="4">
+        <text>collect(Collectors.toList());</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHJ1bigpIHsKICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbigiU2Vuc29yIHdpdGggdGhyZXNob2xkIG9mOiAiICsgdGhyZXNob2xkICsgIiBlbnRlcmluZyBjb3VudGVyIHdpdGggdmFsdWU6ICIgKyBjb3VudGVyLnZhbHVlLmdldCgpKTsKCiAgICAgICAgSW50VW5hcnlPcGVyYXRvciBvcGVyYXRvcjEgPSB4IC0+IHggPiAzID8gMCA6IHg7IC8vIHNvbWUgbGFtYmRhCiAgICAgICAgSW50VW5hcnlPcGVyYXRvciBvcGVyYXRvcjIgPSBuZXcgSW50VW5hcnlPcGVyYXRvcigpIHsKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBpbnQgYXBwbHlBc0ludChpbnQgeCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHggPiB0aHJlc2hvbGQgPyAwIDogeDsKICAgICAgICAgICAgfQogICAgICAgIH07CgogICAgICAgIEludFVuYXJ5T3BlcmF0b3Igb3BlcmF0b3IzID0gdGhpczo6dGVzdEZvclN0YWNrT3ZlckZsb3c7CgogICAgICAgIHdoaWxlICh0aHJlc2hvbGQgPj0gY291bnRlci52YWx1ZS5nZXRBbmRVcGRhdGUob3BlcmF0b3IxKSk7IC8vIDwtLSBPSyBvcGVyYXRvciAxCiAgICAgICAgd2hpbGUgKHRocmVzaG9sZCA+PSBjb3VudGVyLnZhbHVlLmdldEFuZFVwZGF0ZShvcGVyYXRvcjIpKTsgLy8gPC0tIE9LIG9wZXJhdG9yIDIKICAgICAgICB3aGlsZSAodGhyZXNob2xkID49IGNvdW50ZXIudmFsdWUuZ2V0QW5kVXBkYXRlKG9wZXJhdG9yMykpOyAvLyA8LS0gT0sgb3BlcmF0b3IgMwoKICAgICAgICB3aGlsZSAodGhyZXNob2xkID49IGNvdW50ZXIudmFsdWUuZ2V0QW5kVXBkYXRlKCh4KSAtPiB4ID4gdGhyZXNob2xkID8gMCA6IHgpKTsgLy8gPC0tIE9LIGxhbWJkYQoKICAgICAgICB3aGlsZSAodGhyZXNob2xkID49IGNvdW50ZXIudmFsdWUuZ2V0QW5kVXBkYXRlKHRoaXM6OnRlc3RGb3JTdGFja092ZXJGbG93KTsgLy8gPC0tICBOT1QgT0sKCgogICAgICAgIHdoaWxlICh0aHJlc2hvbGQgPj0gY291bnRlci52YWx1ZS5nZXRBbmRVcGRhdGUobmV3IEludFVuYXJ5T3BlcmF0b3IoKSB7IC8vIDwtLSBOT1QgT0sKICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgIHB1YmxpYyBpbnQgYXBwbHlBc0ludChpbnQgeCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHggPiB0aHJlc2hvbGQgPyAwIDogeDsKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKCJTZW5zb3Igd2l0aCB0aHJlc2hvbGQgb2Y6ICIgKyB0aHJlc2hvbGQgKyAiIGZpcmVkIGFuZCBuZXcgY291bnRlciB2YWx1ZTogIiArIGNvdW50ZXIudmFsdWUuZ2V0KCkpOwogICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JFYWNoKHYgLT4gcmVzdWx0Lm1lcmdlKHYsIG5ldyBIYXNoU2V0PFN0cmluZz4oKXt7YWRkKGUuZ2V0S2V5KCkpO319LCAoczEsIHMyKSAtPiBTdHJlYW0uY29uY2F0KHMxLnN0cmVhbSgpLCBzMi5zdHJlYW0oKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpKSkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtYXBwaW5ncy5lbnRyeVNldCgpLnN0cmVhbSgpLm1hcChlIC0+IGUuZ2V0VmFsdWUoKQogICAgICAgICAgICAgICAgLnN0cmVhbSgpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gc3RyaW5ncyA9IGZpbGVzSW5QYXRoLnZhbHVlcygpLnN0cmVhbSgpLmZsYXRNYXAoTGlzdDo6c3RyZWFtKS5tYXAoUGF0aDo6Z2V0RmlsZU5hbWUpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCBjMTogQ2VsbFtBbnldID0gYy5hc0luc3RhbmNlT2ZbQ2VsbFtBbnldXQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGMxLnNldCgxKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhbCBkZiA9IFNwYXJrRW1iZWRkZWQuc3MuY3JlYXRlRGF0YUZyYW1lKFNlcSgKICAgICAgKDEsIDIsIDUpLAogICAgICAoMiwgNCwgNyksCiAgICAgICgzLCA2LCA5KSwKICAgICAgKDIsIDQsIDcpLAogICAgICAoMSwgNiwgMiksCiAgICAgICgyLCA2LCA0KSwKICAgICAgKDMsIDMsIDMpCiAgICApKS50b0RGKCJwcm9kdWN0X2lkIiwgIm1pbiIsICJtYXgiKQogICAgaW1wb3J0IFNwYXJrRW1iZWRkZWQuc3MuaW1wbGljaXRzLl8KICAgIGRmLmdyb3VwQnkoInByb2R1Y3RfaWQiKS5zdW0oIm1pbiIsICJtYXgiKS5leHBsYWluKCkKICAgIGRmLm9yZGVyQnkoInByb2R1Y3RfaWQiKS5ncm91cEJ5KCJwcm9kdWN0X2lkIikuc3VtKCJtaW4iLCAibWF4IikuZXhwbGFpbigpCi8vICAgIHZhbCBjbG9uZURmID0gZGYuc2VsZWN0KGRmLmNvbHVtbnMubWFwKGNvbCk6IF8qKQovLyAgICAgIC53aXRoQ29sdW1uUmVuYW1lZCgicHJvZHVjdF9pZCIsICJwcm9kdWN0X2lkMSIpCi8vICAgICAgLndpdGhDb2x1bW5SZW5hbWVkKCJtaW4iLCAibWluMSIpCi8vICAgICAgLndpdGhDb2x1bW5SZW5hbWVkKCJtYXgiLCAibWF4MSIpCi8vICAgIGRmLmNyb3NzSm9pbihjbG9uZURmKQovLyAgICAgIC53aGVyZSgkInByb2R1Y3RfaWQiIDwgJCJwcm9kdWN0X2lkMSIpCi8vICAgICAgLndoZXJlKCQibWluIiA8ICQibWF4MSIpCi8vICAgICAgLndoZXJlKCQibWluMSIgPCAkIm1heCIpLnNob3coKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBMaXN0PFN0cmluZz4+IHByb2R1Y3RzTmVlZGVkID0gbmV3IExpbmtlZEhhc2hNYXA8PigpOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>3, 5, 7</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
