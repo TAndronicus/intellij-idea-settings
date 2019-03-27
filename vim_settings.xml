@@ -212,10 +212,10 @@
         <mark key="." line="13" column="108" />
         <mark key="^" line="13" column="108" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1553667574930">
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1553711199648">
         <mark key="[" line="59" column="83" />
-        <mark key="]" line="59" column="99" />
-        <mark key="." line="59" column="99" />
+        <mark key="]" line="59" column="83" />
+        <mark key="." line="59" column="83" />
         <mark key="^" line="59" column="99" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/AuthorRepository.java" timestamp="1552339689848">
@@ -290,7 +290,7 @@
         <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBMaXN0PFN0cmluZz4+IHByb2R1Y3RzTmVlZGVkID0gbmV3IExpbmtlZEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>postMappingValidationMoments</text>
+        <text>preMappingMoments</text>
       </register>
     </registers>
     <search>
