@@ -173,10 +173,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.scala" timestamp="1553714587971">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.scala" timestamp="1553880380110">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="36" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="34" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/resources/application.properties" timestamp="1553373545639">
         <mark key="[" line="5" column="30" />
@@ -247,8 +248,8 @@
       <jump line="8" column="6" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGRlZiBidWlsZFNBTUxPYmplY3RbVF0oY2xheno6IFQpOiBUICA9IHsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIGRhdGEubWFwKGVsZW1lbnQ9PnsKICAgICAgYXN5bmNDYWxsKGVsZW1lbnQpCiAgICB9KS5yZWR1Y2UoKGYxLCBmMikgPT4gZjEuemlwKGYyKSk=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRlZiBidWlsZFNBTUxPYmplY3RbVF0oY2xheno6IENsYXNzW1RdKTogVCAgPSB7CiAgICAgIHZhciBvYmogPSBidWlsZGVyRmFjdG9yeS5nZXRCdWlsZGVyKGRlZmF1bHRFbGVtZW50TmFtZSkuYnVpbGRPYmplY3QoZGVmYXVsdEVsZW1lbnROYW1lKS5hc0luc3RhbmNlT2ZbVF07CiAgICAgIHRyeSB7CiAgICAgICAgWE1MT2JqZWN0QnVpbGRlckZhY3RvcnkgYnVpbGRlckZhY3RvcnkgPSBYTUxPYmplY3RQcm92aWRlclJlZ2lzdHJ5U3VwcG9ydC5nZXRCdWlsZGVyRmFjdG9yeSgpOwogICAgICAgIFFOYW1lIGRlZmF1bHRFbGVtZW50TmFtZSA9IGNsYXp6LmdldERlY2xhcmVkRmllbGQoIkRFRkFVTFRfRUxFTUVOVF9OQU1FIikuZ2V0KG51bGwpLmFzSW5zdGFuY2VPZltRTmFtZV07CiAgICAgICAgb2JqID0gYnVpbGRlckZhY3RvcnkuZ2V0QnVpbGRlcihkZWZhdWx0RWxlbWVudE5hbWUpLmJ1aWxkT2JqZWN0KGRlZmF1bHRFbGVtZW50TmFtZSkuYXNJbnN0YW5jZU9mW1RdOwogICAgICB9IGNhdGNoIChJbGxlZ2FsQWNjZXNzRXhjZXB0aW9uIGUpIHsKICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJDb3VsZCBub3QgY3JlYXRlIFNBTUwgb2JqZWN0Iik7CiAgICAgIH0gY2F0Y2ggKE5vU3VjaEZpZWxkRXhjZXB0aW9uIGUpIHsKICAgICAgICB0aHJvdyBuZXcgSWxsZWdhbEFyZ3VtZW50RXhjZXB0aW9uKCJDb3VsZCBub3QgY3JlYXRlIFNBTUwgb2JqZWN0Iik7CiAgICAgIH0KCiAgICAgIG9iajsK</text>
@@ -278,7 +279,7 @@
         <text encoding="base64">ICAgIGMxLnNldCgxKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LjMsIA==</text>
+        <text>foreach</text>
       </register>
     </registers>
     <search>
