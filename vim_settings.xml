@@ -63,11 +63,10 @@
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/dao/BookRepositoryTest.java" timestamp="1552592134677">
         <mark key="[" line="6" column="33" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/dao/AuthorRepository.java" timestamp="1553372427727">
-        <mark key="[" line="7" column="71" />
-        <mark key="]" line="9" column="52" />
-        <mark key="^" line="9" column="52" />
-        <mark key="." line="9" column="52" />
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/dao/AuthorRepository.java" timestamp="1554056576832">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="/hm.public.author_book [hm@localhost]" timestamp="1552588929693">
         <mark key="[" line="0" column="0" />
@@ -245,31 +244,31 @@
         <text encoding="base64">ICAgIHZhbCBhID0gU2VxKCgyMCw2KSwoMjIsNiksKDIzLDYpLCgyNCw2KSwoMjAsMSksKDIyLDEpLCAoMjAsIDgpKS5zb3J0QnkodDEgPT4gdDEuXzIpLnJldmVyc2UKICAgIHByaW50KGEudG9NYXAp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLlNRTENvbnRleHQK</text>
+        <text encoding="base64">ICAgIExpc3Q8QXV0aG9yPiBmaW5kOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmZ1bmN0aW9ucy5jb2wK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBTcGFya0VtYmVkZGVkLnNzLmltcGxpY2l0cwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLlNRTENvbnRleHQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBhID0gU2VxKCgyMCw2KSwoMjIsNiksKDIzLDYpLCgyNCw2KSwoMjAsMSksKDIyLDEpLCAoMjAsIDgpKS5zb3J0QnkodDEgPT4gdDEuXzIpLnJldmVyc2UKICAgIHByaW50KGEudG9NYXApCg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuc3Bhcmsuc3FsLmZ1bmN0aW9ucy5jb2wK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gc3RyaW5ncyA9IG5ldyBBcnJheUxpc3QoKXt7YWRkKCJzIik7fX07Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBTcGFya0VtYmVkZGVkLnNzLmltcGxpY2l0cwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBkYXRhID0gTGlzdCgiMSIsIjIiLCIzIiwiNCIpCiAgICB2YWwgZiA9IGRhdGEubWFwKGVsZW1lbnQ9PnsKICAgICAgYXN5bmNDYWxsKGVsZW1lbnQpCiAgICB9KS56aXAoKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBhID0gU2VxKCgyMCw2KSwoMjIsNiksKDIzLDYpLCgyNCw2KSwoMjAsMSksKDIyLDEpLCAoMjAsIDgpKS5zb3J0QnkodDEgPT4gdDEuXzIpLnJldmVyc2UKICAgIHByaW50KGEudG9NYXApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gc3RyaW5ncyA9IG5ldyBBcnJheUxpc3QoKXt7YWRkKCJzIik7fX07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBkYXRhID0gTGlzdCgiMSIsIjIiLCIzIiwiNCIpCiAgICB2YWwgZiA9IGRhdGEubWFwKGVsZW1lbnQ9PnsKICAgICAgYXN5bmNDYWxsKGVsZW1lbnQpCiAgICB9KS56aXAoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkZWYgYXN5bmNDYWxsKGVsZW1lbnQ6IFN0cmluZyk6IEZ1dHVyZVtTdHJpbmddID0gPz8/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>spark</text>
