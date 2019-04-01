@@ -212,6 +212,12 @@
         <mark key="^" line="5" column="67" />
         <mark key="." line="5" column="67" />
       </file>
+      <file name="/mnt/mag/Downloads/starter/src/main/java/com/example/starter/Heh.java" timestamp="1554148986799">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="64" />
+        <mark key="^" line="13" column="64" />
+        <mark key="." line="13" column="64" />
+      </file>
       <file name="/fragment.java" timestamp="1552592131667">
         <mark key="[" line="0" column="0" />
       </file>
@@ -248,7 +254,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>path.toFile() == path.toFile()</text>
+        <text>new LinkedList(map.values()).getLast()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRyeXsKICAgICAgCiAgICB9ZmluCg==</text>
