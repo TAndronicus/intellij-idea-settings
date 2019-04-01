@@ -168,11 +168,10 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.scala" timestamp="1554145254859">
-        <mark key="[" line="14" column="58" />
-        <mark key="]" line="11" column="38" />
-        <mark key="." line="11" column="38" />
-        <mark key="^" line="11" column="38" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.scala" timestamp="1554146410841">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/resources/application.properties" timestamp="1553373545639">
         <mark key="[" line="5" column="30" />
@@ -252,31 +251,31 @@
         <text>path.toFile() == path.toFile()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IG51bWJlcnMgPSBhc0xpc3QoMiwgMiwgNCwgNSk7CiAgICAgICAgSW50U3RyZWFtLnJhbmdlKDAsIG51bWJlcnMuc2l6ZSgpKS5tYXBUb09iaihpbmRleCAtPiBuZXcgQWJzdHJhY3RNYXAuU2ltcGxlRW50cnkobnVtYmVycy5nZXQoaW5kZXgpLCBJbnRTdHJlYW0ucmFuZ2UoMCwgaW5kZXgpLm1hcFRvT2JqKG51bWJlcnM6OmdldCkucmVkdWNlKChsMSwgbDIpIC0+IGwxICsgbDIpLmdldCgpKSk7CiAgICAgICAgT3B0aW9uYWw8T2JqZWN0PiBhT2JqID0gT3B0aW9uYWwuZW1wdHkoKTsKICAgICAgICBhT2JqLmlmUHJlc2VudChhIC0+IFN5c3RlbS5vdXQucHJpbnRsbiAoYSkpOwogICAgICAgIE1hcDxTdHJpbmcsIExpc3Q8U3RyaW5nPj4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIG1hcC5lbnRyeVNldCgpLnN0cmVhbSgpLmZpbHRlcihlIC0+IGUuZ2V0S2V5KCkuZXF1YWxzKCJrZXkxIikpLmZpbmRGaXJzdCgpLmlmUHJlc2VudChlIC0+IGUuZ2V0VmFsdWUoKS5yZW1vdmUoImEyIikpOwo=</text>
+        <text encoding="base64">ICAgIHRyeXsKICAgICAgCiAgICB9ZmluCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PExvbmc+IG51bWJlcnMgPSBhc0xpc3QoMiwgMiwgNCwgNSk7CiAgICAgICAgSW50U3RyZWFtLnJhbmdlKDAsIG51bWJlcnMuc2l6ZSgpKS5tYXBUb09iaihpbmRleCAtPiBuZXcgQWJzdHJhY3RNYXAuU2ltcGxlRW50cnkobnVtYmVycy5nZXQoaW5kZXgpLCBJbnRTdHJlYW0ucmFuZ2UoMCwgaW5kZXgpLm1hcFRvT2JqKG51bWJlcnM6OmdldCkucmVkdWNlKChsMSwgbDIpIC0+IGwxICsgbDIpLmdldCgpKSk7CiAgICAgICAgT3B0aW9uYWw8T2JqZWN0PiBhT2JqID0gT3B0aW9uYWwuZW1wdHkoKTsKICAgICAgICBhT2JqLmlmUHJlc2VudChhIC0+IFN5c3RlbS5vdXQucHJpbnRsbiAoYSkpOwogICAgICAgIE1hcDxTdHJpbmcsIExpc3Q8U3RyaW5nPj4gbWFwID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIG1hcC5lbnRyeVNldCgpLnN0cmVhbSgpLmZpbHRlcihlIC0+IGUuZ2V0S2V5KCkuZXF1YWxzKCJrZXkxIikpLmZpbmRGaXJzdCgpLmlmUHJlc2VudChlIC0+IGUuZ2V0VmFsdWUoKS5yZW1vdmUoImEyIikpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3QoKSB7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBCdWZmZXJlZFJlYWRlciBidWZmZXJlZFJlYWRlciA9IAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHRlc3QoKSB7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBCdWZmZXJlZFJlYWRlciBidWZmZXJlZFJlYWRlciA9IAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIE9wdGlvbmFsPEF1dGhvcj4gdGVzdCgpIHsKICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVPbmx5ICdvcmcucHJvamVjdGxvbWJvazpsb21ib2snCg==</text>
+        <text encoding="base64">ICAgIE9wdGlvbmFsPEF1dGhvcj4gdGVzdCgpIHsKICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>spark</text>
