@@ -200,11 +200,11 @@
         <mark key="." line="14" column="90" />
         <mark key="^" line="14" column="90" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1554130933665">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="12" column="56" />
-        <mark key="." line="12" column="27" />
-        <mark key="^" line="12" column="27" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1554214375543">
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="45" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/AuthorRepository.java" timestamp="1552339689848">
         <mark key="[" line="0" column="10" />
@@ -254,7 +254,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>new LinkedList(map.values()).getLast()</text>
+        <text>.matches(&quot;\\d{2}/\\d{2}/\\d{4}&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRyeXsKICAgICAgCiAgICB9ZmluCg==</text>
