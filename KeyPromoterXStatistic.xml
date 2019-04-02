@@ -33,6 +33,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'TestMainVerticle.start_http_server'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'TestMainVerticle.start_http_server'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ExperimentPlan'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
