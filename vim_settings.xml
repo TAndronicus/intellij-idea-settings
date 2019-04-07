@@ -200,11 +200,11 @@
         <mark key="." line="14" column="90" />
         <mark key="^" line="14" column="90" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1554614801028">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="17" column="8" />
-        <mark key="." line="17" column="8" />
-        <mark key="^" line="17" column="8" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1554633815750">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="63" />
+        <mark key="." line="20" column="27" />
+        <mark key="^" line="20" column="27" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/AuthorRepository.java" timestamp="1552339689848">
         <mark key="[" line="0" column="10" />
@@ -253,8 +253,8 @@
       <jump line="8" column="6" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIHRoZW4gPSBMb2NhbERhdGVUaW1lLm5vdygpOwogICAgICAgIHdoaWxlICh0cnVlKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiaGVoIik7CiAgICAgICAgICAgIGlmIChDaHJvbm9Vbml0LlNFQ09ORFMuYmV0d2Vlbih0aGVuLCBMb2NhbERhdGVUaW1lLm5vdygpKSA+IDIpIGJyZWFrOwogICAgICAgIH0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFic3RyYWN0IDxFIGV4dGVuZHMgU3RyaW5nPiBMaXN0PFN0cmluZz4gZ2V0VXNlcnMoRSBxdWVyeSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGFycmF5TGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGFycmF5TGlzdC5hZGQoMSk7CiAgICAgICAgYXJyYXlMaXN0LmFkZCgyKTsKICAgICAgICBhcnJheUxpc3QuYWRkKDEsIDMpOwogICAgICAgIGFycmF5TGlzdC5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwo=</text>
@@ -284,7 +284,7 @@
         <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>spark</text>
+        <text encoding="base64">PEUgZXh0ZW5kcyBTdHJpbmc+</text>
       </register>
     </registers>
     <search>
