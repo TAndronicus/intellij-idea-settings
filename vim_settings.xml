@@ -200,10 +200,11 @@
         <mark key="." line="14" column="90" />
         <mark key="^" line="14" column="90" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1554232642762">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1554612638807">
         <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="]" line="15" column="46" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/AuthorRepository.java" timestamp="1552339689848">
         <mark key="[" line="0" column="10" />
@@ -253,7 +254,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBTZXQgbmV3U2V0ID0gbmV3IFRyZWVTZXQ8U3RyaW5nPihDb21wYXJhdG9yLm5hdHVyYWxPcmRlcigpKTsKICAgICAgICBuZXdTZXQuYWRkQWxsKHNldCk7</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IGFycmF5TGlzdCA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIGFycmF5TGlzdC5hZGQoMSk7CiAgICAgICAgYXJyYXlMaXN0LmFkZCgyKTsKICAgICAgICBhcnJheUxpc3QuYWRkKDEsIDMpOwogICAgICAgIGFycmF5TGlzdC5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTZXQgbmV3U2V0ID0gbmV3IFRyZWVTZXQ8U3RyaW5nPihDb21wYXJhdG9yLm5hdHVyYWxPcmRlcigpKTsKICAgICAgICBuZXdTZXQuYWRkQWxsKHNldCk7Cg==</text>
