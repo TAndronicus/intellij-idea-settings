@@ -18,10 +18,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="2" column="33" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1553627108719">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1555079150553">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="63" />
+        <mark key="." line="44" column="58" />
+        <mark key="^" line="44" column="58" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" timestamp="1554011296916">
         <mark key="[" line="10" column="29" />
@@ -255,8 +256,8 @@
       <jump line="8" column="6" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmdzLnN0cmVhbSgpLnNvcnRlZChjb21wYXJhdG9yKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgICBDb21wYXJhdG9yPEludGVnZXI+IG15Q29tcGFyYXRvciA9ICh4LCB5KSAtPiB4IC0geTsKICAgICAgICBNYXA8SW50ZWdlciwgU3RyaW5nPiBtYXAzID0gbmV3IFRyZWVNYXA8PihteUNvbXBhcmF0b3IpOw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gc3RyaW5ncyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHN0cmluZ3Muc3RyZWFtKCkuc29ydGVkKGNvbXBhcmF0b3IpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
