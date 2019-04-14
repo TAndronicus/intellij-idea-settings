@@ -44,7 +44,7 @@
         <mark key="^" line="9" column="49" />
         <mark key="." line="9" column="49" />
       </file>
-      <file name="/Dummy.scala" timestamp="1555263687139">
+      <file name="/Dummy.scala" timestamp="1555263725799">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/model/dt/IntegratedDecisionTreeModelTest.scala" timestamp="1555257095510">
@@ -88,9 +88,9 @@
         <mark key="^" line="17" column="18" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/JavaPlayground.java" timestamp="1554655702902">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/mnt/mag/Downloads/starter/src/main/java/com/example/starter/Heh.java" timestamp="1554148986799">
         <mark key="[" line="13" column="27" />
@@ -195,7 +195,7 @@
       <file name="/mnt/mag/Workspace/JVM/vavr-demo/build.gradle" timestamp="1552500011069">
         <mark key="[" line="16" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555138419039">
+      <file name="/Dummy.txt" timestamp="1555266357478">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1554658911406">
@@ -208,11 +208,11 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="76" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/model/dt/MappedIntegratedDecisionTreeModelTest.scala" timestamp="1555258285397">
-        <mark key="[" line="36" column="2" />
-        <mark key="]" line="36" column="11" />
-        <mark key="^" line="36" column="11" />
-        <mark key="." line="36" column="11" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/model/dt/MappedIntegratedDecisionTreeModelTest.scala" timestamp="1555266350956">
+        <mark key="[" line="42" column="90" />
+        <mark key="]" line="31" column="3" />
+        <mark key="^" line="31" column="3" />
+        <mark key="." line="31" column="3" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.scala" timestamp="1554146410841">
         <mark key="[" line="17" column="0" />
@@ -239,12 +239,11 @@
         <mark key="^" line="5" column="67" />
         <mark key="." line="5" column="67" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/MappedIntegratedDecisionTreeModel.scala" timestamp="1555263446105">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/MappedIntegratedDecisionTreeModel.scala" timestamp="1555264451559">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="26" column="76" />
-        <mark key="^" line="26" column="22" />
-        <mark key="." line="26" column="23" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1555257025973">
         <mark key="[" line="0" column="0" />
@@ -276,34 +275,34 @@
         <text encoding="base64">LnJlZHVjZSgobDEsIGwyKSA9PiBpZiAobDEuXzIgPiBsMi5fMikgbDEgZWxzZSBsMikuXzE=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGpiLnV0aWwuVXRpbC5fCg==</text>
+        <text encoding="base64">ICAgIHZhbCBkaXN0ID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFzc2VydChtb2RlbC5kaXN0VW5zaWduZWQoZWRnZTAsIHBvaW50KSA9PSAxKQogICAgYXNzZXJ0KG1vZGVsLmRpc3RVbnNpZ25lZChlZGdlMSwgcG9pbnQpID09IDIpCiAgICBhc3NlcnQobW9kZWwuZGlzdFVuc2lnbmVkKGVkZ2UyLCBwb2ludCkgPT0gNSkK</text>
+        <text encoding="base64">ICAgIHZhbCBrdXJ3YSA9IGVkZ2VzLmluZGljZXMubWFwKGkgPT4gKHByZWRpY3RMYWJlbChvYmosIGJhc2VNb2RlbHMoaSkpLCB3ZWlnaHRlZERpc3QoaSwgb2JqKSkpCiAgICB2YWwga3Vyd2ExID0ga3Vyd2EuZ3JvdXBCeShfLl8xKQogICAgdmFsIGt1cndhMiA9IGt1cndhMS5tYXBWYWx1ZXMoXy5tYXAoXy5fMikuc3VtKQogICAgdmFsIGt1cndhMyA9IGt1cndhMi5yZWR1Y2UoKGwxLCBsMikgPT4gaWYgKGwxLl8yID4gbDIuXzIpIGwxIGVsc2UgbDIpLl8xCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGpiLnV0aWwuVXRpbC5fCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGFzc2VydChtb2RlbC5kaXN0VW5zaWduZWQoZWRnZTAsIHBvaW50KSA9PSAxKQogICAgYXNzZXJ0KG1vZGVsLmRpc3RVbnNpZ25lZChlZGdlMSwgcG9pbnQpID09IDIpCiAgICBhc3NlcnQobW9kZWwuZGlzdFVuc2lnbmVkKGVkZ2UyLCBwb2ludCkgPT0gNSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBkaXN0Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlzTGlzdChMaXN0KDEsIDIsIDMpKQo=</text>
+        <text encoding="base64">ICAgIHZhbCBkaXN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZWM6IEV4ZWN1dGlvbkNvbnRleHQgPSBFeGVjdXRpb25Db250ZXh0Lmdsb2JhbAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgZGVmIHN0aFtBLCBCLCBDXTogKEEgPT4gQikgPT4gQyA9ID8/PwoKICBkZWYgcGFyc2VEb3VibGUodmFsdWU6IEFueSk6IERvdWJsZSA9IHsKICAgIHZhbHVlIG1hdGNoIHsKICAgICAgY2FzZSBpbnQ6IEludCA9PgogICAgICAgIGludC50b0RvdWJsZQogICAgICBjYXNlIGRvdWJsZTogRG91YmxlID0+CiAgICAgICAgZG91YmxlCiAgICB9CiAgfQoKICBkZWYgaXNMaXN0KGE6IEFueSk6IFVuaXQgPSB7CiAgICBhIG1hdGNoIHsKICAgICAgY2FzZSBhOiBMaXN0W0FueVZhbF0gPT4gcHJpbnRsbigiSGVoIikKICAgICAgY2FzZSBfID0+IHByaW50bG4oIkplZG5hayBuaWUiKQogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgIGlzTGlzdChMaXN0KDEsIDIsIDMpKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>obj</text>
+        <text>dist</text>
       </register>
     </registers>
     <search>
