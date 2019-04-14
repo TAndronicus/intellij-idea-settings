@@ -44,8 +44,13 @@
         <mark key="^" line="9" column="49" />
         <mark key="." line="9" column="49" />
       </file>
-      <file name="/Dummy.scala" timestamp="1555256385223">
+      <file name="/Dummy.scala" timestamp="1555256594069">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/model/dt/IntegratedDecisionTreeModelTest.scala" timestamp="1555257095510">
+        <mark key="'" line="49" column="2" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="67" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" timestamp="1553009182622">
         <mark key="[" line="14" column="41" />
@@ -197,6 +202,12 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="76" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/model/dt/MappedIntegratedDecisionTreeModelTest.scala" timestamp="1555258285397">
+        <mark key="[" line="36" column="2" />
+        <mark key="]" line="36" column="11" />
+        <mark key="^" line="36" column="11" />
+        <mark key="." line="36" column="11" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Playground.scala" timestamp="1554146410841">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -222,13 +233,14 @@
         <mark key="^" line="5" column="67" />
         <mark key="." line="5" column="67" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/MappedIntegratedDecisionTreeModel.scala" timestamp="1555256400896">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="15" />
-        <mark key="^" line="23" column="15" />
-        <mark key="." line="23" column="15" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/MappedIntegratedDecisionTreeModel.scala" timestamp="1555258295680">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="42" column="46" />
+        <mark key="]" line="42" column="50" />
+        <mark key="^" line="42" column="50" />
+        <mark key="." line="42" column="50" />
       </file>
-      <file name="/fragment.java" timestamp="1554659037687">
+      <file name="/fragment.java" timestamp="1555257025973">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -249,40 +261,43 @@
       <jump line="202" column="4" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.12/srcs/spark-mllib_2.12-2.4.0-sources.jar!/org/apache/spark/ml/classification/DecisionTreeClassifier.scala" />
       <jump line="302" column="0" filename="$USER_HOME$/.ivy2/cache/org.apache.spark/spark-mllib_2.12/srcs/spark-mllib_2.12-2.4.0-sources.jar!/org/apache/spark/ml/classification/DecisionTreeClassifier.scala" />
       <jump line="8" column="6" filename="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" />
+      <jump line="49" column="2" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/model/dt/IntegratedDecisionTreeModelTest.scala" />
+      <jump line="64" column="55" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/MappedIntegratedDecisionTreeModel.scala" />
+      <jump line="0" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/MappedIntegratedDecisionTreeModel.scala" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">IyBUaGVyZSBpcyBpbnN1ZmZpY2llbnQgbWVtb3J5IGZvciB0aGUgSmF2YSBSdW50aW1lIEVudmlyb25tZW50IHRvIGNvbnRpbnVlLgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CgogIHRlc3QoImRpc3RhbmNlIGZyb20gcG9pbnQgdG8gZWRnZSIpIHsKICAgIHZhbCBtb2RlbCA9IG5ldyBNYXBwZWRJbnRlZ3JhdGVkRGVjaXNpb25UcmVlTW9kZWwobnVsbCwgbnVsbCwgbnVsbCwgbnVsbCkKICAgIHZhbCBwb2ludCA9IEFycmF5KDFELCAxKQogICAgdmFsIGVkZ2UwID0gRWRnZShBcnJheSgwLCAwKSwgQXJyYXkoMiwgMCkpCiAgICB2YWwgZWRnZTEgPSBFZGdlKEFycmF5KDMsIDApLCBBcnJheSgzLCA1KSkKICAgIHZhbCBlZGdlMiA9IEVkZ2UoQXJyYXkocG9pbnQoMCkgKyAzLCBwb2ludCgxKSArIDQpLCBBcnJheShwb2ludCgwKSArIDMsIHBvaW50KDEpICsgNikpCiAgICBhc3NlcnQobW9kZWwuZGlzdFVuc2lnbmVkKGVkZ2UwLCBwb2ludCkgPT0gMSkKICAgIGFzc2VydChtb2RlbC5kaXN0VW5zaWduZWQoZWRnZTEsIHBvaW50KSA9PSAyKQogICAgYXNzZXJ0KG1vZGVsLmRpc3RVbnNpZ25lZChlZGdlMiwgcG9pbnQpID09IDUpCiAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlzTGlzdChMaXN0KDEsIDIsIDMpKQo=</text>
+        <text encoding="base64">ICAgIGFzc2VydChtb2RlbC5kaXN0VW5zaWduZWQoZWRnZTAsIHBvaW50KSA9PSAxKQogICAgYXNzZXJ0KG1vZGVsLmRpc3RVbnNpZ25lZChlZGdlMSwgcG9pbnQpID09IDIpCiAgICBhc3NlcnQobW9kZWwuZGlzdFVuc2lnbmVkKGVkZ2UyLCBwb2ludCkgPT0gNSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZWM6IEV4ZWN1dGlvbkNvbnRleHQgPSBFeGVjdXRpb25Db250ZXh0Lmdsb2JhbAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgZGVmIHN0aFtBLCBCLCBDXTogKEEgPT4gQikgPT4gQyA9ID8/PwoKICBkZWYgcGFyc2VEb3VibGUodmFsdWU6IEFueSk6IERvdWJsZSA9IHsKICAgIHZhbHVlIG1hdGNoIHsKICAgICAgY2FzZSBpbnQ6IEludCA9PgogICAgICAgIGludC50b0RvdWJsZQogICAgICBjYXNlIGRvdWJsZTogRG91YmxlID0+CiAgICAgICAgZG91YmxlCiAgICB9CiAgfQoKICBkZWYgaXNMaXN0KGE6IEFueSk6IFVuaXQgPSB7CiAgICBhIG1hdGNoIHsKICAgICAgY2FzZSBhOiBMaXN0W0FueVZhbF0gPT4gcHJpbnRsbigiSGVoIikKICAgICAgY2FzZSBfID0+IHByaW50bG4oIkplZG5hayBuaWUiKQogICAgfQogIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCByZW1vdmVEdXBsaWNhdGUoU3RyaW5nIHMpIHsKICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIocyk7CgogICAgICAgIGZvcihpbnQgaSA9IDA7IGkgPCBzYi5sZW5ndGgoKTsgaSsrKSB7CiAgICAgICAgICAgIGZvcihpbnQgaiA9IGkgKyAxOyBqIDwgc2IubGVuZ3RoKCk7IGorKykgewogICAgICAgICAgICAgICAgaWYoc2IuY2hhckF0KGkpID09IHNiLmNoYXJBdChqKSkgewogICAgICAgICAgICAgICAgICAgIHNiLmRlbGV0ZUNoYXJBdChqKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJEdXBsaWNhdGVzIGhhdmUgYmVlbiwgdGhlIHJlc3VsdGluZyBzdHJpbmcgaXMgPT4gIiArIHNiKTsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgY3ViZShpbnRbXSBhcnJheSkgewogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgYXJyYXkubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgYXJyYXlbaV0gPSAoaW50KSBNYXRoLnBvdyhhcnJheVtpXSwgMyk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgIHZhbCBkaXN0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEJpRnVuY3Rpb248SW50ZWdlciwgSW50ZWdlciwgSW50ZWdlcj4gbXlDb21wYXJhdG9yID0gKHgsIHkpIC0+IHgteTsKICAgICAgICBDb21wYXJhdG9yPEludGVnZXI+IG15Q29tcGFyYXRvciA9ICh4LCB5KSAtPiB4IC0geTsKICAgICAgICBNYXA8SW50ZWdlciwgU3RyaW5nPiBtYXAzID0gbmV3IFRyZWVNYXA8PihteUNvbXBhcmF0b3IpOwogICAgICAgIE1hcDxQYXRoLCBMaXN0PFBhdGg+PiBmaWxlc0luUGF0aCA9IG51bGw7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKEJpZ0RlY2ltYWwudmFsdWVPZig5MCkubXVsdGlwbHkoQmlnRGVjaW1hbC52YWx1ZU9mKDEwKSkuZGl2aWRlKEJpZ0RlY2ltYWwudmFsdWVPZig5MCksIDYsIFJvdW5kaW5nTW9kZS5IQUxGX1VQKSk7CiAgICAgICAgU3RyZWFtPGludFtdPiBhbGxSZXN1bHRzID0gbnVsbDsKICAgICAgICBhbGxSZXN1bHRzLmZsYXRNYXAoYSAtPiBBcnJheXMuc3RyZWFtKGEpLm1hcFRvT2JqKEludGVnZXI6OnZhbHVlT2YpKS5mb3JFYWNoKFN5c3RlbS5vdXQ6OnByaW50bG4pOwoKICAgICAgICBNYXA8U3RyaW5nLCBTZXQ8U3RyaW5nPj4gbWFwcGluZ3MgPSBudWxsOwogICAgICAgIE1hcDxTdHJpbmcsIFNldDxTdHJpbmc+PiByZXN1bHQgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gc3RyaW5ncyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIHN0cmluZ3Muc3RyZWFtKCkuc29ydGVkKGNvbXBhcmF0b3IpLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk7Cg==</text>
+        <text encoding="base64">ICAgIGlzTGlzdChMaXN0KDEsIDIsIDMpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbERhdGVUaW1lIHRoZW4gPSBMb2NhbERhdGVUaW1lLm5vdygpOwo=</text>
+        <text encoding="base64">ICBpbXBsaWNpdCB2YWwgZWM6IEV4ZWN1dGlvbkNvbnRleHQgPSBFeGVjdXRpb25Db250ZXh0Lmdsb2JhbAoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSAodHJ1ZSkgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImhlaCIpOwogICAgICAgICAgICBpZiAoQ2hyb25vVW5pdC5TRUNPTkRTLmJldHdlZW4odGhlbiwgTG9jYWxEYXRlVGltZS5ub3coKSkgPiAyKSBicmVhazsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">CiAgZGVmIHN0aFtBLCBCLCBDXTogKEEgPT4gQikgPT4gQyA9ID8/PwoKICBkZWYgcGFyc2VEb3VibGUodmFsdWU6IEFueSk6IERvdWJsZSA9IHsKICAgIHZhbHVlIG1hdGNoIHsKICAgICAgY2FzZSBpbnQ6IEludCA9PgogICAgICAgIGludC50b0RvdWJsZQogICAgICBjYXNlIGRvdWJsZTogRG91YmxlID0+CiAgICAgICAgZG91YmxlCiAgICB9CiAgfQoKICBkZWYgaXNMaXN0KGE6IEFueSk6IFVuaXQgPSB7CiAgICBhIG1hdGNoIHsKICAgICAgY2FzZSBhOiBMaXN0W0FueVZhbF0gPT4gcHJpbnRsbigiSGVoIikKICAgICAgY2FzZSBfID0+IHByaW50bG4oIkplZG5hayBuaWUiKQogICAgfQogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFic3RyYWN0IDxFIGV4dGVuZHMgU3RyaW5nPiBMaXN0PFN0cmluZz4gZ2V0VXNlcnMoRSBxdWVyeSk7Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCByZW1vdmVEdXBsaWNhdGUoU3RyaW5nIHMpIHsKICAgICAgICBTdHJpbmdCdWlsZGVyIHNiID0gbmV3IFN0cmluZ0J1aWxkZXIocyk7CgogICAgICAgIGZvcihpbnQgaSA9IDA7IGkgPCBzYi5sZW5ndGgoKTsgaSsrKSB7CiAgICAgICAgICAgIGZvcihpbnQgaiA9IGkgKyAxOyBqIDwgc2IubGVuZ3RoKCk7IGorKykgewogICAgICAgICAgICAgICAgaWYoc2IuY2hhckF0KGkpID09IHNiLmNoYXJBdChqKSkgewogICAgICAgICAgICAgICAgICAgIHNiLmRlbGV0ZUNoYXJBdChqKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJEdXBsaWNhdGVzIGhhdmUgYmVlbiwgdGhlIHJlc3VsdGluZyBzdHJpbmcgaXMgPT4gIiArIHNiKTsKICAgIH0KCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgY3ViZShpbnRbXSBhcnJheSkgewogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgYXJyYXkubGVuZ3RoOyBpKyspIHsKICAgICAgICAgICAgYXJyYXlbaV0gPSAoaW50KSBNYXRoLnBvdyhhcnJheVtpXSwgMyk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>obj</text>
       </register>
     </registers>
     <search>
