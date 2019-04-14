@@ -44,7 +44,7 @@
         <mark key="^" line="9" column="49" />
         <mark key="." line="9" column="49" />
       </file>
-      <file name="/Dummy.scala" timestamp="1555256594069">
+      <file name="/Dummy.scala" timestamp="1555263687139">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/test/scala/jb/model/dt/IntegratedDecisionTreeModelTest.scala" timestamp="1555257095510">
@@ -239,12 +239,12 @@
         <mark key="^" line="5" column="67" />
         <mark key="." line="5" column="67" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/MappedIntegratedDecisionTreeModel.scala" timestamp="1555258295680">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/MappedIntegratedDecisionTreeModel.scala" timestamp="1555263446105">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="42" column="46" />
-        <mark key="]" line="42" column="50" />
-        <mark key="^" line="42" column="50" />
-        <mark key="." line="42" column="50" />
+        <mark key="[" line="26" column="23" />
+        <mark key="]" line="26" column="76" />
+        <mark key="^" line="26" column="22" />
+        <mark key="." line="26" column="23" />
       </file>
       <file name="/fragment.java" timestamp="1555257025973">
         <mark key="[" line="0" column="0" />
@@ -273,7 +273,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text encoding="base64">CgogIHRlc3QoImRpc3RhbmNlIGZyb20gcG9pbnQgdG8gZWRnZSIpIHsKICAgIHZhbCBtb2RlbCA9IG5ldyBNYXBwZWRJbnRlZ3JhdGVkRGVjaXNpb25UcmVlTW9kZWwobnVsbCwgbnVsbCwgbnVsbCwgbnVsbCkKICAgIHZhbCBwb2ludCA9IEFycmF5KDFELCAxKQogICAgdmFsIGVkZ2UwID0gRWRnZShBcnJheSgwLCAwKSwgQXJyYXkoMiwgMCkpCiAgICB2YWwgZWRnZTEgPSBFZGdlKEFycmF5KDMsIDApLCBBcnJheSgzLCA1KSkKICAgIHZhbCBlZGdlMiA9IEVkZ2UoQXJyYXkocG9pbnQoMCkgKyAzLCBwb2ludCgxKSArIDQpLCBBcnJheShwb2ludCgwKSArIDMsIHBvaW50KDEpICsgNikpCiAgICBhc3NlcnQobW9kZWwuZGlzdFVuc2lnbmVkKGVkZ2UwLCBwb2ludCkgPT0gMSkKICAgIGFzc2VydChtb2RlbC5kaXN0VW5zaWduZWQoZWRnZTEsIHBvaW50KSA9PSAyKQogICAgYXNzZXJ0KG1vZGVsLmRpc3RVbnNpZ25lZChlZGdlMiwgcG9pbnQpID09IDUpCiAgfQ==</text>
+        <text encoding="base64">LnJlZHVjZSgobDEsIGwyKSA9PiBpZiAobDEuXzIgPiBsMi5fMikgbDEgZWxzZSBsMikuXzE=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGpiLnV0aWwuVXRpbC5fCg==</text>
