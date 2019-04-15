@@ -117,10 +117,11 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1555350137713">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1555355332104">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+        <mark key="^" line="7" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/greyhound/src/main/java/greyhound/Main.java" timestamp="1552243038653">
         <mark key="[" line="25" column="79" />
@@ -272,8 +273,8 @@
       <jump line="0" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/MappedIntegratedDecisionTreeModel.scala" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhbCBMMyA9IEwxLmluZGljZXMubWFwKGkgPT4gTDEoaSkgOjogTDIoaSkpCg==</text>
+      <register name="0" type="4">
+        <text>s.length() - 1 + s.split(&quot;1&quot;).length</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBkZWYgY29udmVydG9yKG1hcmtzIDogSW50KSA6IEludCA9IG1hcmtzIG1hdGNoIHsKICAgIGNhc2UgIF8gPj0gNTAgJiYgXyA8IDU4ID0+ICAxCiAgICBjYXNlICBfID49IDU4ICYmIF8gPCA3MCA9PiAgMgogICAgY2FzZSAgXyA+PSA3MCAmJiBfIDwgODUgPT4gIDMKICAgIGNhc2UgIF8gPj0gODUgID0+IDQKICAgIGNhc2UgXyA9PiA0ICB9Cgo=</text>
