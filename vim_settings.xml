@@ -117,11 +117,11 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1555357133885">
-        <mark key="[" line="17" column="29" />
-        <mark key="]" line="25" column="11" />
-        <mark key="." line="25" column="11" />
-        <mark key="^" line="25" column="11" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1555358058279">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="17" column="89" />
+        <mark key="." line="17" column="89" />
+        <mark key="^" line="17" column="89" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/greyhound/src/main/java/greyhound/Main.java" timestamp="1552243038653">
         <mark key="[" line="25" column="79" />
@@ -274,7 +274,7 @@
     </jumps>
     <registers>
       <register name="0" type="4">
-        <text>s.length() - 1 + s.split(&quot;1&quot;).length</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbWVkaWFuID0gZGljZUNvcHkubGVuZ3RoICUgMiA9PSAxID8gCiAgICAgICAgICAgICAgICBkaWNlQ29weVsoZGljZUNvcHkubGVuZ3RoICsgMSkgLyAyXQogICAgICAgICAgICAgICAgOiAoZGljZUNvcHlbZGljZUNvcHkubGVuZ3RoIC8gMl0gKyBkaWNlQ29weVtkaWNlQ29weS5sZW5ndGggLyAyICsgMV0pIC8gMjs=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBkZWYgY29udmVydG9yKG1hcmtzIDogSW50KSA6IEludCA9IG1hcmtzIG1hdGNoIHsKICAgIGNhc2UgIF8gPj0gNTAgJiYgXyA8IDU4ID0+ICAxCiAgICBjYXNlICBfID49IDU4ICYmIF8gPCA3MCA9PiAgMgogICAgY2FzZSAgXyA+PSA3MCAmJiBfIDwgODUgPT4gIDMKICAgIGNhc2UgIF8gPj0gODUgID0+IDQKICAgIGNhc2UgXyA9PiA0ICB9Cgo=</text>
@@ -304,7 +304,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>, 20</text>
+        <text>Math.ceil(</text>
       </register>
     </registers>
     <search>
