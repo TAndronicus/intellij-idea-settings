@@ -70,11 +70,11 @@
         <mark key="^" line="44" column="86" />
         <mark key="." line="44" column="86" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1555350416697">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="48" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="14" column="11" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1555423368209">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="35" />
+        <mark key="." line="21" column="32" />
+        <mark key="^" line="21" column="32" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/resources/application.properties" timestamp="1553373545639">
         <mark key="[" line="5" column="30" />
@@ -273,8 +273,8 @@
       <jump line="0" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/MappedIntegratedDecisionTreeModel.scala" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICBpbnQgbWVkaWFuID0gZGljZUNvcHkubGVuZ3RoICUgMiA9PSAxID8gCiAgICAgICAgICAgICAgICBkaWNlQ29weVsoZGljZUNvcHkubGVuZ3RoICsgMSkgLyAyXQogICAgICAgICAgICAgICAgOiAoZGljZUNvcHlbZGljZUNvcHkubGVuZ3RoIC8gMl0gKyBkaWNlQ29weVtkaWNlQ29weS5sZW5ndGggLyAyICsgMV0pIC8gMjs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEEuZmlsdGVyKGsgPT4gQi5jb250YWlucyhrLl8xKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBjbGFzcyBCdXR0b248VD57CiAgICAgICAgcHJpdmF0ZSBUIHN0cmluZzsKICAgIH0KCiAgICBhYnN0cmFjdCBjbGFzcyBCczxUIGV4dGVuZHMgTnVtYmVyPiBleHRlbmRzIEJ1dHRvbjxUPiB7CiAgICAgICAgYWJzdHJhY3QgVCBnZXRUKCk7CiAgICB9CgogICAgY2xhc3MgQnNzIGV4dGVuZHMgQnM8SW50ZWdlcj4gewoKICAgICAgICBAT3ZlcnJpZGUKICAgICAgICBJbnRlZ2VyIGdldFQoKSB7CiAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgIH0KICAgIH0KCgo=</text>
