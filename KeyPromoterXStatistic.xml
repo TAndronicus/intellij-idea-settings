@@ -121,6 +121,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'BookRepositoryTest.shouldSaveData'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'BookRepositoryTest.shouldSaveData'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'ExperimentPlan'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
