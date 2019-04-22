@@ -32,12 +32,12 @@
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/tester/Tester.scala" timestamp="1552120734048">
         <mark key="[" line="5" column="7" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Review.java" timestamp="1555923351500">
-        <mark key="'" line="30" column="28" />
-        <mark key="[" line="13" column="62" />
-        <mark key="]" line="12" column="39" />
-        <mark key="^" line="12" column="39" />
-        <mark key="." line="12" column="39" />
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Review.java" timestamp="1555930502577">
+        <mark key="'" line="32" column="28" />
+        <mark key="[" line="12" column="86" />
+        <mark key="]" line="13" column="88" />
+        <mark key="^" line="13" column="88" />
+        <mark key="." line="13" column="88" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" timestamp="1555904332145">
         <mark key="[" line="8" column="26" />
@@ -145,11 +145,11 @@
       <file name="/hm.public.author [hm@localhost]" timestamp="1555916716963">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/dao/BookRepositoryTest.java" timestamp="1555923325109">
-        <mark key="[" line="42" column="48" />
-        <mark key="]" line="42" column="60" />
-        <mark key="^" line="42" column="60" />
-        <mark key="." line="42" column="60" />
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/dao/BookRepositoryTest.java" timestamp="1555930937898">
+        <mark key="[" line="42" column="41" />
+        <mark key="]" line="42" column="41" />
+        <mark key="^" line="42" column="41" />
+        <mark key="." line="42" column="41" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/dao/AuthorRepository.java" timestamp="1554057869527">
         <mark key="[" line="12" column="0" />
@@ -165,11 +165,11 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Book.java" timestamp="1555923783289">
-        <mark key="[" line="20" column="84" />
-        <mark key="]" line="20" column="38" />
-        <mark key="." line="20" column="38" />
-        <mark key="^" line="20" column="38" />
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Book.java" timestamp="1555930888715">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="21" />
+        <mark key="." line="22" column="21" />
+        <mark key="^" line="22" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1553008828002">
         <mark key="[" line="9" column="94" />
@@ -262,7 +262,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1555923112807">
+      <file name="/fragment.java" timestamp="1555930592441">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -293,34 +293,34 @@
         <text encoding="base64">ICAgICAgICByZXZpZXdSZXBvc2l0b3J5LnNhdmUocjEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U2hvcnQsIFJldmlldz4gZ2V0TWFwKCkgewogICAgICAgIHJldHVybiBtYXA7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TWFwKE1hcDxTaG9ydCwgUmV2aWV3PiBtYXApIHsKICAgICAgICB0aGlzLm1hcCA9IG1hcDsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgIEBFbGVtZW50Q29sbGVjdGlvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuc3Quc2UK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U2hvcnQsIFJldmlldz4gZ2V0TWFwKCkgewogICAgICAgIHJldHVybiBtYXA7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TWFwKE1hcDxTaG9ydCwgUmV2aWV3PiBtYXApIHsKICAgICAgICB0aGlzLm1hcCA9IG1hcDsKICAgIH0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBuc3Quc2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBCb29rIHJyID0gbmV3IEJvb2soIlRoZSByb2FkIHRvIHJlYWxpdHkiKTsKICAgICAgICBCb29rIGJodCA9IG5ldyBCb29rKCJCcmllZiBoaXN0b3J5IG9mIFRpbWUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBATWFueVRvTWFueShjYXNjYWRlID0ge0Nhc2NhZGVUeXBlLk1FUkdFLCBDYXNjYWRlVHlwZS5QRVJTSVNULCBDYXNjYWRlVHlwZS5SRUZSRVNIfSkKICAgIEBKb2luVGFibGUobmFtZSA9ICJhdXRob3JfYm9vayIsCiAgICAgICAgICAgIGpvaW5Db2x1bW5zID0gQEpvaW5Db2x1bW4obmFtZSA9ICJhdXRob3JfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJpZCIpLAogICAgICAgICAgICBpbnZlcnNlSm9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lID0gImJvb2tfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJpZCIpKQogICAgQE1hcEtleShuYW1lID0gInRpdGxlIikKICAgIHByaXZhdGUgTWFwPFN0cmluZywgQm9vaz4gYm9va01hcDsK</text>
+        <text encoding="base64">ICAgICAgICBCb29rIHJyID0gbmV3IEJvb2soIlRoZSByb2FkIHRvIHJlYWxpdHkiKTsKICAgICAgICBCb29rIGJodCA9IG5ldyBCb29rKCJCcmllZiBoaXN0b3J5IG9mIFRpbWUiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBATWFueVRvTWFueShjYXNjYWRlID0ge0Nhc2NhZGVUeXBlLk1FUkdFLCBDYXNjYWRlVHlwZS5QRVJTSVNULCBDYXNjYWRlVHlwZS5SRUZSRVNIfSkKICAgIEBKb2luVGFibGUobmFtZSA9ICJhdXRob3JfYm9vayIsCiAgICAgICAgICAgIGpvaW5Db2x1bW5zID0gQEpvaW5Db2x1bW4obmFtZSA9ICJhdXRob3JfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJpZCIpLAogICAgICAgICAgICBpbnZlcnNlSm9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lID0gImJvb2tfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJpZCIpKQogICAgQE1hcEtleShuYW1lID0gInRpdGxlIikKICAgIHByaXZhdGUgTWFwPFN0cmluZywgQm9vaz4gYm9va01hcDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBdXRob3IgYXV0aG9yID0gYXV0aG9yUmVwb3NpdG9yeS5maW5kQWxsKCkuZ2V0KDApOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBBdXRob3IgYXV0aG9yID0gYXV0aG9yUmVwb3NpdG9yeS5maW5kQWxsKCkuZ2V0KDApOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>getMap();</text>
+        <text>.get().</text>
       </register>
     </registers>
     <search>
