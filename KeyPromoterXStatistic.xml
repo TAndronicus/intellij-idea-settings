@@ -81,6 +81,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'AuthorRepositoryTest.shouldLazyLoadToMany'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'AuthorRepositoryTest.shouldLazyLoadToMany'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'ExperimentPlan'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
