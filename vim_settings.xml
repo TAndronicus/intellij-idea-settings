@@ -15,10 +15,10 @@
       <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" timestamp="1554011296916">
         <mark key="[" line="10" column="29" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/dao/AuthorRepositoryTest.java" timestamp="1554057915094">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/dao/AuthorRepositoryTest.java" timestamp="1555916809961">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d49eef88-c4a0-4b7a-b996-e9d6a68b9408/console.sql" timestamp="1553626063925">
         <mark key="[" line="12" column="0" />
@@ -32,12 +32,12 @@
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/tester/Tester.scala" timestamp="1552120734048">
         <mark key="[" line="5" column="7" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Review.java" timestamp="1555914327304">
-        <mark key="'" line="25" column="28" />
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="48" column="3" />
-        <mark key="^" line="48" column="3" />
-        <mark key="." line="48" column="3" />
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Review.java" timestamp="1555917146471">
+        <mark key="'" line="29" column="28" />
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="59" />
+        <mark key="^" line="12" column="59" />
+        <mark key="." line="12" column="59" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" timestamp="1555904332145">
         <mark key="[" line="8" column="26" />
@@ -135,7 +135,12 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="/hm.public.author [hm@localhost]" timestamp="1553372792817">
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Author.java" timestamp="1555916818969">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="/hm.public.author [hm@localhost]" timestamp="1555916716963">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/dao/BookRepositoryTest.java" timestamp="1552592134677">
@@ -155,11 +160,11 @@
         <mark key="." line="0" column="15" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Book.java" timestamp="1553373221468">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="13" column="93" />
-        <mark key="." line="13" column="50" />
-        <mark key="^" line="13" column="50" />
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Book.java" timestamp="1555917061750">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/MultiRunner.scala" timestamp="1553008828002">
         <mark key="[" line="9" column="94" />
@@ -197,13 +202,13 @@
       <file name="/Dummy.vm" timestamp="1554661613562">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/dummy.sql" timestamp="1553372806321">
+      <file name="/dummy.sql" timestamp="1555916718891">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/vavr-demo/build.gradle" timestamp="1552500011069">
         <mark key="[" line="16" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555266357478">
+      <file name="/Dummy.txt" timestamp="1555916302840">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1554658911406">
@@ -283,43 +288,43 @@
       <jump line="18" column="28" filename="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Review.java" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBDaHJvbm9Vbml0LkRBWVMuYmV0d2VlbihMb2NhbERhdGVUaW1lLm5vdygpLCBpbnN0YW50KTsK</text>
+      <register name="0" type="4">
+        <text>(cascade = {CascadeType.MERGE, CascadeType.PERSIST, CascadeType.REFRESH})</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">CiAgICBATWFueVRvTWFueShjYXNjYWRlID0ge0Nhc2NhZGVUeXBlLk1FUkdFLCBDYXNjYWRlVHlwZS5QRVJTSVNULCBDYXNjYWRlVHlwZS5SRUZSRVNIfSkKICAgIEBKb2luVGFibGUobmFtZSA9ICJhdXRob3JfYm9vayIsCiAgICAgICAgICAgIGpvaW5Db2x1bW5zID0gQEpvaW5Db2x1bW4obmFtZSA9ICJhdXRob3JfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJpZCIpLAogICAgICAgICAgICBpbnZlcnNlSm9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lID0gImJvb2tfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJpZCIpKQogICAgQE1hcEtleShuYW1lID0gInRpdGxlIikKICAgIHByaXZhdGUgTWFwPFN0cmluZywgQm9vaz4gYm9va01hcDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGxvbWJvay5EYXRhOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb25nIGJldHdlZW4gPSBDaHJvbm9Vbml0LkRBWVMuYmV0d2VlbihJbnN0YW50Lm5vdygpLCBJbnN0YW50Lm5vdygpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYmV0d2Vlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBBdXRob3IgYXV0aG9yID0gYXV0aG9yUmVwb3NpdG9yeS5maW5kQWxsKCkuZ2V0KDApOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBzdGF0aWMgaW50W10gYWRkcihpbnQgYVtdLCBpbnQgaSwgaW50IG4pIHsKICAgICAgICBpZiAoaSA9PSAwKQogICAgICAgICAgICByZXR1cm4gYWRkcihhLCBpICsgMSwgbik7CiAgICAgICAgaWYgKGkgPT0gbiAtIDEpIHsKICAgICAgICAgICAgYVtpXSA9IGFbaV0gKyBhW2kgLSAxXTsKICAgICAgICAgICAgcmV0dXJuIGE7IC8vdGhpcyByZXR1cm4gc3RhdGVtZW50IGlzIG5vdCBleGVjdXRpbmcKICAgICAgICB9CiAgICAgICAgLy90aGlzIGJlbG93IHBhcnQgaXMgZXhlY3V0aW5nIGV2ZW4gaWYgaSBoYXMgcmVhY2hlZCB0byBuLTEKICAgICAgICBhW2ldID0gYVtpXSArIGFbaSAtIDFdOwogICAgICAgIHJldHVybiBhZGRyKGEsIGkgKyAxLCBuKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYVtdID0gezUsIDEsIDMsIDksIDV9OwogICAgICAgIGEgPSBhZGRyKGEsIDAsIGEubGVuZ3RoKTsKICAgICAgICBmb3IgKGludCBpIDogYSkKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludChpICsgIiAiKTsK</text>
+        <text encoding="base64">ICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYTsK</text>
+        <text encoding="base64">ICAgIEBUZXN0CiAgICBwdWJsaWMgdm9pZCBtYXBUZXN0KCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlcykK</text>
+        <text encoding="base64">ICAgIEBNYXBLZXkobmFtZSA9ICJsYXN0TmFtZSIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBMMSA9IExpc3QoMSwyLDMpIC8vIHJvbGwgbnVtYmVycwogICAgdmFsIEwyID0gTGlzdCgxLDMpIC8vIHJvbGwgbnVtYmVycwogICAgdmFsIGxpc3RzID0gTGlzdChMMSwgTDIpCiAgICB2YWwgY2hhcnMgPSBMaXN0KCdBJywgJ0InKQogICAgdmFsIHJlbCA9IGNoYXJzLnppcChsaXN0cykK</text>
+        <text encoding="base64">ICAgIEBFbGVtZW50Q29sbGVjdGlvbgoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGbG9hdC5NQVhfVkFMVUUK</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MjAsIA==</text>
+        <text>short</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search />
