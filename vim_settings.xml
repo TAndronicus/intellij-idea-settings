@@ -144,11 +144,11 @@
       <file name="/hm.public.author [hm@localhost]" timestamp="1555916716963">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/dao/BookRepositoryTest.java" timestamp="1555949822320">
-        <mark key="[" line="50" column="39" />
-        <mark key="]" line="50" column="39" />
-        <mark key="^" line="50" column="39" />
-        <mark key="." line="50" column="39" />
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/dao/BookRepositoryTest.java" timestamp="1555955917987">
+        <mark key="[" line="58" column="49" />
+        <mark key="]" line="58" column="49" />
+        <mark key="." line="58" column="49" />
+        <mark key="^" line="58" column="46" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/dao/AuthorRepository.java" timestamp="1554057869527">
         <mark key="[" line="12" column="0" />
@@ -185,11 +185,11 @@
       <file name="/a.sql" timestamp="1555947851943">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/AbstractEntity.java" timestamp="1555909185757">
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/AbstractEntity.java" timestamp="1555955709348">
         <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="19" />
-        <mark key="^" line="11" column="19" />
-        <mark key="." line="11" column="19" />
+        <mark key="]" line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1554011283911">
         <mark key="[" line="44" column="85" />
@@ -212,7 +212,7 @@
       <file name="/mnt/mag/Workspace/JVM/vavr-demo/build.gradle" timestamp="1552500011069">
         <mark key="[" line="16" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555916302840">
+      <file name="/Dummy.txt" timestamp="1555955952269">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1554658911406">
@@ -292,34 +292,34 @@
         <text encoding="base64">Ly8gICAgQE9uZVRvTWFueShjYXNjYWRlID0ge0Nhc2NhZGVUeXBlLk1FUkdFLCBDYXNjYWRlVHlwZS5QRVJTSVNULCBDYXNjYWRlVHlwZS5SRUZSRVNIfSwgbWFwcGVkQnkgPSAiYm9vayIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmZsdXNoKCk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8UmV2aWV3PiByZXZpZXdzID0gYm9vay5nZXRSZXZpZXdzKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJldmlld3MpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHIxLnNldEJvb2sobnN0KTsKLy8gICAgICAgIHIyLnNldEJvb2sobnN0KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgQEpvaW5UYWJsZSgKLy8gICAgICAgICAgICBuYW1lID0gImJvb2tfcmV2aWV3IiwKLy8gICAgICAgICAgICBqb2luQ29sdW1ucyA9IEBKb2luQ29sdW1uKG5hbWUgPSAicmV2aWV3X2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiaWQiKSwKLy8gICAgICAgICAgICBpbnZlcnNlSm9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lID0gImJvb2tfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJpZCIpCi8vICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBCb29rIGJvb2sgPSBib29rUmVwb3NpdG9yeS5maW5kQWxsKCkuZ2V0KDApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgQEpvaW5Db2x1bW4obmFtZSA9ICJib29rX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiaWQiKQovLyAgICBASm9pblRhYmxlKG5hbWUgPSAiYm9va19yZXZpZXciLAovLyAgICAgICAgICAgIGpvaW5Db2x1bW5zID0gQEpvaW5Db2x1bW4obmFtZSA9ICJib29rX2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiaWQiKSwKLy8gICAgICAgICAgICBpbnZlcnNlSm9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lID0gInJldmlld19pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lID0gImlkIikpCi8vICAgIEBNYXBLZXkobmFtZSA9ICJpZCIpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmZsdXNoKCk7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCb29rIGJvb2sgPSBib29rUmVwb3NpdG9yeS5maW5kQnlJZCgxTCkuZ2V0KCk7Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLm1lcmdlKHIyKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmZsdXNoKCk7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBFbGVtZW50Q29sbGVjdGlvbgo=</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U2hvcnQsIFJldmlldz4gZ2V0TWFwKCkgewogICAgICAgIHJldHVybiBtYXA7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0TWFwKE1hcDxTaG9ydCwgUmV2aWV3PiBtYXApIHsKICAgICAgICB0aGlzLm1hcCA9IG1hcDsKICAgIH0KCg==</text>
+        <text encoding="base64">Ly8gICAgQEpvaW5UYWJsZSgKLy8gICAgICAgICAgICBuYW1lID0gImJvb2tfcmV2aWV3IiwKLy8gICAgICAgICAgICBqb2luQ29sdW1ucyA9IEBKb2luQ29sdW1uKG5hbWUgPSAicmV2aWV3X2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiaWQiKSwKLy8gICAgICAgICAgICBpbnZlcnNlSm9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lID0gImJvb2tfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJpZCIpCi8vICAgICkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2FzY2FkZSA9IHtDYXNjYWRlVHlwZS5NRVJHRSwgQ2FzY2FkZVR5cGUuUEVSU0lTVCwgQ2FzY2FkZVR5cGUuUkVGUkVTSH0sIA==</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
