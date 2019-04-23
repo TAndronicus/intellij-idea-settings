@@ -137,6 +137,14 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'HibernateMappingsApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'HibernateMappingsApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Playground'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
