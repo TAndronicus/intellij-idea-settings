@@ -3,8 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/service/AuthorService.java" timestamp="1556044214802">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="10" />
+        <mark key="^" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+      </file>
       <file name="/hm.public.book [hm@localhost]" timestamp="1553372806163">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/AuthorRest.java" timestamp="1556044221309">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="38" />
+        <mark key="^" line="17" column="38" />
+        <mark key="." line="17" column="38" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/resources/test_data.sql" timestamp="1552584553865">
         <mark key="[" line="2" column="27" />
@@ -246,6 +258,13 @@
         <mark key="." line="14" column="90" />
         <mark key="^" line="14" column="90" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/AuthorService.java" timestamp="1556044052611">
+        <mark key="'" line="14" column="42" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/AuthorRepository.java" timestamp="1552339689848">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="5" column="67" />
@@ -254,6 +273,12 @@
       </file>
       <file name="$USER_HOME$/Downloads/spring-boot/src/main/java/com/test/controller/ProductController.java" timestamp="1555613377536">
         <mark key="[" line="22" column="48" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/build.gradle" timestamp="1556043898437">
+        <mark key="[" line="22" column="74" />
+        <mark key="]" line="23" column="67" />
+        <mark key="^" line="23" column="67" />
+        <mark key="." line="23" column="67" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/MappedIntegratedDecisionTreeModel.scala" timestamp="1555264451559">
         <mark key="'" line="0" column="0" />
@@ -286,6 +311,7 @@
       <jump line="64" column="55" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/MappedIntegratedDecisionTreeModel.scala" />
       <jump line="0" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/MappedIntegratedDecisionTreeModel.scala" />
       <jump line="18" column="28" filename="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Review.java" />
+      <jump line="14" column="42" filename="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/AuthorService.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
