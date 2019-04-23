@@ -38,11 +38,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" timestamp="1555946684869">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="27" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/ExperimentPlan.scala" timestamp="1556035156092">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="26" />
         <mark key="^" line="10" column="35" />
-        <mark key="." line="8" column="27" />
+        <mark key="." line="10" column="26" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/dao/BookRepository.java" timestamp="1552588679595">
         <mark key="[" line="9" column="10" />
@@ -319,12 +319,12 @@
         <text encoding="base64">Ly8gICAgQEpvaW5UYWJsZSgKLy8gICAgICAgICAgICBuYW1lID0gImJvb2tfcmV2aWV3IiwKLy8gICAgICAgICAgICBqb2luQ29sdW1ucyA9IEBKb2luQ29sdW1uKG5hbWUgPSAicmV2aWV3X2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiaWQiKSwKLy8gICAgICAgICAgICBpbnZlcnNlSm9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lID0gImJvb2tfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJpZCIpCi8vICAgICkK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">MjAsIDQwLCA=</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search />
