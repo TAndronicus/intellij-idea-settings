@@ -96,6 +96,12 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="5" column="30" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Listing.java" timestamp="1556136290857">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="11" column="22" />
+        <mark key="^" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/dao/ReviewRepository.java" timestamp="1555922660181">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="5" column="61" />
@@ -137,10 +143,11 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1555828995412">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1556136573304">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="24" column="4" />
+        <mark key="." line="24" column="4" />
+        <mark key="^" line="24" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/greyhound/src/main/java/greyhound/Main.java" timestamp="1552243038653">
         <mark key="[" line="25" column="79" />
@@ -318,8 +325,8 @@
       <jump line="60" column="0" filename="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Book.java" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgQE9uZVRvTWFueShjYXNjYWRlID0ge0Nhc2NhZGVUeXBlLk1FUkdFLCBDYXNjYWRlVHlwZS5QRVJTSVNULCBDYXNjYWRlVHlwZS5SRUZSRVNIfSwgbWFwcGVkQnkgPSAiYm9vayIpCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTGlzdCBnZXRCdXNpbmVzc0lkKExpc3RpbmcgbGlzdGluZykgewogICAgICAgIHJldHVybiBhc0xpc3QobGlzdGluZy5nZXRJdGVtcygpLnN0cmVhbSgpLm1hcFRvSW50KEl0ZW1TdGFjazo6Z2V0QW1vdW50KS5zdW0oKSwKICAgICAgICAgICAgICAgIGxpc3RpbmcuZ2V0SXRlbXMoKS5nZXQoMCkuZ2V0VHlwZSgpLAogICAgICAgICAgICAgICAgbGlzdGluZy5nZXRTZWxsZXIoKSwKICAgICAgICAgICAgICAgIGxpc3RpbmcuZ2V0UHJpY2UoKSk7CiAgICB9</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gICAgICAgIExpc3Q8UmV2aWV3PiByZXZpZXdzID0gYm9vay5nZXRSZXZpZXdzKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJldmlld3MpOwo=</text>
@@ -349,7 +356,7 @@
         <text encoding="base64">Ly8gICAgQEpvaW5UYWJsZSgKLy8gICAgICAgICAgICBuYW1lID0gImJvb2tfcmV2aWV3IiwKLy8gICAgICAgICAgICBqb2luQ29sdW1ucyA9IEBKb2luQ29sdW1uKG5hbWUgPSAicmV2aWV3X2lkIiwgcmVmZXJlbmNlZENvbHVtbk5hbWUgPSAiaWQiKSwKLy8gICAgICAgICAgICBpbnZlcnNlSm9pbkNvbHVtbnMgPSBASm9pbkNvbHVtbihuYW1lID0gImJvb2tfaWQiLCByZWZlcmVuY2VkQ29sdW1uTmFtZSA9ICJpZCIpCi8vICAgICkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MjAsIDQwLCA=</text>
+        <text>asList(lst.id, lst.name)</text>
       </register>
     </registers>
     <search>
