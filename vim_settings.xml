@@ -78,11 +78,8 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1555597822568">
-        <mark key="[" line="51" column="48" />
-        <mark key="]" line="51" column="48" />
-        <mark key="^" line="44" column="84" />
-        <mark key="." line="51" column="48" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1556442098407">
+        <mark key="^" line="42" column="84" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Playground.scala" timestamp="1555611471675">
         <mark key="[" line="11" column="31" />
@@ -329,31 +326,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTGlzdCBnZXRCdXNpbmVzc0lkKExpc3RpbmcgbGlzdGluZykgewogICAgICAgIHJldHVybiBhc0xpc3QobGlzdGluZy5nZXRJdGVtcygpLnN0cmVhbSgpLm1hcFRvSW50KEl0ZW1TdGFjazo6Z2V0QW1vdW50KS5zdW0oKSwKICAgICAgICAgICAgICAgIGxpc3RpbmcuZ2V0SXRlbXMoKS5nZXQoMCkuZ2V0VHlwZSgpLAogICAgICAgICAgICAgICAgbGlzdGluZy5nZXRTZWxsZXIoKSwKICAgICAgICAgICAgICAgIGxpc3RpbmcuZ2V0UHJpY2UoKSk7CiAgICB9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RpbmcuZ2V0SXRlbXMoKS5nZXQoMCkuZ2V0VHlwZSgpLAogICAgICAgICAgICAgICAgbGlzdGluZy5nZXRTZWxsZXIoKSwKICAgICAgICAgICAgICAgIGxpc3RpbmcuZ2V0UHJpY2UoKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hbnRsci52NC5ydW50aW1lLkludFN0cmVhbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIExpc3QgZ2V0QnVzaW5lc3NJZChMaXN0aW5nIGxpc3RpbmcpIHsKICAgICAgICByZXR1cm4gYXNMaXN0KGxpc3RpbmcuZ2V0SXRlbXMoKS5zdHJlYW0oKS5tYXBUb0ludChJdGVtU3RhY2s6OmdldEFtb3VudCkuc3VtKCksCiAgICAgICAgICAgICAgICBsaXN0aW5nLmdldEl0ZW1zKCkuZ2V0KDApLmdldFR5cGUoKSwKICAgICAgICAgICAgICAgIGxpc3RpbmcuZ2V0U2VsbGVyKCksCiAgICAgICAgICAgICAgICBsaXN0aW5nLmdldFByaWNlKCkpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpc3RpbmcuZ2V0SXRlbXMoKS5nZXQoMCkuZ2V0VHlwZSgpLAogICAgICAgICAgICAgICAgbGlzdGluZy5nZXRTZWxsZXIoKSwKICAgICAgICAgICAgICAgIGxpc3RpbmcuZ2V0UHJpY2UoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIExpc3Q8UmV2aWV3PiByZXZpZXdzID0gYm9vay5nZXRSZXZpZXdzKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJldmlld3MpOwo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIExpc3QgZ2V0QnVzaW5lc3NJZChMaXN0aW5nIGxpc3RpbmcpIHsKICAgICAgICByZXR1cm4gYXNMaXN0KGxpc3RpbmcuZ2V0SXRlbXMoKS5zdHJlYW0oKS5tYXBUb0ludChJdGVtU3RhY2s6OmdldEFtb3VudCkuc3VtKCksCiAgICAgICAgICAgICAgICBsaXN0aW5nLmdldEl0ZW1zKCkuZ2V0KDApLmdldFR5cGUoKSwKICAgICAgICAgICAgICAgIGxpc3RpbmcuZ2V0U2VsbGVyKCksCiAgICAgICAgICAgICAgICBsaXN0aW5nLmdldFByaWNlKCkpOwogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHIxLnNldEJvb2sobnN0KTsKLy8gICAgICAgIHIyLnNldEJvb2sobnN0KTsK</text>
+        <text encoding="base64">Ly8gICAgICAgIExpc3Q8UmV2aWV3PiByZXZpZXdzID0gYm9vay5nZXRSZXZpZXdzKCk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHJldmlld3MpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBCb29rIGJvb2sgPSBib29rUmVwb3NpdG9yeS5maW5kQWxsKCkuZ2V0KDApOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIHIxLnNldEJvb2sobnN0KTsKLy8gICAgICAgIHIyLnNldEJvb2sobnN0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmZsdXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBCb29rIGJvb2sgPSBib29rUmVwb3NpdG9yeS5maW5kQWxsKCkuZ2V0KDApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLm1lcmdlKHIyKTsK</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmZsdXNoKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLm1lcmdlKHIyKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmZsdXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="-" type="4">
         <text>getItems().stream().mapToInt(ItemStack::getAmount).sum(),</text>
