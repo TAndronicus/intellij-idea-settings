@@ -143,6 +143,12 @@
         <mark key="." line="0" column="13" />
         <mark key="^" line="0" column="13" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/HibernateMappingsApplication.java" timestamp="1556687051493">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="118" />
+        <mark key="^" line="15" column="117" />
+        <mark key="." line="15" column="117" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/PlaygroundJava.java" timestamp="1556451077587">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -309,8 +315,8 @@
       <jump line="60" column="0" filename="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Book.java" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgIEBNYW55VG9PbmUoY2FzY2FkZSA9IENhc2NhZGVUeXBlLkFMTCkKICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiYm9va19pZCIsIHJlZmVyZW5jZWRDb2x1bW5OYW1lID0gImlkIikKICAgIHByaXZhdGUgQm9vayBib29rOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBBcnJheXMuc3RyZWFtKHBhcnJheSkuZmxhdE1hcChhciAtPiBBcnJheXMuc3RyZWFtKGFyKS5tYXBUb09iaihJbnRlZ2VyOjp2YWx1ZU9mKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvU2V0KCkpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBDb2xsZWN0aW9uPExpc3Rpbmc+IGxpc3RpbmdzID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgbGlzdGluZ3MuYWRkKG5ldyBMaXN0aW5nKDEsICJuYW1lIiwgIjEiKSk7CiAgICAgICAgbGlzdGluZ3MuYWRkKG5ldyBMaXN0aW5nKDIsICJuYW1lIiwgIjIiKSk7CiAgICAgICAgbGlzdGluZ3MuYWRkKG5ldyBMaXN0aW5nKDIsICJuYW1lIiwgIjMiKSk7CiAgICAgICAgTWFwPExpc3QsIEludGVnZXI+IGNvdW50cyA9IG5ldyBIYXNoTWFwPD4oKTsKICAgICAgICBsaXN0aW5ncy5mb3JFYWNoKGxzdCAtPiBjb3VudHMubWVyZ2UoZ2V0QnVzaW5lc3NJZChsc3QpLCAxLCBJbnRlZ2VyOjpzdW0pKTsKICAgICAgICBjb3VudHMuZm9yRWFjaCgobCwgYykgLT4gU3lzdGVtLm91dC5wcmludGxuKCIgOjo6ICIgKyBjKSk7CiAgICB9CgogICAgcHVibGljIHN0YXRpYyBMaXN0IGdldEJ1c2luZXNzSWQoTGlzdGluZyBsaXN0aW5nKSB7CiAgICAgICAgcmV0dXJuIGFzTGlzdChsaXN0aW5nLmlkLCBsaXN0aW5nLm5hbWUpOwogICAgfQoK</text>
