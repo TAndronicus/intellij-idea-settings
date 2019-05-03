@@ -241,7 +241,7 @@
       <file name="/mnt/mag/Workspace/JVM/vavr-demo/build.gradle" timestamp="1552500011069">
         <mark key="[" line="16" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556128959297">
+      <file name="/Dummy.txt" timestamp="1556883275296">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1554658911406">
@@ -287,13 +287,13 @@
       <file name="$USER_HOME$/Downloads/spring-boot/src/main/java/com/test/controller/ProductController.java" timestamp="1555613377536">
         <mark key="[" line="22" column="48" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/build.gradle" timestamp="1556043898437">
-        <mark key="[" line="22" column="74" />
-        <mark key="]" line="23" column="67" />
-        <mark key="^" line="23" column="67" />
-        <mark key="." line="23" column="67" />
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/build.gradle" timestamp="1556883616393">
+        <mark key="[" line="24" column="73" />
+        <mark key="]" line="24" column="73" />
+        <mark key="^" line="24" column="73" />
+        <mark key="." line="24" column="73" />
       </file>
-      <file name="/fragment.java" timestamp="1556457136033">
+      <file name="/fragment.java" timestamp="1556883275224">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -354,7 +354,7 @@
         <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmZsdXNoKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>getItems().stream().mapToInt(ItemStack::getAmount).sum(),</text>
+        <text>:2.1.4.RELEASE'</text>
       </register>
     </registers>
     <search>
