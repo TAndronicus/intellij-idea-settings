@@ -258,11 +258,11 @@
         <mark key="." line="97" column="7" />
         <mark key="^" line="97" column="7" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise3Test.java" timestamp="1556983467301">
-        <mark key="[" line="45" column="45" />
-        <mark key="]" line="45" column="89" />
-        <mark key="." line="45" column="89" />
-        <mark key="^" line="45" column="89" />
+      <file name="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise3Test.java" timestamp="1556984676524">
+        <mark key="[" line="58" column="36" />
+        <mark key="]" line="58" column="88" />
+        <mark key="." line="58" column="88" />
+        <mark key="^" line="58" column="88" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/resources/application-test.properties" timestamp="1556914197054">
         <mark key="[" line="2" column="36" />
@@ -283,6 +283,12 @@
       </file>
       <file name="/mnt/mag/Workspace/JVM/vavr-demo/build.gradle" timestamp="1552500011069">
         <mark key="[" line="16" column="68" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise4Test.java" timestamp="1556984944683">
+        <mark key="[" line="48" column="96" />
+        <mark key="]" line="48" column="110" />
+        <mark key="." line="48" column="110" />
+        <mark key="^" line="48" column="110" />
       </file>
       <file name="/Dummy.txt" timestamp="1556953808197">
         <mark key="[" line="0" column="0" />
@@ -415,7 +421,7 @@
         <text encoding="base64">ICAgIDwvYmVhbj4K</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>Supplier::getName</text>
       </register>
     </registers>
     <search>
