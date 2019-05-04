@@ -86,6 +86,12 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise1Test.java" timestamp="1556981692272">
+        <mark key="[" line="62" column="79" />
+        <mark key="]" line="62" column="79" />
+        <mark key="." line="62" column="79" />
+        <mark key="^" line="50" column="99" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/Runner.scala" timestamp="1556468894052">
         <mark key="[" line="56" column="18" />
         <mark key="]" line="57" column="21" />
@@ -387,7 +393,7 @@
         <text encoding="base64">QERpcnRpZXNDb250ZXh0KGNsYXNzTW9kZSA9IERpcnRpZXNDb250ZXh0LkNsYXNzTW9kZS5BRlRFUl9DTEFTUykK</text>
       </register>
       <register name="-" type="4">
-        <text>entityManager.persist</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
