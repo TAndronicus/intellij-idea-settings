@@ -284,11 +284,11 @@
       <file name="/mnt/mag/Workspace/JVM/vavr-demo/build.gradle" timestamp="1552500011069">
         <mark key="[" line="16" column="68" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise4Test.java" timestamp="1556984944683">
-        <mark key="[" line="48" column="96" />
-        <mark key="]" line="48" column="110" />
-        <mark key="." line="48" column="110" />
-        <mark key="^" line="48" column="110" />
+      <file name="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise4Test.java" timestamp="1557004511504">
+        <mark key="[" line="80" column="95" />
+        <mark key="]" line="80" column="106" />
+        <mark key="." line="80" column="106" />
+        <mark key="^" line="80" column="106" />
       </file>
       <file name="/Dummy.txt" timestamp="1556953808197">
         <mark key="[" line="0" column="0" />
@@ -421,7 +421,7 @@
         <text encoding="base64">ICAgIDwvYmVhbj4K</text>
       </register>
       <register name="-" type="4">
-        <text>Supplier::getName</text>
+        <text>null</text>
       </register>
     </registers>
     <search>
