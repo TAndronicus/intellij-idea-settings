@@ -52,11 +52,11 @@
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/tester/Tester.scala" timestamp="1552120734048">
         <mark key="[" line="5" column="7" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise8Test.java" timestamp="1557039948326">
-        <mark key="[" line="96" column="66" />
-        <mark key="]" line="96" column="66" />
-        <mark key="." line="96" column="66" />
-        <mark key="^" line="96" column="84" />
+      <file name="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise8Test.java" timestamp="1557050115999">
+        <mark key="'" line="167" column="177" />
+        <mark key="[" line="127" column="30" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Review.java" timestamp="1556907813544">
         <mark key="'" line="27" column="28" />
@@ -423,40 +423,43 @@
       <jump line="60" column="0" filename="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Book.java" />
       <jump line="17" column="35" filename="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/java/jb/HibernateMappingsApplicationTests.java" />
       <jump line="125" column="61" filename="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise2Test.java" />
+      <jump line="112" column="62" filename="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise8Test.java" />
+      <jump line="50" column="13" filename="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise8Test.java" />
+      <jump line="166" column="177" filename="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise8Test.java" />
     </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBNdXRhYmxlTXVsdGltYXA8U3RyaW5nLCBTdXBwbGllcj4gaXRlbXNUb1N1cHBsaWVycyA9IExpc3RzLm11dGFibGUub2YodGhpcy5jb21wYW55LmdldFN1cHBsaWVycygpKS5ncm91cEJ5RWFjaChzIC0+IEFycmF5QWRhcHRlci5hZGFwdChzLmdldEl0ZW1OYW1lcygpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNdXRhYmxlTXVsdGltYXA8U3RyaW5nLCBTdXBwbGllcj4gaXRlbXNUb1N1cHBsaWVycyA9IExpc3RzLm11dGFibGUub2YodGhpcy5jb21wYW55LmdldFN1cHBsaWVycygpKS5ncm91cEJ5RWFjaCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b1JldmVyc2VkKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogRGVsZXRlIHRoaXMgd2hvbGUgbWV0aG9kIHdoZW4geW91J3JlIGRvbmUuIEl0J3MganVzdCBhIHJlbWluZGVyLgogICAgICovCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgcmVtaW5kZXIoKQogICAgewogICAgICAgIEFzc2VydC5mYWlsKCJSZWZhY3RvciBzZXRVcEN1c3RvbWVyc0FuZE9yZGVycygpIGluIHRoZSBzdXBlciBjbGFzcyB0byBub3QgaGF2ZSBzbyBtdWNoIHJlcGV0aXRpb24uIik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mbGF0Q29sbGVjdChvIC0+IExpc3RzLm11dGFibGUub2ZBbGwoby5nZXRMaW5lSXRlbXMoKS5jb2xsZWN0KExpbmVJdGVtOjpnZXRWYWx1ZSkpCiAgICAgICAgICAgICAgICAudG9Tb3J0ZWRCYWcoQ29tcGFyYXRvci5jb21wYXJpbmcoRG91YmxlOjpkb3VibGVWYWx1ZSkucmV2ZXJzZWQoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNdXRhYmxlTXVsdGltYXA8U3RyaW5nLCBTdXBwbGllcj4gaXRlbXNUb1N1cHBsaWVycyA9IExpc3RzLm11dGFibGUub2YodGhpcy5jb21wYW55LmdldFN1cHBsaWVycygpKS47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5yZXYK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmNvbXBhbnkuZ2V0Q3VzdG9tZXJzKCkuZm9yRWFjaChDdXN0b21lcjo6ZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b1JldmVyc2VkKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuZmFpbCgiUmVmYWN0b3IgdGhpcyBjb2RlIHRvIHVzZSBFY2xpcHNlIENvbGxlY3Rpb25zIGFzIHBhcnQgb2YgRXhlcmNpc2UgMyIpOwogICAgICAgIE11dGFibGVMaXN0PE9yZGVyPiBvcmRlcnMgPSBGYXN0TGlzdC5uZXdMaXN0KCk7CiAgICAgICAgZm9yIChDdXN0b21lciBjdXN0b21lciA6IHRoaXMuY3VzdG9tZXJzKQogICAgICAgIHsKICAgICAgICAgICAgb3JkZXJzLmFkZEFsbChjdXN0b21lci5nZXRPcmRlcnMoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b1NvcnRlZEJhZygpCiAgICAgICAgICAgICAgICAudG9SZXZlcnNlZCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBEZWxldGUgdGhpcyBsaW5lIC0gaXQncyBhIHJlbWluZGVyCiAgICAgICAgQXNzZXJ0LmZhaWwoIkltcHJvdmUgZ2V0T3JkZXJzKCkgd2l0aG91dCBicmVha2luZyB0aGlzIHRlc3QiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zZWxlY3QobyAtPiBvLmdldFZhbHVlKCkgPiA3LjUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuZmFpbCgiSW1wbGVtZW50IHRoaXMgbWV0aG9kIGFzIHBhcnQgb2YgRXhlcmNpc2UgMiIpOwogICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4oT3JkZXI6OmdldFZhbHVlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QEVuYWJsZUpwYVJlcG9zaXRvcmllcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgLnRvU29ydGVkQmFnKENvbXBhcmF0b3IuY29tcGFyaW5nKExpbmVJdGVtOjpnZXRWYWx1ZSkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KE9yZGVyOjpnZXRWYWx1ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWdncmVnYXRlQnkobyAtPiBvLik7</text>
+        <text>Order::getLineItems);</text>
       </register>
     </registers>
     <search>
