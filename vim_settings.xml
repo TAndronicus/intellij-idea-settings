@@ -52,6 +52,12 @@
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/tester/Tester.scala" timestamp="1552120734048">
         <mark key="[" line="5" column="7" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise8Test.java" timestamp="1557039827943">
+        <mark key="[" line="79" column="78" />
+        <mark key="]" line="79" column="89" />
+        <mark key="." line="79" column="89" />
+        <mark key="^" line="79" column="89" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Review.java" timestamp="1556907813544">
         <mark key="'" line="27" column="28" />
         <mark key="[" line="9" column="41" />
@@ -95,6 +101,11 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.collections/eclipse-collections-api/9.2.0/cd7e41cee54a6e5d0a2386744f5295310b148ca0/eclipse-collections-api-9.2.0-sources.jar!/org/eclipse/collections/api/RichIterable.java" timestamp="1556983025207">
         <mark key="[" line="1139" column="16" />
         <mark key="]" line="1139" column="16" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise7Test.java" timestamp="1557039457130">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise1Test.java" timestamp="1556981692272">
         <mark key="[" line="62" column="79" />
@@ -295,6 +306,12 @@
       <file name="/Dummy.vm" timestamp="1554661613562">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise6Test.java" timestamp="1557038164994">
+        <mark key="[" line="126" column="49" />
+        <mark key="]" line="127" column="35" />
+        <mark key="." line="127" column="35" />
+        <mark key="^" line="127" column="35" />
+      </file>
       <file name="/dummy.sql" timestamp="1556910723186">
         <mark key="[" line="0" column="0" />
       </file>
@@ -408,43 +425,43 @@
       <jump line="125" column="61" filename="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise2Test.java" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text>&quot;sandwich toaster&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBNdXRhYmxlTXVsdGltYXA8U3RyaW5nLCBTdXBwbGllcj4gaXRlbXNUb1N1cHBsaWVycyA9IExpc3RzLm11dGFibGUub2YodGhpcy5jb21wYW55LmdldFN1cHBsaWVycygpKS5ncm91cEJ5RWFjaChzIC0+IEFycmF5QWRhcHRlci5hZGFwdChzLmdldEl0ZW1OYW1lcygpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuZmFpbCgiUmVmYWN0b3IgdGhpcyBjb2RlIHRvIHVzZSBFY2xpcHNlIENvbGxlY3Rpb25zIGFzIHBhcnQgb2YgRXhlcmNpc2UgMyIpOwogICAgICAgIE11dGFibGVMaXN0PE9yZGVyPiBvcmRlcnMgPSBGYXN0TGlzdC5uZXdMaXN0KCk7CiAgICAgICAgZm9yIChDdXN0b21lciBjdXN0b21lciA6IHRoaXMuY3VzdG9tZXJzKQogICAgICAgIHsKICAgICAgICAgICAgb3JkZXJzLmFkZEFsbChjdXN0b21lci5nZXRPcmRlcnMoKSk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBNdXRhYmxlTXVsdGltYXA8U3RyaW5nLCBTdXBwbGllcj4gaXRlbXNUb1N1cHBsaWVycyA9IExpc3RzLm11dGFibGUub2YodGhpcy5jb21wYW55LmdldFN1cHBsaWVycygpKS5ncm91cEJ5RWFjaCgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBEZWxldGUgdGhpcyBsaW5lIC0gaXQncyBhIHJlbWluZGVyCiAgICAgICAgQXNzZXJ0LmZhaWwoIkltcHJvdmUgZ2V0T3JkZXJzKCkgd2l0aG91dCBicmVha2luZyB0aGlzIHRlc3QiKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogRGVsZXRlIHRoaXMgd2hvbGUgbWV0aG9kIHdoZW4geW91J3JlIGRvbmUuIEl0J3MganVzdCBhIHJlbWluZGVyLgogICAgICovCiAgICBAVGVzdAogICAgcHVibGljIHZvaWQgcmVtaW5kZXIoKQogICAgewogICAgICAgIEFzc2VydC5mYWlsKCJSZWZhY3RvciBzZXRVcEN1c3RvbWVyc0FuZE9yZGVycygpIGluIHRoZSBzdXBlciBjbGFzcyB0byBub3QgaGF2ZSBzbyBtdWNoIHJlcGV0aXRpb24uIik7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBBc3NlcnQuZmFpbCgiSW1wbGVtZW50IHRoaXMgbWV0aG9kIGFzIHBhcnQgb2YgRXhlcmNpc2UgMiIpOwogICAgICAgIHJldHVybiBudWxsOwo=</text>
+        <text encoding="base64">ICAgICAgICBNdXRhYmxlTXVsdGltYXA8U3RyaW5nLCBTdXBwbGllcj4gaXRlbXNUb1N1cHBsaWVycyA9IExpc3RzLm11dGFibGUub2YodGhpcy5jb21wYW55LmdldFN1cHBsaWVycygpKS47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEVuYWJsZUpwYVJlcG9zaXRvcmllcwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbXBhbnkuZ2V0Q3VzdG9tZXJzKCkuZm9yRWFjaChDdXN0b21lcjo6ZGUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuZmFpbCgiUmVmYWN0b3IgdGhpcyBjb2RlIHRvIHVzZSBFY2xpcHNlIENvbGxlY3Rpb25zIGFzIHBhcnQgb2YgRXhlcmNpc2UgMyIpOwogICAgICAgIE11dGFibGVMaXN0PE9yZGVyPiBvcmRlcnMgPSBGYXN0TGlzdC5uZXdMaXN0KCk7CiAgICAgICAgZm9yIChDdXN0b21lciBjdXN0b21lciA6IHRoaXMuY3VzdG9tZXJzKQogICAgICAgIHsKICAgICAgICAgICAgb3JkZXJzLmFkZEFsbChjdXN0b21lci5nZXRPcmRlcnMoKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbnRpdHlNYW5hZ2VyLmZsdXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBEZWxldGUgdGhpcyBsaW5lIC0gaXQncyBhIHJlbWluZGVyCiAgICAgICAgQXNzZXJ0LmZhaWwoIkltcHJvdmUgZ2V0T3JkZXJzKCkgd2l0aG91dCBicmVha2luZyB0aGlzIHRlc3QiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICA8YmVhbiBpZD0iYnRtQ29uZmlnIiBmYWN0b3J5LW1ldGhvZD0iZ2V0Q29uZmlndXJhdGlvbiIgY2xhc3M9ImJpdHJvbml4LnRtLlRyYW5zYWN0aW9uTWFuYWdlclNlcnZpY2VzIj4KICAgICAgICA8cHJvcGVydHkgbmFtZT0ic2VydmVySWQiIHZhbHVlPSJzcHJpbmctYnRtIi8+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9Indhcm5BYm91dFplcm9SZXNvdXJjZVRyYW5zYWN0aW9uIiB2YWx1ZT0idHJ1ZSIvPgogICAgICAgIDxwcm9wZXJ0eSBuYW1lPSJqb3VybmFsIiB2YWx1ZT0iJHtidG0uY29uZmlnLmpvdXJuYWw6ZGlza30iLz4KICAgIDwvYmVhbj4K</text>
+        <text encoding="base64">ICAgICAgICBBc3NlcnQuZmFpbCgiSW1wbGVtZW50IHRoaXMgbWV0aG9kIGFzIHBhcnQgb2YgRXhlcmNpc2UgMiIpOwogICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICA8YmVhbiBpZD0iam9vcUNvbnRleHQiIGNsYXNzPSJvcmcuam9vcS5pbXBsLkRTTCIgZmFjdG9yeS1tZXRob2Q9InVzaW5nIj4KICAgICAgICA8Y29uc3RydWN0b3ItYXJnIHJlZj0iZGF0YVNvdXJjZSIvPgogICAgICAgIDxjb25zdHJ1Y3Rvci1hcmcgdmFsdWU9IiR7am9vcS5kaWFsZWN0fSIvPgogICAgPC9iZWFuPgo=</text>
+        <text encoding="base64">QEVuYWJsZUpwYVJlcG9zaXRvcmllcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvYmVhbj4K</text>
+        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">QXJyYXlMaXN0PD4oKTs=</text>
+        <text>Customer::getCity</text>
       </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search />
