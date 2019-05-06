@@ -92,6 +92,12 @@
         <mark key="." line="17" column="45" />
         <mark key="^" line="17" column="45" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/MappingModel.scala" timestamp="1557165295450">
+        <mark key="[" line="5" column="63" />
+        <mark key="]" line="5" column="64" />
+        <mark key="^" line="5" column="64" />
+        <mark key="." line="5" column="64" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" timestamp="1553009182622">
         <mark key="[" line="14" column="41" />
         <mark key="]" line="14" column="71" />
@@ -165,6 +171,12 @@
         <mark key="]" line="17" column="18" />
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1557165244220">
+        <mark key="[" line="58" column="129" />
+        <mark key="]" line="58" column="129" />
+        <mark key="^" line="61" column="112" />
+        <mark key="." line="58" column="129" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise2Test.java" timestamp="1557029544731">
         <mark key="'" line="125" column="61" />
@@ -428,8 +440,8 @@
       <jump line="166" column="177" filename="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise8Test.java" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBNdXRhYmxlTXVsdGltYXA8U3RyaW5nLCBTdXBwbGllcj4gaXRlbXNUb1N1cHBsaWVycyA9IExpc3RzLm11dGFibGUub2YodGhpcy5jb21wYW55LmdldFN1cHBsaWVycygpKS5ncm91cEJ5RWFjaChzIC0+IEFycmF5QWRhcHRlci5hZGFwdChzLmdldEl0ZW1OYW1lcygpKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>new MappedIntegratedDecisionTreeModel(edges, baseModels, parametrizedMomentMappingFunction(alpha), calculateMomentsByLabels(input, getSelectedFeatures(dataPrepModel)))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC50b1JldmVyc2VkKCk7Cg==</text>
@@ -459,7 +471,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KE9yZGVyOjpnZXRWYWx1ZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Order::getLineItems);</text>
+        <text>using</text>
       </register>
     </registers>
     <search>
