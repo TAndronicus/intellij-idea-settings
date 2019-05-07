@@ -345,11 +345,11 @@
       <file name="/Dummy.txt" timestamp="1557172186688">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1557172108511">
-        <mark key="[" line="13" column="60" />
-        <mark key="]" line="13" column="70" />
-        <mark key="." line="13" column="70" />
-        <mark key="^" line="13" column="70" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1557253990193">
+        <mark key="[" line="13" column="68" />
+        <mark key="]" line="13" column="68" />
+        <mark key="." line="13" column="68" />
+        <mark key="^" line="13" column="68" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/test/resources/applicationContext.xml" timestamp="1556914210883">
         <mark key="[" line="11" column="40" />
@@ -357,7 +357,8 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/MultiRunner.scala" timestamp="1557170258265">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/MultiRunner.scala" timestamp="1557254047120">
+        <mark key="'" line="28" column="61" />
         <mark key="[" line="28" column="51" />
         <mark key="]" line="28" column="51" />
         <mark key="." line="28" column="51" />
@@ -465,10 +466,11 @@
       <jump line="95" column="35" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" />
       <jump line="96" column="35" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" />
       <jump line="97" column="35" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" />
+      <jump line="28" column="61" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/MultiRunner.scala" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>All</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
