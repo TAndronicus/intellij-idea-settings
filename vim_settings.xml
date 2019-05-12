@@ -443,12 +443,8 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1557172165794">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1557633371915">
         <mark key="'" line="98" column="35" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="^" line="110" column="72" />
-        <mark key="." line="104" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" timestamp="1552325516056">
         <mark key="[" line="14" column="81" />
@@ -535,13 +531,13 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Testing</text>
+        <text encoding="base64">dmFsIA==</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJUZXN0aW5nOiAiICsgQ2hyb25vVW5pdC5NSUxMSVMuYmV0d2VlbihMb2NhbERhdGVUaW1lLm5vdygpLCBiZWZvcmUpKQo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oQ2hyb25vVW5pdC5NSUxMSVMuYmV0d2VlbihiZWZvcmUsIExvY2FsRGF0ZVRpbWUubm93KCkpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KCJSZWFkaW5nIGluOiAiICsgQ2hyb25vVW5pdC5NSUxMSVMuYmV0d2VlbihMb2NhbERhdGVUaW1lLm5vdygpLCBiZWZvcmUpKQo=</text>
