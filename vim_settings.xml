@@ -134,11 +134,11 @@
         <mark key="^" line="14" column="26" />
         <mark key="." line="14" column="26" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/Coefficients.scala" timestamp="1557649510418">
-        <mark key="[" line="4" column="38" />
-        <mark key="]" line="33" column="67" />
-        <mark key="." line="33" column="67" />
-        <mark key="^" line="33" column="67" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/Coefficients.scala" timestamp="1557650257116">
+        <mark key="[" line="23" column="64" />
+        <mark key="]" line="23" column="82" />
+        <mark key="." line="23" column="82" />
+        <mark key="^" line="23" column="82" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/EdgeIntegratedDecisionTreeModel.scala" timestamp="1557599456135">
         <mark key="[" line="31" column="17" />
@@ -216,7 +216,8 @@
         <mark key="." line="33" column="33" />
         <mark key="^" line="33" column="33" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1557603076473">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1557650941014">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="51" column="111" />
         <mark key="]" line="52" column="32" />
         <mark key="^" line="52" column="32" />
@@ -394,7 +395,7 @@
         <mark key="." line="80" column="148" />
         <mark key="^" line="80" column="148" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557640040211">
+      <file name="/Dummy.txt" timestamp="1557650834176">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1557635749291">
@@ -539,10 +540,12 @@
       <jump line="61" column="118" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
       <jump line="6" column="39" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" />
       <jump line="0" column="17" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" />
+      <jump line="58" column="77" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
+      <jump line="0" column="0" filename="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIFRPRE86IHRvU3RyaW5n</text>
+        <text>alpha == 1</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
