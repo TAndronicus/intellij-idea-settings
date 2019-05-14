@@ -159,7 +159,6 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/jmh-samples/src/main/java/org/openjdk/jmh/samples/JMHSample_20_Annotations.java" timestamp="1557676690208" />
       <file name="$USER_HOME$/Workspace/JVM/jmh-samples/src/main/java/org/openjdk/jmh/samples/JMHSample_04_DefaultState.java" timestamp="1557664276127">
         <mark key="[" line="55" column="14" />
       </file>
@@ -309,11 +308,11 @@
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="19" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/MappingModel.scala" timestamp="1557168508039">
-        <mark key="[" line="10" column="76" />
-        <mark key="]" line="10" column="83" />
-        <mark key="^" line="10" column="83" />
-        <mark key="." line="10" column="83" />
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/MappingModel.scala" timestamp="1557865156732">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/model/dt/IntegratedDecisionTreeUtil.scala" timestamp="1557587383819">
         <mark key="[" line="8" column="3" />
@@ -583,7 +582,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Integer.MAX_VALUE</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
