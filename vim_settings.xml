@@ -246,6 +246,12 @@
         <mark key="]" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/Util.scala" timestamp="1558772044768">
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="29" column="31" />
+        <mark key="." line="29" column="31" />
+        <mark key="^" line="17" column="33" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/LeastBatchExhaustiveResultCatcher.scala" timestamp="1557638497175">
         <mark key="'" line="0" column="17" />
         <mark key="[" line="14" column="81" />
@@ -369,12 +375,12 @@
         <mark key="." line="33" column="33" />
         <mark key="^" line="33" column="33" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1558174928608">
+      <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/Runner.scala" timestamp="1558771807653">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="51" column="111" />
-        <mark key="]" line="52" column="32" />
-        <mark key="^" line="52" column="32" />
-        <mark key="." line="52" column="32" />
+        <mark key="[" line="38" column="77" />
+        <mark key="]" line="38" column="76" />
+        <mark key="^" line="38" column="76" />
+        <mark key="." line="38" column="76" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/parser/TreeParser.scala" timestamp="1556455125537">
         <mark key="[" line="10" column="19" />
@@ -388,11 +394,11 @@
         <mark key="^" line="13" column="64" />
         <mark key="." line="13" column="64" />
       </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/tex_v3/jucs.tex" timestamp="1558642228032">
-        <mark key="[" line="114" column="32" />
-        <mark key="]" line="115" column="3" />
-        <mark key="^" line="115" column="3" />
-        <mark key="." line="115" column="3" />
+      <file name="$USER_HOME$/Workspace/LaTeX/tex_v3/jucs.tex" timestamp="1558773170923">
+        <mark key="[" line="122" column="4" />
+        <mark key="]" line="123" column="3" />
+        <mark key="." line="123" column="3" />
+        <mark key="^" line="123" column="3" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/vavr-demo/src/main/java/Testi.java" timestamp="1552162353175">
         <mark key="[" line="33" column="0" />
@@ -599,40 +605,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>s</text>
+        <text>conduct</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
-      <register name="0" type="4">
-        <text>w = \alpha f_{B}(dist_{B}) + (1 - \alpha) f_{C}(dist_{C})</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZvciAobWluIDwtIG1pbnMpIHJlcXVpcmUobWluID09IDApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEluIHNlbGVjdGlvbiBzdGVwcyB3ZSByZW1vdmVkIGJhc2ljIGNsYXNzaWZpZXJzIGZyb20gdGhlIHBvb2wgb2YgYWxsIGJhc2UgY2xhc3NpZmllcnMsIGZvciBleGFtcGxlICRcUHNpXjVfe01kR1N9JCBtZWFucyB0aGF0IEVvQyBhZnRlciB0aGUgc2VsZWN0aW9uIGNvbnNpc3RlZCBvZiBmaXZlIGJhc2UgY2xhc3NpZmllcnMgaS5lLiBmb3VyIGJhc2UgY2xhc3NpZmllciBoYXMgYmVlbiByZW1vdmVkIGluIGVhY2ggcmVnaW9uIG9mIGNvbXBldGVuY2UuIEFsbCBiYXNlIGNsYXNzaWZpZXJzIGFyZSB0YWtlbiBpbnRvIGNvbnNpZGVyYXRpb24gaW4gdGhlIG1ham9yaXR5IHZvdGluZyAoTVYpIHJ1bGUgJFxQc2lfe01WfSQsIHRoYXQgaXMgd2h5IHRoZSBudW1iZXIgb2YgY2xhc3NpZmllcnMgaXMgb21pdHRlZC4gVGhlIGV4cGVyaW1lbnRzIHdlcmUgY29uZHVjdGVkIGZvciBzcGFjZSBkaXZpc2lvbiBpbnRvICQzLCA1LCA3JCBhbmQgJDkkIHJlZ2lvbnMgb2YgY29tcGV0ZW5jZS4gVGhlIGRpdmlzaW9uIGludG8gcmVnaW9ucyBvZiBjb21wZXRlbmNlIGlzIGhldXJpc3RpYy4gVGhlc2UgcmVnaW9ucyBhcmUgY3JlYXRlZCBieSB0aGUgb3J0aG9nb25hbCBkaXZpc2lvbiBpbiByZWxhdGlvbiB0byBvbmUgb2YgdGhlIGZlYXR1cmVzLgoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIE5vcm1hbGl6YWNqYSAhISEhISEhIQo=</text>
+        <text encoding="base64">ICAgIE51bXB5flxjaXRle1JCOm51bXB5fSwgc2Npa2l0LWxlYXJuIGFuZCBzY2lweX5cY2l0ZXtSQjpzY2lweX0uIFRoZSBsYXR0ZXIgd2FzIGFsc28gdXNlZCB0byBjb25kdWN0IHN0YXRpc3RpY2FsIHRlc3RzLgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgCiAgICAgICAgQ2FsY3VsYXRlIGNlbnRyb2lkcyBjb29yZGluYXRlcyBiYXNlZCBvbiBnaXZlbiBsYWJlbHMu</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBEZWZpbmUgdGhlIGxhYmVsIG9mIGV2ZXJ5IHN1YnNwYWNlIG9mIHRoZSBwcm9wb3NlZCBFb0MgY2xhc3NpZmllciAkXFBzaV97R1N9JCBhcyB0aGUgbGFiZWwgd2l0aCB0aGUgZ3JlYXRlc3Qgc3VtIG9mIHdlaWdodHMgb3ZlciBldmVyeSBiYXNlIGNsYXNzaWZpZXIuCgo=</text>
+        <text encoding="base64">ICAgIHJlcXVpcmUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBFdmFsdWF0ZSBjb21wZXRlbmNlIG9mIGVhY2ggY2xhc3Mgb24gZXZlcnkgc3Vic3BhY2UgdXNpbmcgd2VpZ2h0aW5nIG1ldGhvZCB0aGF0IG1hcHMgdm9sdW1lIG9mIG4tZGltZW5zaW9uYWwgY3ViZSB0byB3ZWlnaHQuCgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBEaXZpZGUgZmVhdHVyZSBzcGFjZSBpbnRvIGN1YmljICRNXm4kIHN1YnNwYWNlcy4KCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIFNpbmNlIHRoZSByZXN1bHRpbmcgY2xhc3NpZmllciBhc3NpZ25zIGxhYmVscyB0byBldmVyeSBjdWJpYyByZWdpb24gb2YgY29tcGV0ZW5jZSwgaXQgaXMgYWxzbyBhIGRlY2lzaW9uIHRyZWUuCg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIE5vcm1hbGl6YWNqYSAhISEhISEhIQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgCiAgICAgICAgQ2FsY3VsYXRlIGNlbnRyb2lkcyBjb29yZGluYXRlcyBiYXNlZCBvbiBnaXZlbiBsYWJlbHMu</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZvciBldmVyeSBzdWNoIGNhbmRpZGF0ZSBhIHdlaWdodCBpcyBkZXJpdmVkIGJhc2VkIG9uIHRoZSBzaXplIG9mIGNsYXNzaWZpY2F0aW9uIHJlZ2lvbi4KICAgIEF0IHRoZSBlbmQgYWxsIGludGVybWVkaWF0ZSByZXN1bHRzIGFyZSBhZ2dyZWdhdGVkIGJ5IHN1bW1pbmcgdGhlaXIgd2VpZ2h0cyBhbmQgdGhlIGNsYXNzIHdpdGggbGFyZ2VzdCB3ZWlnaHQgaXMgYXNzaWduZWQgdG8gdGhlIHN1YmN1YmUuCg==</text>
+        <text encoding="base64">ICAgICAgICBEZWZpbmUgdGhlIGxhYmVsIG9mIGV2ZXJ5IHN1YnNwYWNlIG9mIHRoZSBwcm9wb3NlZCBFb0MgY2xhc3NpZmllciAkXFBzaV97R1N9JCBhcyB0aGUgbGFiZWwgd2l0aCB0aGUgZ3JlYXRlc3Qgc3VtIG9mIHdlaWdodHMgb3ZlciBldmVyeSBiYXNlIGNsYXNzaWZpZXIuCgo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
