@@ -310,6 +310,7 @@
         <mark key="." line="54" column="118" />
         <mark key="^" line="54" column="118" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/RxBasicsKata/src/test/java/CountriesServiceSolvedTest.java" timestamp="1562497463668" />
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/tester/Tester.scala" timestamp="1552120734048">
         <mark key="[" line="5" column="7" />
       </file>
@@ -472,11 +473,20 @@
         <mark key="." line="165" column="73" />
         <mark key="^" line="165" column="73" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/RxBasicsKata/src/test/java/CountriesTestProvider.java" timestamp="1562496075581">
+        <mark key="'" line="65" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/599accff-3870-4681-9c18-54c54fd251a9/console.sql" timestamp="1552219251003">
         <mark key="[" line="7" column="98" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="53" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="/mnt/mag/Workspace/JVM/RxBasicsKata/src/main/java/CountriesServiceSolved.java" timestamp="1562497754068">
+        <mark key="[" line="53" column="53" />
+        <mark key="]" line="53" column="72" />
+        <mark key="." line="53" column="72" />
+        <mark key="^" line="53" column="72" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/AbstractEntity.java" timestamp="1555955709348">
         <mark key="[" line="11" column="20" />
@@ -624,10 +634,12 @@
       <jump line="46" column="0" filename="$USER_HOME$/Workspace/LaTeX/tex_v2/doc.bib" />
       <jump line="240" column="0" filename="$USER_HOME$/Workspace/LaTeX/tex_v2/jucs.tex" />
       <jump line="35" column="18" filename="$USER_HOME$/Documents/Uczelnia/Doktorat/Publikacje/Contemporary/tex_v3/jucs.tex" />
+      <jump line="12" column="11" filename="/mnt/mag/Workspace/JVM/RxBasicsKata/src/test/java/CountriesTestProvider.java" />
+      <jump line="65" column="0" filename="/mnt/mag/Workspace/JVM/RxBasicsKata/src/test/java/CountriesTestProvider.java" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>null</text>
+        <text>Sing</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -636,31 +648,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJUBmb3JtYXR0ZXI6b24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5kZWxpdmVyaWVzLmZsYXRDb2xsZWN0IHsgaXQuIH0udG9CYWcoKS50b3BPY2N1cnJlbmNlcygyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoQ291bnRyeTo6Z2V0UG9wdWxhdGlvbikKICAgICAgICAgICAgICAgIC5maWx0ZXIoaSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBCYWdzLm0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b1NpbmdsZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbGwoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZi52YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoaSAtPiBpID4gMV8wMDBfMDAwKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICghZi5pc0NvbXBsZXRlZCkge3ByaW50bG4oIldhcnRlIil9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5kZWxpdmVyaWVzLmZsYXRDb2xsZWN0IHsgaXQuIH0udG9CYWcoKS50b3BPY2N1cnJlbmNlcygyKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgYXN5bmNDYWxsKGVsZW1lbnQ6IFN0cmluZyk6IEZ1dHVyZVtTdHJpbmddID0gPz8/Cgo=</text>
+        <text encoding="base64">ICAgICAgICBCYWdzLm0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBTcGFya0VtYmVkZGVkLnNzLmltcGxpY2l0cy5fCiAgICB2YWwgZGYgPSBTZXEoKCJvbmUiLCAxMzI0MjM1MzQ1NDM1LjQ1NDYpKS50b0RGKCJhIiwgImIiKQogICAgZGYud3JpdGUubW9kZSgiYXBwZW5kIikuaW5zZXJ0SW50bygidGVzdCIpCiAgICBTcGFya0VtYmVkZGVkLnNzLnNxbCgic2VsZWN0ICogZnJvbSB0ZXN0Iikuc2hvdyhmYWxzZSkKICAgIHZhbCBhID0gQXJyYXkoQXJyYXkoMSkpCiAgICBhLmZpbHRlcighXy5pc0VtcHR5KQo=</text>
+        <text encoding="base64">Ly8gIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oZi52YWx1ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEFkZGl0aW9uYWxseQo=</text>
+        <text encoding="base64">ICAgIHdoaWxlICghZi5pc0NvbXBsZXRlZCkge3ByaW50bG4oIldhcnRlIil9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
