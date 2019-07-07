@@ -482,11 +482,11 @@
         <mark key="^" line="8" column="53" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/mnt/mag/Workspace/JVM/RxBasicsKata/src/main/java/CountriesServiceSolved.java" timestamp="1562497754068">
-        <mark key="[" line="53" column="53" />
-        <mark key="]" line="53" column="72" />
-        <mark key="." line="53" column="72" />
-        <mark key="^" line="53" column="72" />
+      <file name="/mnt/mag/Workspace/JVM/RxBasicsKata/src/main/java/CountriesServiceSolved.java" timestamp="1562500534914">
+        <mark key="[" line="91" column="15" />
+        <mark key="]" line="91" column="79" />
+        <mark key="." line="91" column="79" />
+        <mark key="^" line="91" column="79" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/AbstractEntity.java" timestamp="1555955709348">
         <mark key="[" line="11" column="20" />
@@ -639,7 +639,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>Sing</text>
+        <text>null; // put your solution here</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
@@ -648,31 +648,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJUBmb3JtYXR0ZXI6b24K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoQ291bnRyeTo6Z2V0UG9wdWxhdGlvbikKICAgICAgICAgICAgICAgIC5maWx0ZXIoaSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoQ291bnRyeTo6Z2V0Q3VycmVuY3kpCiAgICAgICAgICAgICAgICAuOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b1NpbmdsZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vYnNlcnZlT24oU2NoZWR1bGVycy5jb21wdXRhdGlvbigpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbGwoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoaSAtPiBpID4gMV8wMDBfMDAwKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoQ291bnRyeTo6Z2V0UG9wdWxhdGlvbikKICAgICAgICAgICAgICAgIC5maWx0ZXIoaSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5kZWxpdmVyaWVzLmZsYXRDb2xsZWN0IHsgaXQuIH0udG9CYWcoKS50b3BPY2N1cnJlbmNlcygyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b1NpbmdsZSgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBCYWdzLm0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbGwoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoaSAtPiBpID4gMV8wMDBfMDAwKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oZi52YWx1ZSkK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5kZWxpdmVyaWVzLmZsYXRDb2xsZWN0IHsgaXQuIH0udG9CYWcoKS50b3BPY2N1cnJlbmNlcygyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoaWxlICghZi5pc0NvbXBsZXRlZCkge3ByaW50bG4oIldhcnRlIil9Cg==</text>
+        <text encoding="base64">ICAgICAgICBCYWdzLm0K</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>
