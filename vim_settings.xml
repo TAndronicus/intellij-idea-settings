@@ -288,11 +288,11 @@
         <mark key="^" line="14" column="42" />
         <mark key="." line="14" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/perf/pom.xml" timestamp="1562688585908">
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="36" column="19" />
-        <mark key="." line="36" column="19" />
-        <mark key="^" line="36" column="19" />
+      <file name="$USER_HOME$/Workspace/JVM/perf/pom.xml" timestamp="1562688775474">
+        <mark key="[" line="40" column="24" />
+        <mark key="]" line="40" column="43" />
+        <mark key="." line="40" column="43" />
+        <mark key="^" line="40" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/build.gradle" timestamp="1556907126273">
         <mark key="[" line="25" column="4" />
@@ -672,7 +672,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>test</text>
+        <text>sample: Java</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
