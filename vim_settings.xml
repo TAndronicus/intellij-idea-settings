@@ -133,6 +133,12 @@
       <file name="$USER_HOME$/Workspace/JVM/jmh-samples/src/main/java/org/openjdk/jmh/samples/JMHSample_05_StateFixtures.java" timestamp="1557664573085">
         <mark key="[" line="88" column="14" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/perf/src/main/java/jb/ParallelCollectors.java" timestamp="1562695613496">
+        <mark key="[" line="56" column="43" />
+        <mark key="]" line="56" column="46" />
+        <mark key="^" line="56" column="46" />
+        <mark key="." line="56" column="46" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/util/result/ResultCatcher.scala" timestamp="1557638805799">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -163,6 +169,11 @@
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/AuthorRestController.java" timestamp="1556881616236">
         <mark key="[" line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/perf/src/main/java/jb/MyBenchmark.java" timestamp="1562693990813">
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="13" />
+        <mark key="." line="39" column="13" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/AbstractEntity.java" timestamp="1552253530059">
         <mark key="[" line="0" column="10" />
@@ -288,11 +299,11 @@
         <mark key="^" line="14" column="42" />
         <mark key="." line="14" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/perf/pom.xml" timestamp="1562688775474">
-        <mark key="[" line="40" column="24" />
-        <mark key="]" line="40" column="43" />
-        <mark key="." line="40" column="43" />
-        <mark key="^" line="40" column="43" />
+      <file name="$USER_HOME$/Workspace/JVM/perf/pom.xml" timestamp="1562694855705">
+        <mark key="[" line="59" column="8" />
+        <mark key="]" line="63" column="13" />
+        <mark key="." line="59" column="8" />
+        <mark key="^" line="59" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/build.gradle" timestamp="1556907126273">
         <mark key="[" line="25" column="4" />
@@ -392,12 +403,6 @@
         <mark key="]" line="5" column="61" />
         <mark key="^" line="5" column="61" />
         <mark key="." line="5" column="61" />
-      </file>
-      <file name="$USER_HOME$/Workspace/LaTeX/tex_v2/doc.bib" timestamp="1558256561913">
-        <mark key="'" line="46" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/jmh-samples/src/main/java/org/openjdk/jmh/samples/JMHSample_06_FixtureLevel.java" timestamp="1557664707710">
         <mark key="[" line="70" column="0" />
@@ -556,6 +561,12 @@
       <file name="/Dummy.txt" timestamp="1557650834176">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/perf/src/main/java/jb/ParallelCollectorsTest.java" timestamp="1562696266529">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="^" line="101" column="12" />
+        <mark key="." line="100" column="0" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/ExperimentPlan.scala" timestamp="1558974769730">
         <mark key="[" line="11" column="23" />
         <mark key="]" line="11" column="23" />
@@ -672,42 +683,40 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>sample: Java</text>
+        <text>com.pivovarit.collectors.</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICBcYmVnaW57ZXF1YXRpb259CiAgICAgICAgXFBzaV97TVZ9KHgpPVxhcmdcbWF4X3tcb21lZ2F9XHN1bV97az0xfV57S31JKFxQc2lfayh4KSxcb21lZ2EpLAogICAgXGVuZHtlcXVhdGlvbn0=</text>
+        <text>BigInteger.valueOf(value).multiply(BigInteger.valueOf(value));</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CnBsdWdpbnMgewogICAgaWQgJ2phdmEnCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiBqYXZhCg==</text>
+        <text encoding="base64">ICAgIEBCZW5jaG1hcmsKICAgIHB1YmxpYyB2bwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucGl2b3Zhcml0LmNvbGxlY3RvcnMuUGFyYWxsZWxDb2xsZWN0b3JzLnBhcmFsbGVsVG9MaXN0OwppbXBvcnQgc3RhdGljIGphdmEudXRpbC5zdHJlYW0uQ29sbGVjdG9ycy50b0xpc3Q7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>plugins {
-    id 'java'
-}</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXBUb09iaihpbnRTcXVhcmVyKQogICAgICAgICAgICAgICAgLmNvbGxlY3QodG9MaXN0KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlkICJtZS5jaGFtcGVhdS5ncmFkbGUuam1oIiB2ZXJzaW9uICIwLjQuOCIK</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEJpZ0ludGVnZXI+IGxpc3QgPSBJbnRTdHJlYW0ucmFuZ2UoMCwgMV8wMDBfMDAwKQogICAgICAgICAgICAgICAgLnBhcmFsbGVsKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsYXNzcGF0aCAibWUuY2hhbXBlYXUuZ3JhZGxlOmptaC1ncmFkbGUtcGx1Z2luOjAuNS4wIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb2xsZWN0KHBhcmFsbGVsVG9MaXN0KHNxdWFyZXIsIGV4ZWN1dG9yKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNsYXNzcGF0aCAibWUuY2hhbXBlYXUuZ3JhZGxlOmptaC1ncmFkbGUtcGx1Z2luOjAuNS4wIgo=</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PEJpZ0ludGVnZXI+IGxpc3QgPSBJbnRTdHJlYW0ucmFuZ2UoMCwgMV8wMDBfMDAwKQogICAgICAgICAgICAgICAgLnBhcmFsbGVsKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGpjZW50ZXIoKQogICAgbWF2ZW4gewogICAgICAgIHVybCAiaHR0cHM6Ly9wbHVnaW5zLmdyYWRsZS5vcmcvbTIvIgogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5qbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJlYW0uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXBUb09iaihpbnRTcXVhcmVyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>noh</text>

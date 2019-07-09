@@ -185,6 +185,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'ParallelCollectorsTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'ParallelCollectorsTest'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Playground'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -239,6 +247,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'HibernateMappingsApplication'</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ParallelCollectorsTest'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'ParallelCollectorsTest'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Playground'">
