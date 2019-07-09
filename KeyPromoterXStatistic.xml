@@ -161,6 +161,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'JMHSample_23_AuxCounters'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'JMHSample_23_AuxCounters'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'MappedIntegratedDeci...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -174,7 +182,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'ParallelCollectors'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Playground'">
