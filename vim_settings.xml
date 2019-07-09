@@ -16,6 +16,12 @@
         <mark key="^" line="17" column="38" />
         <mark key="." line="17" column="38" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/perf/src/main/java/org/sample/MyBenchmark.java" timestamp="1562688411893">
+        <mark key="[" line="42" column="46" />
+        <mark key="]" line="43" column="57" />
+        <mark key="^" line="43" column="57" />
+        <mark key="." line="43" column="57" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/jmh-samples/src/main/java/org/openjdk/jmh/samples/JMHSample_17_SyncIterations.java" timestamp="1557672510454">
         <mark key="'" line="46" column="13" />
       </file>
@@ -281,6 +287,12 @@
         <mark key="]" line="14" column="42" />
         <mark key="^" line="14" column="42" />
         <mark key="." line="14" column="42" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/perf/pom.xml" timestamp="1562688585908">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="36" column="19" />
+        <mark key="." line="36" column="19" />
+        <mark key="^" line="36" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/build.gradle" timestamp="1556907126273">
         <mark key="[" line="25" column="4" />
@@ -660,7 +672,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">IHZlcnNpb24gIjAuNS4wIg==</text>
+        <text>test</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
