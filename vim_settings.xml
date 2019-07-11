@@ -425,11 +425,11 @@
         <mark key="^" line="38" column="76" />
         <mark key="." line="38" column="76" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/perf/src/main/java/jb/StreamExTest.java" timestamp="1562864068552">
-        <mark key="[" line="43" column="36" />
-        <mark key="]" line="30" column="31" />
-        <mark key="." line="30" column="31" />
-        <mark key="^" line="30" column="31" />
+      <file name="$USER_HOME$/Workspace/JVM/perf/src/main/java/jb/StreamExTest.java" timestamp="1562866281931">
+        <mark key="[" line="52" column="139" />
+        <mark key="]" line="53" column="33" />
+        <mark key="." line="53" column="33" />
+        <mark key="^" line="53" column="33" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/parser/TreeParser.scala" timestamp="1556455125537">
         <mark key="[" line="10" column="19" />
@@ -704,7 +704,7 @@
         <text>,</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CgogICAgQFN0YXRlKFNjb3BlLkJlbmNobWFyaykKICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgU3F1YXJlciBpbXBsZW1lbnRzIEZ1bmN0aW9uPEludGVnZXIsIEJpZ0ludGVnZXI+IHsKCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIEJpZ0ludGVnZXIgYXBwbHkoSW50ZWdlciB2YWx1ZSkgewogICAgICAgICAgICByZXR1cm4gQmlnSW50ZWdlci52YWx1ZU9mKHZhbHVlKS5tdWx0aXBseShCaWdJbnRlZ2VyLnZhbHVlT2YodmFsdWUpKTsKICAgICAgICB9CgogICAgICAgIGZpbmFsIExpc3Q8SW50ZWdlcj4gbGlzdCA9IEludFN0cmVhbS5yYW5nZSgwLCAxXzAwMF8wMDApLmJveGVkKCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCiAgICAgICAgVW5hcnlPcGVyYXRvcjxCaWdJbnRlZ2VyPiBwbHVzVHdvID0gaSAtPiBpLmFkZChCaWdJbnRlZ2VyLnZhbHVlT2YoMikpOwogICAgICAgIFVuYXJ5T3BlcmF0b3I8QmlnSW50ZWdlcj4gdGltZXNGaXZlID0gaSAtPiBpLm11bHRpcGx5KEJpZ0ludGVnZXIudmFsdWVPZig1KSk7CiAgICAgICAgVW5hcnlPcGVyYXRvcjxCaWdJbnRlZ2VyPiBtaW51c0h1bmRyZWQgPSBpIC0+IGkuc3VidHJhY3QoQmlnSW50ZWdlci52YWx1ZU9mKDEwMCkpOwoKICAgIH0=</text>
+        <text>streamEx_reverseMap</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBJbnRTdHJlYW1FeC5yYW5nZSgxMDApLm1hcAo=</text>
