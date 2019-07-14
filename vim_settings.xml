@@ -240,6 +240,11 @@
         <mark key="." line="127" column="35" />
         <mark key="^" line="127" column="35" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/playDemo/conf/application.conf" timestamp="1563084391592">
+        <mark key="[" line="34" column="2" />
+        <mark key="]" line="34" column="2" />
+        <mark key="." line="34" column="2" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise4Test.java" timestamp="1557030714644">
         <mark key="[" line="80" column="140" />
         <mark key="]" line="80" column="148" />
@@ -698,7 +703,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>x</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
