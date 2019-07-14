@@ -195,6 +195,12 @@
         <mark key="." line="15" column="15" />
         <mark key="^" line="15" column="15" />
       </file>
+      <file name="/mnt/mag/Workspace/JVM/playDemo/app/Module.scala" timestamp="1563117559723">
+        <mark key="[" line="25" column="53" />
+        <mark key="]" line="26" column="52" />
+        <mark key="^" line="26" column="52" />
+        <mark key="." line="26" column="52" />
+      </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/java/jb/Book.java" timestamp="1552253541814">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="15" />
@@ -240,10 +246,11 @@
         <mark key="." line="127" column="35" />
         <mark key="^" line="127" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/playDemo/conf/application.conf" timestamp="1563084391592">
-        <mark key="[" line="34" column="2" />
-        <mark key="]" line="34" column="2" />
-        <mark key="." line="34" column="2" />
+      <file name="$USER_HOME$/Workspace/JVM/playDemo/conf/application.conf" timestamp="1563116762831">
+        <mark key="'" line="374" column="0" />
+        <mark key="[" line="174" column="2" />
+        <mark key="]" line="174" column="2" />
+        <mark key="." line="174" column="2" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/eclipse-collections-kata/company-kata/src/test/java/org/eclipse/collections/companykata/Exercise4Test.java" timestamp="1557030714644">
         <mark key="[" line="80" column="140" />
@@ -335,11 +342,11 @@
       <file name="/hm.public.book [hm@localhost]" timestamp="1556909343121">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/playDemo/app/controllers/CountController.scala" timestamp="1563115720184">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="6" />
-        <mark key="." line="13" column="6" />
-        <mark key="^" line="13" column="6" />
+      <file name="$USER_HOME$/Workspace/JVM/playDemo/app/controllers/CountController.scala" timestamp="1563116996191">
+        <mark key="[" line="15" column="83" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="13" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/hibernate-mappings/src/main/resources/test_data.sql" timestamp="1552584553865">
         <mark key="[" line="2" column="27" />
@@ -444,6 +451,12 @@
         <mark key="]" line="93" column="95" />
         <mark key="." line="93" column="95" />
         <mark key="^" line="93" column="95" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/playDemo/app/Module.scala" timestamp="1563117493306">
+        <mark key="[" line="24" column="53" />
+        <mark key="]" line="24" column="52" />
+        <mark key="^" line="24" column="52" />
+        <mark key="." line="24" column="52" />
       </file>
       <file name="/mnt/mag/Workspace/JVM/dtree-merge/src/main/scala/jb/parser/TreeParser.scala" timestamp="1556455125537">
         <mark key="[" line="10" column="19" />
@@ -710,10 +723,11 @@
       <jump line="52" column="37" filename="$USER_HOME$/Workspace/JVM/perf/src/main/java/jb/ParallelCollectorsTest.java" />
       <jump line="147" column="0" filename="$USER_HOME$/Workspace/JVM/perf/src/main/java/jb/ParallelCollectorsTest.java" />
       <jump line="5" column="0" filename="$USER_HOME$/Workspace/JVM/playDemo/app/views/welcome.scala.html" />
+      <jump line="374" column="0" filename="$USER_HOME$/Workspace/JVM/playDemo/conf/application.conf" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>,</text>
