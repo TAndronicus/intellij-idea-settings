@@ -21,6 +21,14 @@
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="48" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2/Dockerfile" timestamp="1563511054903">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/script.sh" timestamp="1563510830559">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="10" column="99" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/images.sh" timestamp="1563463827245">
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
@@ -38,23 +46,43 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2.sh" timestamp="1563508563557">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="66" />
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2.sh" timestamp="1563510828020">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="13" column="98" />
         <mark key="^" line="0" column="66" />
         <mark key="." line="0" column="66" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ZG9ja2VyIHJ1biAtZSBMSUNFTlNFPWFjY2VwdCAtLXByaXZpbGVnZWQgLXAgNTAwMDA6NTAwMDAgaWJtY29tL2RiMgo=</text>
+      <register name="0" type="4">
+        <text>su - db2inst1
+db2start
+
+useradd jb
+passwd jb
+
+db2 create database hm;
+db2 activate db hm;
+db2 connect to hm;
+
+db2 grant connect, dbadm, createtab, bindadd, create_not_fenced, implicit_schema, load on hm to jb;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGIyIGdyYW50IGRiYWRtIG9uIGhtIHRvIGpiOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZG9ja2VyIHJ1biAtZSBMSUNFTlNFPWFjY2VwdCAtLXByaXZpbGVnZWQgLXAgNTAwMDA6NTAwMDAgaWJtY29tL2RiMgo=</text>
+      <register name="&quot;" type="4">
+        <text>su - db2inst1
+db2start
+
+useradd jb
+passwd jb
+
+db2 create database hm;
+db2 activate db hm;
+db2 connect to hm;
+
+db2 grant connect, dbadm, createtab, bindadd, create_not_fenced, implicit_schema, load on hm to jb;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">LWQgCg==</text>
