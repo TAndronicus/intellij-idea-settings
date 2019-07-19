@@ -21,11 +21,11 @@
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2/Dockerfile" timestamp="1563513202602">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="24" />
-        <mark key="." line="3" column="24" />
-        <mark key="^" line="3" column="24" />
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2/Dockerfile" timestamp="1563514224647">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="26" column="86" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/script.sh" timestamp="1563510830559">
         <mark key="[" line="0" column="0" />
@@ -58,6 +58,12 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBQYXJ0IEcgIyBEQjIgaW5zdGFuY2UgcG9ydCAK</text>
+      </register>
+      <register name="-" type="4">
+        <text>db2inst1</text>
+      </register>
       <register name="0" type="4">
         <text>su - db2inst1
 db2start
@@ -72,31 +78,34 @@ db2 connect to hm;
 db2 grant connect, dbadm, createtab, bindadd, create_not_fenced, implicit_schema, load on hm to jb;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y21kIC9iaW4vYmFzaAo=</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y21kIC9iaW4vYmFzaAo=</text>
+        <text encoding="base64">IyBQYXJ0IEcgIyBEQjIgaW5zdGFuY2UgcG9ydCAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGIyIGdyYW50IGRiYWRtIG9uIGhtIHRvIGpiOwo=</text>
+        <text encoding="base64">IyBQYXJ0IEMgIyBFbnZpcm9ubWVudCB2YXJpYWJsZXMgYXJlIG5lZWRlZCBieSB0aGUgYmFzZSBEQjIgaW1hZ2UgCiMgU3BlY2lmeSBhIHBhc3N3b3JkIGZvciB1c2UgZGIyaW5zdDEgCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LWQgCg==</text>
+        <text encoding="base64">IyBQYXJ0IEQgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cG9zdGdyZXNxbAo=</text>
+        <text encoding="base64">IyBQYXJ0IEUsIEV4dHJhY3QsIHJ1biB0aGUgc2V0dXAgZmlsZSwgYWRkIGxpY2Vuc2UgYW5kIGRlbGV0ZSB0aGUgdGVtcG9yYXJ5IGZpbGVzIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UuZGJjcDIudXJsPQo=</text>
+        <text encoding="base64">CiMgUGFydCBGIAojU3RhcnQgdGhlIERCMiBzZXJ2ZXIgYW5kIHByaW50IG91dCB0aGUgZGlhZyBsb2cgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QFRhYmxlKCJhdXRob3IiKQo=</text>
+        <text encoding="base64">CiMjIFBhcnQgQiBTZXR1cCB0aGUgZW52aXJvbm1lbnQgd2l0aCBMaWJyYXJpZXMgYW5kIHNldCBwZXJtaXNzaW9ucyB0byBkaXJlY3RvcmllcyBhbmQgCiMjIEFkZGluZyBkYmFkbWluIHVzZXIgYW5kIHdjcyB1c2VyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QFRhYmxlKCJhdXRob3IiKQo=</text>
+        <text encoding="base64">CiMjIFBhcnQgQiBTZXR1cCB0aGUgZW52aXJvbm1lbnQgd2l0aCBMaWJyYXJpZXMgYW5kIHNldCBwZXJtaXNzaW9ucyB0byBkaXJlY3RvcmllcyBhbmQgCiMjIEFkZGluZyBkYmFkbWluIHVzZXIgYW5kIHdjcyB1c2VyClJVTiB5dW0gaW5zdGFsbCAteSBcCg==</text>
       </register>
-      <register name="-" type="4">
-        <text>run</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y21kIC9iaW4vYmFzaAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ZGIyIGdyYW50IGRiYWRtIG9uIGhtIHRvIGpiOwo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -105,7 +114,9 @@ db2 grant connect, dbadm, createtab, bindadd, create_not_fenced, implicit_schema
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>wq</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
