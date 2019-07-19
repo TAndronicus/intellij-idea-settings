@@ -3,8 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1563515905664">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/732679ad-99c9-45fc-9f3d-5c493c1e273d/console.sql" timestamp="1563518717163">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1563518348993">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Author.java" timestamp="1563447415506">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/mysql.sh" timestamp="1563469863013">
         <mark key="[" line="8" column="0" />
@@ -12,14 +20,14 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="/a.sql" timestamp="1563515905646">
+      <file name="/a.sql" timestamp="1563518348979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/application.properties" timestamp="1563467820611">
-        <mark key="[" line="6" column="40" />
-        <mark key="]" line="6" column="48" />
-        <mark key="." line="6" column="48" />
-        <mark key="^" line="6" column="48" />
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/application.properties" timestamp="1563519152014">
+        <mark key="[" line="4" column="61" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="36" />
+        <mark key="^" line="11" column="36" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2/Dockerfile" timestamp="1563515435954">
         <mark key="[" line="3" column="35" />
@@ -44,16 +52,11 @@
         <mark key="^" line="25" column="14" />
         <mark key="." line="25" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/setup.sh" timestamp="1563516137014">
-        <mark key="[" line="0" column="148" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="0" column="14" />
-        <mark key="." line="0" column="14" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Author.java" timestamp="1563447415506">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/setup.sh" timestamp="1563518002019">
+        <mark key="[" line="1" column="145" />
+        <mark key="]" line="1" column="80" />
+        <mark key="^" line="1" column="80" />
+        <mark key="." line="1" column="80" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2.sh" timestamp="1563510828020">
         <mark key="[" line="3" column="0" />
@@ -64,11 +67,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyBQYXJ0IEcgIyBEQjIgaW5zdGFuY2UgcG9ydCAK</text>
+      <register name="&quot;" type="4">
+        <text>jcc.</text>
       </register>
       <register name="-" type="4">
-        <text>db2inst1</text>
+        <text>jcc.</text>
       </register>
       <register name="0" type="4">
         <text>su - db2inst1
