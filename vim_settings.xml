@@ -21,11 +21,11 @@
         <mark key="." line="6" column="48" />
         <mark key="^" line="6" column="48" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2/Dockerfile" timestamp="1563511799394">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="4" column="12" />
-        <mark key="." line="4" column="12" />
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2/Dockerfile" timestamp="1563513202602">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="24" />
+        <mark key="." line="3" column="24" />
+        <mark key="^" line="3" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/script.sh" timestamp="1563510830559">
         <mark key="[" line="0" column="0" />
@@ -72,38 +72,31 @@ db2 connect to hm;
 db2 grant connect, dbadm, createtab, bindadd, create_not_fenced, implicit_schema, load on hm to jb;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGIyIGdyYW50IGRiYWRtIG9uIGhtIHRvIGpiOwo=</text>
+        <text encoding="base64">Y21kIC9iaW4vYmFzaAo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>su - db2inst1
-db2start
-
-useradd jb
-passwd jb
-
-db2 create database hm;
-db2 activate db hm;
-db2 connect to hm;
-
-db2 grant connect, dbadm, createtab, bindadd, create_not_fenced, implicit_schema, load on hm to jb;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y21kIC9iaW4vYmFzaAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LWQgCg==</text>
+        <text encoding="base64">ZGIyIGdyYW50IGRiYWRtIG9uIGhtIHRvIGpiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cG9zdGdyZXNxbAo=</text>
+        <text encoding="base64">LWQgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UuZGJjcDIudXJsPQo=</text>
+        <text encoding="base64">cG9zdGdyZXNxbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QFRhYmxlKCJhdXRob3IiKQo=</text>
+        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UuZGJjcDIudXJsPQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">QFRhYmxlKCJhdXRob3IiKQo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">QFRhYmxlKCJhdXRob3IiKQo=</text>
+      </register>
       <register name="-" type="4">
-        <text>implementation</text>
+        <text>run</text>
       </register>
     </registers>
     <search>
