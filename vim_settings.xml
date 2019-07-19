@@ -3,16 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1563467420851">
+      <file name="/Dummy.txt" timestamp="1563508719457">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/mysql.sh" timestamp="1563468531383">
-        <mark key="[" line="2" column="42" />
-        <mark key="]" line="6" column="37" />
-        <mark key="^" line="6" column="37" />
-        <mark key="." line="6" column="37" />
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/mysql.sh" timestamp="1563469863013">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
       </file>
-      <file name="/a.sql" timestamp="1563467420839">
+      <file name="/a.sql" timestamp="1563508719412">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/application.properties" timestamp="1563467820611">
@@ -38,23 +38,23 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2.sh" timestamp="1563465225249">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="85" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2.sh" timestamp="1563508563557">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="66" />
+        <mark key="^" line="0" column="66" />
+        <mark key="." line="0" column="66" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">c3ByaW5nLmRhdGFzb3VyY2UuZHJpdmVyLWNsYXNzLW5hbWU9Y29tLmlibS5kYjIuamNjLkRCMkRyaXZlcgo=</text>
+        <text encoding="base64">ZG9ja2VyIHJ1biAtZSBMSUNFTlNFPWFjY2VwdCAtLXByaXZpbGVnZWQgLXAgNTAwMDA6NTAwMDAgaWJtY29tL2RiMgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGIyIGdyYW50IGRiYWRtIG9uIGhtIHRvIGpiOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>implementation</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZG9ja2VyIHJ1biAtZSBMSUNFTlNFPWFjY2VwdCAtLXByaXZpbGVnZWQgLXAgNTAwMDA6NTAwMDAgaWJtY29tL2RiMgo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">LWQgCg==</text>
@@ -91,6 +91,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
