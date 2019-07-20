@@ -6,7 +6,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/732679ad-99c9-45fc-9f3d-5c493c1e273d/console.sql" timestamp="1563518717163">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563616951098">
+      <file name="/Dummy.txt" timestamp="1563618491233">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Author.java" timestamp="1563447415506">
@@ -20,7 +20,7 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="/a.sql" timestamp="1563616951078">
+      <file name="/a.sql" timestamp="1563618514290">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bb913e59-9b41-4cfb-86af-713f71e41b41/console.sql" timestamp="1563614829379">
@@ -29,11 +29,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/application.properties" timestamp="1563616976770">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="8" column="23" />
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/application.properties" timestamp="1563618575922">
+        <mark key="[" line="9" column="36" />
+        <mark key="]" line="9" column="35" />
+        <mark key="." line="9" column="35" />
+        <mark key="^" line="9" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2/Dockerfile" timestamp="1563515435954">
         <mark key="[" line="3" column="35" />
@@ -52,11 +52,11 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="76" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/build.gradle" timestamp="1563467678617">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="14" />
-        <mark key="^" line="25" column="14" />
-        <mark key="." line="25" column="14" />
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/build.gradle" timestamp="1563620032908">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/setup.sh" timestamp="1563518002019">
         <mark key="[" line="1" column="145" />
@@ -73,41 +73,41 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>j</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgcnVudGltZU9ubHkgZ3JvdXA6ICdjb20ub3JhY2xlLmpkYmMnLCBuYW1lOiAnb2pkYmM4JywgdmVyc2lvbjogJzE4LjMuMC4wJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>'</text>
       </register>
-      <register name="0" type="4">
-        <text>spring.datasource.url=</text>
+      <register name="0" type="2">
+        <text encoding="base64">I3NwcmluZy5kYXRhc291cmNlLmRyaXZlci1jbGFzcy1uYW1lPWNvbS5teXNxbC5jai5qZGJjLkRyaXZlcgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBQYXJ0IEcgIyBEQjIgaW5zdGFuY2UgcG9ydCAK</text>
+        <text encoding="base64">Ly8gICAgcnVudGltZU9ubHkgZ3JvdXA6ICdjb20ub3JhY2xlLmpkYmMnLCBuYW1lOiAnb2pkYmM4JywgdmVyc2lvbjogJzE4LjMuMC4wJwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">IyBQYXJ0IEMgIyBFbnZpcm9ubWVudCB2YXJpYWJsZXMgYXJlIG5lZWRlZCBieSB0aGUgYmFzZSBEQjIgaW1hZ2UgCiMgU3BlY2lmeSBhIHBhc3N3b3JkIGZvciB1c2UgZGIyaW5zdDEgCgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBtYXZlbigp</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBQYXJ0IEQgCg==</text>
+        <text encoding="base64">ICAgIHJ1bnRpbWVPbmx5ICdjb20ub3JhY2xlLmpkYmM6b2pkYmM4OjEyLjIuMC4xJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBQYXJ0IEUsIEV4dHJhY3QsIHJ1biB0aGUgc2V0dXAgZmlsZSwgYWRkIGxpY2Vuc2UgYW5kIGRlbGV0ZSB0aGUgdGVtcG9yYXJ5IGZpbGVzIAo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdjb20ub3JhY2xlLmpkYmMnLCBuYW1lOiAnb2pkYmM4JywgdmVyc2lvbjogJzE4LjMuMC4wJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiMgUGFydCBGIAojU3RhcnQgdGhlIERCMiBzZXJ2ZXIgYW5kIHByaW50IG91dCB0aGUgZGlhZyBsb2cgCg==</text>
+        <text encoding="base64">IyBQYXJ0IEcgIyBEQjIgaW5zdGFuY2UgcG9ydCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiMjIFBhcnQgQiBTZXR1cCB0aGUgZW52aXJvbm1lbnQgd2l0aCBMaWJyYXJpZXMgYW5kIHNldCBwZXJtaXNzaW9ucyB0byBkaXJlY3RvcmllcyBhbmQgCiMjIEFkZGluZyBkYmFkbWluIHVzZXIgYW5kIHdjcyB1c2VyCg==</text>
+        <text encoding="base64">IyBQYXJ0IEMgIyBFbnZpcm9ubWVudCB2YXJpYWJsZXMgYXJlIG5lZWRlZCBieSB0aGUgYmFzZSBEQjIgaW1hZ2UgCiMgU3BlY2lmeSBhIHBhc3N3b3JkIGZvciB1c2UgZGIyaW5zdDEgCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiMjIFBhcnQgQiBTZXR1cCB0aGUgZW52aXJvbm1lbnQgd2l0aCBMaWJyYXJpZXMgYW5kIHNldCBwZXJtaXNzaW9ucyB0byBkaXJlY3RvcmllcyBhbmQgCiMjIEFkZGluZyBkYmFkbWluIHVzZXIgYW5kIHdjcyB1c2VyClJVTiB5dW0gaW5zdGFsbCAteSBcCg==</text>
+        <text encoding="base64">IyBQYXJ0IEQgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y21kIC9iaW4vYmFzaAo=</text>
+        <text encoding="base64">IyBQYXJ0IEUsIEV4dHJhY3QsIHJ1biB0aGUgc2V0dXAgZmlsZSwgYWRkIGxpY2Vuc2UgYW5kIGRlbGV0ZSB0aGUgdGVtcG9yYXJ5IGZpbGVzIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGIyIGdyYW50IGRiYWRtIG9uIGhtIHRvIGpiOwo=</text>
+        <text encoding="base64">CiMgUGFydCBGIAojU3RhcnQgdGhlIERCMiBzZXJ2ZXIgYW5kIHByaW50IG91dCB0aGUgZGlhZyBsb2cgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
