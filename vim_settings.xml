@@ -52,10 +52,10 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="76" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/build.gradle" timestamp="1563726662419">
-        <mark key="[" line="33" column="41" />
-        <mark key="]" line="33" column="42" />
-        <mark key="." line="33" column="42" />
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/build.gradle" timestamp="1563726755203">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="25" />
+        <mark key="." line="9" column="25" />
         <mark key="^" line="33" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/setup.sh" timestamp="1563518002019">
@@ -74,10 +74,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>DB2Dialect</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>DB2Dialect</text>
+        <text>.</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">I3NwcmluZy5qcGEucHJvcGVydGllcy5oaWJlcm5hdGUuZGlhbGVjdD1vcmcuaGliZXJuYXRlLmRpYWxlY3QuREIyRGlhbGVjdAo=</text>
