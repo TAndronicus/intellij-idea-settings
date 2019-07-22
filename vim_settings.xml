@@ -6,8 +6,14 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/732679ad-99c9-45fc-9f3d-5c493c1e273d/console.sql" timestamp="1563518717163">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563722588404">
+      <file name="/Dummy.txt" timestamp="1563775608802">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/oracle/buildDockerImage.sh" timestamp="1563775919967">
+        <mark key="[" line="148" column="4" />
+        <mark key="]" line="148" column="10" />
+        <mark key="^" line="148" column="10" />
+        <mark key="." line="148" column="10" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Author.java" timestamp="1563447415506">
         <mark key="[" line="6" column="0" />
@@ -23,7 +29,7 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="/a.sql" timestamp="1563722588391">
+      <file name="/a.sql" timestamp="1563775608782">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bb913e59-9b41-4cfb-86af-713f71e41b41/console.sql" timestamp="1563728655949">
@@ -32,11 +38,11 @@
         <mark key="^" line="2" column="46" />
         <mark key="." line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/application.properties" timestamp="1563728752801">
-        <mark key="[" line="8" column="62" />
-        <mark key="]" line="15" column="23" />
-        <mark key="." line="15" column="23" />
-        <mark key="^" line="15" column="23" />
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/application.properties" timestamp="1563775233357">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2/Dockerfile" timestamp="1563515435954">
         <mark key="[" line="3" column="35" />
@@ -61,11 +67,11 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="33" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/setup.sh" timestamp="1563772721982">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="32" />
-        <mark key="^" line="2" column="32" />
-        <mark key="." line="2" column="32" />
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/setup.sh" timestamp="1563775700796">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+        <mark key="." line="2" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2.sh" timestamp="1563510828020">
         <mark key="[" line="3" column="0" />
@@ -80,37 +86,37 @@
         <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>-o] [Docker build option]</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">I3NwcmluZy5qcGEucHJvcGVydGllcy5oaWJlcm5hdGUuZGlhbGVjdD1vcmcuaGliZXJuYXRlLmRpYWxlY3QuREIyRGlhbGVjdAo=</text>
+      <register name="0" type="4">
+        <text>buildDockerImage.sh -v [version] [-e | -s | -x] [-i] [-o] [Docker build option]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5kaWFsZWN0PW9yZy5oaWJlcm5hdGUuZGlhbGVjdC5PcmFjbGVEaWFsZWN0Cg==</text>
+        <text encoding="base64">c3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5kaWFsZWN0PW9yZy5oaWJlcm5hdGUuZGlhbGVjdC5PcmFjbGUxMmNEaWFsZWN0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5kaWFsZWN0PW9yYQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgcnVudGltZU9ubHkgZ3JvdXA6ICdjb20ub3JhY2xlLmpkYmMnLCBuYW1lOiAnb2pkYmM4JywgdmVyc2lvbjogJzE4LjMuMC4wJwo=</text>
+        <text encoding="base64">c3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5kaWFsZWN0PW9yZy5oaWJlcm5hdGUuZGlhbGVjdC5PcmFjbGVEaWFsZWN0Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBtYXZlbigp</text>
+      <register name="4" type="2">
+        <text encoding="base64">c3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5kaWFsZWN0PW9yYQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJ1bnRpbWVPbmx5ICdjb20ub3JhY2xlLmpkYmM6b2pkYmM4OjEyLjIuMC4xJwo=</text>
+        <text encoding="base64">Ly8gICAgcnVudGltZU9ubHkgZ3JvdXA6ICdjb20ub3JhY2xlLmpkYmMnLCBuYW1lOiAnb2pkYmM4JywgdmVyc2lvbjogJzE4LjMuMC4wJwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdjb20ub3JhY2xlLmpkYmMnLCBuYW1lOiAnb2pkYmM4JywgdmVyc2lvbjogJzE4LjMuMC4wJwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBtYXZlbigp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBQYXJ0IEcgIyBEQjIgaW5zdGFuY2UgcG9ydCAK</text>
+        <text encoding="base64">ICAgIHJ1bnRpbWVPbmx5ICdjb20ub3JhY2xlLmpkYmM6b2pkYmM4OjEyLjIuMC4xJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBQYXJ0IEMgIyBFbnZpcm9ubWVudCB2YXJpYWJsZXMgYXJlIG5lZWRlZCBieSB0aGUgYmFzZSBEQjIgaW1hZ2UgCiMgU3BlY2lmeSBhIHBhc3N3b3JkIGZvciB1c2UgZGIyaW5zdDEgCgo=</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdjb20ub3JhY2xlLmpkYmMnLCBuYW1lOiAnb2pkYmM4JywgdmVyc2lvbjogJzE4LjMuMC4wJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBQYXJ0IEQgCg==</text>
+        <text encoding="base64">IyBQYXJ0IEcgIyBEQjIgaW5zdGFuY2UgcG9ydCAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
