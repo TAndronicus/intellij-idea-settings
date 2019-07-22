@@ -6,7 +6,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/732679ad-99c9-45fc-9f3d-5c493c1e273d/console.sql" timestamp="1563518717163">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563781349481">
+      <file name="/Dummy.txt" timestamp="1563799110985">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/oracle/buildDockerImage.sh" timestamp="1563775919967">
@@ -38,12 +38,6 @@
         <mark key="^" line="2" column="46" />
         <mark key="." line="2" column="46" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/application.properties" timestamp="1563775233357">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="14" column="23" />
-      </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2/Dockerfile" timestamp="1563515435954">
         <mark key="[" line="3" column="35" />
         <mark key="]" line="3" column="35" />
@@ -61,10 +55,10 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="76" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/build.gradle" timestamp="1563726755203">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="25" />
-        <mark key="." line="9" column="25" />
+      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/build.gradle" timestamp="1563798919308">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
         <mark key="^" line="33" column="41" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/setup.sh" timestamp="1563777810843">
@@ -92,31 +86,31 @@
         <text>buildDockerImage.sh -v [version] [-e | -s | -x] [-i] [-o] [Docker build option]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5kaWFsZWN0PW9yZy5oaWJlcm5hdGUuZGlhbGVjdC5PcmFjbGUxMmNEaWFsZWN0Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzc3dvcmQgJ0piMDIwOWpqMTk5NGkhJwogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5kaWFsZWN0PW9yZy5oaWJlcm5hdGUuZGlhbGVjdC5PcmFjbGVEaWFsZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVkZW50aWFscyB7CiAgICAgICAgICAgIHVzZXJuYW1lICdqZWRyemVqLmJpZWRyenlja2lAY2FwZ2VtaW5pLmNvbScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5kaWFsZWN0PW9yYQo=</text>
+        <text encoding="base64">ICAgIG1hdmVuIHsKICAgICAgICB1cmwgJ2h0dHBzOi8vd3d3Lm9yYWNsZS5jb20vY29udGVudC9zZWN1cmUvbWF2ZW4vY29udGVudCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgcnVudGltZU9ubHkgZ3JvdXA6ICdjb20ub3JhY2xlLmpkYmMnLCBuYW1lOiAnb2pkYmM4JywgdmVyc2lvbjogJzE4LjMuMC4wJwo=</text>
+        <text encoding="base64">c3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5kaWFsZWN0PW9yZy5oaWJlcm5hdGUuZGlhbGVjdC5PcmFjbGUxMmNEaWFsZWN0Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBtYXZlbigp</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJ1bnRpbWVPbmx5ICdjb20ub3JhY2xlLmpkYmM6b2pkYmM4OjEyLjIuMC4xJwo=</text>
+        <text encoding="base64">c3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5kaWFsZWN0PW9yZy5oaWJlcm5hdGUuZGlhbGVjdC5PcmFjbGVEaWFsZWN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgZ3JvdXA6ICdjb20ub3JhY2xlLmpkYmMnLCBuYW1lOiAnb2pkYmM4JywgdmVyc2lvbjogJzE4LjMuMC4wJwo=</text>
+        <text encoding="base64">c3ByaW5nLmpwYS5wcm9wZXJ0aWVzLmhpYmVybmF0ZS5kaWFsZWN0PW9yYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBQYXJ0IEcgIyBEQjIgaW5zdGFuY2UgcG9ydCAK</text>
+        <text encoding="base64">Ly8gICAgcnVudGltZU9ubHkgZ3JvdXA6ICdjb20ub3JhY2xlLmpkYmMnLCBuYW1lOiAnb2pkYmM4JywgdmVyc2lvbjogJzE4LjMuMC4wJwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
