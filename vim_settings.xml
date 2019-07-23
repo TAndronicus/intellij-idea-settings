@@ -23,6 +23,9 @@
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Review.java" timestamp="1563728704469">
         <mark key="[" line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/playAnorm/conf/evolutions/default/2.sql" timestamp="1563864671667">
+        <mark key="'" line="190" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/mysql.sh" timestamp="1563469863013">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="19" />
@@ -74,7 +77,9 @@
         <mark key="." line="0" column="66" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="190" column="0" filename="$USER_HOME$/Workspace/JVM/playAnorm/conf/evolutions/default/2.sql" />
+    </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>.</text>
