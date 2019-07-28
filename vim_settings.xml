@@ -24,11 +24,12 @@
       <file name="/a.sql" timestamp="1563949293117">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/498290ee-d097-49be-8104-bb9e9f60ecbe/console.sql" timestamp="1564255989451">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-        <mark key="." line="7" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/498290ee-d097-49be-8104-bb9e9f60ecbe/console.sql" timestamp="1564258850189">
+        <mark key="'" line="19" column="6" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="35" />
+        <mark key="^" line="19" column="6" />
+        <mark key="." line="19" column="6" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bb913e59-9b41-4cfb-86af-713f71e41b41/console.sql" timestamp="1563972772120">
         <mark key="[" line="0" column="0" />
@@ -90,11 +91,11 @@
       <file name="$USER_HOME$/Workspace/SQL/sakila/mysql-sakila-db/sakila-schema.sql" timestamp="1563893793769">
         <mark key="'" line="357" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e15ebaea-ee5b-48ab-bcfa-a12339c324fd/console.sql" timestamp="1564247057447">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e15ebaea-ee5b-48ab-bcfa-a12339c324fd/console.sql" timestamp="1564258870555">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/build.gradle" timestamp="1563799878481">
         <mark key="[" line="19" column="0" />
@@ -112,43 +113,44 @@
     <jumps>
       <jump line="190" column="0" filename="$USER_HOME$/Workspace/JVM/playAnorm/conf/evolutions/default/2.sql" />
       <jump line="357" column="0" filename="$USER_HOME$/Workspace/SQL/sakila/mysql-sakila-db/sakila-schema.sql" />
+      <jump line="19" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/498290ee-d097-49be-8104-bb9e9f60ecbe/console.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>egory</text>
+        <text>film</text>
       </register>
-      <register name="0" type="4">
-        <text>buildDockerImage.sh -v [version] [-e | -s | -x] [-i] [-o] [Docker build option]</text>
+      <register name="0" type="2">
+        <text encoding="base64">c2VsZWN0IHNlbGVjdF9maWxtc19ieV9jYXRlZ29yeSgyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBmaWxtOwo=</text>
+        <text encoding="base64">cmV0dXJucyB0YWJsZSAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgcGF5bWVudAphZGQgY29sdW1uIHRvdGFsX2Nvc3QgbnVtZXJpYygxMCwgMikgZGVmYXVsdCByZW50YWxfaWQgKiBhbW91bnQ7Cg==</text>
+        <text encoding="base64">Y3JlYXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBmaWxtOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBJTlZFTlRPUlk7Cg==</text>
+        <text encoding="base64">YWx0ZXIgdGFibGUgcGF5bWVudAphZGQgY29sdW1uIHRvdGFsX2Nvc3QgbnVtZXJpYygxMCwgMikgZGVmYXVsdCByZW50YWxfaWQgKiBhbW91bnQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIHJldmlldyAoaWQgbnVtYmVyKDE5LDApIG5vdCBudWxsLCBjb21tZW50IHZhcmNoYXIyKDI1NSBjaGFyKSwgZ3JhZGUgbnVtYmVyKDUsMCksIGJvb2tfaWQgbnVtYmVyKDE5LDApLCBwcmltYXJ5IGtleSAoaWQpKQo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgcmV2aWV3IGFkZCBjb25zdHJhaW50IEZLNzB5cnQwOXI0cjU0dGNna3J3YmVxZW5icyBmb3JlaWduIGtleSAoYm9va19pZCkgcmVmZXJlbmNlcyBib29rOwpkcm9wIHRhYmxlIHJldmlldyBjYXNjYWRlIGNvbnN0cmFpbnRzOwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBJTlZFTlRPUlk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3JhbnQgYWxsIHByaXZpbGVnZXMgb24gKi4qIHRvIGpiIHdpdGggZ3JhbnQgb3B0aW9uOwo=</text>
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIHJldmlldyAoaWQgbnVtYmVyKDE5LDApIG5vdCBudWxsLCBjb21tZW50IHZhcmNoYXIyKDI1NSBjaGFyKSwgZ3JhZGUgbnVtYmVyKDUsMCksIGJvb2tfaWQgbnVtYmVyKDE5LDApLCBwcmltYXJ5IGtleSAoaWQpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">YWx0ZXIgdGFibGUgcmV2aWV3IGFkZCBjb25zdHJhaW50IEZLNzB5cnQwOXI0cjU0dGNna3J3YmVxZW5icyBmb3JlaWduIGtleSAoYm9va19pZCkgcmVmZXJlbmNlcyBib29rOwpkcm9wIHRhYmxlIHJldmlldyBjYXNjYWRlIGNvbnN0cmFpbnRzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2V0IGdsb2JhbCBsb2dfYmluX3RydXN0X2Z1bmN0aW9uX2NyZWF0b3JzPTE7Cg==</text>
+        <text encoding="base64">Z3JhbnQgYWxsIHByaXZpbGVnZXMgb24gKi4qIHRvIGpiIHdpdGggZ3JhbnQgb3B0aW9uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
