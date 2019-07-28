@@ -1,173 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/732679ad-99c9-45fc-9f3d-5c493c1e273d/console.sql" timestamp="1563518717163">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/oracle/buildDockerImage.sh" timestamp="1563775919967">
-        <mark key="[" line="148" column="4" />
-        <mark key="]" line="148" column="10" />
-        <mark key="^" line="148" column="10" />
-        <mark key="." line="148" column="10" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/java/jb/model/Review.java" timestamp="1563728704469">
-        <mark key="[" line="8" column="19" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/mysql.sh" timestamp="1563469863013">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="19" />
-        <mark key="^" line="8" column="19" />
-        <mark key="." line="8" column="19" />
-      </file>
-      <file name="/a.sql" timestamp="1563949293117">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/498290ee-d097-49be-8104-bb9e9f60ecbe/console.sql" timestamp="1564258850189">
-        <mark key="'" line="19" column="6" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="35" />
-        <mark key="^" line="19" column="6" />
-        <mark key="." line="19" column="6" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/bb913e59-9b41-4cfb-86af-713f71e41b41/console.sql" timestamp="1563972772120">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="46" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/SQL/sakila/mysql-sakila-db/routine_function_privilege.sql" timestamp="1563961318757">
-        <mark key="[" line="0" column="91" />
-        <mark key="]" line="1" column="27" />
-        <mark key="^" line="1" column="27" />
-        <mark key="." line="1" column="27" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2/Dockerfile" timestamp="1563515435954">
-        <mark key="[" line="3" column="35" />
-        <mark key="]" line="3" column="35" />
-        <mark key="^" line="3" column="35" />
-        <mark key="." line="3" column="35" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/images.sh" timestamp="1563463827245">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="76" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/setup.sh" timestamp="1564247851480">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="/dummy.sql" timestamp="1563961338315">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/src/main/resources/db2.sh" timestamp="1563510828020">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="13" column="98" />
-        <mark key="^" line="0" column="66" />
-        <mark key="." line="0" column="66" />
-      </file>
-      <file name="/information_schema.TABLE_PRIVILEGES [sakila@mysql]" timestamp="1563950418371">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1563949335055">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/881a04c2-a119-44ef-a9cf-2df0c33e3970/console.sql" timestamp="1564247924880">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-      </file>
-      <file name="/information_schema.USER_PRIVILEGES [sakila@mysql]" timestamp="1563950393574">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/playAnorm/conf/evolutions/default/2.sql" timestamp="1563864671667">
-        <mark key="'" line="190" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/SQL/sakila/mysql-sakila-db/sakila-schema.sql" timestamp="1563893793769">
-        <mark key="'" line="357" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/e15ebaea-ee5b-48ab-bcfa-a12339c324fd/console.sql" timestamp="1564258870555">
-        <mark key="[" line="16" column="7" />
-        <mark key="]" line="16" column="13" />
-        <mark key="." line="16" column="13" />
-        <mark key="^" line="16" column="13" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/hibernate-mappings/build.gradle" timestamp="1563799878481">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="33" column="41" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/56f85d3d-8488-4324-87c5-cae36ce7d91a/console.sql" timestamp="1563890848120">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="0" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="190" column="0" filename="$USER_HOME$/Workspace/JVM/playAnorm/conf/evolutions/default/2.sql" />
-      <jump line="357" column="0" filename="$USER_HOME$/Workspace/SQL/sakila/mysql-sakila-db/sakila-schema.sql" />
-      <jump line="19" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/498290ee-d097-49be-8104-bb9e9f60ecbe/console.sql" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
-      </register>
-      <register name="-" type="4">
-        <text>film</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">c2VsZWN0IHNlbGVjdF9maWxtc19ieV9jYXRlZ29yeSgyKTsK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">cmV0dXJucyB0YWJsZSAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y3JlYXRlCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBmaWxtOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgcGF5bWVudAphZGQgY29sdW1uIHRvdGFsX2Nvc3QgbnVtZXJpYygxMCwgMikgZGVmYXVsdCByZW50YWxfaWQgKiBhbW91bnQ7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBJTlZFTlRPUlk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIHJldmlldyAoaWQgbnVtYmVyKDE5LDApIG5vdCBudWxsLCBjb21tZW50IHZhcmNoYXIyKDI1NSBjaGFyKSwgZ3JhZGUgbnVtYmVyKDUsMCksIGJvb2tfaWQgbnVtYmVyKDE5LDApLCBwcmltYXJ5IGtleSAoaWQpKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgcmV2aWV3IGFkZCBjb25zdHJhaW50IEZLNzB5cnQwOXI0cjU0dGNna3J3YmVxZW5icyBmb3JlaWduIGtleSAoYm9va19pZCkgcmVmZXJlbmNlcyBib29rOwpkcm9wIHRhYmxlIHJldmlldyBjYXNjYWRlIGNvbnN0cmFpbnRzOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Z3JhbnQgYWxsIHByaXZpbGVnZXMgb24gKi4qIHRvIGpiIHdpdGggZ3JhbnQgb3B0aW9uOwo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>wq</text>
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd>
-        <entry>wq</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
@@ -235,6 +68,15 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+      <template-selectmode enabled="false" />
+    </notifications>
   </component>
 </application>
