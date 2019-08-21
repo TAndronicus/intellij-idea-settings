@@ -4,8 +4,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="bbl" type="Native" />
-      <mapping pattern="results-dmp2" type="PLAIN_TEXT" />
       <mapping pattern="file" type="PLAIN_TEXT" />
+      <mapping pattern="results-dmp2" type="PLAIN_TEXT" />
       <mapping pattern="results-dmp" type="PLAIN_TEXT" />
       <mapping pattern="test0" type="PLAIN_TEXT" />
       <mapping pattern="ff" type="PLAIN_TEXT" />
