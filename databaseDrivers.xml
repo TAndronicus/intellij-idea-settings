@@ -128,5 +128,6 @@
       <artifact name="Snowflake" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
+    <driver id="com.informix.jdbc.IfxDriver" name="com.informix.jdbc.IfxDriver" driver-class="com.informix.jdbc.IfxDriver" />
   </component>
 </application>

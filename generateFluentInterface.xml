@@ -1,5 +1,6 @@
 <application>
   <component name="GenerateFluentInterfaceState">
-    <option name="setterPrefix" value="" />
+    <option name="invokeExistingSetters" value="true" />
+    <option name="setterPrefix" value="with" />
   </component>
 </application>
