@@ -1,6 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="IDE and Plugin Updates" />
+    <notification groupId="Spring Configuration Check" />
     <notification groupId="Vcs Important Messages" />
   </component>
 </application>
