@@ -128,6 +128,16 @@
       <artifact name="Snowflake" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="com.informix.jdbc.IfxDriver" name="com.informix.jdbc.IfxDriver" driver-class="com.informix.jdbc.IfxDriver" />
+    <driver id="com.informix.jdbc.IfxDriver" name="com.informix.jdbc.IfxDriver" driver-class="com.informix.jdbc.IfxDriver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <library>
+        <url>file://$USER_HOME$/Downloads/ifxjdbc.jar</url>
+      </library>
+    </driver>
   </component>
 </application>
