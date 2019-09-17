@@ -30,11 +30,5 @@
         <property name="sslmode" value="require" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="kundenportal-test@localhost" uuid="955787da-4cae-4e7d-9bad-33fa34d9c87e">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/kundenportal-test</jdbc-url>
-    </data-source>
   </component>
 </application>
