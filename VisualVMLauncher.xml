@@ -1,0 +1,6 @@
+<application>
+  <component name="VisualVMLauncher">
+    <option name="jdkHome" value="$USER_HOME$/.sdkman/candidates/java/8.0.201-oracle" />
+    <option name="visualVmExecutable" value="$USER_HOME$/.sdkman/candidates/java/1.0.0-rc-15-grl/bin/jvisualvm" />
+  </component>
+</application>
