@@ -9,7 +9,7 @@
     <data-source source="LOCAL" name="heroku-test" read-only="true" uuid="2eb484af-c7d1-4fc9-b171-0078526aef63">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://ec2-46-137-187-23.eu-west-1.compute.amazonaws.com:5432/d708sglte5ofm8</jdbc-url>
+      <jdbc-url>jdbc:postgresql://ec2-54-228-243-238.eu-west-1.compute.amazonaws.com:5432/dftmodvksicqup</jdbc-url>
       <driver-properties>
         <property name="sslmode" value="require" />
       </driver-properties>
