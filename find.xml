@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.properties" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -16,9 +16,9 @@
     <mask>*DTO.java</mask>
     <mask>*.scss</mask>
     <mask>*.gradle</mask>
-    <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.properties</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
