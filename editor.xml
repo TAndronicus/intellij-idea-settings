@@ -3,9 +3,6 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
   </component>
-  <component name="JetEditorOptions">
-    <option name="enableJavaToKotlinConversion" value="false" />
-  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\b(todo|fixme)\b.*" />
   </component>
