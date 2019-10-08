@@ -1,27 +1,5 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="kundenportal@localhost" uuid="ed51d065-796a-4ec0-a98c-66c83429907e">
-      <driver-ref>postgresql</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5432/kundenportal</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="heroku-test" read-only="true" uuid="2eb484af-c7d1-4fc9-b171-0078526aef63">
-      <driver-ref>postgresql</driver-ref>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://ec2-54-228-243-238.eu-west-1.compute.amazonaws.com:5432/dftmodvksicqup</jdbc-url>
-      <driver-properties>
-        <property name="sslmode" value="require" />
-      </driver-properties>
-    </data-source>
-    <data-source source="LOCAL" name="heroku-prod" read-only="true" uuid="156709e9-ada5-4aa6-bdf4-645376fcbb23">
-      <driver-ref>postgresql</driver-ref>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://ec2-34-249-222-233.eu-west-1.compute.amazonaws.com:5432/d14sv6aj7dn9cm</jdbc-url>
-      <driver-properties>
-        <property name="sslmode" value="require" />
-      </driver-properties>
-    </data-source>
     <data-source source="LOCAL" name="heroku-staging" read-only="true" uuid="391cb349-dc34-4243-80a2-e3010b16e820">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
