@@ -1,6 +1,9 @@
 <code_scheme name="Default" version="173">
   <option name="RIGHT_MARGIN" value="180" />
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <DB2CodeStyleSettings version="2">
+    <option name="QUOTE_IDENTIFIER" value="1" />
+  </DB2CodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
@@ -9,6 +12,12 @@
     <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="500" />
     <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="300" />
   </JavaCodeStyleSettings>
+  <PostgresCodeStyleSettings version="2">
+    <option name="QUOTE_IDENTIFIER" value="1" />
+  </PostgresCodeStyleSettings>
+  <SqlCodeStyleSettings version="2">
+    <option name="QUOTE_IDENTIFIER" value="1" />
+  </SqlCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
