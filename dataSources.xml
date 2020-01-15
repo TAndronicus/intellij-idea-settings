@@ -3,7 +3,7 @@
     <data-source source="LOCAL" name="heroku-staging" read-only="true" uuid="391cb349-dc34-4243-80a2-e3010b16e820">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://ec2-54-217-225-16.eu-west-1.compute.amazonaws.com:5432/d4tpn2p4hh4j1t</jdbc-url>
+      <jdbc-url>jdbc:postgresql://ec2-52-16-44-250.eu-west-1.compute.amazonaws.com:5432/d72da16p3f0grm</jdbc-url>
       <driver-properties>
         <property name="sslmode" value="require" />
       </driver-properties>
