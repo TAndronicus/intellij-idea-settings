@@ -190,13 +190,6 @@
         <mark key="." line="40" column="19" />
         <mark key="^" line="40" column="19" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1586331922288">
-        <mark key="'" line="2127" column="7" />
-        <mark key="[" line="3008" column="12" />
-        <mark key="]" line="3007" column="0" />
-        <mark key="." line="3007" column="0" />
-        <mark key="^" line="3007" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/JVM/progfun2/codecs/src/main/scala/codecs/codecs.scala" timestamp="1586506257954">
         <mark key="[" line="261" column="41" />
         <mark key="]" line="262" column="39" />
@@ -394,7 +387,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDwyXD4=</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
