@@ -123,12 +123,12 @@
         <mark key="^" line="69" column="15" />
         <mark key="." line="69" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/test/scala/objsets/TweetSetSuite.scala" timestamp="1586664536820">
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/test/scala/objsets/TweetSetSuite.scala" timestamp="1586664653985">
         <mark key="'" line="43" column="6" />
-        <mark key="[" line="69" column="54" />
-        <mark key="]" line="69" column="55" />
-        <mark key="^" line="69" column="25" />
-        <mark key="." line="69" column="55" />
+        <mark key="[" line="65" column="47" />
+        <mark key="]" line="65" column="77" />
+        <mark key="^" line="65" column="47" />
+        <mark key="." line="65" column="47" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/geraet/dao/CustomGeraetRepository.java" timestamp="1586338845305">
         <mark key="[" line="67" column="5" />
@@ -184,12 +184,12 @@
         <mark key="." line="111" column="44" />
         <mark key="^" line="111" column="44" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1586663750435">
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1586665366649">
         <mark key="'" line="203" column="10" />
-        <mark key="[" line="280" column="16" />
-        <mark key="]" line="280" column="20" />
-        <mark key="." line="280" column="19" />
-        <mark key="^" line="280" column="20" />
+        <mark key="[" line="216" column="38" />
+        <mark key="]" line="216" column="54" />
+        <mark key="." line="216" column="53" />
+        <mark key="^" line="216" column="54" />
       </file>
       <file name="/Dummy.txt" timestamp="1586335561597">
         <mark key="[" line="0" column="0" />
@@ -335,17 +335,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0KHRyZW5kcy50YWlsLnRhaWwudGFpbC5oZWFkLnVzZXIgPT0gImQiKQo=</text>
+      <register name="*" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>googleTweets, appleTweets</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0KHRyZW5kcy50YWlsLnRhaWwudGFpbC5oZWFkLnVzZXIgPT0gImQiKQo=</text>
+      <register name="0" type="4">
+        <text>set5.mostRetweeted.user == &quot;a&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aWYgKGwxLmlzRW1wdHkgJiYgbDIuaXNFbXB0eSkgTmlsCiAgICAgIGVsc2UgaWYgKCFsMS5pc0VtcHR5ICYmIGwyLmlzRW1wdHkpIG5ldyBDb25zKGwxLmhlYWQsIHppcFRyZW5kaW5nKGwxLnRhaWwsIGwyKSkKICAgICAgZWxzZSBpZiAobDEuaXNFbXB0eSAmJiAhbDIuaXNFbXB0eSkgbmV3IENvbnMobDIuaGVhZCwgemlwVHJlbmRpbmcobDEsIGwyLnRhaWwpKQogICAgICBlbHNlIGlmIChsMS5oZWFkLnJldHdlZXRzID4gbDIuaGVhZC5yZXR3ZWV0cykgbmV3IENvbnMobDEuaGVhZCwgemlwVHJlbmRpbmcobDEudGFpbCwgbDIpKQogICAgICBlbHNlIG5ldyBDb25zKGwyLmhlYWQsIHppcFRyZW5kaW5nKGwxLCBsMi50YWlsKSk=</text>
