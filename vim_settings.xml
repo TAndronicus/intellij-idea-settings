@@ -117,12 +117,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1586652188808">
-        <mark key="'" line="200" column="44" />
-        <mark key="[" line="186" column="48" />
-        <mark key="]" line="186" column="48" />
-        <mark key="." line="186" column="48" />
-        <mark key="^" line="187" column="37" />
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1586653907669">
+        <mark key="'" line="211" column="44" />
+        <mark key="[" line="222" column="48" />
+        <mark key="]" line="223" column="75" />
+        <mark key="." line="223" column="74" />
+        <mark key="^" line="223" column="75" />
       </file>
       <file name="/Dummy.txt" timestamp="1586335561597">
         <mark key="[" line="0" column="0" />
@@ -335,10 +335,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>???</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>???</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
