@@ -123,7 +123,8 @@
         <mark key="^" line="69" column="15" />
         <mark key="." line="69" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/test/scala/objsets/TweetSetSuite.scala" timestamp="1586662028678">
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/test/scala/objsets/TweetSetSuite.scala" timestamp="1586662635923">
+        <mark key="'" line="43" column="6" />
         <mark key="[" line="43" column="27" />
         <mark key="]" line="43" column="28" />
         <mark key="^" line="43" column="28" />
@@ -183,12 +184,12 @@
         <mark key="." line="111" column="44" />
         <mark key="^" line="111" column="44" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1586662621990">
-        <mark key="'" line="212" column="44" />
-        <mark key="[" line="204" column="58" />
-        <mark key="]" line="204" column="67" />
-        <mark key="." line="204" column="66" />
-        <mark key="^" line="204" column="67" />
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/main/scala/objsets/TweetSet.scala" timestamp="1586663750435">
+        <mark key="'" line="203" column="10" />
+        <mark key="[" line="280" column="16" />
+        <mark key="]" line="280" column="20" />
+        <mark key="." line="280" column="19" />
+        <mark key="^" line="280" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1586335561597">
         <mark key="[" line="0" column="0" />
@@ -230,8 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="421" column="8" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" />
-      <jump line="102" column="9" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" />
       <jump line="154" column="16" filename="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/java/com/qivalo/portal/AbstractSpringTest.java" />
       <jump line="609" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" />
       <jump line="2620" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
@@ -330,51 +329,53 @@
       <jump line="200" column="44" filename="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="3" column="7" filename="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/main/scala/objsets/TweetData.scala" />
       <jump line="712" column="0" filename="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/main/scala/objsets/TweetData.scala" />
+      <jump line="43" column="6" filename="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/test/scala/objsets/TweetSetSuite.scala" />
+      <jump line="203" column="10" filename="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/main/scala/objsets/TweetSet.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text>nonEmptyapp</text>
+      <register name="*" type="4">
+        <text>googleTweets, appleTweets</text>
       </register>
       <register name="-" type="4">
-        <text>set4c.union(set4d)</text>
+        <text>googleTweets, appleTweets</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">VHdlZXRSZWFkZXIuYWxsVHdlZXRzLmZpbHRlcih0d2VldCA9PiBnb29nbGUuZXhpc3RzKHR3ZWV0LnRleHQuY29udGFpbnMoXykpKQ==</text>
+        <text encoding="base64">CiAgbGF6eSB2YWwgZ29vZ2xlVHdlZXRzOiBUd2VldExpc3QgPSBUd2VldFJlYWRlci5hbGxUd2VldHMuZmlsdGVyKHR3ZWV0ID0+IGdvb2dsZS5leGlzdHModHdlZXQudGV4dC5jb250YWlucyhfKSkpLmRlc2NlbmRpbmdCeVJldHdlZXQKICBsYXp5IHZhbCBhcHBsZVR3ZWV0czogVHdlZXRMaXN0ID0gVHdlZXRSZWFkZXIuYWxsVHdlZXRzLmZpbHRlcih0d2VldCA9PiBhcHBsZS5leGlzdHModHdlZXQudGV4dC5jb250YWlucyhfKSkpLmRlc2NlbmRpbmdCeVJldHdlZXQ=</text>
       </register>
       <register name="1" type="2">
-        <text>nonEmptyapp</text>
+        <text encoding="base64">ICBsYXp5IHZhbCBnb29nbGVUd2VldHM6IFR3ZWV0U2V0ID0gVHdlZXRSZWFkZXIuYWxsVHdlZXRzLmZpbHRlcih0d2VldCA9PiBnb29nbGUuZXhpc3RzKHR3ZWV0LnRleHQuY29udGFpbnMoXykpKQogIGxhenkgdmFsIGFwcGxlVHdlZXRzOiBUd2VldFNldCA9IFR3ZWV0UmVhZGVyLmFsbFR3ZWV0cy5maWx0ZXIodHdlZXQgPT4gYXBwbGUuZXhpc3RzKHR3ZWV0LnRleHQuY29udGFpbnMoXykpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>assertEquals(4, size(t))</text>
+        <text encoding="base64">ICAgIHN1bSArPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIGJlZ2luCiAgfQogIHByaW50bG4oc3VtIC8gaXRlcikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkgCg==</text>
+        <text encoding="base64">ICAgIHZhbCBiZWdpbiA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbihzIiR7bDEuaGVhZC51c2VyfSwgJHtsMi5oZWFkLnVzZXJ9IikK</text>
+        <text encoding="base64">ICB2YXIgc3VtID0gMGQKICB2YWwgaXRlciA9IDUwCiAgZm9yICh4IDwtIDAgdW50aWwgaXRlcikgewo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBhY2MgPSB0aGlzCiAgICB0aGF0LmZvcmVhY2goZWwgPT4gewo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">LmRlc2NlbmRpbmdCeVJldHdlZXQKCiAg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYWNjID0gYWNjIGluY2wgZWwKICAgIH0pCg==</text>
+        <text>nonEmptyapp</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcHJpbnRsbigiIikK</text>
+        <text>assertEquals(4, size(t))</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgVW5pdAo=</text>
+        <text encoding="base64">ICAgICAgaWYgKCkgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihzIiR7bDEuaGVhZC51c2VyfSwgJHtsMi5oZWFkLnVzZXJ9IikK</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
