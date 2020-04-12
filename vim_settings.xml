@@ -201,11 +201,11 @@
       <file name="$USER_HOME$/Workspace/JVM/progfun2/codecs/src/test/scala/codecs/CodecsSuite.scala" timestamp="1586506323180">
         <mark key="'" line="39" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1586709362016">
-        <mark key="[" line="81" column="66" />
-        <mark key="]" line="82" column="4" />
-        <mark key="." line="82" column="3" />
-        <mark key="^" line="82" column="4" />
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1586711080121">
+        <mark key="[" line="156" column="41" />
+        <mark key="]" line="156" column="42" />
+        <mark key="." line="156" column="42" />
+        <mark key="^" line="134" column="117" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1586347761293">
         <mark key="'" line="371" column="21" />
@@ -351,34 +351,34 @@
         <text>set5.mostRetweeted.user == &quot;a&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aWYgKGwxLmlzRW1wdHkgJiYgbDIuaXNFbXB0eSkgTmlsCiAgICAgIGVsc2UgaWYgKCFsMS5pc0VtcHR5ICYmIGwyLmlzRW1wdHkpIG5ldyBDb25zKGwxLmhlYWQsIHppcFRyZW5kaW5nKGwxLnRhaWwsIGwyKSkKICAgICAgZWxzZSBpZiAobDEuaXNFbXB0eSAmJiAhbDIuaXNFbXB0eSkgbmV3IENvbnMobDIuaGVhZCwgemlwVHJlbmRpbmcobDEsIGwyLnRhaWwpKQogICAgICBlbHNlIGlmIChsMS5oZWFkLnJldHdlZXRzID4gbDIuaGVhZC5yZXR3ZWV0cykgbmV3IENvbnMobDEuaGVhZCwgemlwVHJlbmRpbmcobDEudGFpbCwgbDIpKQogICAgICBlbHNlIG5ldyBDb25zKGwyLmhlYWQsIHppcFRyZW5kaW5nKGwxLCBsMi50YWlsKSk=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsYXp5IHZhbCBnb29nbGVUd2VldHM6IFR3ZWV0U2V0ID0gVHdlZXRSZWFkZXIuYWxsVHdlZXRzLmZpbHRlcih0d2VldCA9PiBnb29nbGUuZXhpc3RzKHR3ZWV0LnRleHQuY29udGFpbnMoXykpKQogIGxhenkgdmFsIGFwcGxlVHdlZXRzOiBUd2VldFNldCA9IFR3ZWV0UmVhZGVyLmFsbFR3ZWV0cy5maWx0ZXIodHdlZXQgPT4gYXBwbGUuZXhpc3RzKHR3ZWV0LnRleHQuY29udGFpbnMoXykpKQo=</text>
+        <text encoding="base64">ICAgICAgeCBtYXRjaCB7CiAgICAgICAgY2FzZSBmOiBGb3JrID0+IGYuY2hhcnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN1bSArPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIGJlZ2luCiAgfQogIHByaW50bG4oc3VtIC8gaXRlcikK</text>
+        <text encoding="base64">aWYgKGwxLmlzRW1wdHkgJiYgbDIuaXNFbXB0eSkgTmlsCiAgICAgIGVsc2UgaWYgKCFsMS5pc0VtcHR5ICYmIGwyLmlzRW1wdHkpIG5ldyBDb25zKGwxLmhlYWQsIHppcFRyZW5kaW5nKGwxLnRhaWwsIGwyKSkKICAgICAgZWxzZSBpZiAobDEuaXNFbXB0eSAmJiAhbDIuaXNFbXB0eSkgbmV3IENvbnMobDIuaGVhZCwgemlwVHJlbmRpbmcobDEsIGwyLnRhaWwpKQogICAgICBlbHNlIGlmIChsMS5oZWFkLnJldHdlZXRzID4gbDIuaGVhZC5yZXR3ZWV0cykgbmV3IENvbnMobDEuaGVhZCwgemlwVHJlbmRpbmcobDEudGFpbCwgbDIpKQogICAgICBlbHNlIG5ldyBDb25zKGwyLmhlYWQsIHppcFRyZW5kaW5nKGwxLCBsMi50YWlsKSk=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBiZWdpbiA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpCg==</text>
+        <text encoding="base64">ICBsYXp5IHZhbCBnb29nbGVUd2VldHM6IFR3ZWV0U2V0ID0gVHdlZXRSZWFkZXIuYWxsVHdlZXRzLmZpbHRlcih0d2VldCA9PiBnb29nbGUuZXhpc3RzKHR3ZWV0LnRleHQuY29udGFpbnMoXykpKQogIGxhenkgdmFsIGFwcGxlVHdlZXRzOiBUd2VldFNldCA9IFR3ZWV0UmVhZGVyLmFsbFR3ZWV0cy5maWx0ZXIodHdlZXQgPT4gYXBwbGUuZXhpc3RzKHR3ZWV0LnRleHQuY29udGFpbnMoXykpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgc3VtID0gMGQKICB2YWwgaXRlciA9IDUwCiAgZm9yICh4IDwtIDAgdW50aWwgaXRlcikgewo=</text>
+        <text encoding="base64">ICAgIHN1bSArPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSAtIGJlZ2luCiAgfQogIHByaW50bG4oc3VtIC8gaXRlcikK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LmRlc2NlbmRpbmdCeVJldHdlZXQKCiAg</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhbCBiZWdpbiA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text>nonEmptyapp</text>
+        <text encoding="base64">ICB2YXIgc3VtID0gMGQKICB2YWwgaXRlciA9IDUwCiAgZm9yICh4IDwtIDAgdW50aWwgaXRlcikgewo=</text>
       </register>
-      <register name="8" type="2">
-        <text>assertEquals(4, size(t))</text>
+      <register name="8" type="4">
+        <text encoding="base64">LmRlc2NlbmRpbmdCeVJldHdlZXQKCiAg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkgCg==</text>
+        <text>nonEmptyapp</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
