@@ -201,11 +201,11 @@
       <file name="$USER_HOME$/Workspace/JVM/progfun2/codecs/src/test/scala/codecs/CodecsSuite.scala" timestamp="1586506323180">
         <mark key="'" line="39" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1586711080121">
-        <mark key="[" line="156" column="41" />
-        <mark key="]" line="156" column="42" />
-        <mark key="." line="156" column="42" />
-        <mark key="^" line="134" column="117" />
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1586712910150">
+        <mark key="[" line="144" column="11" />
+        <mark key="]" line="141" column="84" />
+        <mark key="." line="141" column="83" />
+        <mark key="^" line="141" column="84" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1586347761293">
         <mark key="'" line="371" column="21" />
@@ -339,10 +339,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>?</text>
+        <text>aggregate</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>aggregate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
