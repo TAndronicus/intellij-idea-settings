@@ -191,9 +191,6 @@
         <mark key="." line="216" column="53" />
         <mark key="^" line="216" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586335561597">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyUpdateService.java" timestamp="1586341719943">
         <mark key="'" line="120" column="15" />
         <mark key="[" line="119" column="0" />
@@ -203,6 +200,12 @@
       </file>
       <file name="$USER_HOME$/Workspace/JVM/progfun2/codecs/src/test/scala/codecs/CodecsSuite.scala" timestamp="1586506323180">
         <mark key="'" line="39" column="12" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1586707960554">
+        <mark key="[" line="81" column="66" />
+        <mark key="]" line="81" column="66" />
+        <mark key="." line="81" column="66" />
+        <mark key="^" line="72" column="104" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1586347761293">
         <mark key="'" line="371" column="21" />
@@ -336,10 +339,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>)</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
