@@ -137,12 +137,12 @@
       <file name="/console" timestamp="1586733833315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1586796595535">
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1586798564032">
         <mark key="'" line="55" column="10" />
-        <mark key="[" line="56" column="6" />
-        <mark key="]" line="56" column="4" />
-        <mark key="^" line="56" column="4" />
-        <mark key="." line="56" column="3" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="^" line="122" column="52" />
+        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyUpdateBatchService.java" timestamp="1586347997444">
         <mark key="'" line="83" column="42" />
@@ -151,14 +151,14 @@
         <mark key="^" line="88" column="54" />
         <mark key="." line="88" column="54" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" timestamp="1586796726973">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="108" column="20" />
-        <mark key="]" line="108" column="20" />
-        <mark key="." line="108" column="20" />
-        <mark key="^" line="106" column="20" />
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" timestamp="1586798176187">
+        <mark key="'" line="129" column="0" />
+        <mark key="[" line="93" column="8" />
+        <mark key="]" line="93" column="6" />
+        <mark key="." line="93" column="5" />
+        <mark key="^" line="93" column="6" />
       </file>
-      <file name="/Dummy.scala" timestamp="1586796575271">
+      <file name="/Dummy.scala" timestamp="1586797895610">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="89" />
         <mark key="." line="0" column="89" />
@@ -321,47 +321,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>,</text>
+      <register name="*" type="2">
+        <text encoding="base64">Ly8gICAgLmZpbHRlcihvY2N1cnJlbmNlcy50b1NldCAhPSBfLnRvU2V0KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgTGlzdCgoJ2EnLCAxKSksCg==</text>
+        <text encoding="base64">ICAgICAgTGlzdCgoJ2InLCAyKSwgKCdjJywgMikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgTGlzdCgoJ2EnLCAxKSksCiAgICAgIExpc3QoKCdhJywgMikpCg==</text>
+        <text encoding="base64">Ly8gICAgLmZpbHRlcihvY2N1cnJlbmNlcy50b1NldCAhPSBfLnRvU2V0KQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgTGlzdCgoJ2InLCAxKSksCiAgICAgIExpc3QoKCdhJywgMSksICgnYicsIDEpKSwKICAgICAgTGlzdCgoJ2EnLCAyKSwgKCdiJywgMSkpLAogICAgICBMaXN0KCgnYicsIDIpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMikpLAogICAgICBMaXN0KCgnYScsIDIpLCAoJ2InLCAyKSkK</text>
+        <text encoding="base64">ICAgIHBvc3RmaXggPC0gcG9zdGZpeExpc3QK</text>
       </register>
       <register name="3" type="2">
-        <text>List(('l', 1), ('i', 1), ('n', 1))</text>
+        <text encoding="base64">ICAgICAgTGlzdCgoJ2InLCAyKSksCiAgICAgIExpc3QoKCdhJywgMSksICgnYicsIDIpKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygxLCBpLnNpemUpCg==</text>
+        <text encoding="base64">ICAgICAgTGlzdCgoJ2EnLCAxKSksCiAgICAgIExpc3QoKCdhJywgMikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBpID0gZGljdGlvbmFyeQo=</text>
+        <text encoding="base64">ICAgICAgTGlzdCgoJ2InLCAxKSksCiAgICAgIExpc3QoKCdhJywgMSksICgnYicsIDEpKSwKICAgICAgTGlzdCgoJ2EnLCAyKSwgKCdiJywgMSkpLAogICAgICBMaXN0KCgnYicsIDIpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMikpLAogICAgICBMaXN0KCgnYScsIDIpLCAoJ2InLCAyKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbCBzZW50ZW5jZSA9IExpc3QoKQogICAgYXNzZXJ0RXF1YWxzKExpc3QoTmlsKSwgc2VudGVuY2VBbmFncmFtcyhzZW50ZW5jZSkpCg==</text>
+        <text>List(('l', 1), ('i', 1), ('n', 1))</text>
       </register>
       <register name="7" type="2">
-        <text>combinations</text>
+        <text encoding="base64">ICAgIGFzc2VydEVxdWFscygxLCBpLnNpemUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text>dictionaryByOccurrences(combinations)</text>
+        <text encoding="base64">ICAgIHZhbCBpID0gZGljdGlvbmFyeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgc2VudGVuY2VBbmFncmFtcyhzZW50ZW5jZSkK</text>
+        <text encoding="base64">ICAgIHZhbCBzZW50ZW5jZSA9IExpc3QoKQogICAgYXNzZXJ0RXF1YWxzKExpc3QoTmlsKSwgc2VudGVuY2VBbmFncmFtcyhzZW50ZW5jZSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
