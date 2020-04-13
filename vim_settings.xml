@@ -152,11 +152,12 @@
       <file name="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/main/scala/objsets/TweetData.scala" timestamp="1586655103221">
         <mark key="'" line="712" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/patmat/src/test/scala/patmat/HuffmanSuite.scala" timestamp="1586716264678">
-        <mark key="[" line="47" column="51" />
-        <mark key="]" line="47" column="52" />
-        <mark key="." line="47" column="52" />
-        <mark key="^" line="45" column="31" />
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/patmat/src/test/scala/patmat/HuffmanSuite.scala" timestamp="1586737716043">
+        <mark key="'" line="5" column="6" />
+        <mark key="[" line="56" column="36" />
+        <mark key="]" line="56" column="37" />
+        <mark key="." line="56" column="37" />
+        <mark key="^" line="54" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyService.java" timestamp="1586347921490">
         <mark key="'" line="70" column="46" />
@@ -182,11 +183,11 @@
       <file name="$USER_HOME$/Workspace/JVM/progfun2/codecs/src/test/scala/codecs/CodecsSuite.scala" timestamp="1586506323180">
         <mark key="'" line="39" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1586736418221">
-        <mark key="[" line="224" column="3" />
-        <mark key="]" line="226" column="47" />
-        <mark key="." line="226" column="46" />
-        <mark key="^" line="226" column="47" />
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/patmat/src/main/scala/patmat/Huffman.scala" timestamp="1586737485336">
+        <mark key="[" line="248" column="5" />
+        <mark key="]" line="248" column="16" />
+        <mark key="." line="248" column="15" />
+        <mark key="^" line="248" column="16" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1586735301623">
         <mark key="'" line="0" column="0" />
@@ -222,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="30" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="1" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/.gitignore" />
       <jump line="2892" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="58" column="10" filename="$USER_HOME$/Workspace/qivalo/kundenportal/tools/benchmark.sql" />
@@ -322,51 +322,52 @@
       <jump line="216" column="53" filename="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
       <jump line="191" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" />
+      <jump line="5" column="6" filename="$USER_HOME$/Workspace/JVM/progfun1/patmat/src/test/scala/patmat/HuffmanSuite.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>?</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CgppbnNlcnQgaW50byBld19xdWV1ZSAoaWQsIGdlcl9nZXJhZXRfaWQsIHN0YXJ0X2RhdGUpCnNlbGVjdCBuZXh0dmFsKCdld19xdWV1ZV9zZXEnKSwKICAgICAgIGdnLmlkLAogICAgICAgJzIwMTktMDEtMDEnCmZyb20gZ2VyX2dlcmFldCBnZwogICAgICAgICBpbm5lciBqb2luIGdrX2dlcmFldF90eXAgZ2d0IG9uIGdnLmdrX2dlcmFldF90eXBfaWQgPSBnZ3QuaWQKICAgICAgICAgaW5uZXIgam9pbiBudXRfbnV0emVpbmhlaXQgbm4gb24gZ2cubnV0X251dHplaW5oZWl0X2lkID0gbm4uaWQKICAgICAgICAgaW5uZXIgam9pbiBsaWVfbGllZ2Vuc2NoYWZ0IGxsIG9uIGdnLmxpZV9saWVnZW5zY2hhZnRfaWQgPSBsbC5pZAp3aGVyZSAoZ2VyYWV0X3R5cCBpbiAoJ1cnLCAnSycsICdFJywgJ1onLCAnUCcpCiAgICBvciBnZXJhZXRfYXJ0ID0gJ09GT0xUMDEnKQogIGFuZCAobGwucmVtb3ZlZG9uLCBubi5yZW1vdmVkb24sIGdnLnJlbW92ZWRvbikgaXMgbnVsbDs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKHRhYmxlKCdhJyksIExpc3QoMCwgMCkpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cgp1cGRhdGUgdGVjX2pvYl9oaXN0b3JpZQpzZXQgc3RhdHVzID0gJ1MnCndoZXJlIGlkID0gMTgzNTExNzQ7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKCJhYiIudG9MaXN0LCBkZWNvZGUodDIsIGVuY29kZSh0MikoImFiIi50b0xpc3QpKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlY29kZUFjYyh0cmVlLCB4cywgYWNjLCApCg==</text>
+        <text encoding="base64">ICAgIGNhc2UgbDogTGVhZiA9PiBMaXN0KChsLmNoYXIsIExpc3QpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIGw6IExlYWYgPT4gZGVjb2RlQWNjKHRyZWUsIGJpdHMsIGwuY2hhciA6OiBhY2MsIHRyZWUpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1hdGNoIG5leHQgewogICAgICAgICAgICAKICAgICAgICAgIH0K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNhc2UgbDogTGVhZiA9PiA/Pz8KICAgIGNhc2UgZjogRm9yayA9PiBtZXJnZUNvZGVUYWJsZXMoKQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Cgp1cGRhdGUgdGVjX2pvYl9oaXN0b3JpZQpzZXQgc3RhdHVzID0gJ1MnCndoZXJlIGlkID0gMTgzNTExNzQ7</text>
+      </register>
       <register name="6" type="2">
-        <text>assertEquals(&quot;ab&quot;.toList, decode(t1, encode(t1)(&quot;ab&quot;.toList)))</text>
+        <text encoding="base64">ICAgICAgICAgIGRlY29kZUFjYyh0cmVlLCB4cywgYWNjLCApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgZW5jb2RlQWNjKHRyZWUsIHRleHQsIExpc3RbQml0XSgpKQo=</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIGw6IExlYWYgPT4gZGVjb2RlQWNjKHRyZWUsIGJpdHMsIGwuY2hhciA6OiBhY2MsIHRyZWUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICgKICAgICAgZm9yICgKICAgICAgICBjIDwtIHRleHQKICAgICAgKSB7CiAgICAgICAgCiAgICAgIH0KICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIG1hdGNoIG5leHQgewogICAgICAgICAgICAKICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
