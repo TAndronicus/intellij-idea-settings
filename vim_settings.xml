@@ -137,12 +137,12 @@
       <file name="/console" timestamp="1586733833315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1586819441810">
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1586820773954">
         <mark key="'" line="55" column="10" />
-        <mark key="[" line="120" column="74" />
-        <mark key="]" line="171" column="55" />
-        <mark key="^" line="171" column="55" />
-        <mark key="." line="171" column="54" />
+        <mark key="[" line="178" column="20" />
+        <mark key="]" line="178" column="33" />
+        <mark key="^" line="178" column="33" />
+        <mark key="." line="178" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyUpdateBatchService.java" timestamp="1586347997444">
         <mark key="'" line="83" column="42" />
@@ -151,17 +151,17 @@
         <mark key="^" line="88" column="54" />
         <mark key="." line="88" column="54" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" timestamp="1586819604640">
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" timestamp="1586819624322">
         <mark key="'" line="37" column="0" />
-        <mark key="[" line="94" column="28" />
-        <mark key="]" line="95" column="20" />
-        <mark key="." line="95" column="20" />
-        <mark key="^" line="52" column="13" />
+        <mark key="[" line="97" column="4" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+        <mark key="^" line="97" column="19" />
       </file>
-      <file name="/Dummy.scala" timestamp="1586797895610">
+      <file name="/Dummy.scala" timestamp="1586820462368">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="89" />
-        <mark key="." line="0" column="89" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/main/scala/objsets/TweetData.scala" timestamp="1586655103221">
         <mark key="'" line="712" column="0" />
@@ -322,10 +322,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>('a', 1), ('b', 1), ('c', 1)</text>
+        <text>Occurrences</text>
       </register>
       <register name="-" type="4">
-        <text>('a', 1), ('b', 1), ('c', 1)</text>
+        <text>Occurrences</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -334,31 +334,31 @@
         <text encoding="base64">CgogIEBUZXN0IGRlZiBgY29tYmluYXRpb25zOiAzYDogVW5pdCA9IHsKICAgIHZhbCBhYmJhID0gTGlzdCgoJ2EnLCAxKSwgKCdiJywgMSksICgnYycsIDEpKQogICAgdmFsIGFiYmFjb21iID0gTGlzdCgKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMSksICgnYycsIDEpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMSkpLAogICAgICBMaXN0KCgnYScsIDEpLCAoJ2MnLCAxKSksCiAgICAgIExpc3QoKCdiJywgMSksICgnYycsIDEpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSksCiAgICAgIExpc3QoKCdiJywgMSkpLAogICAgICBMaXN0KCgnYycsIDEpKQogICAgKQogICAgYXNzZXJ0RXF1YWxzKGFiYmFjb21iLnRvU2V0LCBub25FbXB0eURpc3RpbmN0Q29tYmluYXRpb25zKGFiYmEpLnRvU2V0KQogIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgcHJlZml4U2luZ2xldG9uIDwtIHByZWZpeGVzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgQFRlc3QgZGVmIGBkaXNjdGlvbmFyeWA6IFVuaXQgPSB7CiAgICB2YWwgaG9sZSA9IGRpY3Rpb25hcnlCeU9jY3VycmVuY2VzKExpc3QoKCdlJywgMSksICgnaCcsIDEpLCAoJ2wnLCAxKSwgKCdvJywgMSkpKQogICAgYXNzZXJ0RXF1YWxzKDEsIGhvbGUuc2l6ZSkKICAgIHZhbCBpID0gZGljdGlvbmFyeUJ5T2NjdXJyZW5jZXMoTGlzdCgoJ2knLCAxKSwgKCdsJywgMSksICgnbicsIDEpKSkKICAgIGFzc2VydEVxdWFscygyLCBpLnNpemUpCiA=</text>
+      <register name="2" type="2">
+        <text>anagramsByOccurences(allOccurences)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgoK</text>
+        <text encoding="base64">ICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMSksICgnYycsIDEpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSwgKCdiJywgMSkpLAogICAgICBMaXN0KCgnYScsIDEpLCAoJ2MnLCAxKSksCiAgICAgIExpc3QoKCdiJywgMSksICgnYycsIDEpKSwKICAgICAgTGlzdCgoJ2EnLCAxKSksCiAgICAgIExpc3QoKCdiJywgMSkpLAogICAgICBMaXN0KCgnYycsIDEpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Ly8gICAgcHJlZml4U2luZ2xldG9uIDwtIHByZWZpeGVzCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgTGlzdCgpLAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgQFRlc3QgZGVmIGBkaXNjdGlvbmFyeWA6IFVuaXQgPSB7CiAgICB2YWwgaG9sZSA9IGRpY3Rpb25hcnlCeU9jY3VycmVuY2VzKExpc3QoKCdlJywgMSksICgnaCcsIDEpLCAoJ2wnLCAxKSwgKCdvJywgMSkpKQogICAgYXNzZXJ0RXF1YWxzKDEsIGhvbGUuc2l6ZSkKICAgIHZhbCBpID0gZGljdGlvbmFyeUJ5T2NjdXJyZW5jZXMoTGlzdCgoJ2knLCAxKSwgKCdsJywgMSksICgnbicsIDEpKSkKICAgIGFzc2VydEVxdWFscygyLCBpLnNpemUpCiA=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAVGVzdCBkZWYgYGRpc2N0aW9uYXJ5IGNvbnRhaW5zIGlgOiBVbml0ID0gewogICAgYXNzZXJ0KGRpY3Rpb25hcnkuY29udGFpbnMoImkiKSkK</text>
+        <text encoding="base64">ICAgICAgTGlzdCgpLAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
