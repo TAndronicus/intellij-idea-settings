@@ -137,11 +137,11 @@
       <file name="/console" timestamp="1586733833315">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1586775697794">
-        <mark key="[" line="35" column="117" />
-        <mark key="]" line="35" column="124" />
-        <mark key="." line="35" column="123" />
-        <mark key="^" line="35" column="124" />
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1586776437028">
+        <mark key="[" line="90" column="61" />
+        <mark key="]" line="90" column="114" />
+        <mark key="." line="90" column="113" />
+        <mark key="^" line="90" column="114" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyUpdateBatchService.java" timestamp="1586347997444">
         <mark key="'" line="83" column="42" />
@@ -326,11 +326,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>?</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIGZvciB7CiAgICAgIChfLCBhbW91bnQpIDwtIG9jY3VyZW5jaWVzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -339,34 +339,34 @@
         <text encoding="base64">CgoKICBAVGVzdCBkZWYgYGVuY29kaW5ncyBlcXVpdmA6IFVuaXQgPQogICAgbmV3IFRlc3RUcmVlcyB7CiAgICAgIGFzc2VydEVxdWFscyhlbmNvZGUodDEpKCJhYmJhIi50b0xpc3QpLCBxdWlja0VuY29kZSh0MSkoImFiYmEiLnRvTGlzdCkpCiAgICAgIGFzc2VydEVxdWFscyhlbmNvZGUodDIpKCJiYWRiYSIudG9MaXN0KSwgcXVpY2tFbmNvZGUodDIpKCJiYWRiYSIudG9MaXN0KSkKICAgIH0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5maWx0ZXIod29yZE9jY3VycmVuY2VzKF8pID09IG9jY3VyZW5jZXMpCg==</text>
+        <text encoding="base64">ICAgIGZvciB7CiAgICAgIChfLCBhbW91bnQpIDwtIG9jY3VyZW5jaWVzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKGVuY29kZSh0MikoImJhZGJhIi50b0xpc3QpLCBxdWlja0VuY29kZSh0MikoImJhZGJhIi50b0xpc3QpKQo=</text>
+        <text encoding="base64">ICAgICAgaWYgYW1vdW50ICE9IDAKICAgIH0geWllbGQgKF8sIGFtb3VudCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKGVuY29kZSh0MSkoImFiYmEiLnRvTGlzdCksIHF1aWNrRW5jb2RlKHQxKSgiYWJiYSIudG9MaXN0KSkK</text>
+        <text encoding="base64">ICAgIC5maWx0ZXIod29yZE9jY3VycmVuY2VzKF8pID09IG9jY3VyZW5jZXMpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKExpc3QoMCwgMSksIHRhYmxlKCdiJykpCiAgICAgIGFzc2VydEVxdWFscyhMaXN0KDEpLCB0YWJsZSgnZCcpKQo=</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKGVuY29kZSh0MikoImJhZGJhIi50b0xpc3QpLCBxdWlja0VuY29kZSh0MikoImJhZGJhIi50b0xpc3QpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFsIHRhYmxlID0gY29udmVydCh0MikudG9NYXAK</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKGVuY29kZSh0MSkoImFiYmEiLnRvTGlzdCksIHF1aWNrRW5jb2RlKHQxKSgiYWJiYSIudG9MaXN0KSkK</text>
       </register>
       <register name="6" type="2">
-        <text>assertEquals(List(0, 0), table('a'))</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKExpc3QoMCwgMSksIHRhYmxlKCdiJykpCiAgICAgIGFzc2VydEVxdWFscyhMaXN0KDEpLCB0YWJsZSgnZCcpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKCJhYiIudG9MaXN0LCBkZWNvZGUodDIsIGVuY29kZSh0MikoImFiIi50b0xpc3QpKSkK</text>
+        <text encoding="base64">ICAgICAgdmFsIHRhYmxlID0gY29udmVydCh0MikudG9NYXAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNhc2UgbDogTGVhZiA9PiBMaXN0KChsLmNoYXIsIExpc3QpKQo=</text>
+        <text>assertEquals(List(0, 0), table('a'))</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgYXNzZXJ0RXF1YWxzKCJhYiIudG9MaXN0LCBkZWNvZGUodDIsIGVuY29kZSh0MikoImFiIi50b0xpc3QpKSkK</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
