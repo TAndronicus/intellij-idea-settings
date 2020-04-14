@@ -117,12 +117,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1586856212116">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1586857320581">
         <mark key="'" line="584" column="27" />
-        <mark key="[" line="679" column="25" />
-        <mark key="]" line="679" column="33" />
-        <mark key="." line="679" column="25" />
-        <mark key="^" line="682" column="30" />
+        <mark key="[" line="684" column="0" />
+        <mark key="]" line="684" column="0" />
+        <mark key="." line="684" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1586842093856">
         <mark key="[" line="0" column="0" />
@@ -327,8 +326,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>13077350</text>
+      <register name="*" type="2">
+        <text encoding="base64">c2hvdyBqaXQ7Cgo=</text>
       </register>
       <register name="-" type="4">
         <text>13077350</text>
@@ -340,34 +339,34 @@
         <text>06227009</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBnZXJfZ2VyYWV0IGdnOwo=</text>
+        <text encoding="base64">c2hvdyBqaXQ7Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVmcmVzaCBtYXRlcmlhbGl6ZWQgdmlldwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBnZXJfZ2VyYWV0IGdnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cmVmcmVzaCBtYXRlcmlhbGl6ZWQgdmlldwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlhc3NlcnROb0xvY2tzKDMwMTJMKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljbGVhckxvY2tzKCk7Cg==</text>
+        <text encoding="base64">CQlhc3NlcnROb0xvY2tzKDMwMTJMKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkvLyBUT0RPLTE4MzIK</text>
+        <text encoding="base64">CQljbGVhckxvY2tzKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">CQkvLyBUT0RPLTE4MzIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCQlnZXJhZXRTZXJ2aWNlLmZpbmRCeUlkKGlkKSwK</text>
+        <text encoding="base64">CQlyZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlMaXN0PFRpbWVTcGFuPExvY2FsRGF0ZVRpbWU+PiBsb2NrcywgCg==</text>
+        <text encoding="base64">CQkJCQlnZXJhZXRTZXJ2aWNlLmZpbmRCeUlkKGlkKSwK</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
