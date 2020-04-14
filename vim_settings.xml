@@ -117,12 +117,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1586869655070">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1586873604701">
         <mark key="'" line="584" column="27" />
-        <mark key="[" line="613" column="14" />
-        <mark key="]" line="630" column="20" />
-        <mark key="." line="630" column="19" />
-        <mark key="^" line="630" column="20" />
+        <mark key="[" line="611" column="29" />
+        <mark key="]" line="613" column="15" />
+        <mark key="." line="613" column="14" />
+        <mark key="^" line="613" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/tools/benchmark.sql" timestamp="1586860549648">
         <mark key="[" line="32" column="27" />
