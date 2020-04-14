@@ -129,12 +129,12 @@
         <mark key="." line="33" column="15" />
         <mark key="^" line="33" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1586880955739">
-        <mark key="'" line="230" column="60" />
-        <mark key="[" line="200" column="10" />
-        <mark key="]" line="200" column="16" />
-        <mark key="^" line="200" column="16" />
-        <mark key="." line="200" column="15" />
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1586882857029">
+        <mark key="'" line="182" column="4" />
+        <mark key="[" line="181" column="6" />
+        <mark key="]" line="181" column="6" />
+        <mark key="^" line="181" column="6" />
+        <mark key="." line="181" column="5" />
       </file>
       <file name="/console" timestamp="1586858984861">
         <mark key="[" line="0" column="0" />
@@ -144,17 +144,17 @@
         <mark key="]" line="566" column="9" />
         <mark key="." line="566" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" timestamp="1586880677032">
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" timestamp="1586882542230">
         <mark key="'" line="6" column="6" />
-        <mark key="[" line="192" column="24" />
-        <mark key="]" line="191" column="30" />
-        <mark key="." line="191" column="29" />
-        <mark key="^" line="191" column="30" />
+        <mark key="[" line="195" column="25" />
+        <mark key="]" line="195" column="31" />
+        <mark key="." line="195" column="30" />
+        <mark key="^" line="195" column="31" />
       </file>
       <file name="/a.sql" timestamp="1586859783349">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1586880596263">
+      <file name="/Dummy.scala" timestamp="1586882552498">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -222,8 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="342" column="32" filename="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/abrechnung/abrechnung-form/abrechnung-form.component.ts" />
-      <jump line="160" column="80" filename="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/abrechnung/abrechnung-form/abrechnung-form.component.html" />
       <jump line="29" column="12" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvService.java" />
       <jump line="67" column="19" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvService.java" />
       <jump line="610" column="8" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtvFileExportRestEndpointTest.java" />
@@ -322,24 +320,26 @@
       <jump line="3200" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="234" column="30" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
       <jump line="230" column="60" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
+      <jump line="178" column="33" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
+      <jump line="179" column="4" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>List((</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>List((</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CgogIEBUZXN0IGRlZiBgYyAobiBvdmVyIGspYDogVW5pdCA9IHsKICAgIHZhbCByZXMgPSBjKDUpCiAgICBhc3NlcnRFcXVhbHMoMzIsIHJlcy5zaXplKQogIH0=</text>
+        <text encoding="base64">CgogIEBUZXN0IGRlZiBgcGFydGl0aW9uaW5nIHRlc3RgOiBVbml0ID0gewogICAgdmFsIHJlcyA9IHBhcnRpdGlvbmluZyhTZXQoMCwgMSwgMikpCiAgICBhc3NlcnRFcXVhbHMoNSwgcmVzLnNpemUpCiAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text>assertEquals(5, res.size)</text>
+        <text encoding="base64">ICAgICAgdmFsIGFsbE9jY3VyZW5jZXMgPSBzZW50ZW5jZU9jY3VycmVuY2VzKHNlbnRlbmNlKQogICAgICB2YWwgY29tYiA9IHNlbnRlbmNlQ29tYmluYXRpb25zKGFsbE9jY3VyZW5jZXMpCiAgICAgIGNvbWIuZmxhdE1hcCh0b0xpc3RPZlNlbnRlbmNlcykKICAgICAgLy8gICAgICBhbmFncmFtc0J5T2NjdXJlbmNlcyhhbGxPY2N1cmVuY2VzKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -348,25 +348,25 @@
         <text>assertEquals(5, res.size)</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChsLmlzRW1wdHkpIExpc3QoU2V0KCkpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text>assertEquals(5, res.size)r</text>
-      </register>
-      <register name="5" type="2">
         <text>assertEquals(5, res.size)</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGlmIChsLmlzRW1wdHkpIExpc3QoU2V0KCkpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text>assertEquals(5, res.size)r</text>
+      </register>
       <register name="6" type="2">
-        <text>assertEquals(5, res.size)re</text>
+        <text>assertEquals(5, res.size)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text>assertEquals(5, res.size)re</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBkZWYgcGFydGl0aW9uKG46IEludCkgPSBmb3IgewogICAgc3Vic2V0IDwtICgwIHVudGlsIG4pLnRvU2V0LnN1Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Zm9yIHsKICAgIGkgPC0gMCB1bnRpbCBrCiAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBkZWYgcGFydGl0aW9uKG46IEludCkgPSBmb3IgewogICAgc3Vic2V0IDwtICgwIHVudGlsIG4pLnRvU2V0LnN1Cg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
