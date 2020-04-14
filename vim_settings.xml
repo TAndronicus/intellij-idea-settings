@@ -147,10 +147,10 @@
         <mark key="^" line="408" column="0" />
         <mark key="." line="422" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/tools/comparison/script.sql" timestamp="1586861607918">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/tools/comparison/script.sql" timestamp="1586861696569">
+        <mark key="[" line="335" column="0" />
         <mark key="]" line="437" column="3" />
-        <mark key="." line="0" column="0" />
+        <mark key="." line="335" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1586859783361">
         <mark key="[" line="0" column="0" />
@@ -203,10 +203,10 @@
         <mark key="]" line="370" column="250" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1586861664019">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1586861684226">
         <mark key="'" line="3200" column="0" />
-        <mark key="[" line="3555" column="40" />
-        <mark key="]" line="3555" column="47" />
+        <mark key="[" line="3535" column="0" />
+        <mark key="]" line="3637" column="2" />
         <mark key="." line="3555" column="46" />
         <mark key="^" line="3555" column="47" />
       </file>
@@ -331,7 +331,109 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>17827539</text>
+        <text>do
+$$
+    declare
+        v_ts              timestamp;
+        v_repeat constant int := 10;
+        rec               record;
+        run               int[];
+        stmt              int[];
+        elapsed           decimal[];
+        max_elapsed       decimal;
+        i                 int := 1;
+    begin
+        for r in 1..5
+            loop
+                set jit = on;
+                v_ts := clock_timestamp();
+                for i in 1..v_repeat
+                    loop
+                        for rec in (
+                            select *
+                            from vb_mat(17827539)
+                        )
+                            loop
+                                null;
+                            end loop;
+                    end loop;
+                run[i] := r;
+                stmt[i] := 1;
+                elapsed[i] :=
+                        (extract(epoch from cast(clock_timestamp() as timestamp))
+                            - extract(epoch from v_ts));
+                i := i + 1;
+
+                set jit = on;
+                v_ts := clock_timestamp();
+                for i in 1..v_repeat
+                    loop
+                        for rec in (
+                            select *
+                            from vb_non_mat(17827539)
+                        )
+                            loop
+                                null;
+                            end loop;
+                    end loop;
+                run[i] := r;
+                stmt[i] := 2;
+                elapsed[i] :=
+                        (extract(epoch from cast(clock_timestamp() as timestamp))
+                            - extract(epoch from v_ts));
+                i := i + 1;
+
+                set jit = off;
+                v_ts := clock_timestamp();
+                for i in 1..v_repeat
+                    loop
+                        for rec in (
+                            select *
+                            from vb_mat(17827539)
+                        )
+                            loop
+                                null;
+                            end loop;
+                    end loop;
+                run[i] := r;
+                stmt[i] := 3;
+                elapsed[i] :=
+                        (extract(epoch from cast(clock_timestamp() as timestamp))
+                            - extract(epoch from v_ts));
+                i := i + 1;
+
+                set jit = off;
+                v_ts := clock_timestamp();
+                for i in 1..v_repeat
+                    loop
+                        for rec in (
+                            select *
+                            from vb_non_mat(17827539)
+                        )
+                            loop
+                                null;
+                            end loop;
+                    end loop;
+
+                run[i] := r;
+                stmt[i] := 4;
+                elapsed[i] :=
+                        (extract(epoch from cast(clock_timestamp() as timestamp))
+                            - extract(epoch from v_ts));
+                i := i + 1;
+            end loop;
+
+        select max(t.elapsed)
+        into max_elapsed
+        from unnest(elapsed) as t(elapsed);
+
+        for i in 1..array_length(run, 1)
+            loop
+                raise info 'run %, statement %: %', run[i], stmt[i],
+                    cast(elapsed[i] / max_elapsed as decimal(10, 5));
+            end loop;
+    end
+$$;</text>
       </register>
       <register name="-" type="4">
         <text>17827539</text>
@@ -340,10 +442,214 @@
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y3JlYXRlIG9yIHJlcGxhY2UgZnVuY3Rpb24gdmJfbWF0KGluIGdlcl9pZCBiaWdpbnQpCiAgICByZXR1cm5zIHZiX2dlcmFldF9hZ2dyZWdhdGUKYXMKJCQKd2l0aCBkYXRlc190YWJsZShkZXNjcmlwdGlvbiwgZGF0ZV92YWx1ZSwgZnV6enlfaW50ZXJ2YWwpIGFzIG1hdGVyaWFsaXplZCAoCiAgICAtLUBmb3JtYXR0ZXI6b2ZmCiAgICB2YWx1ZXMgKCd0b2RheScsICAgICAgICAgICAgICAgIGRhdGVfdHJ1bmMoJ2RheScsIGN1cnJlbnRfZGF0ZSk6OmRhdGUsICAgICAgICAgICAgICAgICAgICAgICAgJzEgZGF5Jzo6aW50ZXJ2YWwpLAogICAgICAgICAgICgndG9kYXlfZm0nLCAgICAgICAgICAgICBkYXRlX3RydW5jKCdkYXknLCBjdXJyZW50X2RhdGUpOjpkYXRlLCAgICAgICAgICAgICAgICAgICAgICAgICc1IGRheSc6OmludGVydmFsKSwKICAgICAgICAgICAoJ3RvZGF5X2Z5JywgICAgICAgICAgICAgZGF0ZV90cnVuYygnZGF5JywgY3VycmVudF9kYXRlKTo6ZGF0ZSwgICAgICAgICAgICAgICAgICAgICAgICAnMSBtb250aCc6OmludGVydmFsKSwKICAgICAgICAgICAoJ3llc3RlcmRheScsICAgICAgICAgICAgZGF0ZV90cnVuYygnZGF5JywgY3VycmVudF9kYXRlIC0gaW50ZXJ2YWwgJzEgZGF5Jyk6OmRhdGUsICAgICAnMSBkYXknOjppbnRlcnZhbCksCiAgICAgICAgICAgKCdkYXlfYmVmb3JlX3llc3RlcmRheScsIGRhdGVfdHJ1bmMoJ2RheScsIGN1cnJlbnRfZGF0ZSAtIGludGVydmFsICcyIGRheScpOjpkYXRlLCAgICAgJzEgZGF5Jzo6aW50ZXJ2YWwpLAogICAgICAgICAgICgnd2Vla19iZWdpbm5pbmcnLCAgICAgICBkYXRlX3RydW5jKCd3ZWVrJywgY3VycmVudF9kYXRlKTo6ZGF0ZSwgICAgICAgICAgICAgICAgICAgICAgICcxIGRheSc6OmludGVydmFsKSwKICAgICAgICAgICAoJ21vbnRoX2JlZ2lubmluZycsICAgICAgZGF0ZV90cnVuYygnbW9udGgnLCBjdXJyZW50X2RhdGUpOjpkYXRlLCAgICAgICAgICAgICAgICAgICAgICAnNSBkYXknOjppbnRlcnZhbCksCiAgICAgICAgICAgKCd5ZWFyX2JlZ2lubmluZycsICAgICAgIGRhdGVfdHJ1bmMoJ3llYXInLCBjdXJyZW50X2RhdGUpOjpkYXRlLCAgICAgICAgICAgICAgICAgICAgICAgJzEgbW9udGgnOjppbnRlcnZhbCksCiAgICAgICAgICAgKCdsYXN0X3dlZWtfYmVnaW5uaW5nJywgIGRhdGVfdHJ1bmMoJ3dlZWsnLCBjdXJyZW50X2RhdGUgLSBpbnRlcnZhbCAnMSB3ZWVrJyk6OmRhdGUsICAgJzEgZGF5Jzo6aW50ZXJ2YWwpLAogICAgICAgICAgICgnbGFzdF9tb250aF9iZWdpbm5pbmcnLCBkYXRlX3RydW5jKCdtb250aCcsIGN1cnJlbnRfZGF0ZSAtIGludGVydmFsICcxIG1vbnRoJyk6OmRhdGUsICc1IGRheSc6OmludGVydmFsKSwKICAgICAgICAgICAoJ3dlZWtfYWdvJywgICAgICAgICAgICAgZGF0ZV90cnVuYygnZGF5JywgY3VycmVudF9kYXRlIC0gaW50ZXJ2YWwgJzEgd2VlaycpOjpkYXRlLCAgICAnMSBkYXknOjppbnRlcnZhbCksCiAgICAgICAgICAgKCdkYXlfd2Vla19hZ28nLCAgICAgICAgIGRhdGVfdHJ1bmMoJ2RheScsIGN1cnJlbnRfZGF0ZSAtIGludGVydmFsICcxIHdlZWsnIC0gaW50ZXJ2YWwgJzEgZGF5Jyk6OmRhdGUsICcxIGRheSc6OmludGVydmFsKQogICAgLS1AZm9ybWF0dGVyOm9uCiksCiAgICAgYWdnX2NvbiBhcyBtYXRlcmlhbGl6ZWQgKAogICAgICAgICBzZWxlY3QgZHQuZGVzY3JpcHRpb24gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBkZXNjcmlwdGlvbiwKICAgICAgICAgICAgICAgIGdldF9jYWxjdWxhdGVkX3ZhbHVlKGdnLiosIG1heChoZWF0X2Nvc3RfYWxsb2NhdG9yKSwgJ0hLVl9IRUFUX0NPU1RfQUxMT0NBVE9SJykgYXMgbWVhc3VyZW1lbnQsCiAgICAgICAgICAgICAgICBtYXgobWh2Lm1lc3NfZGF0dW0pICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIG1lYXN1cmVtZW50X2RhdGUKICAgICAgICAgZnJvbSBtZXNfaGVpemtvc3RlbnZlcnRlaWxlcl92ZXJicmF1Y2ggbWh2CiAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gZ2VyX2dlcmFldCBnZyBvbiBtaHYuZ2VyX2dlcmFldF9pZCA9IGdnLmlkCiAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gZGF0ZXNfdGFibGUgZHQgb24gbWh2Lm1lc3NfZGF0dW0gPj0gKGR0LmRhdGVfdmFsdWUgLSBkdC5mdXp6eV9pbnRlcnZhbCkKICAgICAgICAgICAgIGFuZCBtaHYubWVzc19kYXR1bSA8IGR0LmRhdGVfdmFsdWUKICAgICAgICAgd2hlcmUgZ2cuaWQgPSBnZXJfaWQKICAgICAgICAgZ3JvdXAgYnkgZ2csIGR0LmRlc2NyaXB0aW9uCiAgICAgICAgIHVuaW9uIGFsbAogICAgICAgICBzZWxlY3QgZHQuZGVzY3JpcHRpb24sCiAgICAgICAgICAgICAgICBnZXRfY2FsY3VsYXRlZF92YWx1ZShnZy4qLCBtYXgoZW5lcmd5KSwgJ1dNX0VORVJHWScpLAogICAgICAgICAgICAgICAgbWF4KG13Lm1lc3NfZGF0dW0pCiAgICAgICAgIGZyb20gbWVzX3dhZXJtZW1lbmdlbnphZWhsZXIgbXcKICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBnZXJfZ2VyYWV0IGdnIG9uIG13Lmdlcl9nZXJhZXRfaWQgPSBnZy5pZAogICAgICAgICAgICAgICAgICBpbm5lciBqb2luIGRhdGVzX3RhYmxlIGR0IG9uIG13Lm1lc3NfZGF0dW0gPj0gKGR0LmRhdGVfdmFsdWUgLSBkdC5mdXp6eV9pbnRlcnZhbCkKICAgICAgICAgICAgIGFuZCBtdy5tZXNzX2RhdHVtIDwgZHQuZGF0ZV92YWx1ZQogICAgICAgICB3aGVyZSBnZy5pZCA9IGdlcl9pZAogICAgICAgICBncm91cCBieSBnZywgZHQuZGVzY3JpcHRpb24KICAgICAgICAgdW5pb24gYWxsCiAgICAgICAgIHNlbGVjdCBkdC5kZXNjcmlwdGlvbiwKICAgICAgICAgICAgICAgIGdldF9jYWxjdWxhdGVkX3ZhbHVlKGdnLiosIG1heChwb3NpdGl2ZV93aXJrYXJiZWl0XzEpLCAnRV9QT1NJVElWRV9XSVJLQVJCRUlUXzEnKSArCiAgICAgICAgICAgICAgICBnZXRfY2FsY3VsYXRlZF92YWx1ZShnZy4qLCBtYXgocG9zaXRpdmVfd2lya2FyYmVpdF8yKSwgJ0VfUE9TSVRJVkVfV0lSS0FSQkVJVF8yJyksCiAgICAgICAgICAgICAgICBtYXgobXMubWVzc19kYXR1bSkKICAgICAgICAgZnJvbSBtZXNfc3Ryb216YWVobGVyIG1zCiAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gZ2VyX2dlcmFldCBnZyBvbiBtcy5nZXJfZ2VyYWV0X2lkID0gZ2cuaWQKICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBkYXRlc190YWJsZSBkdCBvbiBtcy5tZXNzX2RhdHVtID49IChkdC5kYXRlX3ZhbHVlIC0gZHQuZnV6enlfaW50ZXJ2YWwpIGFuZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1zLm1lc3NfZGF0dW0gPCBkdC5kYXRlX3ZhbHVlCiAgICAgICAgIHdoZXJlIGdnLmlkID0gZ2VyX2lkCiAgICAgICAgIGdyb3VwIGJ5IGdnLCBkdC5kZXNjcmlwdGlvbgogICAgICAgICB1bmlvbiBhbGwKICAgICAgICAgc2VsZWN0IGR0LmRlc2NyaXB0aW9uLAogICAgICAgICAgICAgICAgZ2V0X2NhbGN1bGF0ZWRfdmFsdWUoZ2cuKiwgbWF4KG13LnZlcmJyYXVjaCksICdXV19WT0xVTUUnKSwKICAgICAgICAgICAgICAgIG1heChtdy5tZXNzX2RhdHVtKQogICAgICAgICBmcm9tIG1lc193YXJtd2Fzc2VyemFlaGxlcl92ZXJicmF1Y2ggbXcKICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBnZXJfZ2VyYWV0IGdnIG9uIG13Lmdlcl9nZXJhZXRfaWQgPSBnZy5pZAogICAgICAgICAgICAgICAgICBpbm5lciBqb2luIGRhdGVzX3RhYmxlIGR0IG9uIG13Lm1lc3NfZGF0dW0gPj0gKGR0LmRhdGVfdmFsdWUgLSBkdC5mdXp6eV9pbnRlcnZhbCkKICAgICAgICAgICAgIGFuZCBtdy5tZXNzX2RhdHVtIDwgZHQuZGF0ZV92YWx1ZQogICAgICAgICB3aGVyZSBnZy5pZCA9IGdlcl9pZAogICAgICAgICBncm91cCBieSBnZywgZHQuZGVzY3JpcHRpb24KICAgICAgICAgdW5pb24gYWxsCiAgICAgICAgIHNlbGVjdCBkdC5kZXNjcmlwdGlvbiwKICAgICAgICAgICAgICAgIGdldF9jYWxjdWxhdGVkX3ZhbHVlKGdnLiosIG1heChtay52ZXJicmF1Y2gpLCAnS1dfVk9MVU1FJyksCiAgICAgICAgICAgICAgICBtYXgobWsubWVzc19kYXR1bSkKICAgICAgICAgZnJvbSBtZXNfa2FsdHdhc3NlcnphZWhsZXJfdmVyYnJhdWNoIG1rCiAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gZ2VyX2dlcmFldCBnZyBvbiBtay5nZXJfZ2VyYWV0X2lkID0gZ2cuaWQKICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBkYXRlc190YWJsZSBkdCBvbiBtay5tZXNzX2RhdHVtID49IChkdC5kYXRlX3ZhbHVlIC0gZHQuZnV6enlfaW50ZXJ2YWwpCiAgICAgICAgICAgICBhbmQgbWsubWVzc19kYXR1bSA8IGR0LmRhdGVfdmFsdWUKICAgICAgICAgd2hlcmUgZ2cuaWQgPSBnZXJfaWQKICAgICAgICAgZ3JvdXAgYnkgZ2csIGR0LmRlc2NyaXB0aW9uCiAgICAgKQpzZWxlY3QgZ2cuaWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIGdlcmFldF9pZCwKICAgICAgIG5uLmlkICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBudXR6ZWluaGVpdF9pZCwKICAgICAgIG5uLmxpZV9saWVnZW5zY2hhZnRfaWQgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBsaWVnZW5zY2hhZnRfaWQsCiAgICAgICBudWxsaWYoCiAgICAgICAgICAgICAgIGNhc2UKICAgICAgICAgICAgICAgICAgIHdoZW4gZ2d0LmdlcmFldF90eXAgPSAnRScgdGhlbiBubi53b2huZmxhZWNoZQogICAgICAgICAgICAgICAgICAgd2hlbiBnZ3QuZ2VyYWV0X3R5cCBpbiAoJ0gnLCAnWicpIHRoZW4gY29hbGVzY2Uobm4uaGVpemZsYWVjaGUsIG5uLndvaG5mbGFlY2hlKQogICAgICAgICAgICAgICAgICAgd2hlbiBnZ3QuZ2VyYWV0X3R5cCBpbiAoJ1cnLCAnSycpIHRoZW4gY29hbGVzY2Uobm4ud2FybXdhc3NlcmZsYWVjaGUsIG5uLndvaG5mbGFlY2hlKQogICAgICAgICAgICAgICAgICAgZW5kLAogICAgICAgICAgICAgICAwKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIGFyZWEsCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAndG9kYXknKSAtCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAneWVzdGVyZGF5JykgICAgICAgICAgICBhcyBjb25zdW1wdGlvbl95ZXN0ZXJkYXksCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAndG9kYXlfZm0nKSAtCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAnbW9udGhfYmVnaW5uaW5nJykgICAgICBhcyBjb25zdW1wdGlvbl9tdGQsCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAndG9kYXlfZnknKSAtCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAneWVhcl9iZWdpbm5pbmcnKSAgICAgICBhcyBjb25zdW1wdGlvbl95dGQsCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAneWVzdGVyZGF5JykgLQogICAgICAgKHNlbGVjdCBpYWMubWVhc3VyZW1lbnQKICAgICAgICBmcm9tIGFnZ19jb24gaWFjCiAgICAgICAgd2hlcmUgaWFjLmRlc2NyaXB0aW9uID0gJ2RheV9iZWZvcmVfeWVzdGVyZGF5JykgYXMgY29uc3VtcHRpb25fZGF5X2JlZm9yZV95ZXN0ZXJkYXksCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAnd2Vla19hZ28nKSAtCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAnZGF5X3dlZWtfYWdvJykgICAgICAgICBhcyBjb25zdW1wdGlvbl9kYXlfd2Vla19hZ28sCiAgICAgICAoKHNlbGVjdCBpYWMubWVhc3VyZW1lbnQKICAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAnd2Vla19iZWdpbm5pbmcnKSAtCiAgICAgICAgKHNlbGVjdCBpYWMubWVhc3VyZW1lbnQKICAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAnbGFzdF93ZWVrX2JlZ2lubmluZycpKSAvCiAgICAgICBleHRyYWN0KCdkYXknIGZyb20gKAogICAgICAgICAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudF9kYXRlCiAgICAgICAgICAgICAgICBmcm9tIGFnZ19jb24gaWFjCiAgICAgICAgICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAnd2Vla19iZWdpbm5pbmcnKSAtCiAgICAgICAgICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50X2RhdGUKICAgICAgICAgICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICAgICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICdsYXN0X3dlZWtfYmVnaW5uaW5nJykKICAgICAgICAgICApKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBjb25zdW1wdGlvbl9sYXN0X3dlZWtfYXYsCiAgICAgICAoKHNlbGVjdCBpYWMubWVhc3VyZW1lbnQKICAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAnbW9udGhfYmVnaW5uaW5nJykgLQogICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50CiAgICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICAgd2hlcmUgaWFjLmRlc2NyaXB0aW9uID0gJ2xhc3RfbW9udGhfYmVnaW5uaW5nJykpIC8KICAgICAgIGV4dHJhY3QoJ2RheScgZnJvbSAoCiAgICAgICAgICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50X2RhdGUKICAgICAgICAgICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICAgICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICdtb250aF9iZWdpbm5pbmcnKSAtCiAgICAgICAgICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50X2RhdGUKICAgICAgICAgICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICAgICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICdsYXN0X21vbnRoX2JlZ2lubmluZycpCiAgICAgICAgICAgKSkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgY29uc3VtcHRpb25fbGFzdF9tb250aF9hdiwKICAgICAgICgoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgICBmcm9tIGFnZ19jb24gaWFjCiAgICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICd0b2RheV9meScpIC0KICAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgICBmcm9tIGFnZ19jb24gaWFjCiAgICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICd5ZWFyX2JlZ2lubmluZycpKSAvCiAgICAgICBudWxsaWYoCiAgICAgICAgICAgICAgIGV4dHJhY3QoJ2RheScgZnJvbSAoCiAgICAgICAgICAgICAgICAgICAgICAgKHNlbGVjdCBpYWMubWVhc3VyZW1lbnRfZGF0ZQogICAgICAgICAgICAgICAgICAgICAgICBmcm9tIGFnZ19jb24gaWFjCiAgICAgICAgICAgICAgICAgICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICd0b2RheV9meScpIC0KICAgICAgICAgICAgICAgICAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudF9kYXRlCiAgICAgICAgICAgICAgICAgICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICAgICAgICAgICAgICAgICAgd2hlcmUgaWFjLmRlc2NyaXB0aW9uID0gJ3llYXJfYmVnaW5uaW5nJykKICAgICAgICAgICAgICAgICAgICkpLAogICAgICAgICAgICAgICAwKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIGNvbnN1bXB0aW9uX3dob2xlX3llYXJfYXYsCiAgICAgICBjYXNlCiAgICAgICAgICAgd2hlbiBnZ3QuZ2VyYWV0X3R5cCBpbiAoJ0gnLCAnWicpIHRoZW4gJ0gnCiAgICAgICAgICAgd2hlbiBnZ3QuZ2VyYWV0X3R5cCA9ICdFJyB0aGVuICdTJwogICAgICAgICAgIHdoZW4gZ2d0LmdlcmFldF90eXAgaW4gKCdXJywgJ0snKSB0aGVuICdXJwogICAgICAgICAgIGVuZCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIHZiX3R5cGUKZnJvbSBnZXJfZ2VyYWV0IGdnCiAgICAgICAgIGlubmVyIGpvaW4gZ2tfZ2VyYWV0X3R5cCBnZ3Qgb24gZ2cuZ2tfZ2VyYWV0X3R5cF9pZCA9IGdndC5pZAogICAgICAgICBpbm5lciBqb2luIG51dF9udXR6ZWluaGVpdCBubiBvbiBnZy5udXRfbnV0emVpbmhlaXRfaWQgPSBubi5pZAp3aGVyZSBnZy5pZCA9IGdlcl9pZDsKJCQKICAgIGxhbmd1YWdlIHNxbDsKY3JlYXRlIG9yIHJlcGxhY2UgZnVuY3Rpb24gdmJfbm9uX21hdChpbiBnZXJfaWQgYmlnaW50KQogICAgcmV0dXJucyB2Yl9nZXJhZXRfYWdncmVnYXRlCmFzCiQkCndpdGggZGF0ZXNfdGFibGUoZGVzY3JpcHRpb24sIGRhdGVfdmFsdWUsIGZ1enp5X2ludGVydmFsKSBhcyBub3QgbWF0ZXJpYWxpemVkICgKICAgIC0tQGZvcm1hdHRlcjpvZmYKICAgIHZhbHVlcyAoJ3RvZGF5JywgICAgICAgICAgICAgICAgZGF0ZV90cnVuYygnZGF5JywgY3VycmVudF9kYXRlKTo6ZGF0ZSwgICAgICAgICAgICAgICAgICAgICAgICAnMSBkYXknOjppbnRlcnZhbCksCiAgICAgICAgICAgKCd0b2RheV9mbScsICAgICAgICAgICAgIGRhdGVfdHJ1bmMoJ2RheScsIGN1cnJlbnRfZGF0ZSk6OmRhdGUsICAgICAgICAgICAgICAgICAgICAgICAgJzUgZGF5Jzo6aW50ZXJ2YWwpLAogICAgICAgICAgICgndG9kYXlfZnknLCAgICAgICAgICAgICBkYXRlX3RydW5jKCdkYXknLCBjdXJyZW50X2RhdGUpOjpkYXRlLCAgICAgICAgICAgICAgICAgICAgICAgICcxIG1vbnRoJzo6aW50ZXJ2YWwpLAogICAgICAgICAgICgneWVzdGVyZGF5JywgICAgICAgICAgICBkYXRlX3RydW5jKCdkYXknLCBjdXJyZW50X2RhdGUgLSBpbnRlcnZhbCAnMSBkYXknKTo6ZGF0ZSwgICAgICcxIGRheSc6OmludGVydmFsKSwKICAgICAgICAgICAoJ2RheV9iZWZvcmVfeWVzdGVyZGF5JywgZGF0ZV90cnVuYygnZGF5JywgY3VycmVudF9kYXRlIC0gaW50ZXJ2YWwgJzIgZGF5Jyk6OmRhdGUsICAgICAnMSBkYXknOjppbnRlcnZhbCksCiAgICAgICAgICAgKCd3ZWVrX2JlZ2lubmluZycsICAgICAgIGRhdGVfdHJ1bmMoJ3dlZWsnLCBjdXJyZW50X2RhdGUpOjpkYXRlLCAgICAgICAgICAgICAgICAgICAgICAgJzEgZGF5Jzo6aW50ZXJ2YWwpLAogICAgICAgICAgICgnbW9udGhfYmVnaW5uaW5nJywgICAgICBkYXRlX3RydW5jKCdtb250aCcsIGN1cnJlbnRfZGF0ZSk6OmRhdGUsICAgICAgICAgICAgICAgICAgICAgICc1IGRheSc6OmludGVydmFsKSwKICAgICAgICAgICAoJ3llYXJfYmVnaW5uaW5nJywgICAgICAgZGF0ZV90cnVuYygneWVhcicsIGN1cnJlbnRfZGF0ZSk6OmRhdGUsICAgICAgICAgICAgICAgICAgICAgICAnMSBtb250aCc6OmludGVydmFsKSwKICAgICAgICAgICAoJ2xhc3Rfd2Vla19iZWdpbm5pbmcnLCAgZGF0ZV90cnVuYygnd2VlaycsIGN1cnJlbnRfZGF0ZSAtIGludGVydmFsICcxIHdlZWsnKTo6ZGF0ZSwgICAnMSBkYXknOjppbnRlcnZhbCksCiAgICAgICAgICAgKCdsYXN0X21vbnRoX2JlZ2lubmluZycsIGRhdGVfdHJ1bmMoJ21vbnRoJywgY3VycmVudF9kYXRlIC0gaW50ZXJ2YWwgJzEgbW9udGgnKTo6ZGF0ZSwgJzUgZGF5Jzo6aW50ZXJ2YWwpLAogICAgICAgICAgICgnd2Vla19hZ28nLCAgICAgICAgICAgICBkYXRlX3RydW5jKCdkYXknLCBjdXJyZW50X2RhdGUgLSBpbnRlcnZhbCAnMSB3ZWVrJyk6OmRhdGUsICAgICcxIGRheSc6OmludGVydmFsKSwKICAgICAgICAgICAoJ2RheV93ZWVrX2FnbycsICAgICAgICAgZGF0ZV90cnVuYygnZGF5JywgY3VycmVudF9kYXRlIC0gaW50ZXJ2YWwgJzEgd2VlaycgLSBpbnRlcnZhbCAnMSBkYXknKTo6ZGF0ZSwgJzEgZGF5Jzo6aW50ZXJ2YWwpCiAgICAtLUBmb3JtYXR0ZXI6b24KKSwKICAgICBhZ2dfY29uIGFzIG5vdCBtYXRlcmlhbGl6ZWQgKAogICAgICAgICBzZWxlY3QgZHQuZGVzY3JpcHRpb24gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBkZXNjcmlwdGlvbiwKICAgICAgICAgICAgICAgIGdldF9jYWxjdWxhdGVkX3ZhbHVlKGdnLiosIG1heChoZWF0X2Nvc3RfYWxsb2NhdG9yKSwgJ0hLVl9IRUFUX0NPU1RfQUxMT0NBVE9SJykgYXMgbWVhc3VyZW1lbnQsCiAgICAgICAgICAgICAgICBtYXgobWh2Lm1lc3NfZGF0dW0pICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIG1lYXN1cmVtZW50X2RhdGUKICAgICAgICAgZnJvbSBtZXNfaGVpemtvc3RlbnZlcnRlaWxlcl92ZXJicmF1Y2ggbWh2CiAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gZ2VyX2dlcmFldCBnZyBvbiBtaHYuZ2VyX2dlcmFldF9pZCA9IGdnLmlkCiAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gZGF0ZXNfdGFibGUgZHQgb24gbWh2Lm1lc3NfZGF0dW0gPj0gKGR0LmRhdGVfdmFsdWUgLSBkdC5mdXp6eV9pbnRlcnZhbCkKICAgICAgICAgICAgIGFuZCBtaHYubWVzc19kYXR1bSA8IGR0LmRhdGVfdmFsdWUKICAgICAgICAgd2hlcmUgZ2cuaWQgPSBnZXJfaWQKICAgICAgICAgZ3JvdXAgYnkgZ2csIGR0LmRlc2NyaXB0aW9uCiAgICAgICAgIHVuaW9uIGFsbAogICAgICAgICBzZWxlY3QgZHQuZGVzY3JpcHRpb24sCiAgICAgICAgICAgICAgICBnZXRfY2FsY3VsYXRlZF92YWx1ZShnZy4qLCBtYXgoZW5lcmd5KSwgJ1dNX0VORVJHWScpLAogICAgICAgICAgICAgICAgbWF4KG13Lm1lc3NfZGF0dW0pCiAgICAgICAgIGZyb20gbWVzX3dhZXJtZW1lbmdlbnphZWhsZXIgbXcKICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBnZXJfZ2VyYWV0IGdnIG9uIG13Lmdlcl9nZXJhZXRfaWQgPSBnZy5pZAogICAgICAgICAgICAgICAgICBpbm5lciBqb2luIGRhdGVzX3RhYmxlIGR0IG9uIG13Lm1lc3NfZGF0dW0gPj0gKGR0LmRhdGVfdmFsdWUgLSBkdC5mdXp6eV9pbnRlcnZhbCkKICAgICAgICAgICAgIGFuZCBtdy5tZXNzX2RhdHVtIDwgZHQuZGF0ZV92YWx1ZQogICAgICAgICB3aGVyZSBnZy5pZCA9IGdlcl9pZAogICAgICAgICBncm91cCBieSBnZywgZHQuZGVzY3JpcHRpb24KICAgICAgICAgdW5pb24gYWxsCiAgICAgICAgIHNlbGVjdCBkdC5kZXNjcmlwdGlvbiwKICAgICAgICAgICAgICAgIGdldF9jYWxjdWxhdGVkX3ZhbHVlKGdnLiosIG1heChwb3NpdGl2ZV93aXJrYXJiZWl0XzEpLCAnRV9QT1NJVElWRV9XSVJLQVJCRUlUXzEnKSArCiAgICAgICAgICAgICAgICBnZXRfY2FsY3VsYXRlZF92YWx1ZShnZy4qLCBtYXgocG9zaXRpdmVfd2lya2FyYmVpdF8yKSwgJ0VfUE9TSVRJVkVfV0lSS0FSQkVJVF8yJyksCiAgICAgICAgICAgICAgICBtYXgobXMubWVzc19kYXR1bSkKICAgICAgICAgZnJvbSBtZXNfc3Ryb216YWVobGVyIG1zCiAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gZ2VyX2dlcmFldCBnZyBvbiBtcy5nZXJfZ2VyYWV0X2lkID0gZ2cuaWQKICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBkYXRlc190YWJsZSBkdCBvbiBtcy5tZXNzX2RhdHVtID49IChkdC5kYXRlX3ZhbHVlIC0gZHQuZnV6enlfaW50ZXJ2YWwpIGFuZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1zLm1lc3NfZGF0dW0gPCBkdC5kYXRlX3ZhbHVlCiAgICAgICAgIHdoZXJlIGdnLmlkID0gZ2VyX2lkCiAgICAgICAgIGdyb3VwIGJ5IGdnLCBkdC5kZXNjcmlwdGlvbgogICAgICAgICB1bmlvbiBhbGwKICAgICAgICAgc2VsZWN0IGR0LmRlc2NyaXB0aW9uLAogICAgICAgICAgICAgICAgZ2V0X2NhbGN1bGF0ZWRfdmFsdWUoZ2cuKiwgbWF4KG13LnZlcmJyYXVjaCksICdXV19WT0xVTUUnKSwKICAgICAgICAgICAgICAgIG1heChtdy5tZXNzX2RhdHVtKQogICAgICAgICBmcm9tIG1lc193YXJtd2Fzc2VyemFlaGxlcl92ZXJicmF1Y2ggbXcKICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBnZXJfZ2VyYWV0IGdnIG9uIG13Lmdlcl9nZXJhZXRfaWQgPSBnZy5pZAogICAgICAgICAgICAgICAgICBpbm5lciBqb2luIGRhdGVzX3RhYmxlIGR0IG9uIG13Lm1lc3NfZGF0dW0gPj0gKGR0LmRhdGVfdmFsdWUgLSBkdC5mdXp6eV9pbnRlcnZhbCkKICAgICAgICAgICAgIGFuZCBtdy5tZXNzX2RhdHVtIDwgZHQuZGF0ZV92YWx1ZQogICAgICAgICB3aGVyZSBnZy5pZCA9IGdlcl9pZAogICAgICAgICBncm91cCBieSBnZywgZHQuZGVzY3JpcHRpb24KICAgICAgICAgdW5pb24gYWxsCiAgICAgICAgIHNlbGVjdCBkdC5kZXNjcmlwdGlvbiwKICAgICAgICAgICAgICAgIGdldF9jYWxjdWxhdGVkX3ZhbHVlKGdnLiosIG1heChtay52ZXJicmF1Y2gpLCAnS1dfVk9MVU1FJyksCiAgICAgICAgICAgICAgICBtYXgobWsubWVzc19kYXR1bSkKICAgICAgICAgZnJvbSBtZXNfa2FsdHdhc3NlcnphZWhsZXJfdmVyYnJhdWNoIG1rCiAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gZ2VyX2dlcmFldCBnZyBvbiBtay5nZXJfZ2VyYWV0X2lkID0gZ2cuaWQKICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBkYXRlc190YWJsZSBkdCBvbiBtay5tZXNzX2RhdHVtID49IChkdC5kYXRlX3ZhbHVlIC0gZHQuZnV6enlfaW50ZXJ2YWwpCiAgICAgICAgICAgICBhbmQgbWsubWVzc19kYXR1bSA8IGR0LmRhdGVfdmFsdWUKICAgICAgICAgd2hlcmUgZ2cuaWQgPSBnZXJfaWQKICAgICAgICAgZ3JvdXAgYnkgZ2csIGR0LmRlc2NyaXB0aW9uCiAgICAgKQpzZWxlY3QgZ2cuaWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIGdlcmFldF9pZCwKICAgICAgIG5uLmlkICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBudXR6ZWluaGVpdF9pZCwKICAgICAgIG5uLmxpZV9saWVnZW5zY2hhZnRfaWQgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBsaWVnZW5zY2hhZnRfaWQsCiAgICAgICBudWxsaWYoCiAgICAgICAgICAgICAgIGNhc2UKICAgICAgICAgICAgICAgICAgIHdoZW4gZ2d0LmdlcmFldF90eXAgPSAnRScgdGhlbiBubi53b2huZmxhZWNoZQogICAgICAgICAgICAgICAgICAgd2hlbiBnZ3QuZ2VyYWV0X3R5cCBpbiAoJ0gnLCAnWicpIHRoZW4gY29hbGVzY2Uobm4uaGVpemZsYWVjaGUsIG5uLndvaG5mbGFlY2hlKQogICAgICAgICAgICAgICAgICAgd2hlbiBnZ3QuZ2VyYWV0X3R5cCBpbiAoJ1cnLCAnSycpIHRoZW4gY29hbGVzY2Uobm4ud2FybXdhc3NlcmZsYWVjaGUsIG5uLndvaG5mbGFlY2hlKQogICAgICAgICAgICAgICAgICAgZW5kLAogICAgICAgICAgICAgICAwKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIGFyZWEsCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAndG9kYXknKSAtCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAneWVzdGVyZGF5JykgICAgICAgICAgICBhcyBjb25zdW1wdGlvbl95ZXN0ZXJkYXksCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAndG9kYXlfZm0nKSAtCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAnbW9udGhfYmVnaW5uaW5nJykgICAgICBhcyBjb25zdW1wdGlvbl9tdGQsCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAndG9kYXlfZnknKSAtCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAneWVhcl9iZWdpbm5pbmcnKSAgICAgICBhcyBjb25zdW1wdGlvbl95dGQsCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAneWVzdGVyZGF5JykgLQogICAgICAgKHNlbGVjdCBpYWMubWVhc3VyZW1lbnQKICAgICAgICBmcm9tIGFnZ19jb24gaWFjCiAgICAgICAgd2hlcmUgaWFjLmRlc2NyaXB0aW9uID0gJ2RheV9iZWZvcmVfeWVzdGVyZGF5JykgYXMgY29uc3VtcHRpb25fZGF5X2JlZm9yZV95ZXN0ZXJkYXksCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAnd2Vla19hZ28nKSAtCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAnZGF5X3dlZWtfYWdvJykgICAgICAgICBhcyBjb25zdW1wdGlvbl9kYXlfd2Vla19hZ28sCiAgICAgICAoKHNlbGVjdCBpYWMubWVhc3VyZW1lbnQKICAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAnd2Vla19iZWdpbm5pbmcnKSAtCiAgICAgICAgKHNlbGVjdCBpYWMubWVhc3VyZW1lbnQKICAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAnbGFzdF93ZWVrX2JlZ2lubmluZycpKSAvCiAgICAgICBleHRyYWN0KCdkYXknIGZyb20gKAogICAgICAgICAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudF9kYXRlCiAgICAgICAgICAgICAgICBmcm9tIGFnZ19jb24gaWFjCiAgICAgICAgICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAnd2Vla19iZWdpbm5pbmcnKSAtCiAgICAgICAgICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50X2RhdGUKICAgICAgICAgICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICAgICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICdsYXN0X3dlZWtfYmVnaW5uaW5nJykKICAgICAgICAgICApKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBjb25zdW1wdGlvbl9sYXN0X3dlZWtfYXYsCiAgICAgICAoKHNlbGVjdCBpYWMubWVhc3VyZW1lbnQKICAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAnbW9udGhfYmVnaW5uaW5nJykgLQogICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50CiAgICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICAgd2hlcmUgaWFjLmRlc2NyaXB0aW9uID0gJ2xhc3RfbW9udGhfYmVnaW5uaW5nJykpIC8KICAgICAgIGV4dHJhY3QoJ2RheScgZnJvbSAoCiAgICAgICAgICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50X2RhdGUKICAgICAgICAgICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICAgICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICdtb250aF9iZWdpbm5pbmcnKSAtCiAgICAgICAgICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50X2RhdGUKICAgICAgICAgICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICAgICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICdsYXN0X21vbnRoX2JlZ2lubmluZycpCiAgICAgICAgICAgKSkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgY29uc3VtcHRpb25fbGFzdF9tb250aF9hdiwKICAgICAgICgoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgICBmcm9tIGFnZ19jb24gaWFjCiAgICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICd0b2RheV9meScpIC0KICAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgICBmcm9tIGFnZ19jb24gaWFjCiAgICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICd5ZWFyX2JlZ2lubmluZycpKSAvCiAgICAgICBudWxsaWYoCiAgICAgICAgICAgICAgIGV4dHJhY3QoJ2RheScgZnJvbSAoCiAgICAgICAgICAgICAgICAgICAgICAgKHNlbGVjdCBpYWMubWVhc3VyZW1lbnRfZGF0ZQogICAgICAgICAgICAgICAgICAgICAgICBmcm9tIGFnZ19jb24gaWFjCiAgICAgICAgICAgICAgICAgICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICd0b2RheV9meScpIC0KICAgICAgICAgICAgICAgICAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudF9kYXRlCiAgICAgICAgICAgICAgICAgICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICAgICAgICAgICAgICAgICAgd2hlcmUgaWFjLmRlc2NyaXB0aW9uID0gJ3llYXJfYmVnaW5uaW5nJykKICAgICAgICAgICAgICAgICAgICkpLAogICAgICAgICAgICAgICAwKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIGNvbnN1bXB0aW9uX3dob2xlX3llYXJfYXYsCiAgICAgICBjYXNlCiAgICAgICAgICAgd2hlbiBnZ3QuZ2VyYWV0X3R5cCBpbiAoJ0gnLCAnWicpIHRoZW4gJ0gnCiAgICAgICAgICAgd2hlbiBnZ3QuZ2VyYWV0X3R5cCA9ICdFJyB0aGVuICdTJwogICAgICAgICAgIHdoZW4gZ2d0LmdlcmFldF90eXAgaW4gKCdXJywgJ0snKSB0aGVuICdXJwogICAgICAgICAgIGVuZCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIHZiX3R5cGUKZnJvbSBnZXJfZ2VyYWV0IGdnCiAgICAgICAgIGlubmVyIGpvaW4gZ2tfZ2VyYWV0X3R5cCBnZ3Qgb24gZ2cuZ2tfZ2VyYWV0X3R5cF9pZCA9IGdndC5pZAogICAgICAgICBpbm5lciBqb2luIG51dF9udXR6ZWluaGVpdCBubiBvbiBnZy5udXRfbnV0emVpbmhlaXRfaWQgPSBubi5pZAp3aGVyZSBnZy5pZCA9IGdlcl9pZDsKJCQKICAgIGxhbmd1YWdlIHNxbDsKCmRvCiQkCiAgICBkZWNsYXJlCiAgICAgICAgdl90cyAgICAgICAgICAgICAgdGltZXN0YW1wOwogICAgICAgIHZfcmVwZWF0IGNvbnN0YW50IGludCA6PSAxMDsKICAgICAgICByZWMgICAgICAgICAgICAgICByZWNvcmQ7CiAgICAgICAgcnVuICAgICAgICAgICAgICAgaW50W107CiAgICAgICAgc3RtdCAgICAgICAgICAgICAgaW50W107CiAgICAgICAgZWxhcHNlZCAgICAgICAgICAgZGVjaW1hbFtdOwogICAgICAgIG1heF9lbGFwc2VkICAgICAgIGRlY2ltYWw7CiAgICAgICAgaSAgICAgICAgICAgICAgICAgaW50IDo9IDE7CiAgICBiZWdpbgogICAgICAgIGZvciByIGluIDEuLjUKICAgICAgICAgICAgbG9vcAogICAgICAgICAgICAgICAgc2V0IGppdCA9IG9uOwogICAgICAgICAgICAgICAgdl90cyA6PSBjbG9ja190aW1lc3RhbXAoKTsKICAgICAgICAgICAgICAgIGZvciBpIGluIDEuLnZfcmVwZWF0CiAgICAgICAgICAgICAgICAgICAgbG9vcAogICAgICAgICAgICAgICAgICAgICAgICBmb3IgcmVjIGluICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdCAqCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tIHZiX21hdCgxNzgyNzUzOSkKICAgICAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9vcAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG51bGw7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlbmQgbG9vcDsKICAgICAgICAgICAgICAgICAgICBlbmQgbG9vcDsKICAgICAgICAgICAgICAgIHJ1bltpXSA6PSByOwogICAgICAgICAgICAgICAgc3RtdFtpXSA6PSAxOwogICAgICAgICAgICAgICAgZWxhcHNlZFtpXSA6PQogICAgICAgICAgICAgICAgICAgICAgICAoZXh0cmFjdChlcG9jaCBmcm9tIGNhc3QoY2xvY2tfdGltZXN0YW1wKCkgYXMgdGltZXN0YW1wKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0gZXh0cmFjdChlcG9jaCBmcm9tIHZfdHMpKTsKICAgICAgICAgICAgICAgIGkgOj0gaSArIDE7CgogICAgICAgICAgICAgICAgc2V0IGppdCA9IG9uOwogICAgICAgICAgICAgICAgdl90cyA6PSBjbG9ja190aW1lc3RhbXAoKTsKICAgICAgICAgICAgICAgIGZvciBpIGluIDEuLnZfcmVwZWF0CiAgICAgICAgICAgICAgICAgICAgbG9vcAogICAgICAgICAgICAgICAgICAgICAgICBmb3IgcmVjIGluICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdCAqCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tIHZiX25vbl9tYXQoMTc4Mjc1MzkpCiAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvb3AKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBudWxsOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5kIGxvb3A7CiAgICAgICAgICAgICAgICAgICAgZW5kIGxvb3A7CiAgICAgICAgICAgICAgICBydW5baV0gOj0gcjsKICAgICAgICAgICAgICAgIHN0bXRbaV0gOj0gMjsKICAgICAgICAgICAgICAgIGVsYXBzZWRbaV0gOj0KICAgICAgICAgICAgICAgICAgICAgICAgKGV4dHJhY3QoZXBvY2ggZnJvbSBjYXN0KGNsb2NrX3RpbWVzdGFtcCgpIGFzIHRpbWVzdGFtcCkpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAtIGV4dHJhY3QoZXBvY2ggZnJvbSB2X3RzKSk7CiAgICAgICAgICAgICAgICBpIDo9IGkgKyAxOwoKICAgICAgICAgICAgICAgIHNldCBqaXQgPSBvZmY7CiAgICAgICAgICAgICAgICB2X3RzIDo9IGNsb2NrX3RpbWVzdGFtcCgpOwogICAgICAgICAgICAgICAgZm9yIGkgaW4gMS4udl9yZXBlYXQKICAgICAgICAgICAgICAgICAgICBsb29wCiAgICAgICAgICAgICAgICAgICAgICAgIGZvciByZWMgaW4gKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc2VsZWN0ICoKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZyb20gdmJfbWF0KDE3ODI3NTM5KQogICAgICAgICAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb29wCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbnVsbDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVuZCBsb29wOwogICAgICAgICAgICAgICAgICAgIGVuZCBsb29wOwogICAgICAgICAgICAgICAgcnVuW2ldIDo9IHI7CiAgICAgICAgICAgICAgICBzdG10W2ldIDo9IDM7CiAgICAgICAgICAgICAgICBlbGFwc2VkW2ldIDo9CiAgICAgICAgICAgICAgICAgICAgICAgIChleHRyYWN0KGVwb2NoIGZyb20gY2FzdChjbG9ja190aW1lc3RhbXAoKSBhcyB0aW1lc3RhbXApKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBleHRyYWN0KGVwb2NoIGZyb20gdl90cykpOwogICAgICAgICAgICAgICAgaSA6PSBpICsgMTsKCiAgICAgICAgICAgICAgICBzZXQgaml0ID0gb2ZmOwogICAgICAgICAgICAgICAgdl90cyA6PSBjbG9ja190aW1lc3RhbXAoKTsKICAgICAgICAgICAgICAgIGZvciBpIGluIDEuLnZfcmVwZWF0CiAgICAgICAgICAgICAgICAgICAgbG9vcAogICAgICAgICAgICAgICAgICAgICAgICBmb3IgcmVjIGluICgKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdCAqCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tIHZiX25vbl9tYXQoMTc4Mjc1MzkpCiAgICAgICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvb3AKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBudWxsOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZW5kIGxvb3A7CiAgICAgICAgICAgICAgICAgICAgZW5kIGxvb3A7CgogICAgICAgICAgICAgICAgcnVuW2ldIDo9IHI7CiAgICAgICAgICAgICAgICBzdG10W2ldIDo9IDQ7CiAgICAgICAgICAgICAgICBlbGFwc2VkW2ldIDo9CiAgICAgICAgICAgICAgICAgICAgICAgIChleHRyYWN0KGVwb2NoIGZyb20gY2FzdChjbG9ja190aW1lc3RhbXAoKSBhcyB0aW1lc3RhbXApKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLSBleHRyYWN0KGVwb2NoIGZyb20gdl90cykpOwogICAgICAgICAgICAgICAgaSA6PSBpICsgMTsKICAgICAgICAgICAgZW5kIGxvb3A7CgogICAgICAgIHNlbGVjdCBtYXgodC5lbGFwc2VkKQogICAgICAgIGludG8gbWF4X2VsYXBzZWQKICAgICAgICBmcm9tIHVubmVzdChlbGFwc2VkKSBhcyB0KGVsYXBzZWQpOwoKICAgICAgICBmb3IgaSBpbiAxLi5hcnJheV9sZW5ndGgocnVuLCAxKQogICAgICAgICAgICBsb29wCiAgICAgICAgICAgICAgICByYWlzZSBpbmZvICdydW4gJSwgc3RhdGVtZW50ICU6ICUnLCBydW5baV0sIHN0bXRbaV0sCiAgICAgICAgICAgICAgICAgICAgY2FzdChlbGFwc2VkW2ldIC8gbWF4X2VsYXBzZWQgYXMgZGVjaW1hbCgxMCwgNSkpOwogICAgICAgICAgICBlbmQgbG9vcDsKICAgIGVuZAokJDs=</text>
+        <text>do
+$$
+    declare
+        v_ts              timestamp;
+        v_repeat constant int := 10;
+        rec               record;
+        run               int[];
+        stmt              int[];
+        elapsed           decimal[];
+        max_elapsed       decimal;
+        i                 int := 1;
+    begin
+        for r in 1..5
+            loop
+                set jit = on;
+                v_ts := clock_timestamp();
+                for i in 1..v_repeat
+                    loop
+                        for rec in (
+                            select *
+                            from vb_mat(:ger_id)
+                        )
+                            loop
+                                null;
+                            end loop;
+                    end loop;
+                run[i] := r;
+                stmt[i] := 1;
+                elapsed[i] :=
+                        (extract(epoch from cast(clock_timestamp() as timestamp))
+                            - extract(epoch from v_ts));
+                i := i + 1;
+
+                set jit = on;
+                v_ts := clock_timestamp();
+                for i in 1..v_repeat
+                    loop
+                        for rec in (
+                            select *
+                            from vb_non_mat(:ger_id)
+                        )
+                            loop
+                                null;
+                            end loop;
+                    end loop;
+                run[i] := r;
+                stmt[i] := 2;
+                elapsed[i] :=
+                        (extract(epoch from cast(clock_timestamp() as timestamp))
+                            - extract(epoch from v_ts));
+                i := i + 1;
+
+                set jit = off;
+                v_ts := clock_timestamp();
+                for i in 1..v_repeat
+                    loop
+                        for rec in (
+                            select *
+                            from vb_mat(:ger_id)
+                        )
+                            loop
+                                null;
+                            end loop;
+                    end loop;
+                run[i] := r;
+                stmt[i] := 3;
+                elapsed[i] :=
+                        (extract(epoch from cast(clock_timestamp() as timestamp))
+                            - extract(epoch from v_ts));
+                i := i + 1;
+
+                set jit = off;
+                v_ts := clock_timestamp();
+                for i in 1..v_repeat
+                    loop
+                        for rec in (
+                            select *
+                            from vb_non_mat(:ger_id)
+                        )
+                            loop
+                                null;
+                            end loop;
+                    end loop;
+
+                run[i] := r;
+                stmt[i] := 4;
+                elapsed[i] :=
+                        (extract(epoch from cast(clock_timestamp() as timestamp))
+                            - extract(epoch from v_ts));
+                i := i + 1;
+            end loop;
+
+        select max(t.elapsed)
+        into max_elapsed
+        from unnest(elapsed) as t(elapsed);
+
+        for i in 1..array_length(run, 1)
+            loop
+                raise info 'run %, statement %: %', run[i], stmt[i],
+                    cast(elapsed[i] / max_elapsed as decimal(10, 5));
+            end loop;
+    end
+$$;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>do
+$$
+    declare
+        v_ts              timestamp;
+        v_repeat constant int := 10;
+        rec               record;
+        run               int[];
+        stmt              int[];
+        elapsed           decimal[];
+        max_elapsed       decimal;
+        i                 int := 1;
+    begin
+        for r in 1..5
+            loop
+                set jit = on;
+                v_ts := clock_timestamp();
+                for i in 1..v_repeat
+                    loop
+                        for rec in (
+                            select *
+                            from vb_mat(17827539)
+                        )
+                            loop
+                                null;
+                            end loop;
+                    end loop;
+                run[i] := r;
+                stmt[i] := 1;
+                elapsed[i] :=
+                        (extract(epoch from cast(clock_timestamp() as timestamp))
+                            - extract(epoch from v_ts));
+                i := i + 1;
+
+                set jit = on;
+                v_ts := clock_timestamp();
+                for i in 1..v_repeat
+                    loop
+                        for rec in (
+                            select *
+                            from vb_non_mat(17827539)
+                        )
+                            loop
+                                null;
+                            end loop;
+                    end loop;
+                run[i] := r;
+                stmt[i] := 2;
+                elapsed[i] :=
+                        (extract(epoch from cast(clock_timestamp() as timestamp))
+                            - extract(epoch from v_ts));
+                i := i + 1;
+
+                set jit = off;
+                v_ts := clock_timestamp();
+                for i in 1..v_repeat
+                    loop
+                        for rec in (
+                            select *
+                            from vb_mat(17827539)
+                        )
+                            loop
+                                null;
+                            end loop;
+                    end loop;
+                run[i] := r;
+                stmt[i] := 3;
+                elapsed[i] :=
+                        (extract(epoch from cast(clock_timestamp() as timestamp))
+                            - extract(epoch from v_ts));
+                i := i + 1;
+
+                set jit = off;
+                v_ts := clock_timestamp();
+                for i in 1..v_repeat
+                    loop
+                        for rec in (
+                            select *
+                            from vb_non_mat(17827539)
+                        )
+                            loop
+                                null;
+                            end loop;
+                    end loop;
+
+                run[i] := r;
+                stmt[i] := 4;
+                elapsed[i] :=
+                        (extract(epoch from cast(clock_timestamp() as timestamp))
+                            - extract(epoch from v_ts));
+                i := i + 1;
+            end loop;
+
+        select max(t.elapsed)
+        into max_elapsed
+        from unnest(elapsed) as t(elapsed);
+
+        for i in 1..array_length(run, 1)
+            loop
+                raise info 'run %, statement %: %', run[i], stmt[i],
+                    cast(elapsed[i] / max_elapsed as decimal(10, 5));
+            end loop;
+    end
+$$;</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -367,10 +673,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAtLSB3YXJtdXAgcGVuYWx0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAtLSB3YXJtdXAgcGVuYWx0eQo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
