@@ -199,12 +199,12 @@
         <mark key="]" line="370" column="250" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1586855978823">
-        <mark key="'" line="3037" column="25" />
-        <mark key="[" line="3188" column="11" />
-        <mark key="]" line="3188" column="19" />
-        <mark key="." line="3188" column="11" />
-        <mark key="^" line="3188" column="11" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1586858329068">
+        <mark key="'" line="3040" column="25" />
+        <mark key="[" line="3020" column="12" />
+        <mark key="]" line="3020" column="13" />
+        <mark key="." line="3020" column="12" />
+        <mark key="^" line="3020" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V364.1__add_lock_notification.sql" timestamp="1586843256662">
         <mark key="[" line="13" column="49" />
@@ -326,11 +326,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">c2hvdyBqaXQ7Cgo=</text>
+      <register name="*" type="4">
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>13077350</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
