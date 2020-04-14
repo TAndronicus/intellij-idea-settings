@@ -117,11 +117,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1586859021214">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1586865828409">
         <mark key="'" line="584" column="27" />
-        <mark key="[" line="684" column="0" />
-        <mark key="]" line="684" column="0" />
-        <mark key="." line="684" column="0" />
+        <mark key="[" line="615" column="0" />
+        <mark key="]" line="629" column="20" />
+        <mark key="." line="629" column="19" />
+        <mark key="^" line="629" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/tools/benchmark.sql" timestamp="1586860549648">
         <mark key="[" line="32" column="27" />
@@ -139,13 +140,6 @@
       </file>
       <file name="/a.sql" timestamp="1586859783349">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/08_insert_notifications.sql" timestamp="1586843227797">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="422" column="49" />
-        <mark key="]" line="422" column="50" />
-        <mark key="^" line="408" column="0" />
-        <mark key="." line="422" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/tools/comparison/script.sql" timestamp="1586861696569">
         <mark key="[" line="335" column="0" />
@@ -185,6 +179,10 @@
         <mark key="." line="269" column="25" />
         <mark key="^" line="269" column="26" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/tools/pid.sql" timestamp="1586865751562">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="16" column="31" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1586846712295">
         <mark key="'" line="421" column="15" />
         <mark key="[" line="434" column="5" />
@@ -203,12 +201,11 @@
         <mark key="]" line="370" column="250" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1586861684226">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1586866839939">
         <mark key="'" line="3200" column="0" />
-        <mark key="[" line="3535" column="0" />
-        <mark key="]" line="3637" column="2" />
-        <mark key="." line="3555" column="46" />
-        <mark key="^" line="3555" column="47" />
+        <mark key="[" line="3055" column="0" />
+        <mark key="]" line="3055" column="0" />
+        <mark key="." line="3055" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V364.1__add_lock_notification.sql" timestamp="1586843256662">
         <mark key="[" line="13" column="49" />
@@ -330,353 +327,165 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>do
-$$
-    declare
-        v_ts              timestamp;
-        v_repeat constant int := 10;
-        rec               record;
-        run               int[];
-        stmt              int[];
-        elapsed           decimal[];
-        max_elapsed       decimal;
-        i                 int := 1;
-    begin
-        for r in 1..5
-            loop
-                set jit = on;
-                v_ts := clock_timestamp();
-                for i in 1..v_repeat
-                    loop
-                        for rec in (
-                            select *
-                            from vb_mat(17827539)
-                        )
-                            loop
-                                null;
-                            end loop;
-                    end loop;
-                run[i] := r;
-                stmt[i] := 1;
-                elapsed[i] :=
-                        (extract(epoch from cast(clock_timestamp() as timestamp))
-                            - extract(epoch from v_ts));
-                i := i + 1;
-
-                set jit = on;
-                v_ts := clock_timestamp();
-                for i in 1..v_repeat
-                    loop
-                        for rec in (
-                            select *
-                            from vb_non_mat(17827539)
-                        )
-                            loop
-                                null;
-                            end loop;
-                    end loop;
-                run[i] := r;
-                stmt[i] := 2;
-                elapsed[i] :=
-                        (extract(epoch from cast(clock_timestamp() as timestamp))
-                            - extract(epoch from v_ts));
-                i := i + 1;
-
-                set jit = off;
-                v_ts := clock_timestamp();
-                for i in 1..v_repeat
-                    loop
-                        for rec in (
-                            select *
-                            from vb_mat(17827539)
-                        )
-                            loop
-                                null;
-                            end loop;
-                    end loop;
-                run[i] := r;
-                stmt[i] := 3;
-                elapsed[i] :=
-                        (extract(epoch from cast(clock_timestamp() as timestamp))
-                            - extract(epoch from v_ts));
-                i := i + 1;
-
-                set jit = off;
-                v_ts := clock_timestamp();
-                for i in 1..v_repeat
-                    loop
-                        for rec in (
-                            select *
-                            from vb_non_mat(17827539)
-                        )
-                            loop
-                                null;
-                            end loop;
-                    end loop;
-
-                run[i] := r;
-                stmt[i] := 4;
-                elapsed[i] :=
-                        (extract(epoch from cast(clock_timestamp() as timestamp))
-                            - extract(epoch from v_ts));
-                i := i + 1;
-            end loop;
-
-        select max(t.elapsed)
-        into max_elapsed
-        from unnest(elapsed) as t(elapsed);
-
-        for i in 1..array_length(run, 1)
-            loop
-                raise info 'run %, statement %: %', run[i], stmt[i],
-                    cast(elapsed[i] / max_elapsed as decimal(10, 5));
-            end loop;
-    end
-$$;</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgZ3JvdXAgYnkgZ2csIGR0LmRlc2NyaXB0aW9uCg==</text>
       </register>
       <register name="-" type="4">
-        <text>17827539</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>do
-$$
-    declare
-        v_ts              timestamp;
-        v_repeat constant int := 10;
-        rec               record;
-        run               int[];
-        stmt              int[];
-        elapsed           decimal[];
-        max_elapsed       decimal;
-        i                 int := 1;
-    begin
-        for r in 1..5
-            loop
-                set jit = on;
-                v_ts := clock_timestamp();
-                for i in 1..v_repeat
-                    loop
-                        for rec in (
-                            select *
-                            from vb_mat(:ger_id)
-                        )
-                            loop
-                                null;
-                            end loop;
-                    end loop;
-                run[i] := r;
-                stmt[i] := 1;
-                elapsed[i] :=
-                        (extract(epoch from cast(clock_timestamp() as timestamp))
-                            - extract(epoch from v_ts));
-                i := i + 1;
+        <text>SELECT datname,
+       pid,
+       query,
+       usesysid,
+       usename,
+       application_name,
+       client_addr,
+       client_port,
+       state,
+       backend_start,
+       xact_start
+FROM pg_stat_activity
+WHERE state is not null
+  and state != 'idle'
+ORDER BY xact_start;
 
-                set jit = on;
-                v_ts := clock_timestamp();
-                for i in 1..v_repeat
-                    loop
-                        for rec in (
-                            select *
-                            from vb_non_mat(:ger_id)
-                        )
-                            loop
-                                null;
-                            end loop;
-                    end loop;
-                run[i] := r;
-                stmt[i] := 2;
-                elapsed[i] :=
-                        (extract(epoch from cast(clock_timestamp() as timestamp))
-                            - extract(epoch from v_ts));
-                i := i + 1;
-
-                set jit = off;
-                v_ts := clock_timestamp();
-                for i in 1..v_repeat
-                    loop
-                        for rec in (
-                            select *
-                            from vb_mat(:ger_id)
-                        )
-                            loop
-                                null;
-                            end loop;
-                    end loop;
-                run[i] := r;
-                stmt[i] := 3;
-                elapsed[i] :=
-                        (extract(epoch from cast(clock_timestamp() as timestamp))
-                            - extract(epoch from v_ts));
-                i := i + 1;
-
-                set jit = off;
-                v_ts := clock_timestamp();
-                for i in 1..v_repeat
-                    loop
-                        for rec in (
-                            select *
-                            from vb_non_mat(:ger_id)
-                        )
-                            loop
-                                null;
-                            end loop;
-                    end loop;
-
-                run[i] := r;
-                stmt[i] := 4;
-                elapsed[i] :=
-                        (extract(epoch from cast(clock_timestamp() as timestamp))
-                            - extract(epoch from v_ts));
-                i := i + 1;
-            end loop;
-
-        select max(t.elapsed)
-        into max_elapsed
-        from unnest(elapsed) as t(elapsed);
-
-        for i in 1..array_length(run, 1)
-            loop
-                raise info 'run %, statement %: %', run[i], stmt[i],
-                    cast(elapsed[i] / max_elapsed as decimal(10, 5));
-            end loop;
-    end
-$$;</text>
+SELECT pg_cancel_backend(46421);</text>
       </register>
-      <register name="1" type="4">
-        <text>do
-$$
-    declare
-        v_ts              timestamp;
-        v_repeat constant int := 10;
-        rec               record;
-        run               int[];
-        stmt              int[];
-        elapsed           decimal[];
-        max_elapsed       decimal;
-        i                 int := 1;
-    begin
-        for r in 1..5
-            loop
-                set jit = on;
-                v_ts := clock_timestamp();
-                for i in 1..v_repeat
-                    loop
-                        for rec in (
-                            select *
-                            from vb_mat(17827539)
-                        )
-                            loop
-                                null;
-                            end loop;
-                    end loop;
-                run[i] := r;
-                stmt[i] := 1;
-                elapsed[i] :=
-                        (extract(epoch from cast(clock_timestamp() as timestamp))
-                            - extract(epoch from v_ts));
-                i := i + 1;
-
-                set jit = on;
-                v_ts := clock_timestamp();
-                for i in 1..v_repeat
-                    loop
-                        for rec in (
-                            select *
-                            from vb_non_mat(17827539)
-                        )
-                            loop
-                                null;
-                            end loop;
-                    end loop;
-                run[i] := r;
-                stmt[i] := 2;
-                elapsed[i] :=
-                        (extract(epoch from cast(clock_timestamp() as timestamp))
-                            - extract(epoch from v_ts));
-                i := i + 1;
-
-                set jit = off;
-                v_ts := clock_timestamp();
-                for i in 1..v_repeat
-                    loop
-                        for rec in (
-                            select *
-                            from vb_mat(17827539)
-                        )
-                            loop
-                                null;
-                            end loop;
-                    end loop;
-                run[i] := r;
-                stmt[i] := 3;
-                elapsed[i] :=
-                        (extract(epoch from cast(clock_timestamp() as timestamp))
-                            - extract(epoch from v_ts));
-                i := i + 1;
-
-                set jit = off;
-                v_ts := clock_timestamp();
-                for i in 1..v_repeat
-                    loop
-                        for rec in (
-                            select *
-                            from vb_non_mat(17827539)
-                        )
-                            loop
-                                null;
-                            end loop;
-                    end loop;
-
-                run[i] := r;
-                stmt[i] := 4;
-                elapsed[i] :=
-                        (extract(epoch from cast(clock_timestamp() as timestamp))
-                            - extract(epoch from v_ts));
-                i := i + 1;
-            end loop;
-
-        select max(t.elapsed)
-        into max_elapsed
-        from unnest(elapsed) as t(elapsed);
-
-        for i in 1..array_length(run, 1)
-            loop
-                raise info 'run %, statement %: %', run[i], stmt[i],
-                    cast(elapsed[i] / max_elapsed as decimal(10, 5));
-            end loop;
-    end
-$$;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgZ3JvdXAgYnkgZ2csIGR0LmRlc2NyaXB0aW9uCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgZ3JvdXAgYnkgZ2csIGR0LmRlc2NyaXB0aW9uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50CiAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICd0b2RheV9mbScpIC0KICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50CiAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICdtb250aF9iZWdpbm5pbmcnKSAgICAgIGFzIGNvbnN1bXB0aW9uX210ZCwKICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50CiAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICd0b2RheV9meScpIC0KICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50CiAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICd5ZWFyX2JlZ2lubmluZycpICAgICAgIGFzIGNvbnN1bXB0aW9uX3l0ZCwKICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50CiAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICd5ZXN0ZXJkYXknKSAtCiAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAnZGF5X2JlZm9yZV95ZXN0ZXJkYXknKSBhcyBjb25zdW1wdGlvbl9kYXlfYmVmb3JlX3llc3RlcmRheSwKICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50CiAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICd3ZWVrX2FnbycpIC0KICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50CiAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICdkYXlfd2Vla19hZ28nKSAgICAgICAgIGFzIGNvbnN1bXB0aW9uX2RheV93ZWVrX2FnbywKICAgICAgICgoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgICBmcm9tIGFnZ19jb24gaWFjCiAgICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICd3ZWVrX2JlZ2lubmluZycpIC0KICAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgICBmcm9tIGFnZ19jb24gaWFjCiAgICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICdsYXN0X3dlZWtfYmVnaW5uaW5nJykpIC8KICAgICAgIGV4dHJhY3QoJ2RheScgZnJvbSAoCiAgICAgICAgICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50X2RhdGUKICAgICAgICAgICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICAgICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICd3ZWVrX2JlZ2lubmluZycpIC0KICAgICAgICAgICAgICAgKHNlbGVjdCBpYWMubWVhc3VyZW1lbnRfZGF0ZQogICAgICAgICAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgICAgICAgICAgd2hlcmUgaWFjLmRlc2NyaXB0aW9uID0gJ2xhc3Rfd2Vla19iZWdpbm5pbmcnKQogICAgICAgICAgICkpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFzIGNvbnN1bXB0aW9uX2xhc3Rfd2Vla19hdiwKICAgICAgICgoc2VsZWN0IGlhYy5tZWFzdXJlbWVudAogICAgICAgICBmcm9tIGFnZ19jb24gaWFjCiAgICAgICAgIHdoZXJlIGlhYy5kZXNjcmlwdGlvbiA9ICdtb250aF9iZWdpbm5pbmcnKSAtCiAgICAgICAgKHNlbGVjdCBpYWMubWVhc3VyZW1lbnQKICAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAnbGFzdF9tb250aF9iZWdpbm5pbmcnKSkgLwogICAgICAgZXh0cmFjdCgnZGF5JyBmcm9tICgKICAgICAgICAgICAgICAgKHNlbGVjdCBpYWMubWVhc3VyZW1lbnRfZGF0ZQogICAgICAgICAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgICAgICAgICAgd2hlcmUgaWFjLmRlc2NyaXB0aW9uID0gJ21vbnRoX2JlZ2lubmluZycpIC0KICAgICAgICAgICAgICAgKHNlbGVjdCBpYWMubWVhc3VyZW1lbnRfZGF0ZQogICAgICAgICAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgICAgICAgICAgd2hlcmUgaWFjLmRlc2NyaXB0aW9uID0gJ2xhc3RfbW9udGhfYmVnaW5uaW5nJykKICAgICAgICAgICApKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcyBjb25zdW1wdGlvbl9sYXN0X21vbnRoX2F2LAogICAgICAgKChzZWxlY3QgaWFjLm1lYXN1cmVtZW50CiAgICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICAgd2hlcmUgaWFjLmRlc2NyaXB0aW9uID0gJ3RvZGF5X2Z5JykgLQogICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50CiAgICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICAgd2hlcmUgaWFjLmRlc2NyaXB0aW9uID0gJ3llYXJfYmVnaW5uaW5nJykpIC8KICAgICAgIG51bGxpZigKICAgICAgICAgICAgICAgZXh0cmFjdCgnZGF5JyBmcm9tICgKICAgICAgICAgICAgICAgICAgICAgICAoc2VsZWN0IGlhYy5tZWFzdXJlbWVudF9kYXRlCiAgICAgICAgICAgICAgICAgICAgICAgIGZyb20gYWdnX2NvbiBpYWMKICAgICAgICAgICAgICAgICAgICAgICAgd2hlcmUgaWFjLmRlc2NyaXB0aW9uID0gJ3RvZGF5X2Z5JykgLQogICAgICAgICAgICAgICAgICAgICAgIChzZWxlY3QgaWFjLm1lYXN1cmVtZW50X2RhdGUKICAgICAgICAgICAgICAgICAgICAgICAgZnJvbSBhZ2dfY29uIGlhYwogICAgICAgICAgICAgICAgICAgICAgICB3aGVyZSBpYWMuZGVzY3JpcHRpb24gPSAneWVhcl9iZWdpbm5pbmcnKQogICAgICAgICAgICAgICAgICAgKSksCiAgICAgICAgICAgICAgIDApICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgY29uc3VtcHRpb25fd2hvbGVfeWVhcl9hdiwKICAgICAgIGNhc2UKICAgICAgICAgICB3aGVuIGdndC5nZXJhZXRfdHlwIGluICgnSCcsICdaJykgdGhlbiAnSCcKICAgICAgICAgICB3aGVuIGdndC5nZXJhZXRfdHlwID0gJ0UnIHRoZW4gJ1MnCiAgICAgICAgICAgd2hlbiBnZ3QuZ2VyYWV0X3R5cCBpbiAoJ1cnLCAnSycpIHRoZW4gJ1cnCiAgICAgICAgICAgZW5kICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXMgdmJfdHlwZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgdW5pb24gYWxsCiAgICAgICAgIHNlbGVjdCBkdC5kZXNjcmlwdGlvbiwKICAgICAgICAgICAgICAgIGdldF9jYWxjdWxhdGVkX3ZhbHVlKGdnLiosIG1heChlbmVyZ3kpLCAnV01fRU5FUkdZJyksCiAgICAgICAgICAgICAgICBtYXgobXcubWVzc19kYXR1bSkKICAgICAgICAgZnJvbSBtZXNfd2Flcm1lbWVuZ2VuemFlaGxlciBtdwogICAgICAgICAgICAgICAgICBpbm5lciBqb2luIGdlcl9nZXJhZXQgZ2cgb24gbXcuZ2VyX2dlcmFldF9pZCA9IGdnLmlkCiAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gZGF0ZXNfdGFibGUgZHQgb24gbXcubWVzc19kYXR1bSA+PSAoZHQuZGF0ZV92YWx1ZSAtIGR0LmZ1enp5X2ludGVydmFsKQogICAgICAgICAgICAgYW5kIG13Lm1lc3NfZGF0dW0gPCBkdC5kYXRlX3ZhbHVlCiAgICAgICAgIHdoZXJlIGdnLmlkID0gOmdlcl9pZAogICAgICAgICBncm91cCBieSBnZywgZHQuZGVzY3JpcHRpb24KICAgICAgICAgdW5pb24gYWxsCiAgICAgICAgIHNlbGVjdCBkdC5kZXNjcmlwdGlvbiwKICAgICAgICAgICAgICAgIGdldF9jYWxjdWxhdGVkX3ZhbHVlKGdnLiosIG1heChwb3NpdGl2ZV93aXJrYXJiZWl0XzEpLCAnRV9QT1NJVElWRV9XSVJLQVJCRUlUXzEnKSArCiAgICAgICAgICAgICAgICBnZXRfY2FsY3VsYXRlZF92YWx1ZShnZy4qLCBtYXgocG9zaXRpdmVfd2lya2FyYmVpdF8yKSwgJ0VfUE9TSVRJVkVfV0lSS0FSQkVJVF8yJyksCiAgICAgICAgICAgICAgICBtYXgobXMubWVzc19kYXR1bSkKICAgICAgICAgZnJvbSBtZXNfc3Ryb216YWVobGVyIG1zCiAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gZ2VyX2dlcmFldCBnZyBvbiBtcy5nZXJfZ2VyYWV0X2lkID0gZ2cuaWQKICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBkYXRlc190YWJsZSBkdCBvbiBtcy5tZXNzX2RhdHVtID49IChkdC5kYXRlX3ZhbHVlIC0gZHQuZnV6enlfaW50ZXJ2YWwpIGFuZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1zLm1lc3NfZGF0dW0gPCBkdC5kYXRlX3ZhbHVlCiAgICAgICAgIHdoZXJlIGdnLmlkID0gOmdlcl9pZAogICAgICAgICBncm91cCBieSBnZywgZHQuZGVzY3JpcHRpb24KICAgICAgICAgdW5pb24gYWxsCiAgICAgICAgIHNlbGVjdCBkdC5kZXNjcmlwdGlvbiwKICAgICAgICAgICAgICAgIGdldF9jYWxjdWxhdGVkX3ZhbHVlKGdnLiosIG1heChtdy52ZXJicmF1Y2gpLCAnV1dfVk9MVU1FJyksCiAgICAgICAgICAgICAgICBtYXgobXcubWVzc19kYXR1bSkKICAgICAgICAgZnJvbSBtZXNfd2FybXdhc3NlcnphZWhsZXJfdmVyYnJhdWNoIG13CiAgICAgICAgICAgICAgICAgIGlubmVyIGpvaW4gZ2VyX2dlcmFldCBnZyBvbiBtdy5nZXJfZ2VyYWV0X2lkID0gZ2cuaWQKICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBkYXRlc190YWJsZSBkdCBvbiBtdy5tZXNzX2RhdHVtID49IChkdC5kYXRlX3ZhbHVlIC0gZHQuZnV6enlfaW50ZXJ2YWwpCiAgICAgICAgICAgICBhbmQgbXcubWVzc19kYXR1bSA8IGR0LmRhdGVfdmFsdWUKICAgICAgICAgd2hlcmUgZ2cuaWQgPSA6Z2VyX2lkCiAgICAgICAgIGdyb3VwIGJ5IGdnLCBkdC5kZXNjcmlwdGlvbgogICAgICAgICB1bmlvbiBhbGwKICAgICAgICAgc2VsZWN0IGR0LmRlc2NyaXB0aW9uLAogICAgICAgICAgICAgICAgZ2V0X2NhbGN1bGF0ZWRfdmFsdWUoZ2cuKiwgbWF4KG1rLnZlcmJyYXVjaCksICdLV19WT0xVTUUnKSwKICAgICAgICAgICAgICAgIG1heChtay5tZXNzX2RhdHVtKQogICAgICAgICBmcm9tIG1lc19rYWx0d2Fzc2VyemFlaGxlcl92ZXJicmF1Y2ggbWsKICAgICAgICAgICAgICAgICAgaW5uZXIgam9pbiBnZXJfZ2VyYWV0IGdnIG9uIG1rLmdlcl9nZXJhZXRfaWQgPSBnZy5pZAogICAgICAgICAgICAgICAgICBpbm5lciBqb2luIGRhdGVzX3RhYmxlIGR0IG9uIG1rLm1lc3NfZGF0dW0gPj0gKGR0LmRhdGVfdmFsdWUgLSBkdC5mdXp6eV9pbnRlcnZhbCkKICAgICAgICAgICAgIGFuZCBtay5tZXNzX2RhdHVtIDwgZHQuZGF0ZV92YWx1ZQogICAgICAgICB3aGVyZSBnZy5pZCA9IDpnZXJfaWQK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gICgpCnZhbHVlcyAoKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>do
+$$
+    declare
+        v_ts              timestamp;
+        v_repeat constant int := 10;
+        rec               record;
+        run               int[];
+        stmt              int[];
+        elapsed           decimal[];
+        max_elapsed       decimal;
+        i                 int := 1;
+    begin
+        for r in 1..5
+            loop
+                set jit = on;
+                v_ts := clock_timestamp();
+                for i in 1..v_repeat
+                    loop
+                        for rec in (
+                            select *
+                            from vb_mat(17827539)
+                        )
+                            loop
+                                null;
+                            end loop;
+                    end loop;
+                run[i] := r;
+                stmt[i] := 1;
+                elapsed[i] :=
+                        (extract(epoch from cast(clock_timestamp() as timestamp))
+                            - extract(epoch from v_ts));
+                i := i + 1;
+
+                set jit = on;
+                v_ts := clock_timestamp();
+                for i in 1..v_repeat
+                    loop
+                        for rec in (
+                            select *
+                            from vb_non_mat(17827539)
+                        )
+                            loop
+                                null;
+                            end loop;
+                    end loop;
+                run[i] := r;
+                stmt[i] := 2;
+                elapsed[i] :=
+                        (extract(epoch from cast(clock_timestamp() as timestamp))
+                            - extract(epoch from v_ts));
+                i := i + 1;
+
+                set jit = off;
+                v_ts := clock_timestamp();
+                for i in 1..v_repeat
+                    loop
+                        for rec in (
+                            select *
+                            from vb_mat(17827539)
+                        )
+                            loop
+                                null;
+                            end loop;
+                    end loop;
+                run[i] := r;
+                stmt[i] := 3;
+                elapsed[i] :=
+                        (extract(epoch from cast(clock_timestamp() as timestamp))
+                            - extract(epoch from v_ts));
+                i := i + 1;
+
+                set jit = off;
+                v_ts := clock_timestamp();
+                for i in 1..v_repeat
+                    loop
+                        for rec in (
+                            select *
+                            from vb_non_mat(17827539)
+                        )
+                            loop
+                                null;
+                            end loop;
+                    end loop;
+
+                run[i] := r;
+                stmt[i] := 4;
+                elapsed[i] :=
+                        (extract(epoch from cast(clock_timestamp() as timestamp))
+                            - extract(epoch from v_ts));
+                i := i + 1;
+            end loop;
+
+        select max(t.elapsed)
+        into max_elapsed
+        from unnest(elapsed) as t(elapsed);
+
+        for i in 1..array_length(run, 1)
+            loop
+                raise info 'run %, statement %: %', run[i], stmt[i],
+                    cast(elapsed[i] / max_elapsed as decimal(10, 5));
+            end loop;
+    end
+$$;</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAtLSB3YXJtdXAgcGVuYWx0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>

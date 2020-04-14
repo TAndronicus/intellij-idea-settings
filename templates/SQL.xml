@@ -5,4 +5,10 @@
       <option name="SQL_POSTGRES" value="true" />
     </context>
   </template>
+  <template name="pid" value="SELECT datname,&#10;       pid,&#10;       query,&#10;       usesysid,&#10;       usename,&#10;       application_name,&#10;       client_addr,&#10;       client_port,&#10;       state,&#10;       backend_start,&#10;       xact_start&#10;FROM pg_stat_activity&#10;WHERE state is not null&#10;  and state != 'idle'&#10;ORDER BY xact_start;&#10;&#10;SELECT pg_cancel_backend($pid$);" description="process ids" toReformat="false" toShortenFQNames="true">
+    <variable name="pid" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL_POSTGRES" value="true" />
+    </context>
+  </template>
 </templateSet>
