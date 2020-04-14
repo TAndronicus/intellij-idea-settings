@@ -1,0 +1,8 @@
+<templateSet group="SQL">
+  <template name="jobs" value="select id, coalesce(end_date, current_timestamp) - start_date duration, status, creation_date, mode, comment&#10;from tec_job_historie tjh&#10;where job_id ~ '$name$'&#10;order by creation_date desc;" description="Latest qivalo jobs" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL_POSTGRES" value="true" />
+    </context>
+  </template>
+</templateSet>
