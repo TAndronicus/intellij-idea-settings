@@ -129,12 +129,12 @@
         <mark key="." line="33" column="15" />
         <mark key="^" line="33" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1586879563887">
-        <mark key="'" line="4" column="54" />
-        <mark key="[" line="224" column="4" />
-        <mark key="]" line="224" column="9" />
-        <mark key="^" line="224" column="9" />
-        <mark key="." line="224" column="8" />
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1586880955739">
+        <mark key="'" line="230" column="60" />
+        <mark key="[" line="200" column="10" />
+        <mark key="]" line="200" column="16" />
+        <mark key="^" line="200" column="16" />
+        <mark key="." line="200" column="15" />
       </file>
       <file name="/console" timestamp="1586858984861">
         <mark key="[" line="0" column="0" />
@@ -144,9 +144,9 @@
         <mark key="]" line="566" column="9" />
         <mark key="." line="566" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" timestamp="1586879322193">
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" timestamp="1586880677032">
         <mark key="'" line="6" column="6" />
-        <mark key="[" line="191" column="27" />
+        <mark key="[" line="192" column="24" />
         <mark key="]" line="191" column="30" />
         <mark key="." line="191" column="29" />
         <mark key="^" line="191" column="30" />
@@ -154,7 +154,7 @@
       <file name="/a.sql" timestamp="1586859783349">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1586879579645">
+      <file name="/Dummy.scala" timestamp="1586880596263">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -222,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2983" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="342" column="32" filename="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/abrechnung/abrechnung-form/abrechnung-form.component.ts" />
       <jump line="160" column="80" filename="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/abrechnung/abrechnung-form/abrechnung-form.component.html" />
       <jump line="29" column="12" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvService.java" />
@@ -322,15 +321,16 @@
       <jump line="3477" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="3200" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="234" column="30" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
+      <jump line="230" column="60" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text>assertEquals(5, res.size)</text>
+      <register name="*" type="4">
+        <text>List((</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>List((</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -345,28 +345,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIChsLmlzRW1wdHkpIExpc3QoU2V0KCkpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text>assertEquals(5, res.size)r</text>
-      </register>
-      <register name="4" type="2">
         <text>assertEquals(5, res.size)</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIChsLmlzRW1wdHkpIExpc3QoU2V0KCkpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text>assertEquals(5, res.size)r</text>
+      </register>
       <register name="5" type="2">
-        <text>assertEquals(5, res.size)re</text>
+        <text>assertEquals(5, res.size)</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text>assertEquals(5, res.size)re</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICBkZWYgcGFydGl0aW9uKG46IEludCkgPSBmb3IgewogICAgc3Vic2V0IDwtICgwIHVudGlsIG4pLnRvU2V0LnN1Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Zm9yIHsKICAgIGkgPC0gMCB1bnRpbCBrCiAgfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">c2hvdyBqaXQ7Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
