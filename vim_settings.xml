@@ -134,12 +134,12 @@
         <mark key="[" line="426" column="122" />
         <mark key="]" line="441" column="121" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1586941788759">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1586950752617">
         <mark key="'" line="238" column="19" />
-        <mark key="[" line="232" column="28" />
-        <mark key="]" line="232" column="28" />
-        <mark key="." line="232" column="27" />
-        <mark key="^" line="232" column="28" />
+        <mark key="[" line="231" column="16" />
+        <mark key="]" line="231" column="18" />
+        <mark key="." line="231" column="17" />
+        <mark key="^" line="231" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/model/GenericMessung.java" timestamp="1586935434925">
         <mark key="[" line="21" column="13" />
@@ -302,10 +302,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>entityManager</text>
+        <text>ersatz</text>
       </register>
       <register name="-" type="4">
-        <text>entityManager</text>
+        <text>ersatz</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
