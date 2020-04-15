@@ -117,11 +117,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1586971281855">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1586993901157">
         <mark key="'" line="584" column="27" />
-        <mark key="[" line="878" column="9" />
-        <mark key="]" line="880" column="20" />
-        <mark key="." line="880" column="19" />
+        <mark key="[" line="875" column="16" />
+        <mark key="]" line="875" column="16" />
+        <mark key="." line="875" column="16" />
         <mark key="^" line="880" column="20" />
       </file>
       <file name="/Dummy.txt" timestamp="1586948524973">
@@ -139,7 +139,7 @@
         <mark key="^" line="304" column="25" />
         <mark key="." line="304" column="24" />
       </file>
-      <file name="/console" timestamp="1586991399974">
+      <file name="/console" timestamp="1586992797426">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1586953607103">
@@ -299,11 +299,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>ersatz</text>
       </register>
       <register name="-" type="4">
-        <text>vb</text>
+        <text>ersatz</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
