@@ -124,11 +124,11 @@
         <mark key="." line="875" column="10" />
         <mark key="^" line="875" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" timestamp="1586947031411">
-        <mark key="[" line="292" column="230" />
-        <mark key="]" line="250" column="18" />
-        <mark key="." line="250" column="17" />
-        <mark key="^" line="250" column="18" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" timestamp="1586947395877">
+        <mark key="[" line="301" column="12" />
+        <mark key="]" line="304" column="25" />
+        <mark key="^" line="304" column="25" />
+        <mark key="." line="304" column="24" />
       </file>
       <file name="/08_insert_notifications.sql" timestamp="1586947149033">
         <mark key="[" line="426" column="122" />
@@ -149,8 +149,11 @@
         <mark key="[" line="21" column="13" />
         <mark key="]" line="21" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/notification/rest/NotificationConfigRestEndpointTest.java" timestamp="1586947206225">
-        <mark key="[" line="62" column="21" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/notification/rest/NotificationConfigRestEndpointTest.java" timestamp="1586948512563">
+        <mark key="[" line="138" column="23" />
+        <mark key="]" line="140" column="0" />
+        <mark key="^" line="140" column="0" />
+        <mark key="." line="140" column="0" />
       </file>
       <file name="/console" timestamp="1586941814573">
         <mark key="[" line="0" column="0" />
@@ -162,7 +165,7 @@
         <mark key="]" line="457" column="122" />
         <mark key="." line="442" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586946998435">
+      <file name="/Dummy.txt" timestamp="1586948524973">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V369.0__disable_jit.sql" timestamp="1586943223307">
@@ -297,10 +300,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">CgpTRUxFQ1QgY3JlYXRlX25vdGlmaWNhdGlvbl90ZW1wbGF0ZSgnTFNfQ1VSUkVOVF9WQUxVRVNfRVhQT1JURUQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnSScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdFeHBvcnQgYWt0dWVsbGVyIE1lc3N3ZXJ0ZSBlcmZvbGdyZWljaC4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnRGllIGFrdHVlbGxlbiBNZXNzd2VydGVuIGRlciBMaWVnZW5zY2hhZnQge2xzTnJ9IHd1cmRlbiBleHBvcnRpZXJ0IHVuZCBpbSBEYXRlaWFyY2hpdiBpbiBkZXIgRGF0ZWkgL1FpdmFsby9Ba3R1ZWxsZSBNZXNzd2VydGUve2ZpbGVOYW1lfSBnZXNwZWljaGVydC4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcnJheSBbJ0MnLCAnRSddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcnJheSBbJ0FETUlOSVNUUkFUT1InLCAnS1NNJywgJ1ZFUlRSSUVCJywgJ1NVUFBPUlQnLCAnSEFVUFRWRVJXQUxURVInLCAnVkVSV0FMVEVSJ10pOwpTRUxFQ1QgY3JlYXRlX25vdGlmaWNhdGlvbl90ZW1wbGF0ZSgnTFNfQ1VSUkVOVF9WQUxVRVNfRVhQT1JURURfRVJST1InLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnSScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdFeHBvcnQgYWt0dWVsbGVyIE1lc3N3ZXJ0ZSBmZWhsZ2VzY2hsYWdlbi4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnRGllIGFrdHVlbGxlbiBNZXNzd2VydGUgZGVyIExpZWdlbnNjaGFmdCB7bHNOcn0ga29ubnRlbiBuaWNodCBleHBvcnRpZXJ0IHdlcmRlbi4gR3J1bmQ6XG4ge2Vycm9yfS4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcnJheSBbJ0MnLCAnRSddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcnJheSBbJ0FETUlOSVNUUkFUT1InLCAnS1NNJywgJ1ZFUlRSSUVCJywgJ1NVUFBPUlQnLCAnSEFVUFRWRVJXQUxURVInLCAnVkVSV0FMVEVSJ10pOw==</text>
+        <text>entityManager</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>entityManager</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -309,12 +312,18 @@
         <text encoding="base64">CgpTRUxFQ1QgY3JlYXRlX25vdGlmaWNhdGlvbl90ZW1wbGF0ZSgnTFNfQ1VSUkVOVF9WQUxVRVNfRVhQT1JURUQnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnSScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdFeHBvcnQgYWt0dWVsbGVyIE1lc3N3ZXJ0ZSBlcmZvbGdyZWljaC4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnRGllIGFrdHVlbGxlbiBNZXNzd2VydGVuIGRlciBMaWVnZW5zY2hhZnQge2xzTnJ9IHd1cmRlbiBleHBvcnRpZXJ0IHVuZCBpbSBEYXRlaWFyY2hpdiBpbiBkZXIgRGF0ZWkgL1FpdmFsby9Ba3R1ZWxsZSBNZXNzd2VydGUve2ZpbGVOYW1lfSBnZXNwZWljaGVydC4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcnJheSBbJ0MnLCAnRSddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcnJheSBbJ0FETUlOSVNUUkFUT1InLCAnS1NNJywgJ1ZFUlRSSUVCJywgJ1NVUFBPUlQnLCAnSEFVUFRWRVJXQUxURVInLCAnVkVSV0FMVEVSJ10pOwpTRUxFQ1QgY3JlYXRlX25vdGlmaWNhdGlvbl90ZW1wbGF0ZSgnTFNfQ1VSUkVOVF9WQUxVRVNfRVhQT1JURURfRVJST1InLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnSScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICdFeHBvcnQgYWt0dWVsbGVyIE1lc3N3ZXJ0ZSBmZWhsZ2VzY2hsYWdlbi4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAnRGllIGFrdHVlbGxlbiBNZXNzd2VydGUgZGVyIExpZWdlbnNjaGFmdCB7bHNOcn0ga29ubnRlbiBuaWNodCBleHBvcnRpZXJ0IHdlcmRlbi4gR3J1bmQ6XG4ge2Vycm9yfS4nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcnJheSBbJ0MnLCAnRSddLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcnJheSBbJ0FETUlOSVNUUkFUT1InLCAnS1NNJywgJ1ZFUlRSSUVCJywgJ1NVUFBPUlQnLCAnSEFVUFRWRVJXQUxURVInLCAnVkVSV0FMVEVSJ10pOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlhc3NlcnROb3RpZmljYXRpb25NZXNzYWdlKAoJCQkiSW1wb3J0aWVydGUgTWVzc3dlcnRlIG5pY2h0IGdlc3BlaWNoZXJ0IiwKCQkJIkbDvHIgZGFzIEdlcsOkdCAxMDAwIGluIE51dHplaW5oZWl0IHtuZU5yfSBkZXIgTGllZ2Vuc2NoYWZ0IDMwMDEgd3VyZGVuIHZlcnN1Y2h0LCBNZXNzd2VydGUgenUgaW1wb3J0aWVyZW4sIGRpZSBpbiBlaW5lbiBnZXNwZXJydGVuIEFicmVjaG51bmdzemVpdHJhdW0gZmFsbGVuLiBEaWUgTWVzc3dlcnRlIGtvbm50ZW4gZGFoZXIgbmljaHQgZ2VzcGVpY2hlcnQgd2VyZGVuLiBRdWVsbGUgZGVyIERhdGVuOiB7Q1NWLUltcG9ydH0uIiwKCQkJMTAwMEwsCgkJCUdFUkFFVAoJCSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">CXByaXZhdGUgdm9pZCBjbGVhckxvY2tzKCkgewoJfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CQlhc3NlcnROb3RpZmljYXRpb25NZXNzYWdlKAoJCQkiSW1wb3J0aWVydGUgTWVzc3dlcnRlIG5pY2h0IGdlc3BlaWNoZXJ0IiwKCQkJIkbDvHIgZGFzIEdlcsOkdCAxMDAwIGluIE51dHplaW5oZWl0IHtuZU5yfSBkZXIgTGllZ2Vuc2NoYWZ0IDMwMDEgd3VyZGVuIHZlcnN1Y2h0LCBNZXNzd2VydGUgenUgaW1wb3J0aWVyZW4sIGRpZSBpbiBlaW5lbiBnZXNwZXJydGVuIEFicmVjaG51bmdzemVpdHJhdW0gZmFsbGVuLiBEaWUgTWVzc3dlcnRlIGtvbm50ZW4gZGFoZXIgbmljaHQgZ2VzcGVpY2hlcnQgd2VyZGVuLiBRdWVsbGUgZGVyIERhdGVuOiB7Q1NWLUltcG9ydH0uIiwKCQkJMTAwMEwsCgkJCUdFUkFFVAoJCSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text>assertNotificationMessage(
 			&quot;Importierte Messwerte nicht gespeichert&quot;,
 			&quot;Für das Gerät 1000 in Nutzeinheit {neNr} der Liegenschaft 3001 wurden versucht, Messwerte zu importieren, die in einen gesperrten Abrechnungszeitraum fallen. Die Messwerte konnten daher nicht gespeichert werden. Quelle der Daten: {CSV-Import}.&quot;,
@@ -322,26 +331,20 @@
 			GERAET
 		)</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQlhc3NlcnRTdWNjZXNzTm90aWZpY2F0aW9uKCk7Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CQkJYXNzZXJ0TGF0ZXN0TWVzc3VuZyhnZXJhZXQsIEJlcmVjaG51bmdVdGlsLmdldEFibGVzZXdlcnQoZ2VyYWV0LCA0NTAuMkQpLCBkYXRlKCIxMi4wMi4yMDIwIDEyOjAwIikpOwoJCQlhc3NlcnRFd0NhbmRpZGF0ZXMoZ2VyYWV0LmdldElkKCksIGRhdGUoIjAxLjAxLjIwMTIgMDk6MDAiKSk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJYXNzZXJ0SW1wb3J0ZWRIZWl6a29zdGVudmVydGVpbGVyTWVzc3VuZyhnZXJhZXQsIChIZWl6a29zdGVudmVydGVpbGVyTWVzc3VuZykgbWVzc3VuZ2VuLmdldCgwKSwgMTAwLjEyRCwgZGF0ZSgiMTIuMDIuMjAyMCAxMjowMCIpLCBNZXNzdW5nVHlwLklNUE9SVEVEX1dFUlQpOwoJCQlhc3NlcnRJbXBvcnRlZEhlaXprb3N0ZW52ZXJ0ZWlsZXJNZXNzdW5nKGdlcmFldCwgKEhlaXprb3N0ZW52ZXJ0ZWlsZXJNZXNzdW5nKSBtZXNzdW5nZW4uZ2V0KDEpLCAxNTAuMTRELCBkYXRlKCIxMy4wMi4yMDIwIDEyOjAwIiksIE1lc3N1bmdUeXAuSU1QT1JURURfV0VSVCk7CgkJCWFzc2VydEltcG9ydGVkSGVpemtvc3RlbnZlcnRlaWxlck1lc3N1bmcoZ2VyYWV0LCAoSGVpemtvc3RlbnZlcnRlaWxlck1lc3N1bmcpIG1lc3N1bmdlbi5nZXQoMiksIDE3NS4xOUQsIGRhdGUoIjE0LjAyLjIwMjAgMTI6MDAiKSwgTWVzc3VuZ1R5cC5JTVBPUlRFRF9XRVJUKTsKCQkJYXNzZXJ0TGF0ZXN0TWVzc3VuZyhnZXJhZXQsIEJlcmVjaG51bmdVdGlsLmdldEFibGVzZXdlcnQoZ2VyYWV0LCAxNzUuMTlEKSwgZGF0ZSgiMTQuMDIuMjAyMCAxMjowMCIpKTsKCQkJYXNzZXJ0RXdDYW5kaWRhdGVzKGdlcmFldC5nZXRJZCgpLCBkYXRlKCIxMi4wMi4yMDIwIDEyOjAwIikpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJYXNzZXJ0SW1wb3J0ZWRXYXJtd2Fzc2VyemFlaGxlck1lc3N1bmcoZ2VyYWV0LCAoV2FybXdhc3NlcnphZWhsZXJNZXNzdW5nKSBtZXNzdW5nZW4uZ2V0KDQpLCA0NTAuMkQsIGRhdGUoIjEyLjAyLjIwMjAgMTI6MDAiKSwgTWVzc3VuZ1R5cC5JTVBPUlRFRF9XRVJUKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJYXNzZXJ0SW1wb3J0ZWRXYXJtd2Fzc2VyemFlaGxlck1lc3N1bmcoZ2VyYWV0LCAoV2FybXdhc3NlcnphZWhsZXJNZXNzdW5nKSBtZXNzdW5nZW4uZ2V0KDApLCAyNTYuNTlELCBkYXRlKCIwMS4wMS4yMDEyIDA5OjAwIiksIE1lc3N1bmdUeXAuSU1QT1JURURfV0VSVCk7CgkJCWFzc2VydEltcG9ydGVkV2FybXdhc3NlcnphZWhsZXJNZXNzdW5nKGdlcmFldCwgKFdhcm13YXNzZXJ6YWVobGVyTWVzc3VuZykgbWVzc3VuZ2VuLmdldCgyKSwgMzUwLjVELCBkYXRlKCIwMy4wMS4yMDEyIDA5OjE2IiksIE1lc3N1bmdUeXAuSU1QT1JURURfV0VSVCk7CgkJCWFzc2VydEltcG9ydGVkV2FybXdhc3NlcnphZWhsZXJNZXNzdW5nKGdlcmFldCwgKFdhcm13YXNzZXJ6YWVobGVyTWVzc3VuZykgbWVzc3VuZ2VuLmdldCgzKSwgMzAwRCwgZGF0ZSgiMDEuMDIuMjAxMiAwOToxNiIpLCBNZXNzdW5nVHlwLkFVVE9NQVRJU0NIKTsKCQkJYXNzZXJ0SW1wb3J0ZWRXYXJtd2Fzc2VyemFlaGxlck1lc3N1bmcoZ2VyYWV0LCAoV2FybXdhc3NlcnphZWhsZXJNZXNzdW5nKSBtZXNzdW5nZW4uZ2V0KDQpLCA0NTAuMkQsIGRhdGUoIjEyLjAyLjIwMjAgMTI6MDAiKSwgTWVzc3VuZ1R5cC5JTVBPUlRFRF9XRVJUKTsKCQkJYXNzZXJ0TGF0ZXN0TWVzc3VuZyhnZXJhZXQsIEJlcmVjaG51bmdVdGlsLmdldEFibGVzZXdlcnQoZ2VyYWV0LCA0NTAuMkQpLCBkYXRlKCIxMi4wMi4yMDIwIDEyOjAwIikpOwoJCQlhc3NlcnRFd0NhbmRpZGF0ZXMoZ2VyYWV0LmdldElkKCksIGRhdGUoIjAxLjAxLjIwMTIgMDk6MDAiKSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJYXNzZXJ0SW1wb3J0ZWRTdHJvbXphZWhsZXJNZXNzdW5nKGdlcmFldCwgKFN0cm9temFlaGxlck1lc3N1bmcpIG1lc3N1bmdlbi5nZXQoMCksIDEwMDE0NUQsIGRhdGUoIjEyLjAyLjIwMjAgMTI6MDAiKSwgTWVzc3VuZ1R5cC5JTVBPUlRFRF9XRVJUKTsKCQkJYXNzZXJ0SW1wb3J0ZWRTdHJvbXphZWhsZXJNZXNzdW5nKGdlcmFldCwgKFN0cm9temFlaGxlck1lc3N1bmcpIG1lc3N1bmdlbi5nZXQoMSksIDEyMDEyNUQsIGRhdGUoIjEzLjAyLjIwMjAgMTI6MDAiKSwgTWVzc3VuZ1R5cC5JTVBPUlRFRF9XRVJUKTsKCQkJYXNzZXJ0SW1wb3J0ZWRTdHJvbXphZWhsZXJNZXNzdW5nKGdlcmFldCwgKFN0cm9temFlaGxlck1lc3N1bmcpIG1lc3N1bmdlbi5nZXQoMiksIDE1MDE2NUQsIGRhdGUoIjE0LjAyLjIwMjAgMTI6MDAiKSwgTWVzc3VuZ1R5cC5JTVBPUlRFRF9XRVJUKTsKCQkJYXNzZXJ0TGF0ZXN0TWVzc3VuZyhnZXJhZXQsIEJlcmVjaG51bmdVdGlsLmdldEFibGVzZXdlcnQoZ2VyYWV0LCAxNTAxNjVEKSwgZGF0ZSgiMTQuMDIuMjAyMCAxMjowMCIpKTsKCQkJYXNzZXJ0RXdDYW5kaWRhdGVzKGdlcmFldC5nZXRJZCgpLCBkYXRlKCIxMi4wMi4yMDIwIDEyOjAwIikpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">SU5TRVJUIElOVE8gbm90X2JlbnV0emVyX2V4Y2x1c2lvbiAoaWQsIG5vdF9ldmVudF9uYW1lLCBjaGFubmVsLCBiZW5fYmVudXR6ZXJfaWQsIGNyZWF0aW9uX2RhdGUpClNFTEVDVCBuZXh0dmFsKCdub3RpZmljYXRpb25fZXhjbHVzaW9uX3NlcScpLCAnTFNfQ1JFQVRFRCcsICdFJywgYi5pZCwgY3VycmVudF90aW1lc3RhbXAKRlJPTSBiZW5fYmVudXR6ZXIgYgpXSEVSRSBiLnJvbF9yb2xlX2lkIElOICg3KQogIEFORCBiLmlkIE5PVCBJTiAoU0VMRUNUIGJlbl9iZW51dHplcl9pZCBGUk9NIG5vdF9iZW51dHplcl9leGNsdXNpb24gV0hFUkUgbm90X2V2ZW50X25hbWUgPSAnTFNfQ1JFQVRFRCcgQU5EIGNoYW5uZWwgPSAnRScpOwoKCklOU0VSVCBJTlRPIG5vdF9iZW51dHplcl9leGNsdXNpb24gKGlkLCBub3RfZXZlbnRfbmFtZSwgY2hhbm5lbCwgYmVuX2JlbnV0emVyX2lkLCBjcmVhdGlvbl9kYXRlKQpTRUxFQ1QgbmV4dHZhbCgnbm90aWZpY2F0aW9uX2V4Y2x1c2lvbl9zZXEnKSwgJ0xTX0NSRUFURURfVFJBTlNJVElPTicsICdFJywgYi5pZCwgY3VycmVudF90aW1lc3RhbXAKRlJPTSBiZW5fYmVudXR6ZXIgYgpXSEVSRSBiLnJvbF9yb2xlX2lkIElOICg3KQogIEFORCBiLmlkIE5PVCBJTiAoU0VMRUNUIGJlbl9iZW51dHplcl9pZCBGUk9NIG5vdF9iZW51dHplcl9leGNsdXNpb24gV0hFUkUgbm90X2V2ZW50X25hbWUgPSAnTFNfQ1JFQVRFRF9UUkFOU0lUSU9OJyBBTkQgY2hhbm5lbCA9ICdFJyk7CgoKSU5TRVJUIElOVE8gbm90X2JlbnV0emVyX2V4Y2x1c2lvbiAoaWQsIG5vdF9ldmVudF9uYW1lLCBjaGFubmVsLCBiZW5fYmVudXR6ZXJfaWQsIGNyZWF0aW9uX2RhdGUpClNFTEVDVCBuZXh0dmFsKCdub3RpZmljYXRpb25fZXhjbHVzaW9uX3NlcScpLCAnTFNfU0NIRURVTEVEX1RSQU5TSVRJT04nLCAnRScsIGIuaWQsIGN1cnJlbnRfdGltZXN0YW1wCkZST00gYmVuX2JlbnV0emVyIGIKV0hFUkUgYi5yb2xfcm9sZV9pZCBJTiAoNykKICBBTkQgYi5pZCBOT1QgSU4gKFNFTEVDVCBiZW5fYmVudXR6ZXJfaWQgRlJPTSBub3RfYmVudXR6ZXJfZXhjbHVzaW9uIFdIRVJFIG5vdF9ldmVudF9uYW1lID0gJ0xTX1NDSEVEVUxFRF9UUkFOU0lUSU9OJyBBTkQgY2hhbm5lbCA9ICdFJyk7CgoKSU5TRVJUIElOVE8gbm90X2JlbnV0emVyX2V4Y2x1c2lvbiAoaWQsIG5vdF9ldmVudF9uYW1lLCBjaGFubmVsLCBiZW5fYmVudXR6ZXJfaWQsIGNyZWF0aW9uX2RhdGUpClNFTEVDVCBuZXh0dmFsKCdub3RpZmljYXRpb25fZXhjbHVzaW9uX3NlcScpLCAnTkVfSU5TVEFMTEFUSU9OX1VTRVJfTUlTU0VEX1RSQU5TSVRJT04nLCAnRScsIGIuaWQsIGN1cnJlbnRfdGltZXN0YW1wCkZST00gYmVuX2JlbnV0emVyIGIKV0hFUkUgYi5yb2xfcm9sZV9pZCBJTiAoNykKICBBTkQgYi5pZCBOT1QgSU4gKFNFTEVDVCBiZW5fYmVudXR6ZXJfaWQgRlJPTSBub3RfYmVudXR6ZXJfZXhjbHVzaW9uIFdIRVJFIG5vdF9ldmVudF9uYW1lID0gJ05FX0lOU1RBTExBVElPTl9VU0VSX01JU1NFRF9UUkFOU0lUSU9OJyBBTkQgY2hhbm5lbCA9ICdFJyk7Cg==</text>
+        <text encoding="base64">CQkJYXNzZXJ0SW1wb3J0ZWRXYXJtd2Fzc2VyemFlaGxlck1lc3N1bmcoZ2VyYWV0LCAoV2FybXdhc3NlcnphZWhsZXJNZXNzdW5nKSBtZXNzdW5nZW4uZ2V0KDApLCAyNTYuNTlELCBkYXRlKCIwMS4wMS4yMDEyIDA5OjAwIiksIE1lc3N1bmdUeXAuSU1QT1JURURfV0VSVCk7CgkJCWFzc2VydEltcG9ydGVkV2FybXdhc3NlcnphZWhsZXJNZXNzdW5nKGdlcmFldCwgKFdhcm13YXNzZXJ6YWVobGVyTWVzc3VuZykgbWVzc3VuZ2VuLmdldCgyKSwgMzUwLjVELCBkYXRlKCIwMy4wMS4yMDEyIDA5OjE2IiksIE1lc3N1bmdUeXAuSU1QT1JURURfV0VSVCk7CgkJCWFzc2VydEltcG9ydGVkV2FybXdhc3NlcnphZWhsZXJNZXNzdW5nKGdlcmFldCwgKFdhcm13YXNzZXJ6YWVobGVyTWVzc3VuZykgbWVzc3VuZ2VuLmdldCgzKSwgMzAwRCwgZGF0ZSgiMDEuMDIuMjAxMiAwOToxNiIpLCBNZXNzdW5nVHlwLkFVVE9NQVRJU0NIKTsKCQkJYXNzZXJ0SW1wb3J0ZWRXYXJtd2Fzc2VyemFlaGxlck1lc3N1bmcoZ2VyYWV0LCAoV2FybXdhc3NlcnphZWhsZXJNZXNzdW5nKSBtZXNzdW5nZW4uZ2V0KDQpLCA0NTAuMkQsIGRhdGUoIjEyLjAyLjIwMjAgMTI6MDAiKSwgTWVzc3VuZ1R5cC5JTVBPUlRFRF9XRVJUKTsKCQkJYXNzZXJ0TGF0ZXN0TWVzc3VuZyhnZXJhZXQsIEJlcmVjaG51bmdVdGlsLmdldEFibGVzZXdlcnQoZ2VyYWV0LCA0NTAuMkQpLCBkYXRlKCIxMi4wMi4yMDIwIDEyOjAwIikpOwoJCQlhc3NlcnRFd0NhbmRpZGF0ZXMoZ2VyYWV0LmdldElkKCksIGRhdGUoIjAxLjAxLjIwMTIgMDk6MDAiKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
