@@ -129,12 +129,12 @@
         <mark key="." line="33" column="15" />
         <mark key="^" line="33" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1586914122755">
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1586914397013">
         <mark key="'" line="184" column="15" />
-        <mark key="[" line="243" column="1" />
-        <mark key="]" line="243" column="212" />
-        <mark key="." line="242" column="0" />
-        <mark key="^" line="242" column="27" />
+        <mark key="[" line="243" column="212" />
+        <mark key="]" line="244" column="59" />
+        <mark key="." line="244" column="58" />
+        <mark key="^" line="244" column="59" />
       </file>
       <file name="/console" timestamp="1586905039025">
         <mark key="[" line="0" column="0" />
@@ -143,18 +143,18 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="31391" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" timestamp="1586912786339">
-        <mark key="'" line="196" column="8" />
-        <mark key="[" line="211" column="3" />
-        <mark key="]" line="211" column="3" />
-        <mark key="." line="211" column="3" />
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" timestamp="1586914780811">
+        <mark key="'" line="205" column="2" />
+        <mark key="[" line="174" column="0" />
+        <mark key="]" line="174" column="0" />
+        <mark key="." line="174" column="0" />
       </file>
       <file name="/a.sql" timestamp="1586859783349">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1586914119674">
+      <file name="/Dummy.scala" timestamp="1586914219542">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="205" />
+        <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/tools/comparison/script.sql" timestamp="1586861696569">
@@ -219,7 +219,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="5" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/geraet/rest/GeraetRestEndpointTest.java" />
       <jump line="465" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/geraet/rest/GeraetRestEndpointTest.java" />
       <jump line="55" column="32" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/geraet/rest/GeraetRestEndpointTest.java" />
       <jump line="464" column="22" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/geraet/rest/GeraetRestEndpointTest.java" />
@@ -319,12 +318,13 @@
       <jump line="259" column="2" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="19" column="27" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="193" column="15" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
+      <jump line="211" column="2" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">bC5tYXAoXy5tYXAoaW5kZXhlcyA9PiBpbmRleGVzLnRvTGlzdC5tYXAob2NjdXJlbmNlcykuZ3JvdXBCeShfLl8xKS52aWV3Lm1hcFZhbHVlcyhfLm1hcChfLl8yKS5zdW0pLnRvTGlzdC5zb3J0ZWQpLm1hcChkaWN0aW9uYXJ5QnlPY2N1cnJlbmNlcykudG9MaXN0KS5maWx0ZXIoIV8uY29udGFpbnMoTmlsKSkudG9MaXN0LnBhcnRpdGlvbihfLnNpemUgPT0gMSk=</text>
+        <text encoding="base64">ICBAVGVzdCBkZWYgYHN0ZXAgbWVyZ2Ugc2FtZSBzaW5nbGVzYDogVW5pdCA9IHsKICAgIHZhbCBwcmV2aW91cyA9IExpc3QoTGlzdCgoJ2EnLCAxKSksIExpc3QoKCdhJywgMSkpKQogICAgdmFsIHJlcyA9IExpc3QoTGlzdCgoJ2EnLCAyKSkpCiAgICBhc3NlcnRFcXVhbHMocmVzLCBzdGVwTWVyZ2UocHJldmlvdXMpKQogIH0KCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -336,34 +336,34 @@
         <text encoding="base64">bC5tYXAoXy5tYXAoaW5kZXhlcyA9PiBpbmRleGVzLnRvTGlzdC5tYXAob2NjdXJlbmNlcykuZ3JvdXBCeShfLl8xKS52aWV3Lm1hcFZhbHVlcyhfLm1hcChfLl8yKS5zdW0pLnRvTGlzdC5zb3J0ZWQpLm1hcChkaWN0aW9uYXJ5QnlPY2N1cnJlbmNlcykudG9MaXN0KS5maWx0ZXIoIV8uY29udGFpbnMoTmlsKSkudG9MaXN0LnBhcnRpdGlvbihfLnNpemUgPT0gMSk=</text>
       </register>
       <register name="1" type="2">
-        <text>l</text>
+        <text encoding="base64">ICBAVGVzdCBkZWYgYHN0ZXAgbWVyZ2Ugc2FtZSBzaW5nbGVzYDogVW5pdCA9IHsKICAgIHZhbCBwcmV2aW91cyA9IExpc3QoTGlzdCgoJ2EnLCAxKSksIExpc3QoKCdhJywgMSkpKQogICAgdmFsIHJlcyA9IExpc3QoTGlzdCgoJ2EnLCAyKSkpCiAgICBhc3NlcnRFcXVhbHMocmVzLCBzdGVwTWVyZ2UocHJldmlvdXMpKQogIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">bWFwKGwgPT4gaWYgKGwuc2l6ZSAhPSAxKSBsLmZsYXRNYXAoXy5wZXJtdXRhdGlvbnMpIGVsc2UgbCkubWFwKF8uZmxhdHRlbikK</text>
+      <register name="2" type="2">
+        <text>splits.flatten.flatten.isInstanceOf[Sentence]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ewogICAgICBfLm1hcChpbmRleGVzID0+IGluZGV4ZXMudG9MaXN0Lm1hcChvY2N1cmVuY2VzKS5ncm91cEJ5KF8uXzEpLnZpZXcubWFwVmFsdWVzKF8ubWFwKF8uXzIpLnN1bSkudG9MaXN0KQogICAgICAgIC5tYXAoZGljdGlvbmFyeUJ5T2NjdXJyZW5jZXMpCiAgICB9</text>
+        <text>l</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CgogIGRlZiBjb21iKGw6IExpc3RbTGlzdFtTdHJpbmddXSk6IExpc3RbTGlzdFtTdHJpbmddXSA9IHsKICAgIGlmIChsLnNpemUgPT0gMSkgbAogICAgZWxzZSBmb3IgewogICAgICBoZWFkIDwtIGwuaGVhZAogICAgICByZXN0IDwtIGNvbWIobC50YWlsKQogICAgfSB5aWVsZCBoZWFkIDo6IHJlc3QKICB9</text>
+        <text encoding="base64">bWFwKGwgPT4gaWYgKGwuc2l6ZSAhPSAxKSBsLmZsYXRNYXAoXy5wZXJtdXRhdGlvbnMpIGVsc2UgbCkubWFwKF8uZmxhdHRlbikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbmRpY2VzID0gcy50b0xpc3QuaW5kaWNlcy50b1NldAo=</text>
+        <text encoding="base64">ewogICAgICBfLm1hcChpbmRleGVzID0+IGluZGV4ZXMudG9MaXN0Lm1hcChvY2N1cmVuY2VzKS5ncm91cEJ5KF8uXzEpLnZpZXcubWFwVmFsdWVzKF8ubWFwKF8uXzIpLnN1bSkudG9MaXN0KQogICAgICAgIC5tYXAoZGljdGlvbmFyeUJ5T2NjdXJyZW5jZXMpCiAgICB9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="6" type="4">
+        <text encoding="base64">CgogIGRlZiBjb21iKGw6IExpc3RbTGlzdFtTdHJpbmddXSk6IExpc3RbTGlzdFtTdHJpbmddXSA9IHsKICAgIGlmIChsLnNpemUgPT0gMSkgbAogICAgZWxzZSBmb3IgewogICAgICBoZWFkIDwtIGwuaGVhZAogICAgICByZXN0IDwtIGNvbWIobC50YWlsKQogICAgfSB5aWVsZCBoZWFkIDo6IHJlc3QKICB9</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgeCA8LSBsCiAgICAgIHkgPC0gbAo=</text>
+        <text encoding="base64">ICAgIHZhbCBpbmRpY2VzID0gcy50b0xpc3QuaW5kaWNlcy50b1NldAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciB7CiAgICAgIGwgPC0gcy56aXBXaXRoSW5kZXgK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gIH0K</text>
+        <text encoding="base64">ICAgICAgeCA8LSBsCiAgICAgIHkgPC0gbAo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
