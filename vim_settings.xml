@@ -129,12 +129,12 @@
         <mark key="." line="33" column="15" />
         <mark key="^" line="33" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1586914397013">
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1586915447416">
         <mark key="'" line="184" column="15" />
-        <mark key="[" line="243" column="212" />
-        <mark key="]" line="244" column="59" />
-        <mark key="." line="244" column="58" />
-        <mark key="^" line="244" column="59" />
+        <mark key="[" line="244" column="18" />
+        <mark key="]" line="244" column="42" />
+        <mark key="." line="244" column="18" />
+        <mark key="^" line="244" column="26" />
       </file>
       <file name="/console" timestamp="1586905039025">
         <mark key="[" line="0" column="0" />
@@ -152,10 +152,10 @@
       <file name="/a.sql" timestamp="1586859783349">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1586914219542">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.scala" timestamp="1586915440124">
+        <mark key="[" line="0" column="14" />
+        <mark key="]" line="0" column="37" />
+        <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/tools/comparison/script.sql" timestamp="1586861696569">
         <mark key="[" line="335" column="0" />
@@ -323,17 +323,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICBAVGVzdCBkZWYgYHN0ZXAgbWVyZ2Ugc2FtZSBzaW5nbGVzYDogVW5pdCA9IHsKICAgIHZhbCBwcmV2aW91cyA9IExpc3QoTGlzdCgoJ2EnLCAxKSksIExpc3QoKCdhJywgMSkpKQogICAgdmFsIHJlcyA9IExpc3QoTGlzdCgoJ2EnLCAyKSkpCiAgICBhc3NlcnRFcXVhbHMocmVzLCBzdGVwTWVyZ2UocHJldmlvdXMpKQogIH0KCg==</text>
+      <register name="*" type="4">
+        <text>.flatMap(_.map(List(_)))</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>.flatten :: splits.flatMap(combWithPerm).flatten</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bC5tYXAoXy5tYXAoaW5kZXhlcyA9PiBpbmRleGVzLnRvTGlzdC5tYXAob2NjdXJlbmNlcykuZ3JvdXBCeShfLl8xKS52aWV3Lm1hcFZhbHVlcyhfLm1hcChfLl8yKS5zdW0pLnRvTGlzdC5zb3J0ZWQpLm1hcChkaWN0aW9uYXJ5QnlPY2N1cnJlbmNlcykudG9MaXN0KS5maWx0ZXIoIV8uY29udGFpbnMoTmlsKSkudG9MaXN0LnBhcnRpdGlvbihfLnNpemUgPT0gMSk=</text>
+      <register name="0" type="4">
+        <text>.flatMap(_.map(List(_)))</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBAVGVzdCBkZWYgYHN0ZXAgbWVyZ2Ugc2FtZSBzaW5nbGVzYDogVW5pdCA9IHsKICAgIHZhbCBwcmV2aW91cyA9IExpc3QoTGlzdCgoJ2EnLCAxKSksIExpc3QoKCdhJywgMSkpKQogICAgdmFsIHJlcyA9IExpc3QoTGlzdCgoJ2EnLCAyKSkpCiAgICBhc3NlcnRFcXVhbHMocmVzLCBzdGVwTWVyZ2UocHJldmlvdXMpKQogIH0KCg==</text>
