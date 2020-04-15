@@ -129,12 +129,12 @@
         <mark key="." line="33" column="15" />
         <mark key="^" line="33" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1586920076803">
-        <mark key="'" line="300" column="36" />
-        <mark key="[" line="7" column="4" />
-        <mark key="]" line="7" column="408" />
-        <mark key="." line="7" column="4" />
-        <mark key="^" line="7" column="320" />
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" timestamp="1586920175988">
+        <mark key="'" line="301" column="36" />
+        <mark key="[" line="7" column="479" />
+        <mark key="]" line="7" column="68" />
+        <mark key="." line="7" column="67" />
+        <mark key="^" line="7" column="68" />
       </file>
       <file name="/console" timestamp="1586905039025">
         <mark key="[" line="0" column="0" />
@@ -143,11 +143,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" timestamp="1586920127669">
-        <mark key="[" line="195" column="32" />
-        <mark key="]" line="195" column="56" />
-        <mark key="." line="195" column="32" />
-        <mark key="^" line="195" column="32" />
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" timestamp="1586921151672">
+        <mark key="[" line="195" column="12" />
+        <mark key="]" line="195" column="34" />
+        <mark key="." line="195" column="12" />
+        <mark key="^" line="196" column="33" />
       </file>
       <file name="/a.sql" timestamp="1586859783349">
         <mark key="[" line="0" column="0" />
@@ -327,13 +327,13 @@
         <text>List(&quot;I&quot;, &quot;love&quot;, &quot;you&quot;)</text>
       </register>
       <register name="-" type="4">
-        <text>List(List(&quot;you&quot;, &quot;Lev&quot;, Io), List(&quot;you&quot;, Io, &quot;Lev&quot;), List(&quot;Lev&quot;, &quot;you&quot;, Io), List(&quot;Lev&quot;, Io, &quot;you&quot;), List(Io, &quot;you&quot;, &quot;Lev&quot;), List(Io, &quot;Lev&quot;, &quot;you&quot;), List(&quot;you&quot;, &quot;Lev&quot;, Io), List(&quot;you&quot;, Io, &quot;Lev&quot;), List(&quot;Lev&quot;, &quot;you&quot;, Io), List(&quot;Lev&quot;, Io, &quot;you&quot;), List(Io, &quot;you&quot;, &quot;Lev&quot;), List(Io, &quot;Lev&quot;, &quot;you&quot;), List(olive, &quot;you&quot;), List(&quot;you&quot;, olive), List(olive, &quot;you&quot;), List(&quot;you&quot;, olive))</text>
+        <text>List(&quot;I&quot;, &quot;love&quot;, &quot;you&quot;)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>List(&quot;I&quot;, &quot;love&quot;, &quot;you&quot;)</text>
+        <text>List(&quot;Linux&quot;, &quot;rulez&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
