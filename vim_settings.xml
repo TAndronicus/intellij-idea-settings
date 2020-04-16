@@ -127,12 +127,12 @@
       <file name="/Dummy.txt" timestamp="1586948524973">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/main/java/com/qivalo/portal/core/service/GeraetSyncHelper.java" timestamp="1587001940267">
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/main/java/com/qivalo/portal/core/service/GeraetSyncHelper.java" timestamp="1587007182489">
         <mark key="'" line="320" column="30" />
-        <mark key="[" line="323" column="74" />
-        <mark key="]" line="323" column="78" />
-        <mark key="^" line="323" column="78" />
-        <mark key="." line="323" column="77" />
+        <mark key="[" line="321" column="62" />
+        <mark key="]" line="321" column="63" />
+        <mark key="^" line="322" column="46" />
+        <mark key="." line="321" column="63" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" timestamp="1586947395877">
         <mark key="[" line="301" column="12" />
@@ -142,6 +142,16 @@
       </file>
       <file name="/console" timestamp="1586992797426">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1587007028688">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/test/java/com/qivalo/portal/core/GeraetSyncHelperTest.java" timestamp="1587008309315">
+        <mark key="'" line="325" column="26" />
+        <mark key="[" line="318" column="0" />
+        <mark key="]" line="318" column="0" />
+        <mark key="^" line="319" column="47" />
+        <mark key="." line="318" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1586998656142">
         <mark key="'" line="238" column="19" />
@@ -204,9 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="49" filename="$USER_HOME$/Workspace/JVM/progfun2/streams/src/main/scala/streams/GameDef.scala" />
-      <jump line="128" column="4" filename="$USER_HOME$/Workspace/JVM/progfun2/streams/src/main/scala/streams/GameDef.scala" />
-      <jump line="15" column="52" filename="$USER_HOME$/Workspace/JVM/progfun2/streams/src/test/scala/streams/BloxorzSuite.scala" />
       <jump line="99" column="0" filename="$USER_HOME$/Workspace/JVM/progfun2/streams/src/test/scala/streams/BloxorzSuite.scala" />
       <jump line="261" column="15" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/messung/rest/MessungRestEndpointTest.java" />
       <jump line="620" column="8" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/messung/rest/MessungRestEndpointTest.java" />
@@ -304,54 +311,57 @@
       <jump line="279" column="76" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" />
       <jump line="31" column="13" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" />
       <jump line="328" column="30" filename="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/main/java/com/qivalo/portal/core/service/GeraetSyncHelper.java" />
+      <jump line="319" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/test/java/com/qivalo/portal/core/GeraetSyncHelperTest.java" />
+      <jump line="587" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/test/java/com/qivalo/portal/core/GeraetSyncHelperTest.java" />
+      <jump line="325" column="26" filename="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/test/java/com/qivalo/portal/core/GeraetSyncHelperTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>)</text>
+      <register name="*" type="2">
+        <text encoding="base64">CS8vIFRPRE8tMTgzMgo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>CreateNewAndMergeAndDeleteGeraete</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>commonMessungCustomRepository.isGeraetLocked(age.getEinbauDatum().atStartOfDay(), ge.getId()),</text>
+        <text encoding="base64">CgoJLy8gVE9ETy0xODMyCglAVGVzdAoJdm9pZCBzeW5jU2hvdWxkQ3JlYXRlTmV3QW5kTWVyZ2VBbmREZWxldGVHZXJhZXRlKCkgewoJCXN5bmNHZXJhZXRlKCk7CgkJd2l0aFRyYW5zYWN0aW9uKCgpIC0+IHsKCQkJT3B0aW9uYWw8TnV0emVpbmhlaXQ+IG5lID0gZ2V0TnV0emVpbmhlaXQoTlRaX0FOVF9JRCk7CgkJCUxpc3Q8R2VyYWV0PiBnZXMgPSBnZXRHZXJhZXRlKG5lLmdldCgpKTsKCgkJCWFzc2VydFRoYXQoZ2VzLnNpemUoKSwgaXMoMykpOwoJCQlhc3NlcnRUaGF0KGdlcy5nZXQoMCkuZ2V0R2VyYWV0ZU5yKCksIGlzKGdlMS5nZXRHZXJhZXRlTnIoKSkpOwoJCQlhc3NlcnRUaGF0KGdlcy5nZXQoMSkuZ2V0R2VyYWV0ZU5yKCksIGlzKGdlMi5nZXRHZXJhZXRlTnIoKSkpOwoKCQkJR2VyYWV0IGdlMSA9IGdSZXBvLmZpbmRCeUlkKGdlcy5nZXQoMCkuZ2V0SWQoKSkub3JFbHNlKG51bGwpOwoJCQlhc3NlcnROb3ROdWxsKGdlMSk7CgkJCWFzc2VydFRoYXQoZ2UxLmdldEdlcmFldFR5cCgpLmdldElkKCksIGlzKDNMKSk7CgkJCWFzc2VydFRoYXQoZ2UxLmdldEVpbmJhdU1lc3N3ZXJ0KCksIGlzKDAuMUYpKTsKCQkJYXNzZXJ0TnVsbChnZTEuZ2V0RWluYmF1RGF0dW0oKSk7CgkJCWFzc2VydFRoYXQoZ2UxLmdldEVpY2hqYWhyKCksIGlzKDIwNTApKTsKCQkJYXNzZXJ0VGhhdChnZTEuZ2V0UnVlY2tzdGFuZFZvbigpLCBudWxsVmFsdWUoKSk7CgoJCQlHZXJhZXQgZ2UyID0gZ1JlcG8uZmluZEJ5SWQoZ2VzLmdldCgxKS5nZXRJZCgpKS5vckVsc2UobnVsbCk7CgkJCWFzc2VydE5vdE51bGwoZ2UyKTsKCQkJYXNzZXJ0VGhhdChnZTIuZ2V0R2VyYWV0VHlwKCkuZ2V0SWQoKSwgaXMoNEwpKTsKCQkJYXNzZXJ0TnVsbChnZTIuZ2V0RWluYmF1RGF0dW0oKSk7CgkJCWFzc2VydE51bGwoZ2UyLmdldEdlcmFldEltcHVsc2Zha3RvcigpKTsKCQkJYXNzZXJ0TnVsbChnZTIuZ2V0RWljaGphaHIoKSk7CgkJCWFzc2VydE51bGwoZ2UyLmdldFJ1ZWNrc3RhbmRWb24oKSk7CgoJCQlHZXJhZXQgZ2UzID0gZ1JlcG8uZmluZEJ5SWQoZ2VzLmdldCgyKS5nZXRJZCgpKS5vckVsc2UobnVsbCk7CgkJCWFzc2VydE5vdE51bGwoZ2UyKTsKCQkJYXNzZXJ0VGhhdChnZTMuZ2V0R2VyYWV0VHlwKCkuZ2V0SWQoKSwgaXMoNkwpKTsKCQkJYXNzZXJ0VGhhdChnZTMuZ2V0RWluYmF1RGF0dW0oKSwgaXMoTG9jYWxEYXRlLm9mKDIwMTksIDIsIDEwKSkpOwoJCQlhc3NlcnRUaGF0KGdlMy5nZXRFaW5iYXVNZXNzd2VydCgpLCBpcygwLjBGKSk7CgkJCWFzc2VydFRoYXQoZ2UzLmdldEF1c2JhdURhdHVtKCksIGlzKExvY2FsRGF0ZS5vZigyMDE5LCA2LCAxMCkpKTsKCQkJYXNzZXJ0VGhhdChnZTMuZ2V0QXVzYmF1TWVzc3dlcnQoKSwgaXMoOTUwLjBGKSk7CgkJCWFzc2VydE51bGwoZ2UzLmdldEdlcmFldEltcHVsc2Zha3RvcigpKTsKCQkJYXNzZXJ0TnVsbChnZTMuZ2V0RWljaGphaHIoKSk7CgoJCQlhc3NlcnRHYXRld2F5cygpOwoJCX0pOwoJfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CS8vIFRPRE8tMTgzMgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">CQkJCg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CgkJCW5vdGlmaWNhdGlvbkNlbnRlci5ub3RpZnkoCgkJCQkJTm90aWZpY2F0aW9uRXZlbnQuR0VfTkVXX1ZBTFVFU19GT1JfTE9DS0VEX1RJTUVTUEFOLAoJCQkJCWdlcmFldCwKCQkJCQlOb3RpZmljYXRpb25UYXJnZXRTb3VyY2VEVE8uZnJvbVJvbGVOYW1lcyhSb2xlLk5hbWUuQURNSU5JU1RSQVRPUiksCgkJCQkJbnVsbCwKCQkJCQlNYXAub2YoInF1ZWxsZSIsIEpvYk5hbWVzQ29uZmlnLkFOVEFTX1VQREFURV9UQVNLKSwKCQkJCQludWxsCgkJCQkpOw==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">c2hvdyBqaXQ7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArLS0tLS0tLS0tLS0tLSsKCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICB8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfA==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>+-------------+
                                     |ger_geraet_id|
                                 +-------------+
                                     |</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUgdm9pZCBjbGVhckxvY2tzKCkgewoJfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
