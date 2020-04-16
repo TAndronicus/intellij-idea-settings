@@ -117,12 +117,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587020042461">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587022104369">
         <mark key="'" line="584" column="27" />
-        <mark key="[" line="876" column="28" />
-        <mark key="]" line="878" column="15" />
-        <mark key="." line="878" column="14" />
-        <mark key="^" line="878" column="15" />
+        <mark key="[" line="883" column="32" />
+        <mark key="]" line="883" column="31" />
+        <mark key="." line="883" column="30" />
+        <mark key="^" line="883" column="31" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtkFileExportRestEndpointTest.java" timestamp="1587011031549">
         <mark key="'" line="37" column="13" />
@@ -193,11 +193,12 @@
         <mark key="." line="362" column="17" />
         <mark key="^" line="362" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587020076627">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587021490866">
         <mark key="'" line="238" column="19" />
-        <mark key="[" line="234" column="0" />
-        <mark key="]" line="234" column="0" />
-        <mark key="." line="234" column="0" />
+        <mark key="[" line="231" column="16" />
+        <mark key="]" line="237" column="33" />
+        <mark key="." line="237" column="32" />
+        <mark key="^" line="237" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1587001010644">
         <mark key="'" line="31" column="13" />
@@ -326,10 +327,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>immutable.ArraySeq.unsafeWrapArray(varars)</text>
+        <text>vb</text>
       </register>
       <register name="-" type="4">
-        <text>immutable.ArraySeq.unsafeWrapArray(varars)</text>
+        <text>vb</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
