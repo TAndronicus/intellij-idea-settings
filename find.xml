@@ -22,7 +22,7 @@
     <mask>*.html</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
-    <mask>*.ts</mask>
     <mask>*.gradle</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
