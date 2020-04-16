@@ -117,12 +117,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1586993901157">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1586994090956">
         <mark key="'" line="584" column="27" />
         <mark key="[" line="875" column="16" />
-        <mark key="]" line="875" column="16" />
-        <mark key="." line="875" column="16" />
-        <mark key="^" line="880" column="20" />
+        <mark key="]" line="884" column="13" />
+        <mark key="." line="884" column="12" />
+        <mark key="^" line="884" column="13" />
       </file>
       <file name="/Dummy.txt" timestamp="1586948524973">
         <mark key="[" line="0" column="0" />
@@ -142,9 +142,9 @@
       <file name="/console" timestamp="1586992797426">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1586953607103">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1586998656142">
         <mark key="'" line="238" column="19" />
-        <mark key="[" line="231" column="16" />
+        <mark key="[" line="229" column="95" />
         <mark key="]" line="231" column="22" />
         <mark key="." line="231" column="21" />
         <mark key="^" line="231" column="22" />
@@ -169,6 +169,7 @@
         <mark key="^" line="140" column="0" />
         <mark key="." line="140" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1586993938873" />
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__vb_2_functions.sql" timestamp="1586943194954">
         <mark key="'" line="306" column="52" />
         <mark key="[" line="413" column="61" />
