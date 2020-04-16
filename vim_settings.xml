@@ -127,11 +127,12 @@
       <file name="/Dummy.txt" timestamp="1586948524973">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/main/java/com/qivalo/portal/core/service/GeraetSyncHelper.java" timestamp="1587000132186">
-        <mark key="[" line="215" column="58" />
-        <mark key="]" line="288" column="30" />
-        <mark key="^" line="288" column="30" />
-        <mark key="." line="288" column="29" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/main/java/com/qivalo/portal/core/service/GeraetSyncHelper.java" timestamp="1587001940267">
+        <mark key="'" line="320" column="30" />
+        <mark key="[" line="323" column="74" />
+        <mark key="]" line="323" column="78" />
+        <mark key="^" line="323" column="78" />
+        <mark key="." line="323" column="77" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" timestamp="1586947395877">
         <mark key="[" line="301" column="12" />
@@ -162,6 +163,13 @@
       <file name="/08_insert_notifications.sql" timestamp="1586947149033">
         <mark key="[" line="426" column="122" />
         <mark key="]" line="441" column="121" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyUpdateBatchService.java" timestamp="1587000447122">
+        <mark key="[" line="93" column="31" />
+        <mark key="]" line="100" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1587001010644">
+        <mark key="'" line="31" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/notification/rest/NotificationConfigRestEndpointTest.java" timestamp="1586948512563">
         <mark key="[" line="138" column="23" />
@@ -196,8 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="4" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/messung/rest/MessungRestEndpointTest.java" />
-      <jump line="148" column="26" filename="$USER_HOME$/Workspace/JVM/progfun2/streams/src/main/scala/streams/GameDef.scala" />
       <jump line="81" column="49" filename="$USER_HOME$/Workspace/JVM/progfun2/streams/src/main/scala/streams/GameDef.scala" />
       <jump line="128" column="4" filename="$USER_HOME$/Workspace/JVM/progfun2/streams/src/main/scala/streams/GameDef.scala" />
       <jump line="15" column="52" filename="$USER_HOME$/Workspace/JVM/progfun2/streams/src/test/scala/streams/BloxorzSuite.scala" />
@@ -296,59 +302,56 @@
       <jump line="266" column="62" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" />
       <jump line="276" column="64" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" />
       <jump line="279" column="76" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" />
+      <jump line="31" column="13" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" />
+      <jump line="328" column="30" filename="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/main/java/com/qivalo/portal/core/service/GeraetSyncHelper.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>17827539</text>
+        <text>commonMessungCustomRepository.isGeraetLocked(age.getEinbauDatum().atStartOfDay(), ge.getId()),</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">c2hvdyBqaXQ7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgkJCW5vdGlmaWNhdGlvbkNlbnRlci5ub3RpZnkoCgkJCQkJTm90aWZpY2F0aW9uRXZlbnQuR0VfTkVXX1ZBTFVFU19GT1JfTE9DS0VEX1RJTUVTUEFOLAoJCQkJCWdlcmFldCwKCQkJCQlOb3RpZmljYXRpb25UYXJnZXRTb3VyY2VEVE8uZnJvbVJvbGVOYW1lcyhSb2xlLk5hbWUuQURNSU5JU1RSQVRPUiksCgkJCQkJbnVsbCwKCQkJCQlNYXAub2YoInF1ZWxsZSIsIEpvYk5hbWVzQ29uZmlnLkFOVEFTX1VQREFURV9UQVNLKSwKCQkJCQludWxsCgkJCQkpOw==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">c2hvdyBqaXQ7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICArLS0tLS0tLS0tLS0tLSsKCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICB8CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>+-------------+
                                     |ger_geraet_id|
                                 +-------------+
                                     |</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CXByaXZhdGUgdm9pZCBjbGVhckxvY2tzKCkgewoJfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlhc3NlcnROb3RpZmljYXRpb25NZXNzYWdlKAoJCQkiSW1wb3J0aWVydGUgTWVzc3dlcnRlIG5pY2h0IGdlc3BlaWNoZXJ0IiwKCQkJIkbDvHIgZGFzIEdlcsOkdCAxMDAwIGluIE51dHplaW5oZWl0IHtuZU5yfSBkZXIgTGllZ2Vuc2NoYWZ0IDMwMDEgd3VyZGVuIHZlcnN1Y2h0LCBNZXNzd2VydGUgenUgaW1wb3J0aWVyZW4sIGRpZSBpbiBlaW5lbiBnZXNwZXJydGVuIEFicmVjaG51bmdzemVpdHJhdW0gZmFsbGVuLiBEaWUgTWVzc3dlcnRlIGtvbm50ZW4gZGFoZXIgbmljaHQgZ2VzcGVpY2hlcnQgd2VyZGVuLiBRdWVsbGUgZGVyIERhdGVuOiB7Q1NWLUltcG9ydH0uIiwKCQkJMTAwMEwsCgkJCUdFUkFFVAoJCSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text>assertNotificationMessage(
-			&quot;Importierte Messwerte nicht gespeichert&quot;,
-			&quot;Für das Gerät 1000 in Nutzeinheit {neNr} der Liegenschaft 3001 wurden versucht, Messwerte zu importieren, die in einen gesperrten Abrechnungszeitraum fallen. Die Messwerte konnten daher nicht gespeichert werden. Quelle der Daten: {CSV-Import}.&quot;,
-			1000L,
-			GERAET
-		)</text>
+        <text encoding="base64">CXByaXZhdGUgdm9pZCBjbGVhckxvY2tzKCkgewoJfQo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
