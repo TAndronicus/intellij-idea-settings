@@ -117,26 +117,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonAbstractManualMessungRepository.java" timestamp="1587034655196">
-        <mark key="[" line="15" column="75" />
-        <mark key="]" line="17" column="61" />
-        <mark key="^" line="17" column="61" />
-        <mark key="." line="17" column="60" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonGaszaehlerManualMessungRepository.java" timestamp="1587039391767">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="19" column="28" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonGaszaehlerManualMessungRepository.java" timestamp="1587099873579">
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
         <mark key="^" line="19" column="29" />
       </file>
       <file name="/console" timestamp="1587092927749">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/geraetekatalog/rest/GeraetTypMappingRestEndpointTest.java" timestamp="1587039541722">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="139" column="15" />
-        <mark key="^" line="139" column="15" />
-        <mark key="." line="139" column="14" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/geraetekatalog/rest/GeraetTypMappingRestEndpointTest.java" timestamp="1587101289512">
+        <mark key="'" line="185" column="8" />
+        <mark key="[" line="222" column="14" />
+        <mark key="]" line="222" column="17" />
+        <mark key="." line="222" column="16" />
+        <mark key="^" line="222" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/service/CommonAbstractManualMessungService.java" timestamp="1587038188033">
         <mark key="[" line="44" column="96" />
@@ -144,22 +139,22 @@
         <mark key="^" line="44" column="114" />
         <mark key="." line="44" column="113" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonWarmwasserzaehlerManualMessungRepository.java" timestamp="1587039407873">
-        <mark key="[" line="18" column="27" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="28" />
-        <mark key="^" line="18" column="29" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonHeizkostenverteilerManualMessungRepository.java" timestamp="1587039400990">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="29" />
-        <mark key="^" line="21" column="29" />
-        <mark key="." line="21" column="28" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonKaltwasserzaehlerManualMessungRepository.java" timestamp="1587039424536">
-        <mark key="[" line="19" column="27" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonWarmwasserzaehlerManualMessungRepository.java" timestamp="1587099911654">
+        <mark key="[" line="15" column="0" />
         <mark key="]" line="19" column="29" />
         <mark key="." line="19" column="28" />
+        <mark key="^" line="19" column="29" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonHeizkostenverteilerManualMessungRepository.java" timestamp="1587099881323">
+        <mark key="[" line="32" column="22" />
+        <mark key="]" line="32" column="23" />
+        <mark key="^" line="21" column="29" />
+        <mark key="." line="32" column="23" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonKaltwasserzaehlerManualMessungRepository.java" timestamp="1587099853792">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
         <mark key="^" line="19" column="29" />
       </file>
       <file name="/a.sql" timestamp="1587094905296">
@@ -168,19 +163,19 @@
       <file name="/dumpDataPreview" timestamp="1587094745825">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonStromzaehlerManualMessungRepository.java" timestamp="1587039438758">
-        <mark key="[" line="21" column="27" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="21" column="28" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonStromzaehlerManualMessungRepository.java" timestamp="1587099838353">
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="30" column="23" />
+        <mark key="." line="30" column="23" />
         <mark key="^" line="21" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587037791217">
+      <file name="/Dummy.txt" timestamp="1587101391042">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonWaermemengenzaehlerManualMessungRepository.java" timestamp="1587039432309">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="19" column="28" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonWaermemengenzaehlerManualMessungRepository.java" timestamp="1587099895578">
+        <mark key="[" line="29" column="22" />
+        <mark key="]" line="29" column="23" />
+        <mark key="." line="29" column="23" />
         <mark key="^" line="19" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587098424737">
@@ -201,23 +196,23 @@
         <mark key="]" line="429" column="16" />
         <mark key="." line="429" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonOelGeraetManualMessungRepository.java" timestamp="1587039416311">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="19" column="30" />
-        <mark key="." line="19" column="29" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonOelGeraetManualMessungRepository.java" timestamp="1587099845904">
+        <mark key="[" line="30" column="22" />
+        <mark key="]" line="30" column="23" />
+        <mark key="." line="30" column="23" />
         <mark key="^" line="19" column="30" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587036687505">
-        <mark key="'" line="3231" column="32" />
-        <mark key="[" line="3667" column="9" />
-        <mark key="]" line="3667" column="80" />
-        <mark key="." line="3665" column="10" />
-        <mark key="^" line="3667" column="81" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/geraetekatalog/service/GeraetTypMappingService.java" timestamp="1587099929623">
+        <mark key="[" line="112" column="59" />
+        <mark key="]" line="112" column="59" />
+        <mark key="^" line="112" column="61" />
+        <mark key="." line="112" column="59" />
+      </file>
+      <file name="/fragment.java" timestamp="1587100467265">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="246" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/messung/rest/MessungRestEndpointTest.java" />
-      <jump line="95" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/geraet/geraet-values-table/geraet-values-table.component.ts" />
       <jump line="2127" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="81" column="11" filename="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" />
       <jump line="82" column="4" filename="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" />
@@ -316,55 +311,53 @@
       <jump line="20" column="0" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="3231" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="64" column="65" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" />
+      <jump line="184" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/geraetekatalog/rest/GeraetTypMappingRestEndpointTest.java" />
+      <jump line="185" column="8" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/geraetekatalog/rest/GeraetTypMappingRestEndpointTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>(</text>
+        <text encoding="base64">CgoJcHJpdmF0ZSB2b2lkIGFzc2VydFJlY2FsY3VsYXRlZChsb25nIG1lc3N1bmdJZCkgewoJCXZhciBnZXJhZXREaU1lc3N1bmcgPSAoV2Flcm1lbWVuZ2VuemFlaGxlck1lc3N1bmcpIG1lc3N1bmdSZXBvc2l0b3J5LmZpbmRCeUlkKG1lc3N1bmdJZCkub3JFbHNlVGhyb3coKTsKCQkvLyB1cGRhdGVkCgkJYXNzZXJ0RXF1YWxzKDMwMGQsIGdlcmFldERpTWVzc3VuZy5nZXRFbmVyZ3koKSk7CgkJYXNzZXJ0RXF1YWxzKDYyZCwgZ2VyYWV0RGlNZXNzdW5nLmdldEZsb3dUZW1wZXJhdHVyZSgpKTsKCX0=</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICBzZWxlY3QgZ2cubGllX2xpZWdlbnNjaGFmdF9pZAogICAgZnJvbSBnZXJfZ2VyYWV0IGdnCiAgICB3aGVyZSBnZy5pZCBpbiAoMjM3Njc4OTMsIDIzNzY3ODg3LCAxODIzMjg0MCk=</text>
+        <text encoding="base64">CgoJcHJpdmF0ZSB2b2lkIGFzc2VydE5vdFJlY2FsY3VsYXRlZChsb25nIG1lc3N1bmdJZCkgewoJCXZhciBnZXJhZXREaU1lc3N1bmcgPSAoV2Flcm1lbWVuZ2VuemFlaGxlck1lc3N1bmcpIG1lc3N1bmdSZXBvc2l0b3J5LmZpbmRCeUlkKG1lc3N1bmdJZCkub3JFbHNlVGhyb3coKTsKCQkvLyB1cGRhdGVkCgkJYXNzZXJ0Tm90RXF1YWxzKDMwMGQsIGdlcmFldERpTWVzc3VuZy5nZXRFbmVyZ3koKSk7CgkJYXNzZXJ0Tm90RXF1YWxzKDYyZCwgZ2VyYWV0RGlNZXNzdW5nLmdldEZsb3dUZW1wZXJhdHVyZSgpKTsKCQkvLyBub3QgdXBkYXRlZCAtIG5vdCByZWxldmFudAoJCWFzc2VydE5vdEVxdWFscyg1ZCwgZ2VyYWV0RGlNZXNzdW5nLmdldFZvbHVtZSgpKTsKCQlhc3NlcnROb3RFcXVhbHMoNmQsIGdlcmFldERpTWVzc3VuZy5nZXRWb2x1bWVGbG93KCkpOwoJfQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgoJcHJpdmF0ZSB2b2lkIGFzc2VydFJlY2FsY3VsYXRlZChsb25nIG1lc3N1bmdJZCkgewoJCXZhciBnZXJhZXREaU1lc3N1bmcgPSAoV2Flcm1lbWVuZ2VuemFlaGxlck1lc3N1bmcpIG1lc3N1bmdSZXBvc2l0b3J5LmZpbmRCeUlkKG1lc3N1bmdJZCkub3JFbHNlVGhyb3coKTsKCQkvLyB1cGRhdGVkCgkJYXNzZXJ0RXF1YWxzKDMwMGQsIGdlcmFldERpTWVzc3VuZy5nZXRFbmVyZ3koKSk7CgkJYXNzZXJ0RXF1YWxzKDYyZCwgZ2VyYWV0RGlNZXNzdW5nLmdldEZsb3dUZW1wZXJhdHVyZSgpKTsKCX0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzOwo=</text>
+        <text encoding="base64">CQkvLyBub3QgdXBkYXRlZCAtIG5vdCByZWxldmFudAoJCWFzc2VydEVxdWFscyg1ZCwgZ2VyYWV0RGlNZXNzdW5nLmdldFZvbHVtZSgpKTsKCQlhc3NlcnRFcXVhbHMoNmQsIGdlcmFldERpTWVzc3VuZy5nZXRWb2x1bWVGbG93KCkpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CnNlbGVjdCAqCmZyb20gZ2V0X2V3X2NhbmRpZGF0ZSgyMCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgoJcHJpdmF0ZSB2b2lkIGFzc2VydFJlY2FsY3VsYXRlZChsb25nIG1lc3N1bmdJZCkgewoJCXZhciBnZXJhZXREaU1lc3N1bmcgPSAoV2Flcm1lbWVuZ2VuemFlaGxlck1lc3N1bmcpIG1lc3N1bmdSZXBvc2l0b3J5LmZpbmRCeUlkKG1lc3N1bmdJZCkub3JFbHNlVGhyb3coKTsKCQkvLyB1cGRhdGVkCgkJYXNzZXJ0RXF1YWxzKDMwMGQsIGdlcmFldERpTWVzc3VuZy5nZXRFbmVyZ3koKSwgLjAxZCk7CgkJYXNzZXJ0RXF1YWxzKDYyZCwgZ2VyYWV0RGlNZXNzdW5nLmdldEZsb3dUZW1wZXJhdHVyZSgpLCAuMDFkKTsKCQkvLyBub3QgdXBkYXRlZCAtIG5vdCByZWxldmFudAoJCWFzc2VydEVxdWFscyg1ZCwgZ2VyYWV0RGlNZXNzdW5nLmdldFZvbHVtZSgpLCAuMDFkKTsKCQlhc3NlcnRFcXVhbHMoNmQsIGdlcmFldERpTWVzc3VuZy5nZXRWb2x1bWVGbG93KCksIC4wMWQpOwoJfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">CQkvLyBub3QgdXBkYXRlZCAtIG5vdCByZWxldmFudAoJCWFzc2VydE5vdEVxdWFscyg1ZCwgZ2VyYWV0RGlNZXNzdW5nLmdldFZvbHVtZSgpKTsKCQlhc3NlcnROb3RFcXVhbHMoNmQsIGdlcmFldERpTWVzc3VuZy5nZXRWb2x1bWVGbG93KCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQoK</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQKCXByaXZhdGUgRW50aXR5TWFuYWdlciBlbnRpdHlNYW5hZ2VyOwoKCS8vVE9ETy0xODMyCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>select mm &quot; +
-			&quot;from mes_gaszaehler m &quot; +
-			&quot;join mes_manual_gaszaehler mm on mm.messungid = m.id &quot; +
-			&quot;join ger_geraet&quot; +
-			&quot;where m.geraetid = :gerid</text>
+      <register name="6" type="2">
+        <text encoding="base64">CS8vVE9ETy0xODMyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW5uZXIgam9pbiBtZXNfc3BlcnJlIG1zIG9uIGdnLmxpZV9saWVnZW5zY2hhZnRfaWQgPSBtcy5saWVfbGllZ2Vuc2NoYWZ0X2lkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNyZWF0ZSB0YWJsZSBtZXNfc3BlcnJlCigKICAgIGlkICAgICAgICAgICAgICAgICAgYmlnaW50CiAgICAgICAgbm90IG51bGwKICAgICAgICBwcmltYXJ5IGtleSwKICAgIGxpZV9saWVnZW5zY2hhZnRfaWQgYmlnaW50CiAgICAgICAgbm90IG51bGwKICAgICAgICByZWZlcmVuY2VzIGxpZV9saWVnZW5zY2hhZnQsCiAgICBiZWdpbm4gICAgICAgICAgICAgIHRpbWVzdGFtcAogICAgICAgIG5vdCBudWxsLAogICAgZW5kZSAgICAgICAgICAgICAgICB0aW1lc3RhbXAKICAgICAgICBub3QgbnVsbAopOwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">bmF0aXZlID0gdHJ1ZQoJCQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">CnNlbGVjdCAqCmZyb20gZ2V0X2V3X2NhbmRpZGF0ZSgyMCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>

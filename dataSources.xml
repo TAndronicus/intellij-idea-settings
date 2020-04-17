@@ -1,12 +1,32 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="heroku-staging" read-only="true" uuid="391cb349-dc34-4243-80a2-e3010b16e820">
+    <data-source source="LOCAL" name="kundenportal-test@localhost" uuid="c7944b95-c7d4-4301-9fd1-7f55aaaa1e4f">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/kundenportal-test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="kundenportal@localhost" uuid="52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/kundenportal</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="prod@heroku" read-only="true" uuid="5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://ec2-52-16-44-250.eu-west-1.compute.amazonaws.com:5432/d72da16p3f0grm</jdbc-url>
-      <driver-properties>
-        <property name="sslmode" value="require" />
-      </driver-properties>
+      <jdbc-url>jdbc:postgresql://ec2-63-32-17-103.eu-west-1.compute.amazonaws.com:5432/d7q02lcfjdokff</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="staging@heroku" read-only="true" uuid="ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-99-80-26-1.eu-west-1.compute.amazonaws.com:5432/d7fuagc42sgc9t</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="test@heroku" uuid="73ff3be5-7ebf-4aa7-a58c-0936252274aa">
+      <driver-ref>postgresql</driver-ref>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-54-75-231-215.eu-west-1.compute.amazonaws.com:5432/d6s1quf3d8knih</jdbc-url>
     </data-source>
   </component>
 </application>
