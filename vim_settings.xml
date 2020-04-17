@@ -117,17 +117,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587022104369">
-        <mark key="'" line="584" column="27" />
-        <mark key="[" line="883" column="32" />
-        <mark key="]" line="883" column="31" />
-        <mark key="." line="883" column="30" />
-        <mark key="^" line="883" column="31" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/tools/benchmark.sql" timestamp="1587028175702">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="64" column="3" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonAbstractManualMessungRepository.java" timestamp="1587034655196">
         <mark key="[" line="15" column="75" />
         <mark key="]" line="17" column="61" />
@@ -139,6 +128,9 @@
         <mark key="]" line="19" column="29" />
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="29" />
+      </file>
+      <file name="/console" timestamp="1587092927749">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/geraetekatalog/rest/GeraetTypMappingRestEndpointTest.java" timestamp="1587039541722">
         <mark key="[" line="159" column="0" />
@@ -152,8 +144,6 @@
         <mark key="^" line="44" column="114" />
         <mark key="." line="44" column="113" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/liegenschaft/model/LiegenschaftBase.java" timestamp="1587025684434" />
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/liegenschaft/rest/LiegenschaftRestEndpoint.java" timestamp="1587025820103" />
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonWarmwasserzaehlerManualMessungRepository.java" timestamp="1587039407873">
         <mark key="[" line="18" column="27" />
         <mark key="]" line="18" column="29" />
@@ -172,7 +162,12 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/gatling/gat/src/test/scala/com/qivalo/BasicSimulation.scala" timestamp="1587025525562" />
+      <file name="/a.sql" timestamp="1587094905296">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/dumpDataPreview" timestamp="1587094745825">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonStromzaehlerManualMessungRepository.java" timestamp="1587039438758">
         <mark key="[" line="21" column="27" />
         <mark key="]" line="21" column="29" />
@@ -188,13 +183,15 @@
         <mark key="." line="19" column="28" />
         <mark key="^" line="19" column="29" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587027119200">
-        <mark key="'" line="238" column="19" />
-        <mark key="[" line="245" column="24" />
-        <mark key="]" line="246" column="16" />
-        <mark key="." line="246" column="15" />
-        <mark key="^" line="246" column="16" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587094534279">
+        <mark key="'" line="277" column="19" />
+        <mark key="[" line="257" column="64" />
+        <mark key="]" line="256" column="4" />
+        <mark key="." line="256" column="3" />
+        <mark key="^" line="256" column="4" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1587093818784" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1587093991485" />
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__vb_2_functions.sql" timestamp="1587037778779">
         <mark key="'" line="306" column="52" />
         <mark key="[" line="429" column="16" />
@@ -327,50 +324,50 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>findAll</text>
+        <text>inner</text>
       </register>
       <register name="-" type="4">
-        <text>findAll</text>
+        <text>inner</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJImFuZCBtcy5saWVfbGllZ2Vuc2NoYWZ0X2lkID0gZ2cubGllX2xpZWdlbnNjaGFmdF9pZCAiICsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">CiAgICBzZWxlY3QgZ2cubGllX2xpZWdlbnNjaGFmdF9pZAogICAgZnJvbSBnZXJfZ2VyYWV0IGdnCiAgICB3aGVyZSBnZy5pZCBpbiAoMjM3Njc4OTMsIDIzNzY3ODg3LCAxODIzMjg0MCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JQE92ZXJyaWRlCg==</text>
+        <text encoding="base64">CnNlbGVjdCAqCmZyb20gZ2V0X2V3X2NhbmRpZGF0ZSgyMCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Ly8JQE92ZXJyaWRlCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQoK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>select mm &quot; +
 			&quot;from mes_gaszaehler m &quot; +
 			&quot;join mes_manual_gaszaehler mm on mm.messungid = m.id &quot; +
 			&quot;join ger_geraet&quot; +
 			&quot;where m.geraetid = :gerid</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW5uZXIgam9pbiBtZXNfc3BlcnJlIG1zIG9uIGdnLmxpZV9saWVnZW5zY2hhZnRfaWQgPSBtcy5saWVfbGllZ2Vuc2NoYWZ0X2lkCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CmNyZWF0ZSB0YWJsZSBtZXNfc3BlcnJlCigKICAgIGlkICAgICAgICAgICAgICAgICAgYmlnaW50CiAgICAgICAgbm90IG51bGwKICAgICAgICBwcmltYXJ5IGtleSwKICAgIGxpZV9saWVnZW5zY2hhZnRfaWQgYmlnaW50CiAgICAgICAgbm90IG51bGwKICAgICAgICByZWZlcmVuY2VzIGxpZV9saWVnZW5zY2hhZnQsCiAgICBiZWdpbm4gICAgICAgICAgICAgIHRpbWVzdGFtcAogICAgICAgIG5vdCBudWxsLAogICAgZW5kZSAgICAgICAgICAgICAgICB0aW1lc3RhbXAKICAgICAgICBub3QgbnVsbAopOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">bmF0aXZlID0gdHJ1ZQoJCQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQlyZXR1cm4gbnVsbDsKCX0K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0IGhhc2goJzEnKTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ZHJvcCB0YWJsZSB0cmFmZmljX3Zpb2xhdGlvbnNfcF9oYXNoOwoKY3JlYXRlIHRhYmxlIHRyYWZmaWNfdmlvbGF0aW9uc19wX2hhc2gKKCBzZXFpZCB0ZXh0CiAgICAsIGRhdGVfb2Zfc3RvcCBkYXRlCiAgICAsIHRpbWVfb2Zfc3RvcCB0aW1lCiAgICAsIGFnZW5jeSB0ZXh0CiAgICAsIHN1YmFnZW5jeSB0ZXh0CiAgICAsIGRlc2NyaXB0aW9uIHRleHQKICAgICwgbG9jYXRpb24gdGV4dAogICAgLCBsYXRpdHVkZSBudW1lcmljCiAgICAsIGxvbmdpdHVkZSBudW1lcmljCiAgICAsIGFjY2lkZW50IHRleHQKICAgICwgYmVsdHMgYm9vbGVhbgogICAgLCBwZXJzb25hbF9pbmp1cnkgYm9vbGVhbgogICAgLCBwcm9wZXJ0eV9kYW1hZ2UgYm9vbGVhbgogICAgLCBmYXRhbCBib29sZWFuCiAgICAsIGNvbW1lcmNpYWxfbGljZW5zZSBib29sZWFuCiAgICAsIGhhem1hdCBib29sZWFuCiAgICAsIGNvbW1lcmNpYWxfdmVoaWNsZSBib29sZWFuCiAgICAsIGFsY29ob2wgYm9vbGVhbgogICAgLCB3b3Jrem9uZSBib29sZWFuCiAgICAsIHN0YXRlIHRleHQKICAgICwgdmVoaWNsZXR5cGUgdGV4dAogICAgLCB5ZWFyIHNtYWxsaW50CiAgICAsIG1ha2UgdGV4dAogICAgLCBtb2RlbCB0ZXh0CiAgICAsIGNvbG9yIHRleHQKICAgICwgdmlvbGF0aW9uX3R5cGUgdGV4dAogICAgLCBjaGFyZ2UgdGV4dAogICAgLCBhcnRpY2xlIHRleHQKICAgICwgY29udHJpYnV0ZWRfdG9fYWNjaWRlbnQgYm9vbGVhbgogICAgLCByYWNlIHRleHQKICAgICwgZ2VuZGVyIHRleHQKICAgICwgZHJpdmVyX2NpdHkgdGV4dAogICAgLCBkcml2ZXJfc3RhdGUgdGV4dAogICAgLCBkbF9zdGF0ZSB0ZXh0CiAgICAsIGFycmVzdF90eXBlIHRleHQKICAgICwgZ2VvbG9jYXRpb24gcG9pbnQKICAgICwgY291bmNpbF9kaXN0cmljdHMgc21hbGxpbnQKICAgICwgY291bmNpbHMgc21hbGxpbnQKICAgICwgY29tbXVuaXRpZXMgc21hbGxpbnQKICAgICwgemlwX2NvZGVzIHNtYWxsaW50CiAgICAsIG11bmljaXBhbGl0aWVzIHNtYWxsaW50CikKICAgIHBhcnRpdGlvbiBieSBoYXNoIChjb3VuY2lscyk7Cg==</text>
+        <text encoding="base64">c2VsZWN0IGhhc2goJzEnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
