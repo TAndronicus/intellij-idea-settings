@@ -117,6 +117,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/batch/DiscovergyMeterValueUpdateTask.java" timestamp="1587114030254">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonGaszaehlerManualMessungRepository.java" timestamp="1587099873579">
         <mark key="[" line="31" column="22" />
         <mark key="]" line="31" column="23" />
@@ -192,9 +197,6 @@
         <mark key="]" line="673" column="29" />
         <mark key="." line="673" column="28" />
         <mark key="^" line="673" column="29" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1587098514832">
-        <mark key="'" line="64" column="65" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonOelGeraetManualMessungRepository.java" timestamp="1587099845904">
         <mark key="[" line="30" column="22" />
@@ -318,7 +320,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">CQkvL1RPRE8tMTgzMgo=</text>
+        <text encoding="base64">CS8vIFRPRE8tMTgzMgo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -330,34 +332,34 @@
         <text encoding="base64">CQlzeW5jR2VyYWV0ZSgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvL1RPRE8tMTgzMgo=</text>
+        <text encoding="base64">CS8vIFRPRE8tMTgzMgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CgkJLy8gZ2l2ZW4KCQlsbw==</text>
+      <register name="2" type="2">
+        <text encoding="base64">CQkvL1RPRE8tMTgzMgo=</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">CgkJLy8gZ2l2ZW4KCQlsbw==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">CgoJcHJpdmF0ZSB2b2lkIGFzc2VydFJlY2FsY3VsYXRlZChsb25nIG1lc3N1bmdJZCkgewoJCXZhciBnZXJhZXREaU1lc3N1bmcgPSAoV2Flcm1lbWVuZ2VuemFlaGxlck1lc3N1bmcpIG1lc3N1bmdSZXBvc2l0b3J5LmZpbmRCeUlkKG1lc3N1bmdJZCkub3JFbHNlVGhyb3coKTsKCQkvLyB1cGRhdGVkCgkJYXNzZXJ0RXF1YWxzKDMwMGQsIGdlcmFldERpTWVzc3VuZy5nZXRFbmVyZ3koKSk7CgkJYXNzZXJ0RXF1YWxzKDYyZCwgZ2VyYWV0RGlNZXNzdW5nLmdldEZsb3dUZW1wZXJhdHVyZSgpKTsKCX0=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CQkvLyBub3QgdXBkYXRlZCAtIG5vdCByZWxldmFudAoJCWFzc2VydEVxdWFscyg1ZCwgZ2VyYWV0RGlNZXNzdW5nLmdldFZvbHVtZSgpKTsKCQlhc3NlcnRFcXVhbHMoNmQsIGdlcmFldERpTWVzc3VuZy5nZXRWb2x1bWVGbG93KCkpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CgoJcHJpdmF0ZSB2b2lkIGFzc2VydFJlY2FsY3VsYXRlZChsb25nIG1lc3N1bmdJZCkgewoJCXZhciBnZXJhZXREaU1lc3N1bmcgPSAoV2Flcm1lbWVuZ2VuemFlaGxlck1lc3N1bmcpIG1lc3N1bmdSZXBvc2l0b3J5LmZpbmRCeUlkKG1lc3N1bmdJZCkub3JFbHNlVGhyb3coKTsKCQkvLyB1cGRhdGVkCgkJYXNzZXJ0RXF1YWxzKDMwMGQsIGdlcmFldERpTWVzc3VuZy5nZXRFbmVyZ3koKSwgLjAxZCk7CgkJYXNzZXJ0RXF1YWxzKDYyZCwgZ2VyYWV0RGlNZXNzdW5nLmdldEZsb3dUZW1wZXJhdHVyZSgpLCAuMDFkKTsKCQkvLyBub3QgdXBkYXRlZCAtIG5vdCByZWxldmFudAoJCWFzc2VydEVxdWFscyg1ZCwgZ2VyYWV0RGlNZXNzdW5nLmdldFZvbHVtZSgpLCAuMDFkKTsKCQlhc3NlcnRFcXVhbHMoNmQsIGdlcmFldERpTWVzc3VuZy5nZXRWb2x1bWVGbG93KCksIC4wMWQpOwoJfQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkvLyBub3QgdXBkYXRlZCAtIG5vdCByZWxldmFudAoJCWFzc2VydE5vdEVxdWFscyg1ZCwgZ2VyYWV0RGlNZXNzdW5nLmdldFZvbHVtZSgpKTsKCQlhc3NlcnROb3RFcXVhbHMoNmQsIGdlcmFldERpTWVzc3VuZy5nZXRWb2x1bWVGbG93KCkpOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CUBBdXRvd2lyZWQKCXByaXZhdGUgRW50aXR5TWFuYWdlciBlbnRpdHlNYW5hZ2VyOwoKCS8vVE9ETy0xODMyCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CS8vVE9ETy0xODMyCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vVE9ETy0xODMyCg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
