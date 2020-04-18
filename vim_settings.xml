@@ -196,11 +196,12 @@
         <mark key="." line="3684" column="30" />
         <mark key="^" line="3684" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun2/quickcheck/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1587189297918">
+      <file name="$USER_HOME$/Workspace/JVM/progfun2/quickcheck/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1587189353967">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="55" column="3" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
+        <mark key="[" line="63" column="37" />
+        <mark key="]" line="63" column="37" />
+        <mark key="." line="63" column="37" />
+        <mark key="^" line="57" column="12" />
       </file>
       <file name="/AbrechnungDtvFileExportRestEndpointTest.java" timestamp="1587118999850">
         <mark key="[" line="394" column="5" />
@@ -318,11 +319,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
