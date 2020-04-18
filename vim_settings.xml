@@ -117,12 +117,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonStromzaehlerManualMessungRepository.java" timestamp="1587117790016">
-        <mark key="[" line="29" column="12" />
-        <mark key="]" line="29" column="16" />
-        <mark key="." line="29" column="12" />
-        <mark key="^" line="29" column="16" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b99f22eb-57b7-4149-b88f-e07b0feb6434/console.sql" timestamp="1587169474279">
         <mark key="[" line="0" column="0" />
       </file>
@@ -148,11 +142,11 @@
         <mark key="]" line="63" column="0" />
         <mark key="." line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun2/quickcheck/src/main/scala/quickcheck/Heap.scala" timestamp="1587186112524">
+      <file name="$USER_HOME$/Workspace/JVM/progfun2/quickcheck/src/main/scala/quickcheck/Heap.scala" timestamp="1587189058727">
         <mark key="'" line="23" column="6" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="116" column="0" />
-        <mark key="." line="116" column="0" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" timestamp="1587118612035">
         <mark key="[" line="124" column="55" />
@@ -192,6 +186,9 @@
       <file name="/a.sql" timestamp="1587175220718">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.scala" timestamp="1587187975599">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587178530459">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="3693" column="0" />
@@ -199,12 +196,11 @@
         <mark key="." line="3684" column="30" />
         <mark key="^" line="3684" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun2/quickcheck/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1587186252917">
+      <file name="$USER_HOME$/Workspace/JVM/progfun2/quickcheck/src/main/scala/quickcheck/QuickCheck.scala" timestamp="1587189297918">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="65" column="6" />
-        <mark key="]" line="68" column="41" />
-        <mark key="." line="68" column="40" />
-        <mark key="^" line="68" column="41" />
+        <mark key="[" line="55" column="3" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="/AbrechnungDtvFileExportRestEndpointTest.java" timestamp="1587118999850">
         <mark key="[" line="394" column="5" />
@@ -322,49 +318,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>insert(b, empty)</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>insert(b, empty)</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgdmFsIGggPSBtZWxkKGluc2VydChhLCBlbXB0eSksIGluc2VydChiLCBlbXB0eSkpCiAgICAgIHZhbCBkZWwgPSBkZWxldGVNaW4oaCk=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY2FzZSBfOiBMaXN0W0JvZ3VzNEJpbm9taWFsSGVhcF0gPT4gZmFsc2UK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cm9iamVjdCB0dHQgZXh0ZW5kcyBCb2d1czRCaW5vbWlhbEhlYXAgewogIGRlZiBtYWluKGFyZ3M6IEFycmF5W1N0cmluZ10pOiBVbml0ID0gewogICAgdmFsIGUxID0gaW5zZXJ0KGVtcHR5LCAwKQogICAgdmFsIGggPSBtZWxkKGluc2VydCgwLCBlbXB0eSksIGluc2VydCgxLCBlbXB0eSkpCiAgICB2YWwgZGVsID0gZGVsZXRlTWluKGgpCiAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZmFsc2UK</text>
+        <text encoding="base64">Ly8gIHByb3BlcnR5KCJoYWNrIikgPSBmb3JBbGwgeyBoOiBIID0+Ci8vICAgIGggbWF0Y2ggewovLyAgICAgIGNhc2UgXzogTGlzdFtCb2d1czRCaW5vbWlhbEhlYXBdID0+IGZhbHNlCi8vICAgICAgY2FzZSBfID0+IHRydWUKICAgIH0KICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCBuID0gTm9kZSgwLCAxLCBOaWwpCg==</text>
+        <text encoding="base64">b2JqZWN0IFR0dCBleHRlbmRzIEJpbm9taWFsSGVhcCB7CiAgZGVmIG1haW4oYXJnczogQXJyYXlbU3RyaW5nXSk6IFVuaXQgPSB7CiAgICAKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gZXdfY2FuZGlkYXRlcyBlYzsK</text>
+        <text encoding="base64">Ly8gICAgICBjYXNlIGUxIDo6IGUyIDo6IHRhaWwgPT4gewoKLy8gICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0IGNvdW50KCopCmZyb20gZXdfY2FuZGlkYXRlcyBlYzsK</text>
+        <text encoding="base64">ICAgIHRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlTeXN0ZW0uZXJyLnByaW50bG4oIlByZXBhcmluZyAiICsgY2FuZGlkYXRlLmdldEdlcmFldElkKCkpOwo=</text>
+        <text encoding="base64">ICAgIGlzRW1wdHkoaCkgfHwgZmluZE1pbihoKSAhPSBmaW5kTWluKGRlbGV0ZU1pbihoKSkK</text>
       </register>
-      <register name="7" type="4">
-        <text>select g.liegenschaft.stichtag &quot; +
-				&quot;from Geraet g &quot; +
-				&quot;where g.id = :id</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsueG1sLnRyYW5zZm9ybS5TdHJpbmdSZXN1bHQ7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLnhtbC50cmFuc2Zvcm0uU3RyaW5nU291cmNlOwo=</text>
+        <text encoding="base64">ICAgICAgaCBtYXRjaCB7CiAgICAgICAgY2FzZSBsOiBMaXN0W10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQl2YWxpZGF0ZU5vdExvY2tlZChhYnJlY2hudW5nKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
