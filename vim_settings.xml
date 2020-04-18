@@ -182,6 +182,12 @@
       <file name="/Dummy.txt" timestamp="1587142590174">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/progfun2/calculator/src/main/scala/calculator/Calculator.scala" timestamp="1587222827636">
+        <mark key="[" line="13" column="53" />
+        <mark key="]" line="13" column="53" />
+        <mark key="." line="13" column="53" />
+        <mark key="^" line="13" column="66" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1587174225232">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -310,16 +316,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>)</text>
+        <text>Var</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>Var</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSBfOiBMaXN0W0JvZ3VzNEJpbm9taWFsSGVhcF0gPT4gZmFsc2UK</text>
+        <text encoding="base64">ICAgIGNhc2UgVGltZXMoYSwgYikgPT4gZXZhbChhLCByZWZlcmVuY2VzKSAqIGV2YWwoYiwgcmVmZXJlbmNlcykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgID8/Pwo=</text>
