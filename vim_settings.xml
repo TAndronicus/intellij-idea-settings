@@ -150,6 +150,12 @@
         <mark key="^" line="119" column="36" />
         <mark key="." line="119" column="55" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V373.0__remove_old_ersatzwerte.sql" timestamp="1587312373204">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="31" column="26" />
+        <mark key="." line="31" column="25" />
+        <mark key="^" line="31" column="26" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1587294954589">
         <mark key="[" line="277" column="0" />
         <mark key="]" line="277" column="0" />
@@ -162,10 +168,10 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" timestamp="1587309980785">
-        <mark key="[" line="271" column="13" />
-        <mark key="]" line="271" column="14" />
-        <mark key="." line="271" column="13" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" timestamp="1587310090986">
+        <mark key="[" line="252" column="35" />
+        <mark key="]" line="252" column="35" />
+        <mark key="." line="252" column="35" />
         <mark key="^" line="271" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/progfun2/calculator/src/main/scala/calculator/Signal.scala" timestamp="1587220910138">
@@ -182,18 +188,12 @@
       <file name="/sbtShell" timestamp="1587221819107">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587297097098">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587312520694">
         <mark key="'" line="3356" column="6" />
-        <mark key="[" line="3603" column="35" />
-        <mark key="]" line="3603" column="39" />
-        <mark key="." line="3603" column="38" />
-        <mark key="^" line="3603" column="39" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun2/calculator/src/main/scala/calculator/TweetLength.scala" timestamp="1587220035899">
-        <mark key="[" line="10" column="4" />
-        <mark key="]" line="10" column="10" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="10" column="10" />
+        <mark key="[" line="3640" column="51" />
+        <mark key="]" line="3640" column="51" />
+        <mark key="." line="3640" column="51" />
+        <mark key="^" line="3643" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/03_insert_stromzaehler_data.sql" timestamp="1587308079963">
         <mark key="'" line="12" column="32" />
@@ -217,8 +217,11 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b6423c19-6d18-46ce-83e0-53808842734e/console.sql" timestamp="1587306613228">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b6423c19-6d18-46ce-83e0-53808842734e/console.sql" timestamp="1587312387686">
         <mark key="[" line="1" column="25" />
+        <mark key="]" line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+        <mark key="." line="6" column="23" />
       </file>
     </filemarks>
     <jumps>
@@ -327,46 +330,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>mid</text>
+        <text>, end_date</text>
       </register>
       <register name="-" type="4">
-        <text>mid</text>
+        <text>, end_date</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CgkJYXNzZXJ0RXF1YWxzKAoJCQkwTCwKCQkJKExvbmcpIGVudGl0eU1hbmFnZXIuY3JlYXRlUXVlcnkoCgkJCQkic2VsZWN0IGNvdW50KG0pICIgKwoJCQkJCSJmcm9tIFN0cm9temFlaGxlck1lc3N1bmcgbSAiICsKCQkJCQkid2hlcmUgbS5tZXNzRGF0dW0gPiA6c3RhcnRfZGF0ZSAiICsKCQkJCQkiYW5kIG0ubWVzc0RhdHVtIDw9IDplbmRfZGF0ZSAiICsKCQkJCQkiYW5kIG0uZ2VyYWV0SWQgPSA6Z2VyX2lkIgoJCQkpCgkJCQkuc2V0UGFyYW1ldGVyKCJnZXJfaWQiLCBnZXJJZCkKCQkJCS5zZXRQYXJhbWV0ZXIoInN0YXJ0X2RhdGUiLCBEYXRlVXRpbHMudG9EYXRlKG1pZC5taW51c01vbnRocygxKSkpCgkJCQkuc2V0UGFyYW1ldGVyKCJlbmRfZGF0ZSIsIERhdGVVdGlscy50b0RhdGUobWlkKSkKCQkJCS5nZXRTaW5nbGVSZXN1bHQoKSk7</text>
+        <text encoding="base64">CgppbnNlcnQgaW50byBld19xdWV1ZSAoaWQsIGdlcl9nZXJhZXRfaWQsIHN0YXJ0X2RhdGUsIGVuZF9kYXRlKQpzZWxlY3QgbmV4dHZhbCgnZXdfcXVldWVfc2VxJyksCiAgICAgICBnZy5pZCwKICAgICAgICcyMDE5LTAxLTAxJywKICAgICAgICcyMDIwLTAxLTAxJwpmcm9tIGdlcl9nZXJhZXQgZ2cKICAgICAgICAgaW5uZXIgam9pbiBna19nZXJhZXRfdHlwIGdndCBvbiBnZy5na19nZXJhZXRfdHlwX2lkID0gZ2d0LmlkCiAgICAgICAgIGlubmVyIGpvaW4gbnV0X251dHplaW5oZWl0IG5uIG9uIGdnLm51dF9udXR6ZWluaGVpdF9pZCA9IG5uLmlkCiAgICAgICAgIGlubmVyIGpvaW4gbGllX2xpZWdlbnNjaGFmdCBsbCBvbiBnZy5saWVfbGllZ2Vuc2NoYWZ0X2lkID0gbGwuaWQKd2hlcmUgZ2VyYWV0X3R5cCA9ICdIJwogIGFuZCAobGwucmVtb3ZlZG9uLCBubi5yZW1vdmVkb24sIGdnLnJlbW92ZWRvbikgaXMgbnVsbDs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJZW5kID0gTG9jYWxEYXRlLm9mKDIwMTEsIDMsIDI2KS5hdFN0YXJ0T2ZEYXkoKSwK</text>
+        <text encoding="base64">ICAgICAgICcyMDIwLTAxLTAxJwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQllbnF1ZUNhbmRpZGF0ZShnZXJJZCwgbWlkLCB0cnVlKTsKCQlmbGFnQ2FuZGlkYXRlc0FzVXBkYXRlZChnZXJJZCk7CgkJZXJzYXR6d2VydGVTZXJ2aWNlLnByb2Nlc3MoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlsb25nIHZhbHVlID0gMjU3OTAyMDkxMDAwMEw7Cg==</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gZXdfcXVldWUgKGlkLCBnZXJfZ2VyYWV0X2lkLCBzdGFydF9kYXRlKQpzZWxlY3QgbmV4dHZhbCgnZXdfcXVldWVfc2VxJyksCiAgICAgICBnZy5pZCwKICAgICAgICcyMDE5LTAxLTAxJwpmcm9tIGdlcl9nZXJhZXQgZ2cKICAgICAgICAgaW5uZXIgam9pbiBna19nZXJhZXRfdHlwIGdndCBvbiBnZy5na19nZXJhZXRfdHlwX2lkID0gZ2d0LmlkCiAgICAgICAgIGlubmVyIGpvaW4gbnV0X251dHplaW5oZWl0IG5uIG9uIGdnLm51dF9udXR6ZWluaGVpdF9pZCA9IG5uLmlkCiAgICAgICAgIGlubmVyIGpvaW4gbGllX2xpZWdlbnNjaGFmdCBsbCBvbiBnZy5saWVfbGllZ2Vuc2NoYWZ0X2lkID0gbGwuaWQKd2hlcmUgKGdlcmFldF90eXAgaW4gKCdXJywgJ0snLCAnRScsICdaJywgJ1AnKQogICAgb3IgZ2VyYWV0X2FydCA9ICdPRk9MVDAxJykKICBhbmQgKGxsLnJlbW92ZWRvbiwgbm4ucmVtb3ZlZG9uLCBnZy5yZW1vdmVkb24pIGlzIG51bGw7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl3aXRoVHJhbnNhY3Rpb24oKCkgLT4gewoJCQllbnRpdHlNYW5hZ2VyLmNyZWF0ZU5hdGl2ZVF1ZXJ5KAoJCQkJLy9AZm9ybWF0dGVyOm9mZgoJCQkJCSJkZWxldGUgIiArCgkJCQkJImZyb20gbWVzX3N0cm9temFlaGxlciAiICsKCQkJCQkid2hlcmUgKGdlcl9nZXJhZXRfaWQsIG1lc3NfZGF0dW0pID0gKDpnZXJfaWQsIDptX2RhdGUpOyIKCQkJCS8vQGZvcm1hdHRlcjpvbgoJCQkpCgkJCQkuc2V0UGFyYW1ldGVyKCJnZXJfaWQiLCBnZXJJZCkKCQkJCS5zZXRQYXJhbWV0ZXIoIm1fZGF0ZSIsIERhdGVVdGlscy50b0RhdGUobWlkKSkKCQkJCS5leGVjdXRlVXBkYXRlKCk7CgkJCWVudGl0eU1hbmFnZXIuY3JlYXRlTmF0aXZlUXVlcnkoCgkJCQkvL0Bmb3JtYXR0ZXI6b2ZmCgkJCQkJImluc2VydCBpbnRvIG1lc19zdHJvbXphZWhsZXIgKGlkLCBtZXNzX2RhdHVtLCB0eXAsIGdlcl9nZXJhZXRfaWQsIG1lc3N1bmdfa29udGV4dF9pZCwgcG9zaXRpdmVfd2lya2FyYmVpdF8wKSAiICsKCQkJCQkidmFsdWVzIChuZXh0dmFsKCdnZXJfbWVzc3VuZ19pZF9zZXEnKSwgOm1fZGF0ZSwgJ0EnLCA6Z2VyX2lkLCAyMTIsIDp2YWwpOyIKCQkJCS8vQGZvcm1hdHRlcjpvbgoJCQkpCgkJCQkuc2V0UGFyYW1ldGVyKCJtX2RhdGUiLCBEYXRlVXRpbHMudG9EYXRlKG1pZCkpCgkJCQkuc2V0UGFyYW1ldGVyKCJnZXJfaWQiLCBnZXJJZCkKCQkJCS5zZXRQYXJhbWV0ZXIoInZhbCIsIHZhbHVlICogMikKCQkJCS5leGVjdXRlVXBkYXRlKCk7CgkJfSk7Cg==</text>
+        <text encoding="base64">ICAgIG9yIGdlcmFldF9hcnQgPSAnT0ZPTFQwMScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlhc3NlcnRFcXVhbHMoCgkJCXZhbHVlICogMy4gLyAyLAoJCQllbnRpdHlNYW5hZ2VyLmNyZWF0ZVF1ZXJ5KAoJCQkJLy9AZm9ybWF0dGVyOm9mZgoJCQkJInNlbGVjdCBtLnBvc2l0aXZlV2lya2FyYmVpdDAgIiArCgkJCQkJImZyb20gU3Ryb216YWVobGVyTWVzc3VuZyBtICIgKwoJCQkJCSJ3aGVyZSBtLm1lc3NEYXR1bSA9IDptX2RhdGUgIiArCgkJCQkJImFuZCBtLmdlcmFldElkID0gOmdlcl9pZCIKCQkJCS8vQGZvcm1hdHRlcjpvbgoJCQkpCgkJCQkuc2V0UGFyYW1ldGVyKCJtX2RhdGUiLCBEYXRlVXRpbHMudG9EYXRlKExvY2FsRGF0ZVRpbWUub2YoMjAxMSwgMywgMjQsIDEyLCAwKSkpCgkJCQkuc2V0UGFyYW1ldGVyKCJnZXJfaWQiLCBnZXJJZCkKCQkJCS5nZXRTaW5nbGVSZXN1bHQoKQoJCSk7Cg==</text>
+        <text encoding="base64">YW5kIG1vZChnZy5pZCwgNTApID0gMDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QAo=</text>
+        <text encoding="base64">LS0gd2hlcmUgZ2VyYWV0X3R5cCA9ICdXJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CS8qKgoJICogCgkgKi8K</text>
+        <text encoding="base64">SU5TRVJUIElOVE8gbm90X2JlbnV0emVyX2V4Y2x1c2lvbiAoaWQsIG5vdF9ldmVudF9uYW1lLCBjaGFubmVsLCBiZW5fYmVudXR6ZXJfaWQsIGNyZWF0aW9uX2RhdGUpClNFTEVDVCBuZXh0dmFsKCdub3RpZmljYXRpb25fZXhjbHVzaW9uX3NlcScpLCAnTFNfQ1JFQVRFRCcsICdFJywgYi5pZCwgY3VycmVudF90aW1lc3RhbXAKRlJPTSBiZW5fYmVudXR6ZXIgYgpXSEVSRSBiLnJvbF9yb2xlX2lkIElOICg3KQogIEFORCBiLmlkIE5PVCBJTiAoU0VMRUNUIGJlbl9iZW51dHplcl9pZCBGUk9NIG5vdF9iZW51dHplcl9leGNsdXNpb24gV0hFUkUgbm90X2V2ZW50X25hbWUgPSAnTFNfQ1JFQVRFRCcgQU5EIGNoYW5uZWwgPSAnRScpOwoKCklOU0VSVCBJTlRPIG5vdF9iZW51dHplcl9leGNsdXNpb24gKGlkLCBub3RfZXZlbnRfbmFtZSwgY2hhbm5lbCwgYmVuX2JlbnV0emVyX2lkLCBjcmVhdGlvbl9kYXRlKQpTRUxFQ1QgbmV4dHZhbCgnbm90aWZpY2F0aW9uX2V4Y2x1c2lvbl9zZXEnKSwgJ0xTX0NSRUFURURfVFJBTlNJVElPTicsICdFJywgYi5pZCwgY3VycmVudF90aW1lc3RhbXAKRlJPTSBiZW5fYmVudXR6ZXIgYgpXSEVSRSBiLnJvbF9yb2xlX2lkIElOICg3KQogIEFORCBiLmlkIE5PVCBJTiAoU0VMRUNUIGJlbl9iZW51dHplcl9pZCBGUk9NIG5vdF9iZW51dHplcl9leGNsdXNpb24gV0hFUkUgbm90X2V2ZW50X25hbWUgPSAnTFNfQ1JFQVRFRF9UUkFOU0lUSU9OJyBBTkQgY2hhbm5lbCA9ICdFJyk7CgoKSU5TRVJUIElOVE8gbm90X2JlbnV0emVyX2V4Y2x1c2lvbiAoaWQsIG5vdF9ldmVudF9uYW1lLCBjaGFubmVsLCBiZW5fYmVudXR6ZXJfaWQsIGNyZWF0aW9uX2RhdGUpClNFTEVDVCBuZXh0dmFsKCdub3RpZmljYXRpb25fZXhjbHVzaW9uX3NlcScpLCAnTFNfU0NIRURVTEVEX1RSQU5TSVRJT04nLCAnRScsIGIuaWQsIGN1cnJlbnRfdGltZXN0YW1wCkZST00gYmVuX2JlbnV0emVyIGIKV0hFUkUgYi5yb2xfcm9sZV9pZCBJTiAoNykKICBBTkQgYi5pZCBOT1QgSU4gKFNFTEVDVCBiZW5fYmVudXR6ZXJfaWQgRlJPTSBub3RfYmVudXR6ZXJfZXhjbHVzaW9uIFdIRVJFIG5vdF9ldmVudF9uYW1lID0gJ0xTX1NDSEVEVUxFRF9UUkFOU0lUSU9OJyBBTkQgY2hhbm5lbCA9ICdFJyk7CgoKSU5TRVJUIElOVE8gbm90X2JlbnV0emVyX2V4Y2x1c2lvbiAoaWQsIG5vdF9ldmVudF9uYW1lLCBjaGFubmVsLCBiZW5fYmVudXR6ZXJfaWQsIGNyZWF0aW9uX2RhdGUpClNFTEVDVCBuZXh0dmFsKCdub3RpZmljYXRpb25fZXhjbHVzaW9uX3NlcScpLCAnTkVfSU5TVEFMTEFUSU9OX1VTRVJfTUlTU0VEX1RSQU5TSVRJT04nLCAnRScsIGIuaWQsIGN1cnJlbnRfdGltZXN0YW1wCkZST00gYmVuX2JlbnV0emVyIGIKV0hFUkUgYi5yb2xfcm9sZV9pZCBJTiAoNykKICBBTkQgYi5pZCBOT1QgSU4gKFNFTEVDVCBiZW5fYmVudXR6ZXJfaWQgRlJPTSBub3RfYmVudXR6ZXJfZXhjbHVzaW9uIFdIRVJFIG5vdF9ldmVudF9uYW1lID0gJ05FX0lOU1RBTExBVElPTl9VU0VSX01JU1NFRF9UUkFOU0lUSU9OJyBBTkQgY2hhbm5lbCA9ICdFJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YW5kIG1vZChnZy5pZCwgMTAwKSA9IDA7Cg==</text>
+        <text encoding="base64">CQkJZW5kID0gTG9jYWxEYXRlLm9mKDIwMTEsIDMsIDI2KS5hdFN0YXJ0T2ZEYXkoKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgLjsK</text>
+        <text encoding="base64">CQllbnF1ZUNhbmRpZGF0ZShnZXJJZCwgbWlkLCB0cnVlKTsKCQlmbGFnQ2FuZGlkYXRlc0FzVXBkYXRlZChnZXJJZCk7CgkJZXJzYXR6d2VydGVTZXJ2aWNlLnByb2Nlc3MoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
