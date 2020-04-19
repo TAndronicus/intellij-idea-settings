@@ -201,12 +201,12 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587283035197">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587283141757">
         <mark key="'" line="3356" column="6" />
-        <mark key="[" line="3605" column="17" />
-        <mark key="]" line="3604" column="37" />
-        <mark key="." line="3604" column="36" />
-        <mark key="^" line="3604" column="37" />
+        <mark key="[" line="3606" column="61" />
+        <mark key="]" line="3606" column="64" />
+        <mark key="." line="3606" column="63" />
+        <mark key="^" line="3606" column="64" />
       </file>
     </filemarks>
     <jumps>
@@ -315,7 +315,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>2</text>
+        <text>mes_warmwasserzaehler</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -324,7 +324,7 @@
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>ger_geraet_id = 17586474</text>
+        <text>mes_warmwasserzaehler</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0IGNvdW50KCopCg==</text>
