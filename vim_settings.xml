@@ -124,7 +124,7 @@
         <mark key="." line="91" column="71" />
         <mark key="^" line="91" column="72" />
       </file>
-      <file name="/console" timestamp="1587273913707">
+      <file name="/console" timestamp="1587275650783">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/progfun2/quickcheck/src/main/scala/quickcheck/Heap.scala" timestamp="1587189058727">
@@ -133,11 +133,11 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1587273800587">
-        <mark key="[" line="196" column="40" />
-        <mark key="]" line="196" column="45" />
-        <mark key="." line="196" column="44" />
-        <mark key="^" line="196" column="45" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1587275226573">
+        <mark key="[" line="280" column="29" />
+        <mark key="]" line="281" column="63" />
+        <mark key="." line="281" column="62" />
+        <mark key="^" line="281" column="63" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/progfun2/calculator/src/main/scala/calculator/Signal.scala" timestamp="1587220910138">
         <mark key="'" line="57" column="7" />
@@ -179,9 +179,6 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="/dumpDataPreview" timestamp="1587174130600">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/JVM/progfun2/calculator/src/main/scala/calculator/Calculator.scala" timestamp="1587226215138">
         <mark key="[" line="21" column="60" />
         <mark key="]" line="21" column="80" />
@@ -194,22 +191,25 @@
         <mark key="." line="34" column="89" />
         <mark key="^" line="34" column="90" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587275633261">
+        <mark key="[" line="305" column="17" />
+        <mark key="]" line="319" column="56" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/progfun2/calculator/src/main/scala/calculator/Polynomial.scala" timestamp="1587220303147">
         <mark key="[" line="9" column="72" />
         <mark key="]" line="17" column="5" />
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587274302836">
-        <mark key="'" line="3548" column="26" />
-        <mark key="[" line="3348" column="8" />
-        <mark key="]" line="3348" column="8" />
-        <mark key="." line="3348" column="8" />
-        <mark key="^" line="3357" column="18" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587275738413">
+        <mark key="'" line="3348" column="16" />
+        <mark key="[" line="3581" column="17" />
+        <mark key="]" line="3584" column="17" />
+        <mark key="^" line="3584" column="17" />
+        <mark key="." line="3584" column="16" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="12" filename="$USER_HOME$/Workspace/JVM/progfun2/codecs/src/test/scala/codecs/CodecsSuite.scala" />
       <jump line="135" column="76" filename="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="200" column="44" filename="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/main/scala/objsets/TweetSet.scala" />
       <jump line="3" column="7" filename="$USER_HOME$/Workspace/JVM/progfun1/objsets/src/main/scala/objsets/TweetData.scala" />
@@ -309,55 +309,56 @@
       <jump line="3533" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="3548" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="181" column="47" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/dao/GradTageTest.java" />
+      <jump line="3348" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>queue</text>
+        <text encoding="base64">CgppbnNlcnQgaW50byBld19xdWV1ZSAoaWQsIGdlcl9nZXJhZXRfaWQsIHN0YXJ0X2RhdGUsIGVuZF9kYXRlKQpzZWxlY3QgbmV4dHZhbCgnZXdfcXVldWVfc2VxJyksCiAgICAgICBnZy5pZCwKICAgICAgICcyMDE5LTAxLTAxJywKICAgICAgICcyMDIwLTA3LTAxJwpmcm9tIGdlcl9nZXJhZXQgZ2cKICAgICAgICAgaW5uZXIgam9pbiBna19nZXJhZXRfdHlwIGdndCBvbiBnZy5na19nZXJhZXRfdHlwX2lkID0gZ2d0LmlkCiAgICAgICAgIGlubmVyIGpvaW4gbnV0X251dHplaW5oZWl0IG5uIG9uIGdnLm51dF9udXR6ZWluaGVpdF9pZCA9IG5uLmlkCiAgICAgICAgIGlubmVyIGpvaW4gbGllX2xpZWdlbnNjaGFmdCBsbCBvbiBnZy5saWVfbGllZ2Vuc2NoYWZ0X2lkID0gbGwuaWQKLS0gd2hlcmUgKGdlcmFldF90eXAgaW4gKCdXJywgJ0snLCAnRScsICdaJywgJ1AnKQotLSAgICAgb3IgZ2VyYWV0X2FydCA9ICdPRk9MVDAxJykKd2hlcmUgZ2VyYWV0X3R5cCA9ICdXJwogIGFuZCAobGwucmVtb3ZlZG9uLCBubi5yZW1vdmVkb24sIGdnLnJlbW92ZWRvbikgaXMgbnVsbDs=</text>
       </register>
       <register name="-" type="4">
-        <text>queue</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>17586474</text>
+        <text encoding="base64">CgppbnNlcnQgaW50byBld19xdWV1ZSAoaWQsIGdlcl9nZXJhZXRfaWQsIHN0YXJ0X2RhdGUsIGVuZF9kYXRlKQpzZWxlY3QgbmV4dHZhbCgnZXdfcXVldWVfc2VxJyksCiAgICAgICBnZy5pZCwKICAgICAgICcyMDE5LTA2LTAxJywKICAgICAgICcyMDIwLTAxLTAxJwpmcm9tIGdlcl9nZXJhZXQgZ2cKICAgICAgICAgaW5uZXIgam9pbiBna19nZXJhZXRfdHlwIGdndCBvbiBnZy5na19nZXJhZXRfdHlwX2lkID0gZ2d0LmlkCiAgICAgICAgIGlubmVyIGpvaW4gbnV0X251dHplaW5oZWl0IG5uIG9uIGdnLm51dF9udXR6ZWluaGVpdF9pZCA9IG5uLmlkCiAgICAgICAgIGlubmVyIGpvaW4gbGllX2xpZWdlbnNjaGFmdCBsbCBvbiBnZy5saWVfbGllZ2Vuc2NoYWZ0X2lkID0gbGwuaWQKLS0gd2hlcmUgKGdlcmFldF90eXAgaW4gKCdXJywgJ0snLCAnRScsICdaJywgJ1AnKQotLSAgICAgb3IgZ2VyYWV0X2FydCA9ICdPRk9MVDAxJykKd2hlcmUgZ2VyYWV0X3R5cCA9ICdXJwogIGFuZCAobGwucmVtb3ZlZG9uLCBubi5yZW1vdmVkb24sIGdnLnJlbW92ZWRvbikgaXMgbnVsbDs=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZGVsZXRlCmZyb20gbWVzX3dhZXJtZW1lbmdlbnphZWhsZXIKd2hlcmUgKGdlcl9nZXJhZXRfaWQsIHR5cCkgPSAoMjQ0MzQzMzQsICdSJyk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgppbnNlcnQgaW50byBld19xdWV1ZSAoaWQsIGdlcl9nZXJhZXRfaWQsIHN0YXJ0X2RhdGUsIGVuZF9kYXRlKQpzZWxlY3QgbmV4dHZhbCgnZXdfcXVldWVfc2VxJyksCiAgICAgICBnZy5pZCwKICAgICAgICcyMDE5LTAxLTAxJywKICAgICAgICcyMDIwLTA3LTAxJwpmcm9tIGdlcl9nZXJhZXQgZ2cKICAgICAgICAgaW5uZXIgam9pbiBna19nZXJhZXRfdHlwIGdndCBvbiBnZy5na19nZXJhZXRfdHlwX2lkID0gZ2d0LmlkCiAgICAgICAgIGlubmVyIGpvaW4gbnV0X251dHplaW5oZWl0IG5uIG9uIGdnLm51dF9udXR6ZWluaGVpdF9pZCA9IG5uLmlkCiAgICAgICAgIGlubmVyIGpvaW4gbGllX2xpZWdlbnNjaGFmdCBsbCBvbiBnZy5saWVfbGllZ2Vuc2NoYWZ0X2lkID0gbGwuaWQKLS0gd2hlcmUgKGdlcmFldF90eXAgaW4gKCdXJywgJ0snLCAnRScsICdaJywgJ1AnKQotLSAgICAgb3IgZ2VyYWV0X2FydCA9ICdPRk9MVDAxJykKd2hlcmUgZ2VyYWV0X3R5cCA9ICdXJwogIGFuZCAobGwucmVtb3ZlZG9uLCBubi5yZW1vdmVkb24sIGdnLnJlbW92ZWRvbikgaXMgbnVsbDs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlRlbXBvcmFsOwo=</text>
+        <text encoding="base64">ZGVsZXRlCmZyb20gbWVzX3dhZXJtZW1lbmdlbnphZWhsZXIKd2hlcmUgKGdlcl9nZXJhZXRfaWQsIHR5cCkgPSAoMjQ0MzQzMzQsICdSJyk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlRlbXBvcmFsOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">CQkJZW5kID0gTG9jYWxEYXRlVGltZS5vZigyMDE3KQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>gt.val *
        extract(epoch from (least('2017-12-31 23:00:00', end_of_next_month(start_month)) -
                            greatest('2017-12-31 23:00:00', start_month))) /
        extract(epoch from (end_of_next_month(start_month) - start_month))</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CnNlbGVjdCBkcyAtIGludGVydmFsICcxIGRheScKICAgICAgZnJvbSBnZW5lcmF0ZV9zZXJpZXMoZGF0ZV90cnVuYygnbW9udGgnLCAnMjAxNy0xMi0zMSAyMzowMDowMCc6OnRpbWVzdGFtcCksIGRhdGVfdHJ1bmMoJ21vbnRoJywgJzIwMTctMTItMzEgMjM6MDA6MDAnOjp0aW1lc3RhbXApLAogICAgICAgICAgICAgICAgICAgICAgICAgICBpbnRlcnZhbCAnMSBtb250aCcpIGRzOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>end_date), interval '1 month') ds) as cover_seq(start_month)
                   inner</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIGtvbnRleHRfaWQsCiAgICAgICAnUicgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgID8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXJhZXRfaWQsCiAgICAgICA/Cg==</text>
+        <text encoding="base64">ICAgICAgIGtvbnRleHRfaWQsCiAgICAgICAnUicgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwCg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
