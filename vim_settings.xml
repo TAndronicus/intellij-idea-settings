@@ -124,7 +124,7 @@
         <mark key="." line="91" column="71" />
         <mark key="^" line="91" column="72" />
       </file>
-      <file name="/console" timestamp="1587259629977">
+      <file name="/console" timestamp="1587273913707">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/progfun2/quickcheck/src/main/scala/quickcheck/Heap.scala" timestamp="1587189058727">
@@ -133,16 +133,16 @@
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1587175402486">
-        <mark key="[" line="287" column="0" />
-        <mark key="]" line="291" column="4" />
-        <mark key="." line="291" column="0" />
-        <mark key="^" line="291" column="4" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1587273800587">
+        <mark key="[" line="196" column="40" />
+        <mark key="]" line="196" column="45" />
+        <mark key="." line="196" column="44" />
+        <mark key="^" line="196" column="45" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/progfun2/calculator/src/main/scala/calculator/Signal.scala" timestamp="1587220910138">
         <mark key="'" line="57" column="7" />
       </file>
-      <file name="/a.sql" timestamp="1587175220718">
+      <file name="/a.sql" timestamp="1587273963838">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/sbtShell" timestamp="1587221819107">
@@ -175,9 +175,9 @@
         <mark key="." line="216" column="133" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/resources/batch.properties" timestamp="1587260980766">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="/dumpDataPreview" timestamp="1587174130600">
         <mark key="[" line="0" column="0" />
@@ -188,10 +188,11 @@
         <mark key="." line="21" column="79" />
         <mark key="^" line="21" column="80" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1587174225232">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1587273520204">
+        <mark key="[" line="33" column="65" />
+        <mark key="]" line="34" column="90" />
+        <mark key="." line="34" column="89" />
+        <mark key="^" line="34" column="90" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/progfun2/calculator/src/main/scala/calculator/Polynomial.scala" timestamp="1587220303147">
         <mark key="[" line="9" column="72" />
@@ -199,12 +200,12 @@
         <mark key="." line="17" column="4" />
         <mark key="^" line="17" column="5" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587272025976">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587274302836">
         <mark key="'" line="3548" column="26" />
-        <mark key="[" line="3576" column="47" />
-        <mark key="]" line="3576" column="175" />
-        <mark key="." line="3576" column="174" />
-        <mark key="^" line="3576" column="175" />
+        <mark key="[" line="3348" column="8" />
+        <mark key="]" line="3348" column="8" />
+        <mark key="." line="3348" column="8" />
+        <mark key="^" line="3357" column="18" />
       </file>
     </filemarks>
     <jumps>
@@ -313,59 +314,50 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>Temporal.</text>
+        <text>queue</text>
       </register>
       <register name="-" type="4">
-        <text>Temporal.</text>
+        <text>queue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>end_of_next_month(start_month)</text>
+        <text>17586474</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlRlbXBvcmFsOwo=</text>
+        <text encoding="base64">ZGVsZXRlCmZyb20gbWVzX3dhZXJtZW1lbmdlbnphZWhsZXIKd2hlcmUgKGdlcl9nZXJhZXRfaWQsIHR5cCkgPSAoMjQ0MzQzMzQsICdSJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLlRlbXBvcmFsOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">CQkJZW5kID0gTG9jYWxEYXRlVGltZS5vZigyMDE3KQo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>gt.val *
        extract(epoch from (least('2017-12-31 23:00:00', end_of_next_month(start_month)) -
                            greatest('2017-12-31 23:00:00', start_month))) /
        extract(epoch from (end_of_next_month(start_month) - start_month))</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CnNlbGVjdCBkcyAtIGludGVydmFsICcxIGRheScKICAgICAgZnJvbSBnZW5lcmF0ZV9zZXJpZXMoZGF0ZV90cnVuYygnbW9udGgnLCAnMjAxNy0xMi0zMSAyMzowMDowMCc6OnRpbWVzdGFtcCksIGRhdGVfdHJ1bmMoJ21vbnRoJywgJzIwMTctMTItMzEgMjM6MDA6MDAnOjp0aW1lc3RhbXApLAogICAgICAgICAgICAgICAgICAgICAgICAgICBpbnRlcnZhbCAnMSBtb250aCcpIGRzOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>end_date), interval '1 month') ds) as cover_seq(start_month)
                   inner</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgIGtvbnRleHRfaWQsCiAgICAgICAnUicgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdHlwCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgID8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBnZXJhZXRfaWQsCiAgICAgICA/Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>) as m_agg
-where
-    m_agg.meas_val is null
-  and (
-    m_agg.kontext_id
-    , m_agg.start_value
-    , m_agg.end_value
-    , m_agg.start_date
-    , m_agg.end_date
-    ) is not null;</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
