@@ -117,12 +117,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587403608056">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587403625577">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="974" column="28" />
-        <mark key="]" line="991" column="25" />
-        <mark key="." line="974" column="28" />
-        <mark key="^" line="969" column="34" />
+        <mark key="[" line="991" column="11" />
+        <mark key="]" line="991" column="11" />
+        <mark key="." line="991" column="10" />
+        <mark key="^" line="991" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/scalashop/src/main/scala/scalashop/package.scala" timestamp="1587373588438">
         <mark key="[" line="36" column="9" />
