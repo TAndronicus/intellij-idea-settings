@@ -117,15 +117,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587381880468">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587384877129">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="965" column="8" />
-        <mark key="]" line="965" column="8" />
-        <mark key="." line="965" column="8" />
-        <mark key="^" line="965" column="9" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587381752603">
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="976" column="50" />
+        <mark key="]" line="976" column="73" />
+        <mark key="." line="976" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/scalashop/src/main/scala/scalashop/package.scala" timestamp="1587373588438">
         <mark key="[" line="36" column="9" />
@@ -133,22 +129,8 @@
         <mark key="." line="36" column="9" />
         <mark key="^" line="39" column="33" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/dao/GradTageTest.java" timestamp="1587271756234">
-        <mark key="'" line="181" column="47" />
-        <mark key="[" line="91" column="45" />
-        <mark key="]" line="91" column="72" />
-        <mark key="." line="91" column="71" />
-        <mark key="^" line="91" column="72" />
-      </file>
-      <file name="/console" timestamp="1587381365405">
+      <file name="/console" timestamp="1587384741692">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1587305864765">
-        <mark key="'" line="86" column="61" />
-        <mark key="[" line="105" column="27" />
-        <mark key="]" line="105" column="78" />
-        <mark key="." line="105" column="77" />
-        <mark key="^" line="105" column="78" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala" timestamp="1587369875155">
         <mark key="'" line="57" column="34" />
@@ -157,28 +139,12 @@
         <mark key="." line="58" column="32" />
         <mark key="^" line="58" column="33" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587346820564">
-        <mark key="[" line="16" column="16" />
-        <mark key="]" line="16" column="16" />
-        <mark key="." line="16" column="16" />
+      <file name="/mes_warmwasserzaehler [staging@heroku]" timestamp="1587385266290">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1587294233093">
-        <mark key="[" line="119" column="54" />
-        <mark key="]" line="119" column="55" />
-        <mark key="^" line="119" column="36" />
-        <mark key="." line="119" column="55" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V373.0__remove_old_ersatzwerte.sql" timestamp="1587312373204">
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="31" column="26" />
-        <mark key="." line="31" column="25" />
-        <mark key="^" line="31" column="26" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1587374761387">
-        <mark key="[" line="120" column="34" />
-        <mark key="]" line="120" column="40" />
-        <mark key="." line="120" column="39" />
-        <mark key="^" line="120" column="40" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1587384461534">
+        <mark key="[" line="120" column="9" />
+        <mark key="]" line="120" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" timestamp="1587310090986">
         <mark key="[" line="252" column="35" />
@@ -186,38 +152,40 @@
         <mark key="." line="252" column="35" />
         <mark key="^" line="271" column="14" />
       </file>
+      <file name="/a.sql" timestamp="1587381752583">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587381752603">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/db48km9mevsand.public.mes_warmwasserzaehler" timestamp="1587385266307">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587384750796">
+        <mark key="[" line="306" column="0" />
+        <mark key="]" line="306" column="0" />
+        <mark key="." line="306" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V373.0__remove_old_ersatzwerte.sql" timestamp="1587312373204">
+        <mark key="[" line="31" column="9" />
+        <mark key="]" line="31" column="26" />
+        <mark key="." line="31" column="25" />
+        <mark key="^" line="31" column="26" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/common/model/ersatzwerte/ErsatzwerteDescription.java" timestamp="1587344696555">
         <mark key="[" line="27" column="63" />
         <mark key="]" line="27" column="64" />
         <mark key="." line="27" column="64" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/rest/ErsatzwerteRestEndpointTest.java" timestamp="1587309393198">
-        <mark key="[" line="61" column="34" />
-        <mark key="]" line="61" column="35" />
-        <mark key="." line="61" column="35" />
-      </file>
-      <file name="/a.sql" timestamp="1587381752583">
+      <file name="/foo.bar" timestamp="1587385266322">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587381345205">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587385028317">
         <mark key="'" line="3371" column="22" />
-        <mark key="[" line="3616" column="0" />
-        <mark key="]" line="3649" column="56" />
-        <mark key="." line="3694" column="0" />
-        <mark key="^" line="3694" column="1" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/03_insert_stromzaehler_data.sql" timestamp="1587308079963">
-        <mark key="'" line="12" column="32" />
-        <mark key="[" line="3879" column="423" />
-        <mark key="]" line="3879" column="437" />
-        <mark key="." line="3879" column="423" />
-        <mark key="^" line="3879" column="343" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__ersatzwerte.sql" timestamp="1587271944486">
-        <mark key="[" line="216" column="116" />
-        <mark key="]" line="216" column="134" />
-        <mark key="^" line="216" column="134" />
-        <mark key="." line="216" column="133" />
+        <mark key="[" line="3617" column="57" />
+        <mark key="]" line="3624" column="54" />
+        <mark key="." line="3624" column="35" />
+        <mark key="^" line="3624" column="36" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b6423c19-6d18-46ce-83e0-53808842734e/console.sql" timestamp="1587312387686">
         <mark key="[" line="1" column="25" />
@@ -338,79 +306,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>queue eq</text>
+        <text>all</text>
       </register>
       <register name="-" type="4">
-        <text>queue eq</text>
+        <text>all</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>insert into ew_queue (id, ger_geraet_id, start_date)
-select nextval('ew_queue_seq'),
-       gg.id,
-       '2019-01-01'
-from ger_geraet gg
-         inner join gk_geraet_typ ggt on gg.gk_geraet_typ_id = ggt.id
-         inner join nut_nutzeinheit nn on gg.nut_nutzeinheit_id = nn.id
-         inner join lie_liegenschaft ll on gg.lie_liegenschaft_id = ll.id
-where (geraet_typ in ('W', 'K', 'E', 'Z', 'P')
-    or geraet_art = 'OFOLT01')
-  and (ll.removedon, nn.removedon, gg.removedon) is null;
-
-insert into ew_queue (id, ger_geraet_id, start_date, end_date)
-select nextval('ew_queue_seq'),
-       gg.id,
-       '2019-01-01',
-       '2020-01-01'
-from ger_geraet gg
-         inner join gk_geraet_typ ggt on gg.gk_geraet_typ_id = ggt.id
-         inner join nut_nutzeinheit nn on gg.nut_nutzeinheit_id = nn.id
-         inner join lie_liegenschaft ll on gg.lie_liegenschaft_id = ll.id
-where geraet_typ = 'H'
-  and (ll.removedon, nn.removedon, gg.removedon) is null;
-
-insert into ew_queue (id, ger_geraet_id, start_date)
-select nextval('ew_queue_seq'),
-       gg.id,
-       '2020-01-01'
-from ger_geraet gg
-         inner join gk_geraet_typ ggt on gg.gk_geraet_typ_id = ggt.id
-         inner join nut_nutzeinheit nn on gg.nut_nutzeinheit_id = nn.id
-         inner join lie_liegenschaft ll on gg.lie_liegenschaft_id = ll.id
-where geraet_typ = 'H'
-  and (ll.removedon, nn.removedon, gg.removedon) is null;</text>
+      <register name="0" type="2">
+        <text encoding="base64">YWx0ZXIgdGFibGUgbWVzX3dhcm13YXNzZXJ6YWVobGVyIGVuYWJsZSB0cmlnZ2VyIHVzZXI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">c2hvdyBzZXNzaW9uX3JlcGxpY2F0aW9uX3JvbGU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGl5ID0gLXJhZGl1cwo=</text>
+        <text encoding="base64">c2V0IHNlc3Npb25fcmVwbGljYXRpb25fcm9sZSAgPSByZXBsaWNhOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaXggKz0gMQo=</text>
+        <text encoding="base64">c2hvdyBzZXNzaW9uX3JlcGxpY2F0aW9uX3JvbGUgOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpeSArPSAxCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAgZGVmIHJnYmFTdW0obGVmdDogUkdCQSwgcmlnaHQ6IFJHQkEpID0gewogICAgcmdiYShyZWQobGVmdCkgKyByZWQocmlnaHQpLCBncmVlbihsZWZ0KSArIGdyZWVuKHJpZ2h0KSwgYmx1ZShsZWZ0KSArIGJsdWUocmlnaHQpLCBhbHBoYShsZWZ0KSArIGFscGhhKHJpZ2h0KSkKICB9Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgogID8/Pw==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgPz8/</text>
+      <register name="5" type="2">
+        <text encoding="base64">d2hlcmU7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZGVsZXRlIGZyb20gZXdfcXVldWUgZXE7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW5zZXJ0IGludG8gbWVzX3dhcm13YXNzZXJ6YWVobGVyICgpCnZhbHVlcyAoKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgdmFyIGl5ID0gLXJhZGl1cwo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
