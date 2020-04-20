@@ -117,7 +117,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587346506297">
+      <file name="/Dummy.txt" timestamp="1587375245488">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/scalashop/src/main/scala/scalashop/package.scala" timestamp="1587373588438">
@@ -167,11 +167,11 @@
         <mark key="." line="31" column="25" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1587294954589">
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="277" column="0" />
-        <mark key="." line="277" column="0" />
-        <mark key="^" line="119" column="62" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1587374761387">
+        <mark key="[" line="120" column="34" />
+        <mark key="]" line="120" column="40" />
+        <mark key="." line="120" column="39" />
+        <mark key="^" line="120" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" timestamp="1587310090986">
         <mark key="[" line="252" column="35" />
@@ -336,10 +336,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>)</text>
+        <text>disable</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>disable</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
