@@ -3,7 +3,7 @@
     <property name="created">2020-03-31T15:48:13</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.3.4.0.0</property>
-    <property name="modified">2020-04-20T07:28:38</property>
+    <property name="modified">2020-04-20T20:43:30</property>
     <property name="originalScheme">High сontrast</property>
   </metaInfo>
   <colors>
@@ -88,7 +88,7 @@
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
       <value />
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="BAD_CHARACTER">
       <value>
         <option name="EFFECT_COLOR" value="ff0d25" />
@@ -217,7 +217,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CSS.URL" baseAttributes="" />
+    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
     <option name="CTRL_CLICKABLE">
       <value>
         <option name="FOREGROUND" value="aaff" />
@@ -566,7 +566,7 @@
         <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>
-    <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="JAVA_KEYWORD" baseAttributes="" />
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="" />
     <option name="KOTLIN_BACKING_FIELD_VARIABLE">
       <value />
