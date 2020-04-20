@@ -117,7 +117,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1587375245488">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587381880468">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="965" column="8" />
+        <mark key="]" line="965" column="8" />
+        <mark key="." line="965" column="8" />
+        <mark key="^" line="965" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587381752603">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/scalashop/src/main/scala/scalashop/package.scala" timestamp="1587373588438">
@@ -133,7 +140,7 @@
         <mark key="." line="91" column="71" />
         <mark key="^" line="91" column="72" />
       </file>
-      <file name="/console" timestamp="1587346814726">
+      <file name="/console" timestamp="1587381365405">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1587305864765">
@@ -189,13 +196,13 @@
         <mark key="]" line="61" column="35" />
         <mark key="." line="61" column="35" />
       </file>
-      <file name="/a.sql" timestamp="1587309606564">
+      <file name="/a.sql" timestamp="1587381752583">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587346009458">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587381345205">
         <mark key="'" line="3371" column="22" />
-        <mark key="[" line="3708" column="34" />
-        <mark key="]" line="3694" column="1" />
+        <mark key="[" line="3616" column="0" />
+        <mark key="]" line="3649" column="56" />
         <mark key="." line="3694" column="0" />
         <mark key="^" line="3694" column="1" />
       </file>
@@ -212,11 +219,6 @@
         <mark key="^" line="216" column="134" />
         <mark key="." line="216" column="133" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/resources/batch.properties" timestamp="1587260980766">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/b6423c19-6d18-46ce-83e0-53808842734e/console.sql" timestamp="1587312387686">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="6" column="24" />
@@ -231,7 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
       <jump line="191" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" />
       <jump line="5" column="6" filename="$USER_HOME$/Workspace/JVM/progfun1/patmat/src/test/scala/patmat/HuffmanSuite.scala" />
       <jump line="67" column="28" filename="$USER_HOME$/Workspace/JVM/progfun1/patmat/src/test/scala/patmat/HuffmanSuite.scala" />
@@ -331,21 +332,55 @@
       <jump line="3567" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="3371" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="57" column="34" filename="$USER_HOME$/Workspace/JVM/parprog1/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>disable</text>
+        <text>queue eq</text>
       </register>
       <register name="-" type="4">
-        <text>disable</text>
+        <text>queue eq</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>r: Int, g: Int, b: Int, a: Int</text>
+        <text>insert into ew_queue (id, ger_geraet_id, start_date)
+select nextval('ew_queue_seq'),
+       gg.id,
+       '2019-01-01'
+from ger_geraet gg
+         inner join gk_geraet_typ ggt on gg.gk_geraet_typ_id = ggt.id
+         inner join nut_nutzeinheit nn on gg.nut_nutzeinheit_id = nn.id
+         inner join lie_liegenschaft ll on gg.lie_liegenschaft_id = ll.id
+where (geraet_typ in ('W', 'K', 'E', 'Z', 'P')
+    or geraet_art = 'OFOLT01')
+  and (ll.removedon, nn.removedon, gg.removedon) is null;
+
+insert into ew_queue (id, ger_geraet_id, start_date, end_date)
+select nextval('ew_queue_seq'),
+       gg.id,
+       '2019-01-01',
+       '2020-01-01'
+from ger_geraet gg
+         inner join gk_geraet_typ ggt on gg.gk_geraet_typ_id = ggt.id
+         inner join nut_nutzeinheit nn on gg.nut_nutzeinheit_id = nn.id
+         inner join lie_liegenschaft ll on gg.lie_liegenschaft_id = ll.id
+where geraet_typ = 'H'
+  and (ll.removedon, nn.removedon, gg.removedon) is null;
+
+insert into ew_queue (id, ger_geraet_id, start_date)
+select nextval('ew_queue_seq'),
+       gg.id,
+       '2020-01-01'
+from ger_geraet gg
+         inner join gk_geraet_typ ggt on gg.gk_geraet_typ_id = ggt.id
+         inner join nut_nutzeinheit nn on gg.nut_nutzeinheit_id = nn.id
+         inner join lie_liegenschaft ll on gg.lie_liegenschaft_id = ll.id
+where geraet_typ = 'H'
+  and (ll.removedon, nn.removedon, gg.removedon) is null;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgfQogICAgfQo=</text>

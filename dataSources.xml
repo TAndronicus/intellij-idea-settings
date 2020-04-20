@@ -21,7 +21,7 @@
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://ec2-99-80-26-1.eu-west-1.compute.amazonaws.com:5432/d7fuagc42sgc9t</jdbc-url>
+      <jdbc-url>jdbc:postgresql://ec2-54-76-120-240.eu-west-1.compute.amazonaws.com:5432/db48km9mevsand</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="test@heroku" uuid="73ff3be5-7ebf-4aa7-a58c-0936252274aa">
       <driver-ref>postgresql</driver-ref>
