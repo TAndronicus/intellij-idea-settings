@@ -117,11 +117,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587384877129">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587388190556">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="976" column="50" />
-        <mark key="]" line="976" column="73" />
-        <mark key="." line="976" column="50" />
+        <mark key="[" line="987" column="25" />
+        <mark key="]" line="987" column="25" />
+        <mark key="^" line="987" column="24" />
+        <mark key="." line="987" column="25" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/scalashop/src/main/scala/scalashop/package.scala" timestamp="1587373588438">
         <mark key="[" line="36" column="9" />
@@ -139,7 +140,7 @@
         <mark key="." line="58" column="32" />
         <mark key="^" line="58" column="33" />
       </file>
-      <file name="/mes_warmwasserzaehler [staging@heroku]" timestamp="1587385266290">
+      <file name="/mes_warmwasserzaehler [staging@heroku]" timestamp="1587388502224">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1587384461534">
@@ -158,7 +159,7 @@
       <file name="/Dummy.txt" timestamp="1587381752603">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/db48km9mevsand.public.mes_warmwasserzaehler" timestamp="1587385266307">
+      <file name="/db48km9mevsand.public.mes_warmwasserzaehler" timestamp="1587388502247">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587384750796">
@@ -177,7 +178,7 @@
         <mark key="]" line="27" column="64" />
         <mark key="." line="27" column="64" />
       </file>
-      <file name="/foo.bar" timestamp="1587385266322">
+      <file name="/foo.bar" timestamp="1587388502265">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587385028317">
@@ -306,46 +307,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>all</text>
+        <text>mytbl</text>
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text>mytbl</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgbWVzX3dhcm13YXNzZXJ6YWVobGVyIGVuYWJsZSB0cmlnZ2VyIHVzZXI7Cg==</text>
+      <register name="0" type="4">
+        <text>mes_warmwasserzaehler</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2hvdyBzZXNzaW9uX3JlcGxpY2F0aW9uX3JvbGU7Cg==</text>
+        <text encoding="base64">V0hFUkUgZXZlbnRfb2JqZWN0X3RhYmxlID0gJ21lc193YXJtd2Fzc2VyemFlaGxlcicgLS0gWW91ciB0YWJsZSBuYW1lIGNvbWVzIGhlcmUKT1JERVIgQlkgZXZlbnRfb2JqZWN0X3RhYmxlCiAgICAgICAsZXZlbnRfbWFuaXB1bGF0aW9uCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2V0IHNlc3Npb25fcmVwbGljYXRpb25fcm9sZSAgPSByZXBsaWNhOwo=</text>
+        <text encoding="base64">c2hvdyBzZXNzaW9uX3JlcGxpY2F0aW9uX3JvbGU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2hvdyBzZXNzaW9uX3JlcGxpY2F0aW9uX3JvbGUgOwo=</text>
+        <text encoding="base64">c2V0IHNlc3Npb25fcmVwbGljYXRpb25fcm9sZSAgPSByZXBsaWNhOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">c2hvdyBzZXNzaW9uX3JlcGxpY2F0aW9uX3JvbGUgOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">d2hlcmU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gZXdfcXVldWUgZXE7Cg==</text>
+        <text encoding="base64">d2hlcmU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gbWVzX3dhcm13YXNzZXJ6YWVobGVyICgpCnZhbHVlcyAoKTsK</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gZXdfcXVldWUgZXE7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gbWVzX3dhcm13YXNzZXJ6YWVobGVyICgpCnZhbHVlcyAoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGl5ID0gLXJhZGl1cwo=</text>
+        <text encoding="base64">ICAgICAgfQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
