@@ -120,11 +120,11 @@
       <file name="/Dummy.txt" timestamp="1587346506297">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/scalashop/src/main/scala/scalashop/package.scala" timestamp="1587370552535">
-        <mark key="[" line="26" column="3" />
-        <mark key="]" line="50" column="8" />
-        <mark key="." line="50" column="7" />
-        <mark key="^" line="50" column="8" />
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/scalashop/src/main/scala/scalashop/package.scala" timestamp="1587371863512">
+        <mark key="[" line="68" column="7" />
+        <mark key="]" line="68" column="27" />
+        <mark key="." line="68" column="26" />
+        <mark key="^" line="68" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/dao/GradTageTest.java" timestamp="1587271756234">
         <mark key="'" line="181" column="47" />
@@ -336,46 +336,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>y</text>
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>A</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICB2YWwgZnJhYzogRG91YmxlID0gc3JjLndpZHRoLmRvdWJsZVZhbHVlKCkgLyBudW1UYXNrcwogICAgdmFsIHRza3MgPSBmb3IgKHRzayA8LSAwIHVudGlsIG51bVRhc2tzKSB5aWVsZCB0YXNrIHsKICAgICAgYmx1cihzcmMsIGRzdCwgbWF0aC5yb3VuZChmcmFjICogdHNrKS5pbnRWYWx1ZSgpLCBtYXRoLnJvdW5kKGZyYWMgKiAodHNrICsgMSkpLmludFZhbHVlKCksIHJhZGl1cykKICAgIH0KICAgIHRza3MuZm9yZWFjaChfLmpvaW4p</text>
+        <text>r: Int, g: Int, b: Int, a: Int</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgogID8/Pw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgZGVmIHJnYmFTdW0obGVmdDogUkdCQSwgcmlnaHQ6IFJHQkEpID0gewogICAgcmdiYShyZWQobGVmdCkgKyByZWQocmlnaHQpLCBncmVlbihsZWZ0KSArIGdyZWVuKHJpZ2h0KSwgYmx1ZShsZWZ0KSArIGJsdWUocmlnaHQpLCBhbHBoYShsZWZ0KSArIGFscGhhKHJpZ2h0KSkKICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">CgogID8/Pw==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgPz8/</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gaW1wbGVtZW50IHRoaXMgbWV0aG9kIHVzaW5nIHRoZSBgYm94Qmx1cktlcm5lbGAgbWV0aG9kCg==</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gaW1wbGVtZW50IHRoaXMgbWV0aG9kIHVzaW5nIHRoZSBgYm94Qmx1cktlcm5lbGAgbWV0aG9kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXggPT0gMCAmJiBpeSA9PSAwKQo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE8gaW1wbGVtZW50IHVzaW5nIHdoaWxlIGxvb3BzCiAgICA/Pz8K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXggPT0gMCAmJiBpeSA9PSAwKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgLS1pbm5lcjEK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE8gaW1wbGVtZW50IHVzaW5nIHdoaWxlIGxvb3BzCiAgICA/Pz8K</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
