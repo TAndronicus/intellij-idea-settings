@@ -117,12 +117,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587394485865">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587395349771">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="969" column="24" />
-        <mark key="]" line="969" column="29" />
-        <mark key="." line="969" column="28" />
-        <mark key="^" line="969" column="29" />
+        <mark key="[" line="953" column="56" />
+        <mark key="]" line="969" column="34" />
+        <mark key="." line="969" column="33" />
+        <mark key="^" line="969" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/scalashop/src/main/scala/scalashop/package.scala" timestamp="1587373588438">
         <mark key="[" line="36" column="9" />
@@ -307,11 +307,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">CmFsdGVyIHRhYmxlIG1lc193YXJtd2Fzc2VyemFlaGxlciBkaXNhYmxlIHRyaWdnZXIgbWVzX3d3X2tvcnJla3R1cl92b25fZms7CgpTRUxFQ1QgZXZlbnRfb2JqZWN0X3RhYmxlCiAgICAgLHRyaWdnZXJfbmFtZQogICAgICxldmVudF9tYW5pcHVsYXRpb24KICAgICAsYWN0aW9uX3N0YXRlbWVudAogICAgICxhY3Rpb25fdGltaW5nCkZST00gIGluZm9ybWF0aW9uX3NjaGVtYS50cmlnZ2VyczsKClNFTEVDVCB0Z25hbWUKRlJPTSAgIHBnX3RyaWdnZXIKV0hFUkUgIHRncmVsaWQgPSAncHVibGljLm1lc193YXJtd2Fzc2VyemFlaGxlcic6OnJlZ2NsYXNzOwo=</text>
+      <register name="*" type="4">
+        <text encoding="base64">IHByb2dyZXNz</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHByb2dyZXNz</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
