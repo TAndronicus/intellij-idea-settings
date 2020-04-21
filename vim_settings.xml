@@ -124,24 +124,18 @@
         <mark key="." line="997" column="18" />
         <mark key="^" line="997" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/scalashop/src/main/scala/scalashop/package.scala" timestamp="1587373588438">
-        <mark key="[" line="36" column="9" />
-        <mark key="]" line="36" column="9" />
-        <mark key="." line="36" column="9" />
-        <mark key="^" line="39" column="33" />
-      </file>
       <file name="/Dummy.txt" timestamp="1587391766506">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/db48km9mevsand.public.mes_warmwasserzaehler" timestamp="1587388502247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1587456943309">
-        <mark key="'" line="87" column="20" />
-        <mark key="[" line="58" column="74" />
-        <mark key="]" line="59" column="14" />
-        <mark key="." line="59" column="13" />
-        <mark key="^" line="59" column="14" />
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1587459321472">
+        <mark key="'" line="95" column="20" />
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="54" column="9" />
+        <mark key="." line="54" column="8" />
+        <mark key="^" line="54" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/main/java/com/qivalo/portal/config/flyway/SpringConfigDev.java" timestamp="1587390633824">
         <mark key="[" line="30" column="26" />
@@ -151,13 +145,6 @@
       </file>
       <file name="/console" timestamp="1587447198092">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/scalashop/src/main/scala/scalashop/HorizontalBoxBlur.scala" timestamp="1587369875155">
-        <mark key="'" line="57" column="34" />
-        <mark key="[" line="58" column="27" />
-        <mark key="]" line="58" column="33" />
-        <mark key="." line="58" column="32" />
-        <mark key="^" line="58" column="33" />
       </file>
       <file name="/mes_warmwasserzaehler [staging@heroku]" timestamp="1587388502224">
         <mark key="[" line="0" column="0" />
@@ -210,6 +197,9 @@
       <file name="$USER_HOME$/Workspace/JVM/progfun1/funsets/src/main/scala/funsets/FunSets.scala" timestamp="1587428104095">
         <mark key="'" line="90" column="0" />
       </file>
+      <file name="/Dummy.scala" timestamp="1587459250351">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587403603481">
         <mark key="'" line="1753" column="14" />
         <mark key="[" line="3665" column="12" />
@@ -217,9 +207,11 @@
         <mark key="." line="3643" column="56" />
         <mark key="^" line="3643" column="57" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/test/scala/reductions/ReductionsSuite.scala" timestamp="1587459275584">
+        <mark key="'" line="52" column="38" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="0" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" />
       <jump line="81" column="0" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" />
       <jump line="77" column="3" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" />
       <jump line="37" column="0" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" />
@@ -319,15 +311,16 @@
       <jump line="90" column="0" filename="$USER_HOME$/Workspace/JVM/progfun1/funsets/src/main/scala/funsets/FunSets.scala" />
       <jump line="84" column="20" filename="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelCountChange.scala" />
       <jump line="505" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
+      <jump line="52" column="38" filename="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/test/scala/reductions/ReductionsSuite.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIG91dHB1dCgwKSA9IDAK</text>
+      <register name="*" type="4">
+        <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">ZWxzZSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -336,34 +329,34 @@
         <text>downsweep(input, output, n.maxPrevious, n.left)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG91dHB1dCgwKSA9IDAK</text>
+        <text encoding="base64">ICAgIGlmIChjb2lucy5pc0VtcHR5KSAxCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">Ci8vICAgIGlmIChtb25leSA+IDApIHsKLy8gICAgICB2YXIgY29tYiA9IDAKLy8gICAgICBpZiAoY29pbnMuaGVhZCA9PSBtb25leSkgY29tYiArPSAxCi8vICAgICAgaWYgKGNvaW5zLmhlYWQgPCBtb25leSkgY29tYiArPSBjb3VudENoYW5nZShtb25leSAtIGNvaW5zKGkpLCBjb2lucykKLy8gICAgICBjb21iCi8vICAgIH0gZWxzZSBpZiAobW9uZXkgPT0gMCkgMQovLyAgICBlbHNlIDAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgfQo=</text>
+        <text encoding="base64">ICBkZWYgY291bnRDaGFuZ2UKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaSArPSAxCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">CiAgICBpZiAobW9uZXkgPCAwKSAwCiAgICBlbHNlIGlmIChtb25leSA9PSAwKSAxCiAgICBlbHNlIHsKICAgICAgY29pbnMgbWF0Y2ggewogICAgICAgIGNhc2UgeCA6OiB4cyA9PiBjb3VudENoYW5nZShtb25leSAtIHgsIGNvaW5zKSArIGNvdW50Q2hhbmdlKG1vbmV5LCB4cykKICAgICAgICBjYXNlIE5pbCA9PiAwCiAgICAgIH0KICAgIH0=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIm1vbmV5OiAiICsgbW9uZXkgKyAiY29pbnM6ICIgKyBjb2lucy5ta1N0cmluZygiLCAiKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFsIChsZWZ0LCByaWdodCkgPSAK</text>
+        <text encoding="base64">ICAgICAgdmFyIGkgPSAwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgICBpICs9IDEKICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgd2hpbGUgKGkgPCBjb2lucy5sZW5ndGgpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
