@@ -162,11 +162,11 @@
       <file name="/mes_warmwasserzaehler [staging@heroku]" timestamp="1587388502224">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1587433115650">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="42" column="23" />
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1587433702070">
+        <mark key="[" line="67" column="18" />
+        <mark key="]" line="65" column="48" />
+        <mark key="." line="65" column="47" />
+        <mark key="^" line="65" column="48" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V373.1__add_korrektur_index_strom.sql" timestamp="1587390703006">
         <mark key="[" line="1" column="0" />
@@ -323,10 +323,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>}</text>
+        <text>???</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>???</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
