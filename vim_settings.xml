@@ -124,18 +124,59 @@
         <mark key="." line="997" column="18" />
         <mark key="^" line="997" column="19" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1587467741765">
+        <mark key="'" line="87" column="20" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="54" column="9" />
+      </file>
+      <file name="/console" timestamp="1587447198092">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/build.sbt" timestamp="1587470403154">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="76" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1587469851568">
+        <mark key="[" line="84" column="52" />
+        <mark key="]" line="84" column="52" />
+        <mark key="^" line="57" column="45" />
+        <mark key="." line="84" column="52" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V373.1__add_korrektur_index_strom.sql" timestamp="1587390703006">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/recfun/src/main/scala/recfun/RecFun.scala" timestamp="1587432981950">
+        <mark key="[" line="30" column="62" />
+        <mark key="]" line="38" column="6" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1587391234632">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="^" line="119" column="59" />
+        <mark key="." line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/progfun1/funsets/src/main/scala/funsets/FunSets.scala" timestamp="1587428104095">
+        <mark key="'" line="90" column="0" />
+      </file>
+      <file name="/sbtShell" timestamp="1587470165384">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.scala" timestamp="1587469699740">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/test/scala/reductions/ReductionsSuite.scala" timestamp="1587465496007">
+        <mark key="'" line="58" column="38" />
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="20" column="76" />
+        <mark key="." line="20" column="75" />
+        <mark key="^" line="20" column="76" />
+      </file>
       <file name="/Dummy.txt" timestamp="1587391766506">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/db48km9mevsand.public.mes_warmwasserzaehler" timestamp="1587388502247">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1587459321472">
-        <mark key="'" line="95" column="20" />
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="54" column="9" />
-        <mark key="." line="54" column="8" />
-        <mark key="^" line="54" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/main/java/com/qivalo/portal/config/flyway/SpringConfigDev.java" timestamp="1587390633824">
         <mark key="[" line="30" column="26" />
@@ -143,28 +184,11 @@
         <mark key="^" line="31" column="24" />
         <mark key="." line="31" column="23" />
       </file>
-      <file name="/console" timestamp="1587447198092">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mes_warmwasserzaehler [staging@heroku]" timestamp="1587388502224">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1587439859196">
         <mark key="[" line="83" column="31" />
         <mark key="]" line="83" column="36" />
         <mark key="." line="83" column="35" />
         <mark key="^" line="83" column="36" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1587467227964">
-        <mark key="[" line="100" column="78" />
-        <mark key="]" line="100" column="80" />
-        <mark key="." line="100" column="79" />
-        <mark key="^" line="100" column="80" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V373.1__add_korrektur_index_strom.sql" timestamp="1587390703006">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587447213793">
         <mark key="'" line="505" column="19" />
@@ -178,27 +202,13 @@
         <mark key="^" line="5" column="77" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/recfun/src/main/scala/recfun/RecFun.scala" timestamp="1587432981950">
-        <mark key="[" line="30" column="62" />
-        <mark key="]" line="38" column="6" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1587391234632">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="119" column="59" />
-        <mark key="." line="115" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1587381752583">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/foo.bar" timestamp="1587388502265">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/funsets/src/main/scala/funsets/FunSets.scala" timestamp="1587428104095">
-        <mark key="'" line="90" column="0" />
-      </file>
-      <file name="/Dummy.scala" timestamp="1587467253168">
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/other/reductions/build.sbt" timestamp="1587470406890">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="77" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587403603481">
         <mark key="'" line="1753" column="14" />
@@ -206,13 +216,6 @@
         <mark key="]" line="3682" column="24" />
         <mark key="." line="3643" column="56" />
         <mark key="^" line="3643" column="57" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/test/scala/reductions/ReductionsSuite.scala" timestamp="1587465496007">
-        <mark key="'" line="58" column="38" />
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="20" column="76" />
-        <mark key="." line="20" column="75" />
-        <mark key="^" line="20" column="76" />
       </file>
     </filemarks>
     <jumps>
@@ -320,47 +323,58 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text encoding="base64">CiAgQFRlc3QgZGVmIGBsaW5lT2ZTaWdodCBzaG91bGQgY29ycmVjdGx5IGhhbmRsZSBhbiBhcnJheSBvZiBzaXplIDRgOiBVbml0ID0gewogICAgdmFsIG91dHB1dCA9IG5ldyBBcnJheVtGbG9hdF0oNCkKICAgIGxpbmVPZlNpZ2h0KEFycmF5W0Zsb2F0XSgwZiwgMWYsIDhmLCA5ZiksIG91dHB1dCkKICAgIGFzc2VydEVxdWFscyhMaXN0KDBmLCAxZiwgNGYsIDRmKSwgb3V0cHV0LnRvTGlzdCkKICB9</text>
+      <register name="*" type="2">
+        <text encoding="base64">bmFtZSA6PSBjb3Vyc2UudmFsdWUgKyAiLSIgKyBhc3NpZ25tZW50LnZhbHVlCgpzY2FsYVZlcnNpb24gOj0gIjIuMTEuNyIKCnNjYWxhY09wdGlvbnMgKys9IFNlcSgiLWRlcHJlY2F0aW9uIikKCmNvdXJzZUlkIDo9ICJHVnk4dElJS0VlV1htUTRGODZubXJ3IgoKLy8gZ3JhZGluZyBsaWJyYXJpZXMKbGlicmFyeURlcGVuZGVuY2llcyArPSAianVuaXQiICUgImp1bml0IiAlICI0LjEwIiAlICJ0ZXN0IgpsaWJyYXJ5RGVwZW5kZW5jaWVzICsrPSBhc3NpZ25tZW50c01hcC52YWx1ZS52YWx1ZXMuZmxhdE1hcChfLmRlcGVuZGVuY2llcykudG9TZXEKCi8vIGluY2x1ZGUgdGhlIGNvbW1vbiBkaXIKY29tbW9uU291cmNlUGFja2FnZXMgKz0gImNvbW1vbiIKCmFzc2lnbm1lbnRzTWFwIDo9IHsKICB2YWwgZGVwc0NvbGxlY3Rpb25zID0gU2VxKAogICAgImNvbS5zdG9ybS1lbnJvdXRlIiAlJSAic2NhbGFtZXRlci1jb3JlIiAlICIwLjYiLAogICAgImNvbS5naXRodWIuc2NhbGEtYmxpdHoiICUlICJzY2FsYS1ibGl0eiIgJSAiMS4xIiwKICAgICJvcmcuc2NhbGEtbGFuZy5tb2R1bGVzIiAlJSAic2NhbGEtc3dpbmciICUgIjEuMC4xIiwKICAgICJjb20uc3Rvcm0tZW5yb3V0ZSIgJSUgInNjYWxhbWV0ZXIiICUgIjAuNiIgJSAidGVzdCIKICApCiAgdmFsIGRlcHNTcGFyayA9IFNlcSgKICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlJSAic3BhcmstY29yZSIgJSAiMS4yLjEiCiAgKQogIHZhbCBzdHlsZVNoZWV0UGF0aCA9IChiYXNlRGlyZWN0b3J5LnZhbHVlIC8gIi4uIiAvICIuLiIgLyAicHJvamVjdCIgLyAic2NhbGFzdHlsZV9jb25maWcueG1sIikuZ2V0UGF0aAogIE1hcCgKICAgICJleGFtcGxlIiAtPiBBc3NpZ25tZW50KAogICAgICBwYWNrYWdlTmFtZSA9ICJleGFtcGxlIiwKICAgICAga2V5ID0gIl9DdWlvOW9URWVXVXRRcHZYNGlBa3ciLAogICAgICBpdGVtSWQgPSAiZ001WTQiLAogICAgICBwYXJ0SWQgPSAiV0d4MGYiLAogICAgICBtYXhTY29yZSA9IDEwZCwKICAgICAgZGVwZW5kZW5jaWVzID0gU2VxKCkpLAogICAgInNjYWxhc2hvcCIgLT4gQXNzaWdubWVudCgKICAgICAgcGFja2FnZU5hbWUgPSAic2NhbGFzaG9wIiwKICAgICAga2V5ID0gIk9wU05tdEMxRWVXdlhBcjJiRjE2RVEiLAogICAgICBpdGVtSWQgPSAiTmVHVHYiLAogICAgICBwYXJ0SWQgPSAiUTJlMVAiLAogICAgICBtYXhTY29yZSA9IDEwZCwKICAgICAgZGVwZW5kZW5jaWVzID0gZGVwc0NvbGxlY3Rpb25zKSwKICAgICJyZWR1Y3Rpb25zIiAtPiBBc3NpZ25tZW50KAogICAgICBwYWNrYWdlTmFtZSA9ICJyZWR1Y3Rpb25zIiwKICAgICAga2V5ID0gImxVVVdkZG9HRWVXUEh3NnI0NS1ueHciLAogICAgICBpdGVtSWQgPSAiNHJYd1giLAogICAgICBwYXJ0SWQgPSAiZ21TblIiLAogICAgICBtYXhTY29yZSA9IDEwZCwKICAgICAgZGVwZW5kZW5jaWVzID0gZGVwc0NvbGxlY3Rpb25zKSwKICAgICJrbWVhbnMiIC0+IEFzc2lnbm1lbnQoCiAgICAgIHBhY2thZ2VOYW1lID0gImttZWFucyIsCiAgICAgIGtleSA9ICJVSm1GRXRvSUVlV0p3UktjcFQ4Q2hRIiwKICAgICAgaXRlbUlkID0gImFrTHhEIiwKICAgICAgcGFydElkID0gIm16OGlMIiwKICAgICAgbWF4U2NvcmUgPSAxMGQsCiAgICAgIGRlcGVuZGVuY2llcyA9IGRlcHNDb2xsZWN0aW9ucyksCiAgICAiYmFybmVzaHV0IiAtPiBBc3NpZ25tZW50KAogICAgICBwYWNrYWdlTmFtZSA9ICJiYXJuZXNodXQiLAogICAgICBrZXkgPSAiaXRmVzk5b0pFZVdYdXhKZ1VKRUItUSIsCiAgICAgIGl0ZW1JZCA9ICJ4R2tWMCIsCiAgICAgIHBhcnRJZCA9ICJlcDk1cSIsCiAgICAgIG1heFNjb3JlID0gMTBkLAogICAgICBkZXBlbmRlbmNpZXMgPSBkZXBzQ29sbGVjdGlvbnMpCiAgKQp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgQFRlc3QgZGVmIGBsaW5lT2ZTaWdodCBzaG91bGQgY29ycmVjdGx5IGhhbmRsZSBhbiBhcnJheSBvZiBzaXplIDRgOiBVbml0ID0gewogICAgdmFsIG91dHB1dCA9IG5ldyBBcnJheVtGbG9hdF0oNCkKICAgIGxpbmVPZlNpZ2h0KEFycmF5W0Zsb2F0XSgwZiwgMWYsIDhmLCA5ZiksIG91dHB1dCkKICAgIGFzc2VydEVxdWFscyhMaXN0KDBmLCAxZiwgNGYsIDRmKSwgb3V0cHV0LnRvTGlzdCkKICB9</text>
+        <text>course := &quot;parprog1&quot;
+assignment := &quot;reductions&quot;
+
+scalaVersion := &quot;2.13.0&quot;
+scalacOptions ++= Seq(&quot;-language:implicitConversions&quot;, &quot;-deprecation&quot;)
+libraryDependencies ++= Seq(
+  &quot;com.storm-enroute&quot; %% &quot;scalameter-core&quot; % &quot;0.19&quot;,
+  &quot;org.scala-lang.modules&quot; %% &quot;scala-parallel-collections&quot; % &quot;0.2.0&quot;,
+  &quot;com.novocode&quot; % &quot;junit-interface&quot; % &quot;0.11&quot; % Test
+)
+
+testOptions in Test += Tests.Argument(TestFrameworks.JUnit, &quot;-a&quot;, &quot;-v&quot;, &quot;-s&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChjb2lucy5pc0VtcHR5KSAxCg==</text>
+        <text encoding="base64">bmFtZSA6PSBjb3Vyc2UudmFsdWUgKyAiLSIgKyBhc3NpZ25tZW50LnZhbHVlCgpzY2FsYVZlcnNpb24gOj0gIjIuMTEuNyIKCnNjYWxhY09wdGlvbnMgKys9IFNlcSgiLWRlcHJlY2F0aW9uIikKCmNvdXJzZUlkIDo9ICJHVnk4dElJS0VlV1htUTRGODZubXJ3IgoKLy8gZ3JhZGluZyBsaWJyYXJpZXMKbGlicmFyeURlcGVuZGVuY2llcyArPSAianVuaXQiICUgImp1bml0IiAlICI0LjEwIiAlICJ0ZXN0IgpsaWJyYXJ5RGVwZW5kZW5jaWVzICsrPSBhc3NpZ25tZW50c01hcC52YWx1ZS52YWx1ZXMuZmxhdE1hcChfLmRlcGVuZGVuY2llcykudG9TZXEKCi8vIGluY2x1ZGUgdGhlIGNvbW1vbiBkaXIKY29tbW9uU291cmNlUGFja2FnZXMgKz0gImNvbW1vbiIKCmFzc2lnbm1lbnRzTWFwIDo9IHsKICB2YWwgZGVwc0NvbGxlY3Rpb25zID0gU2VxKAogICAgImNvbS5zdG9ybS1lbnJvdXRlIiAlJSAic2NhbGFtZXRlci1jb3JlIiAlICIwLjYiLAogICAgImNvbS5naXRodWIuc2NhbGEtYmxpdHoiICUlICJzY2FsYS1ibGl0eiIgJSAiMS4xIiwKICAgICJvcmcuc2NhbGEtbGFuZy5tb2R1bGVzIiAlJSAic2NhbGEtc3dpbmciICUgIjEuMC4xIiwKICAgICJjb20uc3Rvcm0tZW5yb3V0ZSIgJSUgInNjYWxhbWV0ZXIiICUgIjAuNiIgJSAidGVzdCIKICApCiAgdmFsIGRlcHNTcGFyayA9IFNlcSgKICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlJSAic3BhcmstY29yZSIgJSAiMS4yLjEiCiAgKQogIHZhbCBzdHlsZVNoZWV0UGF0aCA9IChiYXNlRGlyZWN0b3J5LnZhbHVlIC8gIi4uIiAvICIuLiIgLyAicHJvamVjdCIgLyAic2NhbGFzdHlsZV9jb25maWcueG1sIikuZ2V0UGF0aAogIE1hcCgKICAgICJleGFtcGxlIiAtPiBBc3NpZ25tZW50KAogICAgICBwYWNrYWdlTmFtZSA9ICJleGFtcGxlIiwKICAgICAga2V5ID0gIl9DdWlvOW9URWVXVXRRcHZYNGlBa3ciLAogICAgICBpdGVtSWQgPSAiZ001WTQiLAogICAgICBwYXJ0SWQgPSAiV0d4MGYiLAogICAgICBtYXhTY29yZSA9IDEwZCwKICAgICAgZGVwZW5kZW5jaWVzID0gU2VxKCkpLAogICAgInNjYWxhc2hvcCIgLT4gQXNzaWdubWVudCgKICAgICAgcGFja2FnZU5hbWUgPSAic2NhbGFzaG9wIiwKICAgICAga2V5ID0gIk9wU05tdEMxRWVXdlhBcjJiRjE2RVEiLAogICAgICBpdGVtSWQgPSAiTmVHVHYiLAogICAgICBwYXJ0SWQgPSAiUTJlMVAiLAogICAgICBtYXhTY29yZSA9IDEwZCwKICAgICAgZGVwZW5kZW5jaWVzID0gZGVwc0NvbGxlY3Rpb25zKSwKICAgICJyZWR1Y3Rpb25zIiAtPiBBc3NpZ25tZW50KAogICAgICBwYWNrYWdlTmFtZSA9ICJyZWR1Y3Rpb25zIiwKICAgICAga2V5ID0gImxVVVdkZG9HRWVXUEh3NnI0NS1ueHciLAogICAgICBpdGVtSWQgPSAiNHJYd1giLAogICAgICBwYXJ0SWQgPSAiZ21TblIiLAogICAgICBtYXhTY29yZSA9IDEwZCwKICAgICAgZGVwZW5kZW5jaWVzID0gZGVwc0NvbGxlY3Rpb25zKSwKICAgICJrbWVhbnMiIC0+IEFzc2lnbm1lbnQoCiAgICAgIHBhY2thZ2VOYW1lID0gImttZWFucyIsCiAgICAgIGtleSA9ICJVSm1GRXRvSUVlV0p3UktjcFQ4Q2hRIiwKICAgICAgaXRlbUlkID0gImFrTHhEIiwKICAgICAgcGFydElkID0gIm16OGlMIiwKICAgICAgbWF4U2NvcmUgPSAxMGQsCiAgICAgIGRlcGVuZGVuY2llcyA9IGRlcHNDb2xsZWN0aW9ucyksCiAgICAiYmFybmVzaHV0IiAtPiBBc3NpZ25tZW50KAogICAgICBwYWNrYWdlTmFtZSA9ICJiYXJuZXNodXQiLAogICAgICBrZXkgPSAiaXRmVzk5b0pFZVdYdXhKZ1VKRUItUSIsCiAgICAgIGl0ZW1JZCA9ICJ4R2tWMCIsCiAgICAgIHBhcnRJZCA9ICJlcDk1cSIsCiAgICAgIG1heFNjb3JlID0gMTBkLAogICAgICBkZXBlbmRlbmNpZXMgPSBkZXBzQ29sbGVjdGlvbnMpCiAgKQp9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ci8vICAgIGlmIChtb25leSA+IDApIHsKLy8gICAgICB2YXIgY29tYiA9IDAKLy8gICAgICBpZiAoY29pbnMuaGVhZCA9PSBtb25leSkgY29tYiArPSAxCi8vICAgICAgaWYgKGNvaW5zLmhlYWQgPCBtb25leSkgY29tYiArPSBjb3VudENoYW5nZShtb25leSAtIGNvaW5zKGkpLCBjb2lucykKLy8gICAgICBjb21iCi8vICAgIH0gZWxzZSBpZiAobW9uZXkgPT0gMCkgMQovLyAgICBlbHNlIDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWYgY291bnRDaGFuZ2UKCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZvciAoaSA8LSAoZnJvbSArIDEpIHVudGlsIHVudGlsKSB7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBpZiAobW9uZXkgPCAwKSAwCiAgICBlbHNlIGlmIChtb25leSA9PSAwKSAxCiAgICBlbHNlIHsKICAgICAgY29pbnMgbWF0Y2ggewogICAgICAgIGNhc2UgeCA6OiB4cyA9PiBjb3VudENoYW5nZShtb25leSAtIHgsIGNvaW5zKSArIGNvdW50Q2hhbmdlKG1vbmV5LCB4cykKICAgICAgICBjYXNlIE5pbCA9PiAwCiAgICAgIH0KICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgaWYgKG1vbmV5IDwgMCkgMAovLyAgICBlbHNlIGlmIChtb25leSA9PSAwKSAxCi8vICAgIGVsc2UgewovLyAgICAgIGNvaW5zIG1hdGNoIHsKLy8gICAgICAgIGNhc2UgeCA6OiB4cyA9PiBjb3VudENoYW5nZShtb25leSAtIHgsIGNvaW5zKSArIGNvdW50Q2hhbmdlKG1vbmV5LCB4cykKLy8gICAgICAgIGNhc2UgTmlsID0+IDAKLy8gICAgICB9Ci8vICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIm1vbmV5OiAiICsgbW9uZXkgKyAiY29pbnM6ICIgKyBjb2lucy5ta1N0cmluZygiLCAiKSkK</text>
+        <text encoding="base64">ICAgIGlmIChjb2lucy5pc0VtcHR5KSAxCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGkgPSAwCg==</text>
+        <text encoding="base64">Ci8vICAgIGlmIChtb25leSA+IDApIHsKLy8gICAgICB2YXIgY29tYiA9IDAKLy8gICAgICBpZiAoY29pbnMuaGVhZCA9PSBtb25leSkgY29tYiArPSAxCi8vICAgICAgaWYgKGNvaW5zLmhlYWQgPCBtb25leSkgY29tYiArPSBjb3VudENoYW5nZShtb25leSAtIGNvaW5zKGkpLCBjb2lucykKLy8gICAgICBjb21iCi8vICAgIH0gZWxzZSBpZiAobW9uZXkgPT0gMCkgMQovLyAgICBlbHNlIDAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpICs9IDEKICAgICAgfQo=</text>
+        <text encoding="base64">ICBkZWYgY291bnRDaGFuZ2UKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgd2hpbGUgKGkgPCBjb2lucy5sZW5ndGgpIHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
