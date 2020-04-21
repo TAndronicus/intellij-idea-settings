@@ -168,6 +168,12 @@
         <mark key="." line="83" column="35" />
         <mark key="^" line="83" column="36" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1587440718335">
+        <mark key="[" line="47" column="24" />
+        <mark key="]" line="47" column="21" />
+        <mark key="." line="47" column="20" />
+        <mark key="^" line="47" column="21" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V373.1__add_korrektur_index_strom.sql" timestamp="1587390703006">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -209,12 +215,6 @@
         <mark key="]" line="3682" column="24" />
         <mark key="." line="3643" column="56" />
         <mark key="^" line="3643" column="57" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/scalashop/src/main/scala/scalashop/VerticalBoxBlur.scala" timestamp="1587369774732">
-        <mark key="[" line="58" column="70" />
-        <mark key="]" line="63" column="23" />
-        <mark key="." line="64" column="2" />
-        <mark key="^" line="64" column="3" />
       </file>
     </filemarks>
     <jumps>
@@ -323,10 +323,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>?</text>
+        <text>.doubleValue() /</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>.doubleValue() /</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
