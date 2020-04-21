@@ -162,6 +162,11 @@
       <file name="/mes_warmwasserzaehler [staging@heroku]" timestamp="1587388502224">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1587432533152">
+        <mark key="[" line="41" column="46" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V373.1__add_korrektur_index_strom.sql" timestamp="1587390703006">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -317,8 +322,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>count</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="-" type="4">
         <text>count</text>
@@ -330,34 +335,34 @@
         <text encoding="base64">CgpzZWxlY3QgJycgfHwgZ2cubnV0X251dHplaW5oZWl0X2lkIHx8ICcvZ2VyYWV0LycgfHwgZ2cuaWQsIHQuKgpmcm9tICgKICAgICAgICAgc2VsZWN0IG1tLmlkLAogICAgICAgICAgICAgICAgbW0uZ2VyX2dlcmFldF9pZCwKICAgICAgICAgICAgICAgIG1tLm1lc3NfZGF0dW0sCiAgICAgICAgICAgICAgICBsZWFkKG1tLm1lc3NfZGF0dW0pIG92ZXIgKHBhcnRpdGlvbiBieSBtbS5nZXJfZ2VyYWV0X2lkIG9yZGVyIGJ5IG1tLm1lc3NfZGF0dW0pLAogICAgICAgICAgICAgICAgbW0ud2VydCwKICAgICAgICAgICAgICAgIGxlYWQobW0ud2VydCkgb3ZlciAocGFydGl0aW9uIGJ5IG1tLmdlcl9nZXJhZXRfaWQgb3JkZXIgYnkgbW0ubWVzc19kYXR1bSksCiAgICAgICAgICAgICAgICB0eXAsCiAgICAgICAgICAgICAgICBjcmVhdGlvbl9kYXRlCiAgICAgICAgIGZyb20gbWVzX21lc3N1bmcgbW0KICAgICApIHQobWlkLCBnaWQsIGRhdCwgbmRhdCwgdmEsIG52YSwgdHksIGNyZSkKICAgICAgICAgaW5uZXIgam9pbiBnZXJfZ2VyYWV0IGdnIG9uIGdnLmlkID0gdC5naWQKd2hlcmUgdmEgPiBudmEKICBhbmQgdHkgPSAnUicKICBhbmQgY3JlID4gJzIwMjAtMDQtMTknOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlZiAocGVybSwgYWxsQWxsb2NhdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgIGRlZiAocGVybSwgYWxsQWxsb2NhdGlvbnMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoICsgd2l0aG91dAo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgICB3aXRoICsgd2l0aG91dAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmFsdGVyIHRhYmxlIG1lc193YXJtd2Fzc2VyemFlaGxlciBkaXNhYmxlIHRyaWdnZXIgbWVzX3d3X2tvcnJla3R1cl92b25fZms7CgpTRUxFQ1QgZXZlbnRfb2JqZWN0X3RhYmxlCiAgICAgLHRyaWdnZXJfbmFtZQogICAgICxldmVudF9tYW5pcHVsYXRpb24KICAgICAsYWN0aW9uX3N0YXRlbWVudAogICAgICxhY3Rpb25fdGltaW5nCkZST00gIGluZm9ybWF0aW9uX3NjaGVtYS50cmlnZ2VyczsKClNFTEVDVCB0Z25hbWUKRlJPTSAgIHBnX3RyaWdnZXIKV0hFUkUgIHRncmVsaWQgPSAncHVibGljLm1lc193YXJtd2Fzc2VyemFlaGxlcic6OnJlZ2NsYXNzOwo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkiYWx0ZXIgdGFibGUgJHt0YWJsZU5hbWV9IGRpc2FibGUgdHJpZ2dlciBhbGw7IiArCg==</text>
+        <text encoding="base64">CmFsdGVyIHRhYmxlIG1lc193YXJtd2Fzc2VyemFlaGxlciBkaXNhYmxlIHRyaWdnZXIgbWVzX3d3X2tvcnJla3R1cl92b25fZms7CgpTRUxFQ1QgZXZlbnRfb2JqZWN0X3RhYmxlCiAgICAgLHRyaWdnZXJfbmFtZQogICAgICxldmVudF9tYW5pcHVsYXRpb24KICAgICAsYWN0aW9uX3N0YXRlbWVudAogICAgICxhY3Rpb25fdGltaW5nCkZST00gIGluZm9ybWF0aW9uX3NjaGVtYS50cmlnZ2VyczsKClNFTEVDVCB0Z25hbWUKRlJPTSAgIHBnX3RyaWdnZXIKV0hFUkUgIHRncmVsaWQgPSAncHVibGljLm1lc193YXJtd2Fzc2VyemFlaGxlcic6OnJlZ2NsYXNzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkiYWx0ZXIgdGFibGUgJHt0YWJsZU5hbWV9IGVuYWJsZSB0cmlnZ2VyIGFsbDsiOwo=</text>
+        <text encoding="base64">CQkiYWx0ZXIgdGFibGUgJHt0YWJsZU5hbWV9IGRpc2FibGUgdHJpZ2dlciBhbGw7IiArCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y3JlYXRlIGluZGV4IGlmIG5vdCBleGlzdHMgbWVzX3N0cm9temFlaGxlcl9rb3JyIG9uIG1lc19zdHJvbXphZWhsZXIgKG1lc3N1bmdfaWRfa29ycmVrdHVyX3Zvbik7Cg==</text>
+        <text encoding="base64">CQkiYWx0ZXIgdGFibGUgJHt0YWJsZU5hbWV9IGVuYWJsZSB0cmlnZ2VyIGFsbDsiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
