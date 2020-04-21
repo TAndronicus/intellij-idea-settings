@@ -127,12 +127,12 @@
       <file name="/Dummy.txt" timestamp="1587391766506">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1587479401828">
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1587479625407">
         <mark key="'" line="87" column="20" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-        <mark key="^" line="74" column="13" />
+        <mark key="[" line="82" column="5" />
+        <mark key="]" line="82" column="5" />
+        <mark key="." line="82" column="5" />
+        <mark key="^" line="76" column="9" />
       </file>
       <file name="/console" timestamp="1587447198092">
         <mark key="[" line="0" column="0" />
@@ -147,11 +147,11 @@
         <mark key="." line="76" column="21" />
         <mark key="^" line="76" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1587477895722">
-        <mark key="[" line="73" column="20" />
-        <mark key="]" line="75" column="27" />
-        <mark key="^" line="75" column="17" />
-        <mark key="." line="75" column="27" />
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1587480537121">
+        <mark key="[" line="92" column="20" />
+        <mark key="]" line="95" column="43" />
+        <mark key="^" line="95" column="43" />
+        <mark key="." line="95" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/progfun1/recfun/src/main/scala/recfun/RecFun.scala" timestamp="1587432981950">
         <mark key="[" line="30" column="62" />
@@ -190,7 +190,7 @@
         <mark key="]" line="8" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1587475363041">
+      <file name="/Dummy.scala" timestamp="1587480480749">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -207,12 +207,12 @@
         <mark key="." line="3643" column="56" />
         <mark key="^" line="3643" column="57" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/test/scala/reductions/ReductionsSuite.scala" timestamp="1587479386074">
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/test/scala/reductions/ReductionsSuite.scala" timestamp="1587480186968">
         <mark key="'" line="82" column="38" />
-        <mark key="[" line="114" column="59" />
-        <mark key="]" line="114" column="74" />
-        <mark key="." line="114" column="73" />
-        <mark key="^" line="114" column="74" />
+        <mark key="[" line="51" column="32" />
+        <mark key="]" line="51" column="20" />
+        <mark key="." line="51" column="20" />
+        <mark key="^" line="54" column="58" />
       </file>
       <file name="/fragment.java" timestamp="1587471137036">
         <mark key="[" line="0" column="0" />
@@ -323,11 +323,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkluIHBhcmFsbGVsIikK</text>
+      <register name="*" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
