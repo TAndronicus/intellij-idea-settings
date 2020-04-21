@@ -137,9 +137,22 @@
       <file name="/console" timestamp="1587447198092">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/test/scala/kmeans/KMeansSuite.scala" timestamp="1587492531513">
+        <mark key="'" line="14" column="49" />
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="50" />
+        <mark key="^" line="15" column="50" />
+        <mark key="." line="15" column="49" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/build.sbt" timestamp="1587470403154">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="76" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/main/scala/kmeans/KMeans.scala" timestamp="1587492502409">
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="9" />
+        <mark key="." line="47" column="8" />
+        <mark key="^" line="47" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1587471962235">
         <mark key="[" line="76" column="10" />
@@ -167,18 +180,6 @@
         <mark key="]" line="306" column="0" />
         <mark key="." line="306" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V373.1__add_korrektur_indexes.sql" timestamp="1587390734599">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="5" column="77" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1587391234632">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="^" line="119" column="59" />
-        <mark key="." line="115" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/JVM/progfun1/funsets/src/main/scala/funsets/FunSets.scala" timestamp="1587428104095">
         <mark key="'" line="90" column="0" />
       </file>
@@ -190,7 +191,7 @@
         <mark key="]" line="8" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1587480480749">
+      <file name="/Dummy.scala" timestamp="1587492028341">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -219,7 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="3" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" />
       <jump line="37" column="0" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" />
       <jump line="6" column="6" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" />
       <jump line="4" column="54" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
@@ -319,51 +319,52 @@
       <jump line="505" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
       <jump line="52" column="38" filename="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/test/scala/reductions/ReductionsSuite.scala" />
       <jump line="51" column="48" filename="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/test/scala/reductions/ReductionsSuite.scala" />
+      <jump line="14" column="49" filename="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/test/scala/kmeans/KMeansSuite.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>1</text>
+        <text>Par</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>Par</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CgogIEBUZXN0IGRlZiBgc3dlZXBgOiBVbml0ID0gewogICAgdmFsIGlucHV0ID0gQXJyYXkoMC4wZiwgNy4wZiwgNS4wZiwgMzMuMGYsIDQ4LjBmKQogICAgdmFsIG91dHB1dCA9IG5ldyBBcnJheVtGbG9hdF0oNSkKICAgIGRvd25zd2VlcFNlcXVlbnRpYWwoaW5wdXQsIG91dHB1dCwgMCwgMCwgaW5wdXQuc2l6ZSkKICAgIGFzc2VydEVxdWFscyhMaXN0KDBmLCA3ZiwgN2YsIDExZiwgMTJmKSwgb3V0cHV0LnRvTGlzdCkKICB9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGlmIChwb2ludHMuaXNFbXB0eSkgbWVhbnMubWFwKChfLCBQYXJTZXEoKSkpLnRvTWFwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkluIHBhcmFsbGVsIikK</text>
+        <text>checkClassify(points, means, expected)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICB2YWwgb3V0cHV0ID0gbmV3IEFycmF5W0Zsb2F0XSg0KQogICAgcGFyTGluZU9mU2lnaHQoQXJyYXlbRmxvYXRdKDBmLCAxZiwgOGYsIDlmKSwgb3V0cHV0LCAyKQogICAgYXNzZXJ0RXF1YWxzKExpc3QoMGYsIDFmLCA0ZiwgNGYpLCBvdXRwdXQudG9MaXN0KQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgID8/PwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhbCB0MiA9IHVwc3dlZXAoQXJyYXkoMWYsIDJmLCA0ZiwgNmYsIDdmLCAxMWYsIDEzZiwgMTVmLCAxOGYsIDIxZiwgMjZmLCAzMmYsIDQ0ZiwgNDZmLCA0N2YsIDUxZiksIDAsIDE2LCAxKQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text>downsweep(input, output, 0, t)</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y291cnNlIDo9ICJwYXJwcm9nMSIKYXNzaWdubWVudCA6PSAicmVkdWN0aW9ucyIK</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkluIHBhcmFsbGVsIikK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">bmFtZSA6PSBjb3Vyc2UudmFsdWUgKyAiLSIgKyBhc3NpZ25tZW50LnZhbHVlCgpzY2FsYVZlcnNpb24gOj0gIjIuMTEuNyIKCnNjYWxhY09wdGlvbnMgKys9IFNlcSgiLWRlcHJlY2F0aW9uIikKCmNvdXJzZUlkIDo9ICJHVnk4dElJS0VlV1htUTRGODZubXJ3IgoKLy8gZ3JhZGluZyBsaWJyYXJpZXMKbGlicmFyeURlcGVuZGVuY2llcyArPSAianVuaXQiICUgImp1bml0IiAlICI0LjEwIiAlICJ0ZXN0IgpsaWJyYXJ5RGVwZW5kZW5jaWVzICsrPSBhc3NpZ25tZW50c01hcC52YWx1ZS52YWx1ZXMuZmxhdE1hcChfLmRlcGVuZGVuY2llcykudG9TZXEKCi8vIGluY2x1ZGUgdGhlIGNvbW1vbiBkaXIKY29tbW9uU291cmNlUGFja2FnZXMgKz0gImNvbW1vbiIKCmFzc2lnbm1lbnRzTWFwIDo9IHsKICB2YWwgZGVwc0NvbGxlY3Rpb25zID0gU2VxKAogICAgImNvbS5zdG9ybS1lbnJvdXRlIiAlJSAic2NhbGFtZXRlci1jb3JlIiAlICIwLjYiLAogICAgImNvbS5naXRodWIuc2NhbGEtYmxpdHoiICUlICJzY2FsYS1ibGl0eiIgJSAiMS4xIiwKICAgICJvcmcuc2NhbGEtbGFuZy5tb2R1bGVzIiAlJSAic2NhbGEtc3dpbmciICUgIjEuMC4xIiwKICAgICJjb20uc3Rvcm0tZW5yb3V0ZSIgJSUgInNjYWxhbWV0ZXIiICUgIjAuNiIgJSAidGVzdCIKICApCiAgdmFsIGRlcHNTcGFyayA9IFNlcSgKICAgICJvcmcuYXBhY2hlLnNwYXJrIiAlJSAic3BhcmstY29yZSIgJSAiMS4yLjEiCiAgKQogIHZhbCBzdHlsZVNoZWV0UGF0aCA9IChiYXNlRGlyZWN0b3J5LnZhbHVlIC8gIi4uIiAvICIuLiIgLyAicHJvamVjdCIgLyAic2NhbGFzdHlsZV9jb25maWcueG1sIikuZ2V0UGF0aAogIE1hcCgKICAgICJleGFtcGxlIiAtPiBBc3NpZ25tZW50KAogICAgICBwYWNrYWdlTmFtZSA9ICJleGFtcGxlIiwKICAgICAga2V5ID0gIl9DdWlvOW9URWVXVXRRcHZYNGlBa3ciLAogICAgICBpdGVtSWQgPSAiZ001WTQiLAogICAgICBwYXJ0SWQgPSAiV0d4MGYiLAogICAgICBtYXhTY29yZSA9IDEwZCwKICAgICAgZGVwZW5kZW5jaWVzID0gU2VxKCkpLAogICAgInNjYWxhc2hvcCIgLT4gQXNzaWdubWVudCgKICAgICAgcGFja2FnZU5hbWUgPSAic2NhbGFzaG9wIiwKICAgICAga2V5ID0gIk9wU05tdEMxRWVXdlhBcjJiRjE2RVEiLAogICAgICBpdGVtSWQgPSAiTmVHVHYiLAogICAgICBwYXJ0SWQgPSAiUTJlMVAiLAogICAgICBtYXhTY29yZSA9IDEwZCwKICAgICAgZGVwZW5kZW5jaWVzID0gZGVwc0NvbGxlY3Rpb25zKSwKICAgICJyZWR1Y3Rpb25zIiAtPiBBc3NpZ25tZW50KAogICAgICBwYWNrYWdlTmFtZSA9ICJyZWR1Y3Rpb25zIiwKICAgICAga2V5ID0gImxVVVdkZG9HRWVXUEh3NnI0NS1ueHciLAogICAgICBpdGVtSWQgPSAiNHJYd1giLAogICAgICBwYXJ0SWQgPSAiZ21TblIiLAogICAgICBtYXhTY29yZSA9IDEwZCwKICAgICAgZGVwZW5kZW5jaWVzID0gZGVwc0NvbGxlY3Rpb25zKSwKICAgICJrbWVhbnMiIC0+IEFzc2lnbm1lbnQoCiAgICAgIHBhY2thZ2VOYW1lID0gImttZWFucyIsCiAgICAgIGtleSA9ICJVSm1GRXRvSUVlV0p3UktjcFQ4Q2hRIiwKICAgICAgaXRlbUlkID0gImFrTHhEIiwKICAgICAgcGFydElkID0gIm16OGlMIiwKICAgICAgbWF4U2NvcmUgPSAxMGQsCiAgICAgIGRlcGVuZGVuY2llcyA9IGRlcHNDb2xsZWN0aW9ucyksCiAgICAiYmFybmVzaHV0IiAtPiBBc3NpZ25tZW50KAogICAgICBwYWNrYWdlTmFtZSA9ICJiYXJuZXNodXQiLAogICAgICBrZXkgPSAiaXRmVzk5b0pFZVdYdXhKZ1VKRUItUSIsCiAgICAgIGl0ZW1JZCA9ICJ4R2tWMCIsCiAgICAgIHBhcnRJZCA9ICJlcDk1cSIsCiAgICAgIG1heFNjb3JlID0gMTBkLAogICAgICBkZXBlbmRlbmNpZXMgPSBkZXBzQ29sbGVjdGlvbnMpCiAgKQp9Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICB2YWwgb3V0cHV0ID0gbmV3IEFycmF5W0Zsb2F0XSg0KQogICAgcGFyTGluZU9mU2lnaHQoQXJyYXlbRmxvYXRdKDBmLCAxZiwgOGYsIDlmKSwgb3V0cHV0LCAyKQogICAgYXNzZXJ0RXF1YWxzKExpc3QoMGYsIDFmLCA0ZiwgNGYpLCBvdXRwdXQudG9MaXN0KQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCB0MiA9IHVwc3dlZXAoQXJyYXkoMWYsIDJmLCA0ZiwgNmYsIDdmLCAxMWYsIDEzZiwgMTVmLCAxOGYsIDIxZiwgMjZmLCAzMmYsIDQ0ZiwgNDZmLCA0N2YsIDUxZiksIDAsIDE2LCAxKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text>downsweep(input, output, 0, t)</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAoaSA8LSAoZnJvbSArIDEpIHVudGlsIHVudGlsKSB7Cg==</text>
+        <text encoding="base64">Y291cnNlIDo9ICJwYXJwcm9nMSIKYXNzaWdubWVudCA6PSAicmVkdWN0aW9ucyIK</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
