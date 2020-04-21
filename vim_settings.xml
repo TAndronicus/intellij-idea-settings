@@ -155,8 +155,8 @@
         <mark key="." line="83" column="35" />
         <mark key="^" line="83" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1587457009430">
-        <mark key="[" line="48" column="0" />
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1587465712504">
+        <mark key="[" line="55" column="14" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
         <mark key="^" line="47" column="12" />
@@ -207,8 +207,12 @@
         <mark key="." line="3643" column="56" />
         <mark key="^" line="3643" column="57" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/test/scala/reductions/ReductionsSuite.scala" timestamp="1587459275584">
-        <mark key="'" line="52" column="38" />
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/test/scala/reductions/ReductionsSuite.scala" timestamp="1587465496007">
+        <mark key="'" line="58" column="38" />
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="20" column="76" />
+        <mark key="." line="20" column="75" />
+        <mark key="^" line="20" column="76" />
       </file>
     </filemarks>
     <jumps>
@@ -317,7 +321,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text encoding="base64">CiAgQFRlc3QgZGVmIGBsaW5lT2ZTaWdodCBzaG91bGQgY29ycmVjdGx5IGhhbmRsZSBhbiBhcnJheSBvZiBzaXplIDRgOiBVbml0ID0gewogICAgdmFsIG91dHB1dCA9IG5ldyBBcnJheVtGbG9hdF0oNCkKICAgIGxpbmVPZlNpZ2h0KEFycmF5W0Zsb2F0XSgwZiwgMWYsIDhmLCA5ZiksIG91dHB1dCkKICAgIGFzc2VydEVxdWFscyhMaXN0KDBmLCAxZiwgNGYsIDRmKSwgb3V0cHV0LnRvTGlzdCkKICB9</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ZWxzZSA=</text>
@@ -326,7 +330,7 @@
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>downsweep(input, output, n.maxPrevious, n.left)</text>
+        <text encoding="base64">CiAgQFRlc3QgZGVmIGBsaW5lT2ZTaWdodCBzaG91bGQgY29ycmVjdGx5IGhhbmRsZSBhbiBhcnJheSBvZiBzaXplIDRgOiBVbml0ID0gewogICAgdmFsIG91dHB1dCA9IG5ldyBBcnJheVtGbG9hdF0oNCkKICAgIGxpbmVPZlNpZ2h0KEFycmF5W0Zsb2F0XSgwZiwgMWYsIDhmLCA5ZiksIG91dHB1dCkKICAgIGFzc2VydEVxdWFscyhMaXN0KDBmLCAxZiwgNGYsIDRmKSwgb3V0cHV0LnRvTGlzdCkKICB9</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGlmIChjb2lucy5pc0VtcHR5KSAxCg==</text>
