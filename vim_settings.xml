@@ -136,12 +136,12 @@
       <file name="/db48km9mevsand.public.mes_warmwasserzaehler" timestamp="1587388502247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1587438183467">
-        <mark key="'" line="85" column="20" />
-        <mark key="[" line="61" column="9" />
-        <mark key="]" line="61" column="10" />
-        <mark key="." line="61" column="9" />
-        <mark key="^" line="61" column="10" />
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1587456943309">
+        <mark key="'" line="87" column="20" />
+        <mark key="[" line="58" column="74" />
+        <mark key="]" line="59" column="14" />
+        <mark key="." line="59" column="13" />
+        <mark key="^" line="59" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/main/java/com/qivalo/portal/config/flyway/SpringConfigDev.java" timestamp="1587390633824">
         <mark key="[" line="30" column="26" />
@@ -168,11 +168,11 @@
         <mark key="." line="83" column="35" />
         <mark key="^" line="83" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1587454736492">
-        <mark key="[" line="57" column="5" />
-        <mark key="]" line="58" column="7" />
-        <mark key="." line="58" column="6" />
-        <mark key="^" line="58" column="7" />
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1587457009430">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="47" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V373.1__add_korrektur_index_strom.sql" timestamp="1587390703006">
         <mark key="[" line="1" column="0" />
@@ -324,19 +324,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgIG91dHB1dCgwKSA9IDAK</text>
       </register>
       <register name="-" type="4">
-        <text>.doubleValue() /</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICBpZiAoY2hhcnMuaXNFbXB0eSkgdmFsdWUgPT0gMAogICAgZWxzZQogICAgICBjaGFycy5oZWFkIG1hdGNoIHsKICAgICAgICBjYXNlICcoJyA9PiBjaGVja0JhbGFuY2UoY2hhcnMudGFpbCwgdmFsdWUgKyAxKQogICAgICAgIGNhc2UgJyknIGlmIHZhbHVlID4gMCA9PiBjaGVja0JhbGFuY2UoY2hhcnMudGFpbCwgdmFsdWUgLSAxKQogICAgICAgIGNhc2UgJyknID0+IGZhbHNlCiAgICAgICAgY2FzZSBfID0+IGNoZWNrQmFsYW5jZShjaGFycy50YWlsLCB2YWx1ZSkKICAgICAgfQ==</text>
+        <text>downsweep(input, output, n.maxPrevious, n.left)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgIG91dHB1dCgwKSA9IDAK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -345,22 +345,22 @@
         <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY2hhcnMuc3ViU2VxdWVuY2UoaWR4LCB1bnRpbCkK</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaSArPSAxCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiAocGVybSwgYWxsQWxsb2NhdGlvbnMpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdmFsIChsZWZ0LCByaWdodCkgPSAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoICsgd2l0aG91dAo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgID8/Pwo=</text>
