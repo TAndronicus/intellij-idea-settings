@@ -136,12 +136,12 @@
       <file name="/db48km9mevsand.public.mes_warmwasserzaehler" timestamp="1587388502247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1587432270551">
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1587438183467">
         <mark key="'" line="85" column="20" />
-        <mark key="[" line="94" column="4" />
-        <mark key="]" line="94" column="4" />
-        <mark key="." line="94" column="3" />
-        <mark key="^" line="94" column="4" />
+        <mark key="[" line="61" column="9" />
+        <mark key="]" line="61" column="10" />
+        <mark key="." line="61" column="9" />
+        <mark key="^" line="61" column="10" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/main/java/com/qivalo/portal/config/flyway/SpringConfigDev.java" timestamp="1587390633824">
         <mark key="[" line="30" column="26" />
@@ -162,11 +162,11 @@
       <file name="/mes_warmwasserzaehler [staging@heroku]" timestamp="1587388502224">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1587433702070">
-        <mark key="[" line="67" column="18" />
-        <mark key="]" line="65" column="48" />
-        <mark key="." line="65" column="47" />
-        <mark key="^" line="65" column="48" />
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1587437797667">
+        <mark key="[" line="62" column="29" />
+        <mark key="]" line="62" column="34" />
+        <mark key="." line="62" column="33" />
+        <mark key="^" line="62" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V373.1__add_korrektur_index_strom.sql" timestamp="1587390703006">
         <mark key="[" line="1" column="0" />
@@ -323,10 +323,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>???</text>
+        <text>n</text>
       </register>
       <register name="-" type="4">
-        <text>???</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
