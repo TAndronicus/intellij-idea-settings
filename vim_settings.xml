@@ -148,11 +148,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="76" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/main/scala/kmeans/KMeans.scala" timestamp="1587492502409">
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="47" column="9" />
-        <mark key="." line="47" column="8" />
-        <mark key="^" line="47" column="9" />
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/main/scala/kmeans/KMeans.scala" timestamp="1587493308637">
+        <mark key="[" line="84" column="13" />
+        <mark key="]" line="84" column="13" />
+        <mark key="." line="84" column="12" />
+        <mark key="^" line="84" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1587471962235">
         <mark key="[" line="76" column="10" />
@@ -325,10 +325,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>Par</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>Par</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -337,34 +337,34 @@
         <text encoding="base64">ICAgIGlmIChwb2ludHMuaXNFbXB0eSkgbWVhbnMubWFwKChfLCBQYXJTZXEoKSkpLnRvTWFwCg==</text>
       </register>
       <register name="1" type="2">
-        <text>checkClassify(points, means, expected)</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgID8/PwogIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oIkluIHBhcmFsbGVsIikK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICB2YWwgb3V0cHV0ID0gbmV3IEFycmF5W0Zsb2F0XSg0KQogICAgcGFyTGluZU9mU2lnaHQoQXJyYXlbRmxvYXRdKDBmLCAxZiwgOGYsIDlmKSwgb3V0cHV0LCAyKQogICAgYXNzZXJ0RXF1YWxzKExpc3QoMGYsIDFmLCA0ZiwgNGYpLCBvdXRwdXQudG9MaXN0KQ==</text>
+      <register name="4" type="2">
+        <text>checkClassify(points, means, expected)</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgID8/PwogIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCB0MiA9IHVwc3dlZXAoQXJyYXkoMWYsIDJmLCA0ZiwgNmYsIDdmLCAxMWYsIDEzZiwgMTVmLCAxOGYsIDIxZiwgMjZmLCAzMmYsIDQ0ZiwgNDZmLCA0N2YsIDUxZiksIDAsIDE2LCAxKQo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="8" type="2">
-        <text>downsweep(input, output, 0, t)</text>
+        <text encoding="base64">ICAgIHByaW50bG4oIkluIHBhcmFsbGVsIikK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y291cnNlIDo9ICJwYXJwcm9nMSIKYXNzaWdubWVudCA6PSAicmVkdWN0aW9ucyIK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICB2YWwgb3V0cHV0ID0gbmV3IEFycmF5W0Zsb2F0XSg0KQogICAgcGFyTGluZU9mU2lnaHQoQXJyYXlbRmxvYXRdKDBmLCAxZiwgOGYsIDlmKSwgb3V0cHV0LCAyKQogICAgYXNzZXJ0RXF1YWxzKExpc3QoMGYsIDFmLCA0ZiwgNGYpLCBvdXRwdXQudG9MaXN0KQ==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
