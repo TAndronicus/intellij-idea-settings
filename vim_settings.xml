@@ -209,12 +209,11 @@
         <mark key="]" line="306" column="0" />
         <mark key="." line="306" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala" timestamp="1587544512356">
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala" timestamp="1587554470343">
         <mark key="'" line="128" column="7" />
-        <mark key="[" line="89" column="29" />
-        <mark key="]" line="89" column="30" />
-        <mark key="." line="89" column="30" />
-        <mark key="^" line="89" column="68" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/other/reductions/build.sbt" timestamp="1587470406890">
         <mark key="[" line="0" column="0" />
@@ -330,8 +329,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>?</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIHZhbCBudyA9IEVtcHR5KDE3LjVmLCAyNy41ZiwgNWYpCg==</text>
       </register>
       <register name="-" type="4">
         <text>?</text>
@@ -343,7 +342,7 @@
         <text encoding="base64">ICAgIGJvdW5kYXJpZXMubWluWCA9IGJvZHkueAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgIHZhbCBudyA9IEVtcHR5KDE3LjVmLCAyNy41ZiwgNWYpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -352,25 +351,25 @@
         <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvZHkuCg==</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkge30K</text>
+        <text encoding="base64">ICAgIGJvZHkuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPz8/Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCkge30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgTGlzdCgpLmZvCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgPz8/Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgTGlzdCgpLmZvCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIExlYWYoY2VudGVyWCAtIHNpemUgLyA0LCBjZW50ZXJZIC0gc2l6ZSAvIDQsIHNpemUgLyAyLCBwYXJ0aXRpb24uZ2V0KGZhbHNlKS5mbGF0TWFwKF8uZ2V0KGZhbHNlKSkuZ2V0T3JFbHNlKFNlcSgpKSksCiAgICAgICAgICBMZWFmKGNlbnRlclggKyBzaXplIC8gNCwgY2VudGVyWSAtIHNpemUgLyA0LCBzaXplIC8gMiwgcGFydGl0aW9uLmdldCh0cnVlKS5mbGF0TWFwKF8uZ2V0KGZhbHNlKSkuZ2V0T3JFbHNlKFNlcSgpKSksCiAgICAgICAgICBMZWFmKGNlbnRlclggLSBzaXplIC8gNCwgY2VudGVyWSArIHNpemUgLyA0LCBzaXplIC8gMiwgcGFydGl0aW9uLmdldChmYWxzZSkuZmxhdE1hcChfLmdldCh0cnVlKSkuZ2V0T3JFbHNlKFNlcSgpKSksCiAgICAgICAgICBMZWFmKGNlbnRlclggKyBzaXplIC8gNCwgY2VudGVyWSArIHNpemUgLyA0LCBzaXplIC8gMiwgcGFydGl0aW9uLmdldCh0cnVlKS5mbGF0TWFwKF8uZ2V0KHRydWUpKS5nZXRPckVsc2UoU2VxKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgPz8/Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ci8vICBkZWYgZ2V0T3B0aW9uYWxRdWFkKG1hcDogTWFwVmlld1tCb29sZWFuLCBNYXBbQm9vbGVhbiwgU2VxW0JvZHldXV0sIGtleVg6IEJvb2xlYW4sIGtleVk6IEJvb2xlYW4sIGNlbnRlclg6IEZsb2F0LCBjZW50ZXJZOiBGbG9hdCwgc2l6ZTogRmxvYXQpOiBRdWFkID0gewovLyAgICBtYXAuZ2V0KGtleVgpIG1hdGNoIHsKLy8gICAgICBjYXNlIFNvbWUoaW5uZXJNYXApID0+IGlubmVyTWFwLmdldChrZXlZKSBtYXRjaCB7Ci8vICAgICAgICBjYXNlIFNvbWUodmFsdWUpID0+IExlYWYoY2VudGVyWCwgY2VudGVyWSwgc2l6ZSwgdmFsdWUpCi8vICAgICAgICBjYXNlIE5vbmUgPT4gRW1wdHkoY2VudGVyWCwgY2VudGVyWSwgc2l6ZSkKLy8gICAgICB9Ci8vICAgICAgY2FzZSBOb25lID0+IEVtcHR5KGNlbnRlclgsIGNlbnRlclksIHNpemUpCi8vICAgIH0KLy8gIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIExlYWYoY2VudGVyWCAtIHNpemUgLyA0LCBjZW50ZXJZIC0gc2l6ZSAvIDQsIHNpemUgLyAyLCBwYXJ0aXRpb24uZ2V0KGZhbHNlKS5mbGF0TWFwKF8uZ2V0KGZhbHNlKSkuZ2V0T3JFbHNlKFNlcSgpKSksCiAgICAgICAgICBMZWFmKGNlbnRlclggKyBzaXplIC8gNCwgY2VudGVyWSAtIHNpemUgLyA0LCBzaXplIC8gMiwgcGFydGl0aW9uLmdldCh0cnVlKS5mbGF0TWFwKF8uZ2V0KGZhbHNlKSkuZ2V0T3JFbHNlKFNlcSgpKSksCiAgICAgICAgICBMZWFmKGNlbnRlclggLSBzaXplIC8gNCwgY2VudGVyWSArIHNpemUgLyA0LCBzaXplIC8gMiwgcGFydGl0aW9uLmdldChmYWxzZSkuZmxhdE1hcChfLmdldCh0cnVlKSkuZ2V0T3JFbHNlKFNlcSgpKSksCiAgICAgICAgICBMZWFmKGNlbnRlclggKyBzaXplIC8gNCwgY2VudGVyWSArIHNpemUgLyA0LCBzaXplIC8gMiwgcGFydGl0aW9uLmdldCh0cnVlKS5mbGF0TWFwKF8uZ2V0KHRydWUpKS5nZXRPckVsc2UoU2VxKCkpKQo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
