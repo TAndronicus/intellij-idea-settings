@@ -138,11 +138,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="76" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/barneshut/src/main/scala/barneshut/package.scala" timestamp="1587550959049">
-        <mark key="[" line="75" column="39" />
-        <mark key="]" line="75" column="38" />
-        <mark key="." line="75" column="24" />
-        <mark key="^" line="75" column="24" />
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/barneshut/src/main/scala/barneshut/package.scala" timestamp="1587551654906">
+        <mark key="[" line="198" column="76" />
+        <mark key="]" line="198" column="73" />
+        <mark key="." line="198" column="72" />
+        <mark key="^" line="198" column="73" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1587480537121">
         <mark key="[" line="92" column="20" />
@@ -327,47 +327,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text encoding="base64">Yi54ID49IGNlbnRlclg=</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIGZvciAoaSA8LSAwIHVudGlsIG1hdHJpeC5sZW5ndGgpIG1hdHJpeChpKSA9IG5ldyBDb25jQnVmZmVyCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Yi54ID49IGNlbnRlclg=</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>, s&quot;${quad.total} should be 1&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGZvciAoaSA8LSAwIHVudGlsIG1hdHJpeC5sZW5ndGgpIG1hdHJpeChpKSA9IG5ldyBDb25jQnVmZmVyCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPz8/Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCkge30K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgTGlzdCgpLmZvCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgPz8/Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgTGlzdCgpLmZvCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIExlYWYoY2VudGVyWCAtIHNpemUgLyA0LCBjZW50ZXJZIC0gc2l6ZSAvIDQsIHNpemUgLyAyLCBwYXJ0aXRpb24uZ2V0KGZhbHNlKS5mbGF0TWFwKF8uZ2V0KGZhbHNlKSkuZ2V0T3JFbHNlKFNlcSgpKSksCiAgICAgICAgICBMZWFmKGNlbnRlclggKyBzaXplIC8gNCwgY2VudGVyWSAtIHNpemUgLyA0LCBzaXplIC8gMiwgcGFydGl0aW9uLmdldCh0cnVlKS5mbGF0TWFwKF8uZ2V0KGZhbHNlKSkuZ2V0T3JFbHNlKFNlcSgpKSksCiAgICAgICAgICBMZWFmKGNlbnRlclggLSBzaXplIC8gNCwgY2VudGVyWSArIHNpemUgLyA0LCBzaXplIC8gMiwgcGFydGl0aW9uLmdldChmYWxzZSkuZmxhdE1hcChfLmdldCh0cnVlKSkuZ2V0T3JFbHNlKFNlcSgpKSksCiAgICAgICAgICBMZWFmKGNlbnRlclggKyBzaXplIC8gNCwgY2VudGVyWSArIHNpemUgLyA0LCBzaXplIC8gMiwgcGFydGl0aW9uLmdldCh0cnVlKS5mbGF0TWFwKF8uZ2V0KHRydWUpKS5nZXRPckVsc2UoU2VxKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgPz8/Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci8vICBkZWYgZ2V0T3B0aW9uYWxRdWFkKG1hcDogTWFwVmlld1tCb29sZWFuLCBNYXBbQm9vbGVhbiwgU2VxW0JvZHldXV0sIGtleVg6IEJvb2xlYW4sIGtleVk6IEJvb2xlYW4sIGNlbnRlclg6IEZsb2F0LCBjZW50ZXJZOiBGbG9hdCwgc2l6ZTogRmxvYXQpOiBRdWFkID0gewovLyAgICBtYXAuZ2V0KGtleVgpIG1hdGNoIHsKLy8gICAgICBjYXNlIFNvbWUoaW5uZXJNYXApID0+IGlubmVyTWFwLmdldChrZXlZKSBtYXRjaCB7Ci8vICAgICAgICBjYXNlIFNvbWUodmFsdWUpID0+IExlYWYoY2VudGVyWCwgY2VudGVyWSwgc2l6ZSwgdmFsdWUpCi8vICAgICAgICBjYXNlIE5vbmUgPT4gRW1wdHkoY2VudGVyWCwgY2VudGVyWSwgc2l6ZSkKLy8gICAgICB9Ci8vICAgICAgY2FzZSBOb25lID0+IEVtcHR5KGNlbnRlclgsIGNlbnRlclksIHNpemUpCi8vICAgIH0KLy8gIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIExlYWYoY2VudGVyWCAtIHNpemUgLyA0LCBjZW50ZXJZIC0gc2l6ZSAvIDQsIHNpemUgLyAyLCBwYXJ0aXRpb24uZ2V0KGZhbHNlKS5mbGF0TWFwKF8uZ2V0KGZhbHNlKSkuZ2V0T3JFbHNlKFNlcSgpKSksCiAgICAgICAgICBMZWFmKGNlbnRlclggKyBzaXplIC8gNCwgY2VudGVyWSAtIHNpemUgLyA0LCBzaXplIC8gMiwgcGFydGl0aW9uLmdldCh0cnVlKS5mbGF0TWFwKF8uZ2V0KGZhbHNlKSkuZ2V0T3JFbHNlKFNlcSgpKSksCiAgICAgICAgICBMZWFmKGNlbnRlclggLSBzaXplIC8gNCwgY2VudGVyWSArIHNpemUgLyA0LCBzaXplIC8gMiwgcGFydGl0aW9uLmdldChmYWxzZSkuZmxhdE1hcChfLmdldCh0cnVlKSkuZ2V0T3JFbHNlKFNlcSgpKSksCiAgICAgICAgICBMZWFmKGNlbnRlclggKyBzaXplIC8gNCwgY2VudGVyWSArIHNpemUgLyA0LCBzaXplIC8gMiwgcGFydGl0aW9uLmdldCh0cnVlKS5mbGF0TWFwKF8uZ2V0KHRydWUpKS5nZXRPckVsc2UoU2VxKCkpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Ci8vICBkZWYgZ2V0T3B0aW9uYWxRdWFkKG1hcDogTWFwVmlld1tCb29sZWFuLCBNYXBbQm9vbGVhbiwgU2VxW0JvZHldXV0sIGtleVg6IEJvb2xlYW4sIGtleVk6IEJvb2xlYW4sIGNlbnRlclg6IEZsb2F0LCBjZW50ZXJZOiBGbG9hdCwgc2l6ZTogRmxvYXQpOiBRdWFkID0gewovLyAgICBtYXAuZ2V0KGtleVgpIG1hdGNoIHsKLy8gICAgICBjYXNlIFNvbWUoaW5uZXJNYXApID0+IGlubmVyTWFwLmdldChrZXlZKSBtYXRjaCB7Ci8vICAgICAgICBjYXNlIFNvbWUodmFsdWUpID0+IExlYWYoY2VudGVyWCwgY2VudGVyWSwgc2l6ZSwgdmFsdWUpCi8vICAgICAgICBjYXNlIE5vbmUgPT4gRW1wdHkoY2VudGVyWCwgY2VudGVyWSwgc2l6ZSkKLy8gICAgICB9Ci8vICAgICAgY2FzZSBOb25lID0+IEVtcHR5KGNlbnRlclgsIGNlbnRlclksIHNpemUpCi8vICAgIH0KLy8gIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhbCBxdWFkID0gRm9yayhsZWFmLCBuZSwgc3csIHNlKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBuZSA9IEVtcHR5KDIyLjVmLCAyNy41ZiwgNWYpCiAgICB2YWwgc3cgPSBFbXB0eSgxNy41ZiwgMzIuNWYsIDVmKQogICAgdmFsIHNlID0gRW1wdHkoMjIuNWYsIDMyLjVmLCA1ZikK</text>
+        <text encoding="base64">ICAgIHZhbCBxdWFkID0gRm9yayhsZWFmLCBuZSwgc3csIHNlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhbCBuZSA9IEVtcHR5KDIyLjVmLCAyNy41ZiwgNWYpCiAgICB2YWwgc3cgPSBFbXB0eSgxNy41ZiwgMzIuNWYsIDVmKQogICAgdmFsIHNlID0gRW1wdHkoMjIuNWYsIDMyLjVmLCA1ZikK</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
