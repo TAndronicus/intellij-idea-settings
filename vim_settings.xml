@@ -124,9 +124,6 @@
         <mark key="." line="997" column="18" />
         <mark key="^" line="997" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587391766506">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1587479625407">
         <mark key="'" line="87" column="20" />
         <mark key="[" line="82" column="5" />
@@ -137,21 +134,23 @@
       <file name="/console" timestamp="1587447198092">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/test/scala/kmeans/KMeansSuite.scala" timestamp="1587492531513">
-        <mark key="'" line="14" column="49" />
-        <mark key="[" line="15" column="51" />
-        <mark key="]" line="15" column="50" />
-        <mark key="^" line="15" column="50" />
-        <mark key="." line="15" column="49" />
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/test/scala/kmeans/KMeansSuite.scala" timestamp="1587517878845">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="111" column="23" />
+        <mark key="]" line="110" column="37" />
+        <mark key="^" line="110" column="37" />
+        <mark key="." line="110" column="36" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/build.sbt" timestamp="1587470403154">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="76" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/main/scala/kmeans/KMeans.scala" timestamp="1587513793614">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/main/scala/kmeans/KMeans.scala" timestamp="1587517871706">
+        <mark key="'" line="109" column="84" />
+        <mark key="[" line="92" column="101" />
+        <mark key="]" line="92" column="101" />
+        <mark key="." line="92" column="101" />
+        <mark key="^" line="103" column="85" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1587471962235">
         <mark key="[" line="76" column="10" />
@@ -178,6 +177,12 @@
         <mark key="[" line="306" column="0" />
         <mark key="]" line="306" column="0" />
         <mark key="." line="306" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/main/scala/kmeans/fun/IndexedColors.scala" timestamp="1587517563039">
+        <mark key="[" line="27" column="49" />
+        <mark key="]" line="27" column="53" />
+        <mark key="^" line="27" column="53" />
+        <mark key="." line="27" column="52" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/progfun1/funsets/src/main/scala/funsets/FunSets.scala" timestamp="1587428104095">
         <mark key="'" line="90" column="0" />
@@ -219,11 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" />
-      <jump line="6" column="6" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/test/scala/forcomp/AnagramsSuite.scala" />
-      <jump line="4" column="54" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
-      <jump line="80" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/notificationcenter/action/repo/GeraetActionsRepository.java" />
-      <jump line="33" column="60" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/notificationcenter/action/repo/GeraetActionsRepository.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/08_insert_notifications.sql" />
       <jump line="75" column="84" filename="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" />
       <jump line="114" column="39" filename="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyOverdueService.java" />
@@ -319,51 +319,56 @@
       <jump line="52" column="38" filename="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/test/scala/reductions/ReductionsSuite.scala" />
       <jump line="51" column="48" filename="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/test/scala/reductions/ReductionsSuite.scala" />
       <jump line="14" column="49" filename="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/test/scala/kmeans/KMeansSuite.scala" />
+      <jump line="17" column="0" filename="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/test/scala/kmeans/KMeansSuite.scala" />
+      <jump line="79" column="26" filename="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/test/scala/kmeans/KMeansSuite.scala" />
+      <jump line="108" column="35" filename="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/test/scala/kmeans/KMeansSuite.scala" />
+      <jump line="10" column="0" filename="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/test/scala/kmeans/KMeansSuite.scala" />
+      <jump line="110" column="84" filename="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/main/scala/kmeans/KMeans.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIG9sZE1lYW5zLgo=</text>
+      <register name="*" type="4">
+        <text>q</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>q</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICBvbGRNZWFucy5tYXAoY2xhc3NpZmllZCkKICAgICAgLm1hcChfLmZvbGRMZWZ0KChQb2ludC56ZXJvLCAwKSkgeyBjYXNlICgoc3VtLCBjb3VudCksIHBvaW50KSA9PiAoc3VtICsgcG9pbnQsIGNvdW50ICsgMSkgfSApCiAgICAgIC5tYXAgeyBjYXNlIChhZ2dyZWdhdGUsIGNvdW50KSA9PiBhZ2dyZWdhdGUgLyBjb3VudH0=</text>
+        <text encoding="base64">CiAgICB2YWwgbmV3TWVhbnMgPSB1cGRhdGUoY2xhc3NpZnkocG9pbnRzLCBtZWFucyksIG1lYW5zKQogICAgaWYgKCFjb252ZXJnZWQoZXRhLCBtZWFucywgbmV3TWVhbnMpKSBrTWVhbnMocG9pbnRzLCBuZXdNZWFucywgZXRhKSBlbHNlIG5ld01lYW5z</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9sZE1lYW5zLgo=</text>
+        <text encoding="base64">ICAgIHZhbCBldGFTcSA9IG1hdGgucG93KGV0YSwgMikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CiAgICBvbGRNZWFucy5tYXAoY2xhc3NpZmllZCkKICAgICAgLm1hcChfKQ==</text>
+        <text encoding="base64">CiAgICBpZiAoPz8/KSBrTWVhbnMoPz8/LCA/Pz8sID8/PykgZWxzZSA/Pz8=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICA/Pz8=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgLm1hcChfLmZvbGRMZWZ0KChQb2ludC56ZXJvLCAwKSkgeyBjYXNlICgoc3VtLCBjb3VudCksIHBvaW50KSA9PiAoc3VtICsgcG9pbnQsIGNvdW50ICsgMSkgfSApCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgICAoY2FzZSAoKHN1bSwgY291bnQpLCBwb2ludCkgPT4gKHN1bSArIHBvaW50LCBjb3VudCArIDEpCiAgICAgICAgY2FzZQogICAgICB9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text>checkClassify(points, means, expected)</text>
+        <text encoding="base64">ICBjbGFzcyBBCiAgY2xhc3MgQgoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgID8/PwogIH0K</text>
+        <text encoding="base64">ICAgIHZhbCBtOiBNYXBbQSwgU2VxW0FdXSA9IE1hcCgpCiAgICB2YWwgc2VxOiBTZXFbQV0gPSBTZXEoKQogICAgdmFsIHBhclNlcTogUGFyU2VxW0FdID0gUGFyU2VxKCkKICAgIHNlcS5tYXAobSkuZm9yZWFjaChwcmludGxuKQogICAgcGFyU2VxLm1hcChtKS5mb3JlYWNoKHByaW50bG4pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAKICBjbGFzcyBBCiAgY2xhc3MgQgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgIHZhbCBzY2xhc3NpZmllZCA9IE1hcCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
