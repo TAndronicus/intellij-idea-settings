@@ -145,18 +145,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="76" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/main/scala/kmeans/KMeans.scala" timestamp="1587518536169">
-        <mark key="'" line="108" column="84" />
-        <mark key="[" line="96" column="101" />
-        <mark key="]" line="96" column="101" />
-        <mark key="." line="96" column="101" />
-        <mark key="^" line="102" column="85" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1587471962235">
-        <mark key="[" line="76" column="10" />
-        <mark key="]" line="76" column="22" />
-        <mark key="." line="76" column="21" />
-        <mark key="^" line="76" column="22" />
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/barneshut/src/main/scala/barneshut/package.scala" timestamp="1587527943398">
+        <mark key="[" line="76" column="32" />
+        <mark key="]" line="76" column="32" />
+        <mark key="." line="76" column="32" />
+        <mark key="^" line="75" column="32" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1587480537121">
         <mark key="[" line="92" column="20" />
@@ -171,12 +164,6 @@
       <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/assignment.sbt" timestamp="1587470432256">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587447213793">
-        <mark key="'" line="505" column="19" />
-        <mark key="[" line="306" column="0" />
-        <mark key="]" line="306" column="0" />
-        <mark key="." line="306" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/main/scala/kmeans/fun/IndexedColors.scala" timestamp="1587517563039">
         <mark key="[" line="27" column="49" />
@@ -200,24 +187,36 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/other/reductions/build.sbt" timestamp="1587470406890">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="11" column="77" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587403603481">
-        <mark key="'" line="1753" column="14" />
-        <mark key="[" line="3665" column="12" />
-        <mark key="]" line="3682" column="24" />
-        <mark key="." line="3643" column="56" />
-        <mark key="^" line="3643" column="57" />
-      </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/test/scala/reductions/ReductionsSuite.scala" timestamp="1587480821578">
         <mark key="'" line="51" column="48" />
         <mark key="[" line="61" column="40" />
         <mark key="]" line="61" column="38" />
         <mark key="." line="61" column="38" />
         <mark key="^" line="59" column="35" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/main/scala/kmeans/KMeans.scala" timestamp="1587518536169">
+        <mark key="'" line="108" column="84" />
+        <mark key="[" line="96" column="101" />
+        <mark key="]" line="96" column="101" />
+        <mark key="." line="96" column="101" />
+        <mark key="^" line="102" column="85" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1587471962235">
+        <mark key="[" line="76" column="10" />
+        <mark key="]" line="76" column="22" />
+        <mark key="." line="76" column="21" />
+        <mark key="^" line="76" column="22" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587447213793">
+        <mark key="'" line="505" column="19" />
+        <mark key="[" line="306" column="0" />
+        <mark key="]" line="306" column="0" />
+        <mark key="." line="306" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/other/reductions/build.sbt" timestamp="1587470406890">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="77" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1587471137036">
         <mark key="[" line="0" column="0" />
@@ -329,10 +328,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>q</text>
+        <text>???</text>
       </register>
       <register name="-" type="4">
-        <text>q</text>
+        <text>???</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
