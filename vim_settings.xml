@@ -124,9 +124,6 @@
         <mark key="." line="82" column="5" />
         <mark key="^" line="76" column="9" />
       </file>
-      <file name="/console" timestamp="1587447198092">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/test/scala/kmeans/KMeansSuite.scala" timestamp="1587517901965">
         <mark key="'" line="93" column="23" />
         <mark key="[" line="111" column="23" />
@@ -144,15 +141,16 @@
         <mark key="." line="198" column="72" />
         <mark key="^" line="198" column="73" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/big-data/example/src/test/scala/example/ListsSuite.scala" timestamp="1587557803908">
+        <mark key="[" line="52" column="24" />
+        <mark key="]" line="52" column="25" />
+        <mark key="." line="52" column="25" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1587480537121">
         <mark key="[" line="92" column="20" />
         <mark key="]" line="95" column="43" />
         <mark key="^" line="95" column="43" />
         <mark key="." line="95" column="42" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/progfun1/recfun/src/main/scala/recfun/RecFun.scala" timestamp="1587432981950">
-        <mark key="[" line="30" column="62" />
-        <mark key="]" line="38" column="6" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/assignment.sbt" timestamp="1587470432256">
         <mark key="[" line="0" column="0" />
@@ -183,6 +181,12 @@
         <mark key="]" line="61" column="38" />
         <mark key="." line="61" column="38" />
         <mark key="^" line="59" column="35" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/big-data/example/src/main/scala/example/Lists.scala" timestamp="1587558096561">
+        <mark key="[" line="41" column="14" />
+        <mark key="]" line="41" column="20" />
+        <mark key="." line="41" column="14" />
+        <mark key="^" line="41" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/barneshut/src/main/scala/barneshut/Simulator.scala" timestamp="1587553898590">
         <mark key="[" line="15" column="22" />
@@ -329,11 +333,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIHZhbCBudyA9IEVtcHR5KDE3LjVmLCAyNy41ZiwgNWYpCg==</text>
+      <register name="*" type="4">
+        <text>xs.max</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>xs.max</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
