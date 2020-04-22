@@ -145,11 +145,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="76" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/barneshut/src/main/scala/barneshut/package.scala" timestamp="1587527943398">
-        <mark key="[" line="76" column="32" />
-        <mark key="]" line="76" column="32" />
-        <mark key="." line="76" column="32" />
-        <mark key="^" line="75" column="32" />
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/barneshut/src/main/scala/barneshut/package.scala" timestamp="1587530423335">
+        <mark key="[" line="77" column="24" />
+        <mark key="]" line="77" column="24" />
+        <mark key="." line="77" column="24" />
+        <mark key="^" line="84" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1587480537121">
         <mark key="[" line="92" column="20" />
@@ -328,46 +328,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>???</text>
+        <text>bodies</text>
       </register>
       <register name="-" type="4">
-        <text>???</text>
+        <text>bodies</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CiAgICB2YWwgbmV3TWVhbnMgPSB1cGRhdGUoY2xhc3NpZnkocG9pbnRzLCBtZWFucyksIG1lYW5zKQogICAgaWYgKCFjb252ZXJnZWQoZXRhLCBtZWFucywgbmV3TWVhbnMpKSBrTWVhbnMocG9pbnRzLCBuZXdNZWFucywgZXRhKSBlbHNlIG5ld01lYW5z</text>
+        <text encoding="base64">TGVhZihjZW50ZXJYIC0gc2l6ZSAvIDQsIGNlbnRlclkgKyBzaXplIC8gNCwgc2l6ZSAvIDIsIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBldGFTcSA9IG1hdGgucG93KGV0YSwgMikK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHNpemUgPiBtaW5pbXVtU2l6ZSkK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHZhbCBldGFTcSA9IG1hdGgucG93KGV0YSwgMikK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhbCBldGFTcSA9IG1hdGgucG93KGV0YSwgMikK</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">CiAgICBpZiAoPz8/KSBrTWVhbnMoPz8/LCA/Pz8sID8/PykgZWxzZSA/Pz8=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICA/Pz8=</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgLm1hcChfLmZvbGRMZWZ0KChQb2ludC56ZXJvLCAwKSkgeyBjYXNlICgoc3VtLCBjb3VudCksIHBvaW50KSA9PiAoc3VtICsgcG9pbnQsIGNvdW50ICsgMSkgfSApCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAoY2FzZSAoKHN1bSwgY291bnQpLCBwb2ludCkgPT4gKHN1bSArIHBvaW50LCBjb3VudCArIDEpCiAgICAgICAgY2FzZQogICAgICB9KQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBjbGFzcyBBCiAgY2xhc3MgQgoK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBtOiBNYXBbQSwgU2VxW0FdXSA9IE1hcCgpCiAgICB2YWwgc2VxOiBTZXFbQV0gPSBTZXEoKQogICAgdmFsIHBhclNlcTogUGFyU2VxW0FdID0gUGFyU2VxKCkKICAgIHNlcS5tYXAobSkuZm9yZWFjaChwcmludGxuKQogICAgcGFyU2VxLm1hcChtKS5mb3JlYWNoKHByaW50bG4pCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKICBjbGFzcyBBCiAgY2xhc3MgQgo=</text>
+        <text encoding="base64">ICBjbGFzcyBBCiAgY2xhc3MgQgoK</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
