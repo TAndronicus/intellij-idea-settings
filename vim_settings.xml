@@ -138,11 +138,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="11" column="76" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/barneshut/src/main/scala/barneshut/package.scala" timestamp="1587540792236">
-        <mark key="[" line="96" column="98" />
-        <mark key="]" line="96" column="99" />
-        <mark key="." line="96" column="99" />
-        <mark key="^" line="99" column="41" />
+      <file name="$USER_HOME$/Workspace/JVM/parprog1/barneshut/src/main/scala/barneshut/package.scala" timestamp="1587542028875">
+        <mark key="[" line="156" column="70" />
+        <mark key="]" line="156" column="69" />
+        <mark key="." line="156" column="68" />
+        <mark key="^" line="156" column="69" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1587480537121">
         <mark key="[" line="92" column="20" />
@@ -327,10 +327,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>quad.total</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>quad.total</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
