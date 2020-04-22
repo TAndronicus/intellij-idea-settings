@@ -117,9 +117,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587597179666">
-        <mark key="[" line="971" column="16" />
-        <mark key="]" line="973" column="23" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587599206423">
+        <mark key="[" line="927" column="41" />
+        <mark key="]" line="962" column="56" />
         <mark key="." line="973" column="22" />
         <mark key="^" line="973" column="23" />
       </file>
@@ -186,12 +186,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587597861014">
-        <mark key="'" line="509" column="19" />
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="16" column="22" />
-        <mark key="." line="16" column="21" />
-        <mark key="^" line="16" column="22" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587599252197">
+        <mark key="'" line="20" column="16" />
+        <mark key="[" line="711" column="57" />
+        <mark key="]" line="715" column="0" />
+        <mark key="." line="715" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/main/scala/kmeans/fun/IndexedColors.scala" timestamp="1587517563039">
         <mark key="[" line="27" column="49" />
@@ -232,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="39" filename="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyOverdueService.java" />
       <jump line="90" column="12" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/messung/rest/MessungenImportRestEntpointTest.java" />
       <jump line="117" column="8" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportHelper.java" />
       <jump line="91" column="8" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportHelper.java" />
@@ -332,51 +330,52 @@
       <jump line="110" column="84" filename="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/main/scala/kmeans/KMeans.scala" />
       <jump line="93" column="23" filename="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/test/scala/kmeans/KMeansSuite.scala" />
       <jump line="128" column="7" filename="$USER_HOME$/Workspace/JVM/parprog1/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala" />
+      <jump line="20" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>ersatz</text>
+      <register name="*" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ersatz</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJvdW5kYXJpZXMubWluWCA9IGJvZHkueAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CgppbnNlcnQgaW50byBld19xdWV1ZSAoaWQsIGdlcl9nZXJhZXRfaWQsIHN0YXJ0X2RhdGUpCnNlbGVjdCBuZXh0dmFsKCdld19xdWV1ZV9zZXEnKSwKICAgICAgIGdnLmlkLAogICAgICAgJzIwMTktMDEtMDEnCmZyb20gZ2VyX2dlcmFldCBnZwogICAgICAgICBpbm5lciBqb2luIGdrX2dlcmFldF90eXAgZ2d0IG9uIGdnLmdrX2dlcmFldF90eXBfaWQgPSBnZ3QuaWQKICAgICAgICAgaW5uZXIgam9pbiBudXRfbnV0emVpbmhlaXQgbm4gb24gZ2cubnV0X251dHplaW5oZWl0X2lkID0gbm4uaWQKICAgICAgICAgaW5uZXIgam9pbiBsaWVfbGllZ2Vuc2NoYWZ0IGxsIG9uIGdnLmxpZV9saWVnZW5zY2hhZnRfaWQgPSBsbC5pZAp3aGVyZSAoZ2VyYWV0X3R5cCBpbiAoJ1cnLCAnSycsICdFJywgJ1onLCAnUCcpCiAgICBvciBnZXJhZXRfYXJ0ID0gJ09GT0xUMDEnKQogIGFuZCAobGwucmVtb3ZlZG9uLCBubi5yZW1vdmVkb24sIGdnLnJlbW92ZWRvbikgaXMgbnVsbDsKCmluc2VydCBpbnRvIGV3X3F1ZXVlIChpZCwgZ2VyX2dlcmFldF9pZCwgc3RhcnRfZGF0ZSwgZW5kX2RhdGUpIC0tIGRvbmUKc2VsZWN0IG5leHR2YWwoJ2V3X3F1ZXVlX3NlcScpLAogICAgICAgZ2cuaWQsCiAgICAgICAnMjAxOS0wMS0wMScsCiAgICAgICAnMjAyMC0wMS0wMScKZnJvbSBnZXJfZ2VyYWV0IGdnCiAgICAgICAgIGlubmVyIGpvaW4gZ2tfZ2VyYWV0X3R5cCBnZ3Qgb24gZ2cuZ2tfZ2VyYWV0X3R5cF9pZCA9IGdndC5pZAogICAgICAgICBpbm5lciBqb2luIG51dF9udXR6ZWluaGVpdCBubiBvbiBnZy5udXRfbnV0emVpbmhlaXRfaWQgPSBubi5pZAogICAgICAgICBpbm5lciBqb2luIGxpZV9saWVnZW5zY2hhZnQgbGwgb24gZ2cubGllX2xpZWdlbnNjaGFmdF9pZCA9IGxsLmlkCndoZXJlIGdlcmFldF90eXAgPSAnSCcKICBhbmQgKGxsLnJlbW92ZWRvbiwgbm4ucmVtb3ZlZG9uLCBnZy5yZW1vdmVkb24pIGlzIG51bGw7CgppbnNlcnQgaW50byBld19xdWV1ZSAoaWQsIGdlcl9nZXJhZXRfaWQsIHN0YXJ0X2RhdGUpIC0tIGRvbmUKc2VsZWN0IG5leHR2YWwoJ2V3X3F1ZXVlX3NlcScpLAogICAgICAgZ2cuaWQsCiAgICAgICAnMjAyMC0wMS0wMScKZnJvbSBnZXJfZ2VyYWV0IGdnCiAgICAgICAgIGlubmVyIGpvaW4gZ2tfZ2VyYWV0X3R5cCBnZ3Qgb24gZ2cuZ2tfZ2VyYWV0X3R5cF9pZCA9IGdndC5pZAogICAgICAgICBpbm5lciBqb2luIG51dF9udXR6ZWluaGVpdCBubiBvbiBnZy5udXRfbnV0emVpbmhlaXRfaWQgPSBubi5pZAogICAgICAgICBpbm5lciBqb2luIGxpZV9saWVnZW5zY2hhZnQgbGwgb24gZ2cubGllX2xpZWdlbnNjaGFmdF9pZCA9IGxsLmlkCndoZXJlIGdlcmFldF90eXAgPSAnSCcKICBhbmQgKGxsLnJlbW92ZWRvbiwgbm4ucmVtb3ZlZG9uLCBnZy5yZW1vdmVkb24pIGlzIG51bGw7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBudyA9IEVtcHR5KDE3LjVmLCAyNy41ZiwgNWYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBld19xdWV1ZSBlcTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">d2hlcmUgdXBkYXRlZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJvZHkuCg==</text>
+        <text encoding="base64">ICAgIHZhbCBudyA9IEVtcHR5KDE3LjVmLCAyNy41ZiwgNWYpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkge30K</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPz8/Cg==</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgTGlzdCgpLmZvCg==</text>
+        <text encoding="base64">ICAgIGJvZHkuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPz8/Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCkge30K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIExlYWYoY2VudGVyWCAtIHNpemUgLyA0LCBjZW50ZXJZIC0gc2l6ZSAvIDQsIHNpemUgLyAyLCBwYXJ0aXRpb24uZ2V0KGZhbHNlKS5mbGF0TWFwKF8uZ2V0KGZhbHNlKSkuZ2V0T3JFbHNlKFNlcSgpKSksCiAgICAgICAgICBMZWFmKGNlbnRlclggKyBzaXplIC8gNCwgY2VudGVyWSAtIHNpemUgLyA0LCBzaXplIC8gMiwgcGFydGl0aW9uLmdldCh0cnVlKS5mbGF0TWFwKF8uZ2V0KGZhbHNlKSkuZ2V0T3JFbHNlKFNlcSgpKSksCiAgICAgICAgICBMZWFmKGNlbnRlclggLSBzaXplIC8gNCwgY2VudGVyWSArIHNpemUgLyA0LCBzaXplIC8gMiwgcGFydGl0aW9uLmdldChmYWxzZSkuZmxhdE1hcChfLmdldCh0cnVlKSkuZ2V0T3JFbHNlKFNlcSgpKSksCiAgICAgICAgICBMZWFmKGNlbnRlclggKyBzaXplIC8gNCwgY2VudGVyWSArIHNpemUgLyA0LCBzaXplIC8gMiwgcGFydGl0aW9uLmdldCh0cnVlKS5mbGF0TWFwKF8uZ2V0KHRydWUpKS5nZXRPckVsc2UoU2VxKCkpKQo=</text>
+        <text encoding="base64">ICAgICAgPz8/Cg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
