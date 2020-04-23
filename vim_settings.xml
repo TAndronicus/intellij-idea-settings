@@ -132,10 +132,6 @@
       <file name="/a.dummy" timestamp="1587631116406">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/strangschema/model/Strangschema.java" timestamp="1587621395948">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="102" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/LockRepository.java" timestamp="1587626033288">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="14" column="12" />
@@ -166,12 +162,12 @@
         <mark key="^" line="32" column="13" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587621269670">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587632463574">
         <mark key="'" line="702" column="32" />
-        <mark key="[" line="735" column="30" />
-        <mark key="]" line="736" column="28" />
-        <mark key="." line="736" column="27" />
-        <mark key="^" line="736" column="28" />
+        <mark key="[" line="716" column="15" />
+        <mark key="]" line="716" column="16" />
+        <mark key="." line="716" column="15" />
+        <mark key="^" line="716" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/LockService.java" timestamp="1587626137966">
         <mark key="[" line="16" column="0" />
@@ -179,17 +175,21 @@
         <mark key="^" line="21" column="5" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1587630942396">
-        <mark key="[" line="387" column="0" />
-        <mark key="]" line="411" column="4" />
-        <mark key="^" line="370" column="22" />
-        <mark key="." line="370" column="21" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1587632756173">
+        <mark key="[" line="346" column="45" />
+        <mark key="]" line="357" column="20" />
+        <mark key="^" line="357" column="20" />
+        <mark key="." line="357" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/java/com/qivalo/portal/AbstractSpringTest.java" timestamp="1587630872420">
         <mark key="[" line="303" column="72" />
         <mark key="]" line="303" column="84" />
         <mark key="^" line="303" column="84" />
         <mark key="." line="303" column="83" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/messung/rest/MessungRestEndpointTest.java" timestamp="1587632978025">
+        <mark key="[" line="624" column="0" />
+        <mark key="]" line="624" column="44" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/geraet/service/GeraetService.java" timestamp="1587626206444">
         <mark key="'" line="390" column="70" />
@@ -198,11 +198,11 @@
         <mark key="^" line="390" column="85" />
         <mark key="." line="390" column="84" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/LiegenschaftLock.java" timestamp="1587631578408">
-        <mark key="[" line="35" column="54" />
-        <mark key="]" line="35" column="90" />
-        <mark key="." line="35" column="89" />
-        <mark key="^" line="35" column="90" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/LiegenschaftLock.java" timestamp="1587632826699">
+        <mark key="[" line="36" column="41" />
+        <mark key="]" line="36" column="41" />
+        <mark key="." line="36" column="41" />
+        <mark key="^" line="36" column="49" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/common/helpers/TimeSpanning.java" timestamp="1587631560693">
         <mark key="[" line="10" column="21" />
@@ -217,7 +217,6 @@
         <mark key="^" line="205" column="59" />
         <mark key="." line="205" column="58" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvService.java" timestamp="1587620154823" />
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V364.0__create_mes_sperre.sql" timestamp="1587627389357">
         <mark key="[" line="15" column="30" />
         <mark key="]" line="15" column="46" />
@@ -229,6 +228,9 @@
         <mark key="]" line="27" column="18" />
         <mark key="." line="27" column="17" />
         <mark key="^" line="27" column="18" />
+      </file>
+      <file name="/fragment.java" timestamp="1587633168700">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -337,16 +339,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">CUBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
+        <text encoding="base64">CXZvaWQgc2hvdWxkRGVsZXRlTWFudWFsQW5kU2NoYWV0enVuZygpIHsK</text>
       </register>
       <register name="-" type="4">
-        <text>LocalDateTime</text>
+        <text encoding="base64">V2l0aElkLCA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CUxpc3Q8TG9jaz4gZ2V0R2VyYWV0TG9ja1BlcmlvZHMoQFBhcmFtKCJnZXJJZCIpIExvbmcgZ2VyYWV0SWQpOwo=</text>
+        <text encoding="base64">CXZvaWQgc2hvdWxkRGVsZXRlTWFudWFsQW5kU2NoYWV0enVuZygpIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CUBTdXBwcmVzc1dhcm5pbmdzKCJ1bmNoZWNrZWQiKQo=</text>
