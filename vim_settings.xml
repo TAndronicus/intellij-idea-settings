@@ -117,109 +117,82 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587600505723">
-        <mark key="[" line="999" column="61" />
-        <mark key="]" line="962" column="56" />
-        <mark key="." line="973" column="22" />
-        <mark key="^" line="973" column="23" />
+      <file name="/CommonGaszaehlerManualMessungRepository.java" timestamp="1587611654872">
+        <mark key="[" line="14" column="83" />
+        <mark key="]" line="21" column="94" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelCountChange.scala" timestamp="1587479625407">
-        <mark key="'" line="87" column="20" />
-        <mark key="[" line="82" column="5" />
-        <mark key="]" line="82" column="5" />
-        <mark key="." line="82" column="5" />
-        <mark key="^" line="76" column="9" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonGaszaehlerManualMessungRepository.java" timestamp="1587611659791">
+        <mark key="[" line="32" column="53" />
+        <mark key="]" line="39" column="95" />
+        <mark key="." line="32" column="53" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/big-data/example/src/main/scala/example/Lists.scala" timestamp="1587558096561">
-        <mark key="[" line="41" column="14" />
-        <mark key="]" line="41" column="20" />
-        <mark key="." line="41" column="14" />
-        <mark key="^" line="41" column="14" />
+      <file name="/CommonHeizkostenverteilerManualMessungRepository.java" timestamp="1587611676247">
+        <mark key="[" line="16" column="92" />
+        <mark key="]" line="23" column="103" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/barneshut/src/main/scala/barneshut/Simulator.scala" timestamp="1587553898590">
-        <mark key="[" line="15" column="22" />
-        <mark key="]" line="17" column="55" />
-        <mark key="." line="17" column="54" />
-        <mark key="^" line="17" column="55" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonWarmwasserzaehlerManualMessungRepository.java" timestamp="1587612100914">
+        <mark key="[" line="32" column="60" />
+        <mark key="]" line="39" column="102" />
+        <mark key="." line="32" column="60" />
       </file>
-      <file name="/console" timestamp="1587596127022">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonHeizkostenverteilerManualMessungRepository.java" timestamp="1587611678050">
+        <mark key="[" line="34" column="62" />
+        <mark key="]" line="41" column="104" />
+        <mark key="." line="34" column="62" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/test/scala/kmeans/KMeansSuite.scala" timestamp="1587517901965">
-        <mark key="'" line="93" column="23" />
-        <mark key="[" line="111" column="23" />
-        <mark key="]" line="93" column="24" />
-        <mark key="^" line="93" column="24" />
-        <mark key="." line="93" column="23" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonKaltwasserzaehlerManualMessungRepository.java" timestamp="1587611741080">
+        <mark key="[" line="39" column="102" />
+        <mark key="]" line="39" column="102" />
+        <mark key="." line="32" column="60" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/barneshut/src/main/scala/barneshut/package.scala" timestamp="1587551654906">
-        <mark key="[" line="198" column="76" />
-        <mark key="]" line="198" column="73" />
-        <mark key="." line="198" column="72" />
-        <mark key="^" line="198" column="73" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonStromzaehlerManualMessungRepository.java" timestamp="1587611873099">
+        <mark key="[" line="41" column="97" />
+        <mark key="]" line="41" column="97" />
+        <mark key="." line="34" column="55" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/main/scala/kmeans/KMeans.scala" timestamp="1587518536169">
-        <mark key="'" line="108" column="84" />
-        <mark key="[" line="96" column="101" />
-        <mark key="]" line="96" column="101" />
-        <mark key="." line="96" column="101" />
-        <mark key="^" line="102" column="85" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonWaermemengenzaehlerManualMessungRepository.java" timestamp="1587612041470">
+        <mark key="[" line="32" column="62" />
+        <mark key="]" line="39" column="104" />
+        <mark key="." line="32" column="62" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/big-data/example/src/test/scala/example/ListsSuite.scala" timestamp="1587557803908">
-        <mark key="[" line="52" column="24" />
-        <mark key="]" line="52" column="25" />
-        <mark key="." line="52" column="25" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/notification/rest/NotificationConfigRestEndpointTest.java" timestamp="1587612166588">
+        <mark key="[" line="62" column="22" />
+        <mark key="]" line="62" column="23" />
+        <mark key="." line="62" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala" timestamp="1587471962235">
-        <mark key="[" line="76" column="10" />
-        <mark key="]" line="76" column="22" />
-        <mark key="." line="76" column="21" />
-        <mark key="^" line="76" column="22" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonOelGeraetManualMessungRepository.java" timestamp="1587611766606">
+        <mark key="[" line="32" column="52" />
+        <mark key="]" line="39" column="94" />
+        <mark key="." line="32" column="52" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/LineOfSight.scala" timestamp="1587480537121">
-        <mark key="[" line="92" column="20" />
-        <mark key="]" line="95" column="43" />
-        <mark key="^" line="95" column="43" />
-        <mark key="." line="95" column="42" />
+      <file name="/CommonKaltwasserzaehlerManualMessungRepository.java" timestamp="1587611734560">
+        <mark key="[" line="14" column="90" />
+        <mark key="]" line="21" column="101" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587611457496">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="716" column="15" />
-        <mark key="]" line="719" column="94" />
-        <mark key="." line="719" column="93" />
-        <mark key="^" line="719" column="94" />
+      <file name="/CommonWarmwasserzaehlerManualMessungRepository.java" timestamp="1587612099170">
+        <mark key="[" line="14" column="90" />
+        <mark key="]" line="21" column="101" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/main/scala/kmeans/fun/IndexedColors.scala" timestamp="1587517563039">
-        <mark key="[" line="27" column="49" />
-        <mark key="]" line="27" column="53" />
-        <mark key="^" line="27" column="53" />
-        <mark key="." line="27" column="52" />
+      <file name="/CommonWaermemengenzaehlerManualMessungRepository.java" timestamp="1587612039555">
+        <mark key="[" line="14" column="92" />
+        <mark key="]" line="21" column="103" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/barneshut/src/test/scala/barneshut/BarnesHutSuite.scala" timestamp="1587554470343">
-        <mark key="'" line="128" column="7" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/dao/MessungCustomRepository.java" timestamp="1587612147201">
+        <mark key="[" line="39" column="38" />
+        <mark key="]" line="48" column="6" />
+        <mark key="." line="39" column="38" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/other/reductions/assignment.sbt" timestamp="1587470437267">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="1" />
-        <mark key="." line="0" column="0" />
+      <file name="/CommonOelGeraetManualMessungRepository.java" timestamp="1587611764613">
+        <mark key="[" line="14" column="82" />
+        <mark key="]" line="21" column="93" />
       </file>
-      <file name="/Dummy.scala" timestamp="1587532781394">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/CommonStromzaehlerManualMessungRepository.java" timestamp="1587611867882">
+        <mark key="[" line="16" column="85" />
+        <mark key="]" line="23" column="96" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/test/scala/reductions/ReductionsSuite.scala" timestamp="1587480821578">
-        <mark key="'" line="51" column="48" />
-        <mark key="[" line="61" column="40" />
-        <mark key="]" line="61" column="38" />
-        <mark key="." line="61" column="38" />
-        <mark key="^" line="59" column="35" />
-      </file>
-      <file name="/fragment.java" timestamp="1587471137036">
-        <mark key="[" line="0" column="0" />
+      <file name="/MessungCustomRepository.java" timestamp="1587612145280">
+        <mark key="[" line="38" column="38" />
+        <mark key="]" line="47" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -328,7 +301,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">KDEzMzYwIC0gMTAgKiA=</text>
+        <text encoding="base64">CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgTWFwPEdlcmFldFR5cC5UeXAsIFN0cmluZz4gTU9OVEhMWV9DT05TVU1QVElPTl9UQUJMRVMgPSBNYXAub2YoCgkJR2VyYWV0VHlwLlR5cC5ILCAibW9udGhseV9jb25zdW1wdGlvbl9vZl9oZWl6a29zdGVuIiwKCQlHZXJhZXRUeXAuVHlwLlcsICJtb250aGx5X2NvbnN1bXB0aW9uX29mX3dhcm13YXNzZXIiLAoJCUdlcmFldFR5cC5UeXAuSywgIm1vbnRobHlfY29uc3VtcHRpb25fb2Zfa2FsdHdhc3NlciIsCgkJR2VyYWV0VHlwLlR5cC5QLCAibW9udGhseV9jb25zdW1wdGlvbl9vZl9nYXMiLAoJCUdlcmFldFR5cC5UeXAuRSwgIm1vbnRobHlfY29uc3VtcHRpb25fb2Zfc3Ryb20iLAoJCUdlcmFldFR5cC5UeXAuWiwgIm1vbnRobHlfY29uc3VtcHRpb25fb2Zfd2Flcm1lIgoJKTs=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">KDEzMzYwIC0gMTAgKiA=</text>
@@ -337,37 +310,37 @@
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CgppbnNlcnQgaW50byBld19xdWV1ZSAoaWQsIGdlcl9nZXJhZXRfaWQsIHN0YXJ0X2RhdGUpCnNlbGVjdCBuZXh0dmFsKCdld19xdWV1ZV9zZXEnKSwKICAgICAgIGdnLmlkLAogICAgICAgJzIwMTktMDEtMDEnCmZyb20gZ2VyX2dlcmFldCBnZwogICAgICAgICBpbm5lciBqb2luIGdrX2dlcmFldF90eXAgZ2d0IG9uIGdnLmdrX2dlcmFldF90eXBfaWQgPSBnZ3QuaWQKICAgICAgICAgaW5uZXIgam9pbiBudXRfbnV0emVpbmhlaXQgbm4gb24gZ2cubnV0X251dHplaW5oZWl0X2lkID0gbm4uaWQKICAgICAgICAgaW5uZXIgam9pbiBsaWVfbGllZ2Vuc2NoYWZ0IGxsIG9uIGdnLmxpZV9saWVnZW5zY2hhZnRfaWQgPSBsbC5pZAp3aGVyZSAoZ2VyYWV0X3R5cCBpbiAoJ1cnLCAnSycsICdFJywgJ1onLCAnUCcpCiAgICBvciBnZXJhZXRfYXJ0ID0gJ09GT0xUMDEnKQogIGFuZCAobGwucmVtb3ZlZG9uLCBubi5yZW1vdmVkb24sIGdnLnJlbW92ZWRvbikgaXMgbnVsbDsKCmluc2VydCBpbnRvIGV3X3F1ZXVlIChpZCwgZ2VyX2dlcmFldF9pZCwgc3RhcnRfZGF0ZSwgZW5kX2RhdGUpIC0tIGRvbmUKc2VsZWN0IG5leHR2YWwoJ2V3X3F1ZXVlX3NlcScpLAogICAgICAgZ2cuaWQsCiAgICAgICAnMjAxOS0wMS0wMScsCiAgICAgICAnMjAyMC0wMS0wMScKZnJvbSBnZXJfZ2VyYWV0IGdnCiAgICAgICAgIGlubmVyIGpvaW4gZ2tfZ2VyYWV0X3R5cCBnZ3Qgb24gZ2cuZ2tfZ2VyYWV0X3R5cF9pZCA9IGdndC5pZAogICAgICAgICBpbm5lciBqb2luIG51dF9udXR6ZWluaGVpdCBubiBvbiBnZy5udXRfbnV0emVpbmhlaXRfaWQgPSBubi5pZAogICAgICAgICBpbm5lciBqb2luIGxpZV9saWVnZW5zY2hhZnQgbGwgb24gZ2cubGllX2xpZWdlbnNjaGFmdF9pZCA9IGxsLmlkCndoZXJlIGdlcmFldF90eXAgPSAnSCcKICBhbmQgKGxsLnJlbW92ZWRvbiwgbm4ucmVtb3ZlZG9uLCBnZy5yZW1vdmVkb24pIGlzIG51bGw7CgppbnNlcnQgaW50byBld19xdWV1ZSAoaWQsIGdlcl9nZXJhZXRfaWQsIHN0YXJ0X2RhdGUpIC0tIGRvbmUKc2VsZWN0IG5leHR2YWwoJ2V3X3F1ZXVlX3NlcScpLAogICAgICAgZ2cuaWQsCiAgICAgICAnMjAyMC0wMS0wMScKZnJvbSBnZXJfZ2VyYWV0IGdnCiAgICAgICAgIGlubmVyIGpvaW4gZ2tfZ2VyYWV0X3R5cCBnZ3Qgb24gZ2cuZ2tfZ2VyYWV0X3R5cF9pZCA9IGdndC5pZAogICAgICAgICBpbm5lciBqb2luIG51dF9udXR6ZWluaGVpdCBubiBvbiBnZy5udXRfbnV0emVpbmhlaXRfaWQgPSBubi5pZAogICAgICAgICBpbm5lciBqb2luIGxpZV9saWVnZW5zY2hhZnQgbGwgb24gZ2cubGllX2xpZWdlbnNjaGFmdF9pZCA9IGxsLmlkCndoZXJlIGdlcmFldF90eXAgPSAnSCcKICBhbmQgKGxsLnJlbW92ZWRvbiwgbm4ucmVtb3ZlZG9uLCBnZy5yZW1vdmVkb24pIGlzIG51bGw7</text>
+        <text encoding="base64">CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgTWFwPEdlcmFldFR5cC5UeXAsIFN0cmluZz4gTU9OVEhMWV9DT05TVU1QVElPTl9UQUJMRVMgPSBNYXAub2YoCgkJR2VyYWV0VHlwLlR5cC5ILCAibW9udGhseV9jb25zdW1wdGlvbl9vZl9oZWl6a29zdGVuIiwKCQlHZXJhZXRUeXAuVHlwLlcsICJtb250aGx5X2NvbnN1bXB0aW9uX29mX3dhcm13YXNzZXIiLAoJCUdlcmFldFR5cC5UeXAuSywgIm1vbnRobHlfY29uc3VtcHRpb25fb2Zfa2FsdHdhc3NlciIsCgkJR2VyYWV0VHlwLlR5cC5QLCAibW9udGhseV9jb25zdW1wdGlvbl9vZl9nYXMiLAoJCUdlcmFldFR5cC5UeXAuRSwgIm1vbnRobHlfY29uc3VtcHRpb25fb2Zfc3Ryb20iLAoJCUdlcmFldFR5cC5UeXAuWiwgIm1vbnRobHlfY29uc3VtcHRpb25fb2Zfd2Flcm1lIgoJKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CX0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBld19xdWV1ZSBlcTsK</text>
+        <text encoding="base64">CQlhc3NlcnRFcXVhbHMoIiIsIGd2ZXJzdGkuZ2V0TXdzdGkoKSk7CgkJYXNzZXJ0RXF1YWxzKCJrZWluIE1lc3N3ZXJ0IiwgZ3ZlcnN0aS5nZXRIaW52KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2hlcmUgdXBkYXRlZDsK</text>
+        <text encoding="base64">CXZvaWQgYXNzZXJ0S2Vpbk1lc3N3ZXJ0KFByb21vc0RUVl9HVkVSU1RJIGd2ZXJzdGkpIHsKCQlhc3NlcnRFcXVhbHMoIiIsIGd2ZXJzdGkuZ2V0U3RpdGltZSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhbCBudyA9IEVtcHR5KDE3LjVmLCAyNy41ZiwgNWYpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBld19xdWV1ZSBlcTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">d2hlcmUgdXBkYXRlZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGJvZHkuCg==</text>
+        <text encoding="base64">ICAgIHZhbCBudyA9IEVtcHR5KDE3LjVmLCAyNy41ZiwgNWYpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCkge30K</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPz8/Cg==</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
