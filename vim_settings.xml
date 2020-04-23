@@ -117,11 +117,21 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/Lock.java" timestamp="1587621519232">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="15" column="32" />
+        <mark key="^" line="15" column="32" />
+        <mark key="." line="15" column="31" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonGaszaehlerManualMessungRepository.java" timestamp="1587612788478">
         <mark key="[" line="34" column="73" />
         <mark key="]" line="34" column="88" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="29" column="18" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/strangschema/model/Strangschema.java" timestamp="1587621395948">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="102" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/barneshut/src/main/scala/barneshut/package.scala" timestamp="1587616040148">
         <mark key="[" line="113" column="20" />
@@ -173,17 +183,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="30" column="13" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587620905494">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587621269670">
         <mark key="'" line="702" column="32" />
         <mark key="[" line="735" column="30" />
-        <mark key="]" line="735" column="8" />
-        <mark key="." line="735" column="7" />
-        <mark key="^" line="735" column="8" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/notification/rest/NotificationConfigRestEndpointTest.java" timestamp="1587612166588">
-        <mark key="[" line="62" column="22" />
-        <mark key="]" line="62" column="23" />
-        <mark key="." line="62" column="23" />
+        <mark key="]" line="736" column="28" />
+        <mark key="." line="736" column="27" />
+        <mark key="^" line="736" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonOelGeraetManualMessungRepository.java" timestamp="1587612756509">
         <mark key="[" line="35" column="0" />
@@ -200,14 +205,9 @@
       <file name="/Dummy.txt" timestamp="1587617956530">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/dao/MessungCustomRepository.java" timestamp="1587612147201">
-        <mark key="[" line="39" column="38" />
-        <mark key="]" line="48" column="6" />
-        <mark key="." line="39" column="38" />
-      </file>
-      <file name="/MessungCustomRepository.java" timestamp="1587612145280">
-        <mark key="[" line="38" column="38" />
-        <mark key="]" line="47" column="5" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V364.0__create_mes_sperre.sql" timestamp="1587621476019">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -316,16 +316,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>stromzaehler mms</text>
+        <text>mes_sperre_id_seq</text>
       </register>
       <register name="-" type="4">
-        <text>stromzaehler mms</text>
+        <text>str_schema_id_seq</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>geraetTyp.getId()</text>
+        <text>mes_sperre_id_seq</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlyZWNhbGN1bGF0ZShnZXJhZXRUeXAsIENvbGxlY3Rpb25zLnNpbmdsZXRvbkxpc3QobWFwcGluZyksIGdldE1hbnVhbE1lc3N1bmdSZXBvc2l0b3J5KCkuZmluZEFsbEJ5R2VyYWV0VHlwSWQoZ2VyYWV0VHlwLmdldElkKCkpLCB0cnVlKTsK</text>
