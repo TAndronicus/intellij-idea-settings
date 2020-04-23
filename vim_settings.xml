@@ -124,6 +124,12 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="31" />
       </file>
+      <file name="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/main/scala/wikipedia/WikipediaRanking.scala" timestamp="1587653459387">
+        <mark key="[" line="23" column="24" />
+        <mark key="]" line="23" column="46" />
+        <mark key="." line="23" column="45" />
+        <mark key="^" line="23" column="46" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/GeraetLock.java" timestamp="1587644157518">
         <mark key="[" line="0" column="30" />
         <mark key="]" line="10" column="61" />
@@ -200,9 +206,6 @@
         <mark key="[" line="434" column="61" />
         <mark key="]" line="442" column="61" />
         <mark key="." line="434" column="61" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1587642365735">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/main/java/com/qivalo/portal/core/service/GeraetSyncHelper.java" timestamp="1587644658753">
         <mark key="'" line="332" column="77" />
@@ -341,11 +344,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
+      <register name="*" type="4">
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>ende</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
