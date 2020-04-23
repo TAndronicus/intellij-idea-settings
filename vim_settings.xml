@@ -117,14 +117,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/CommonLockService.java" timestamp="1587630955492">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="29" column="40" />
-        <mark key="." line="21" column="0" />
-        <mark key="^" line="21" column="4" />
-      </file>
-      <file name="/a.dummy" timestamp="1587631116406">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonGaszaehlerManualMessungRepository.java" timestamp="1587640497597">
+        <mark key="[" line="27" column="54" />
+        <mark key="]" line="34" column="88" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="29" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" timestamp="1587639215699">
         <mark key="[" line="255" column="0" />
@@ -137,17 +134,23 @@
         <mark key="^" line="64" column="36" />
         <mark key="." line="64" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/GeraetLock.java" timestamp="1587631591497">
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="10" column="61" />
-        <mark key="^" line="10" column="61" />
-        <mark key="." line="10" column="60" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtvFileExportRestEndpointTest.java" timestamp="1587640363084">
+        <mark key="[" line="427" column="57" />
+        <mark key="]" line="427" column="72" />
+        <mark key="." line="427" column="71" />
+        <mark key="^" line="427" column="72" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/CommonLockRepository.java" timestamp="1587631032114">
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="21" column="29" />
-        <mark key="." line="21" column="28" />
-        <mark key="^" line="21" column="29" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonHeizkostenverteilerManualMessungRepository.java" timestamp="1587640507581">
+        <mark key="[" line="29" column="54" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="31" column="18" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonKaltwasserzaehlerManualMessungRepository.java" timestamp="1587640516108">
+        <mark key="[" line="27" column="54" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="29" column="18" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/facade/MessungFacade.java" timestamp="1587633245297" />
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/task/AbrechnungExportTask.java" timestamp="1587639603009" />
@@ -157,6 +160,18 @@
         <mark key="]" line="50" column="61" />
         <mark key="^" line="50" column="61" />
         <mark key="." line="50" column="60" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonStromzaehlerManualMessungRepository.java" timestamp="1587640524509">
+        <mark key="[" line="29" column="53" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="32" column="38" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonWaermemengenzaehlerManualMessungRepository.java" timestamp="1587640531982">
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="30" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportHelper.java" timestamp="1587633639120">
         <mark key="'" line="104" column="77" />
@@ -177,28 +192,18 @@
         <mark key="]" line="326" column="0" />
         <mark key="." line="326" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonOelGeraetManualMessungRepository.java" timestamp="1587640470509">
+        <mark key="[" line="27" column="55" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="30" column="12" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/service/MessungService.java" timestamp="1587635228445">
         <mark key="'" line="97" column="45" />
         <mark key="[" line="97" column="15" />
         <mark key="]" line="97" column="66" />
         <mark key="^" line="97" column="66" />
         <mark key="." line="97" column="65" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/messung/rest/MessungRestEndpointTest.java" timestamp="1587632978025">
-        <mark key="[" line="624" column="0" />
-        <mark key="]" line="624" column="44" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/LiegenschaftLock.java" timestamp="1587632826699">
-        <mark key="[" line="36" column="41" />
-        <mark key="]" line="36" column="41" />
-        <mark key="." line="36" column="41" />
-        <mark key="^" line="36" column="49" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/common/helpers/TimeSpanning.java" timestamp="1587631560693">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="22" />
-        <mark key="^" line="10" column="22" />
-        <mark key="." line="10" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyService.java" timestamp="1587634082811">
         <mark key="'" line="0" column="0" />
