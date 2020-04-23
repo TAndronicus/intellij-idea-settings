@@ -117,8 +117,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587599206423">
-        <mark key="[" line="927" column="41" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1587600505723">
+        <mark key="[" line="999" column="61" />
         <mark key="]" line="962" column="56" />
         <mark key="." line="973" column="22" />
         <mark key="^" line="973" column="23" />
@@ -186,11 +186,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587599252197">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587600337972">
         <mark key="'" line="20" column="16" />
-        <mark key="[" line="711" column="57" />
-        <mark key="]" line="715" column="0" />
-        <mark key="." line="715" column="0" />
+        <mark key="[" line="690" column="62" />
+        <mark key="]" line="702" column="60" />
+        <mark key="." line="702" column="59" />
+        <mark key="^" line="702" column="60" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/parprog1/kmeans/src/main/scala/kmeans/fun/IndexedColors.scala" timestamp="1587517563039">
         <mark key="[" line="27" column="49" />
