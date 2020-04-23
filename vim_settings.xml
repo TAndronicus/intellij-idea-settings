@@ -124,11 +124,11 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/main/scala/wikipedia/WikipediaRanking.scala" timestamp="1587653459387">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="46" />
-        <mark key="." line="23" column="45" />
-        <mark key="^" line="23" column="46" />
+      <file name="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/main/scala/wikipedia/WikipediaRanking.scala" timestamp="1587658144039">
+        <mark key="[" line="58" column="14" />
+        <mark key="]" line="58" column="21" />
+        <mark key="." line="58" column="20" />
+        <mark key="^" line="58" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/GeraetLock.java" timestamp="1587644157518">
         <mark key="[" line="0" column="30" />
@@ -167,6 +167,9 @@
         <mark key="]" line="710" column="21" />
         <mark key="." line="710" column="21" />
         <mark key="^" line="710" column="21" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/test/scala/wikipedia/WikipediaSuite.scala" timestamp="1587657673669">
+        <mark key="'" line="89" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/notificationcenter/action/repo/GeraetActionsRepository.java" timestamp="1587644580686">
         <mark key="[" line="36" column="125" />
@@ -219,10 +222,6 @@
         <mark key="^" line="0" column="38" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/model/AbstractMessung.java" timestamp="1587642750254">
-        <mark key="[" line="89" column="17" />
-        <mark key="]" line="89" column="25" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V364.1__add_lock_notification.sql" timestamp="1587644529727">
         <mark key="[" line="6" column="61" />
         <mark key="]" line="14" column="60" />
@@ -240,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="296" column="36" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="9" column="3" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="191" column="6" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
@@ -340,6 +338,7 @@
       <jump line="15" column="13" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/CommonLiegenschaftLockService.java" />
       <jump line="32" column="13" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/LiegenschaftLock.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/08_insert_notifications.sql" />
+      <jump line="89" column="8" filename="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/test/scala/wikipedia/WikipediaSuite.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
