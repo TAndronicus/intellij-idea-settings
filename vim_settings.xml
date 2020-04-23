@@ -124,11 +124,10 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/main/scala/wikipedia/WikipediaRanking.scala" timestamp="1587658144039">
-        <mark key="[" line="58" column="14" />
-        <mark key="]" line="58" column="21" />
-        <mark key="." line="58" column="20" />
-        <mark key="^" line="58" column="21" />
+      <file name="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/main/scala/wikipedia/WikipediaRanking.scala" timestamp="1587661383410">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/GeraetLock.java" timestamp="1587644157518">
         <mark key="[" line="0" column="30" />
@@ -168,8 +167,11 @@
         <mark key="." line="710" column="21" />
         <mark key="^" line="710" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/test/scala/wikipedia/WikipediaSuite.scala" timestamp="1587657673669">
-        <mark key="'" line="89" column="8" />
+      <file name="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/test/scala/wikipedia/WikipediaSuite.scala" timestamp="1587660902957">
+        <mark key="'" line="137" column="0" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/notificationcenter/action/repo/GeraetActionsRepository.java" timestamp="1587644580686">
         <mark key="[" line="36" column="125" />
@@ -239,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="36" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="9" column="3" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="191" column="6" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="134" column="15" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
@@ -339,15 +340,16 @@
       <jump line="32" column="13" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/LiegenschaftLock.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/08_insert_notifications.sql" />
       <jump line="89" column="8" filename="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/test/scala/wikipedia/WikipediaSuite.scala" />
+      <jump line="137" column="0" filename="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/test/scala/wikipedia/WikipediaSuite.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>?</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIC5ncgo=</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -356,34 +358,34 @@
         <text>GE_NEW_VALUES_FOR_LOCKED_TIMESPAN</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgIC5ncgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">Ly8gICAgc2MucGFyYWxsZWxpemUobGFuZ3MpCi8vICAgIC5tYXAobGFuZyA9PiAobGFuZywgcmRkLmZpbHRlcihfLm1lbnRpb25zTGFuZ3VhZ2UobGFuZykpKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgIC5yZWR1Y2VCeUtleSgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQluYXRpdmVRdWVyeSA9IHRydWUK</text>
+        <text encoding="base64">CiAgQFRlc3QgZGVmIHQoKTogVW5pdCA9IHsKICAgIHZhbCBsID0gc2MucGFyYWxsZWxpemUoTGlzdCgxLCAyLCAzKSkKICAgIHNjLnBhcmFsbGVsaXplKExpc3QoImEiLCAiYiIsICJjIikpCiAgICAgIC5jYXJ0ZXNpYW4obCkKICAgICAgLmNvbGxlY3QoKS5mb3JlYWNoKHByaW50bG4pCiAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQluYXRpdmVRdWVyeSA9IHRydWUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWJvb2xlYW4gZXhpc3RzQnlMaWVnZW5zY2hhZnRfSWRBbmQKCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgQ29tbW9uTWVzc3VuZ0N1c3RvbVJlcG9zaXRvcnkgY29tbW9uTWVzc3VuZ0N1c3RvbVJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">CQluYXRpdmVRdWVyeSA9IHRydWUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgQ29tbW9uTWVzc3VuZ0N1c3RvbVJlcG9zaXRvcnkgY29tbW9uTWVzc3VuZ0N1c3RvbVJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">CQluYXRpdmVRdWVyeSA9IHRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
