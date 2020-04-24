@@ -124,11 +124,6 @@
         <mark key="[" line="124" column="79" />
         <mark key="]" line="132" column="9" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/main/scala/wikipedia/WikipediaRanking.scala" timestamp="1587661383410">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/geraetekatalog/service/GeraetTypMappingUpdateTest.java" timestamp="1587699428337">
         <mark key="[" line="72" column="16" />
         <mark key="]" line="73" column="21" />
@@ -142,6 +137,9 @@
         <mark key="." line="74" column="118" />
         <mark key="^" line="93" column="47" />
       </file>
+      <file name="/a.sql" timestamp="1587719424105">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/facade/MessungFacade.java" timestamp="1587705759952">
         <mark key="[" line="60" column="137" />
         <mark key="]" line="60" column="139" />
@@ -153,12 +151,6 @@
         <mark key="]" line="18" column="24" />
         <mark key="." line="18" column="23" />
         <mark key="^" line="18" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1587693345453">
-        <mark key="[" line="100" column="50" />
-        <mark key="]" line="102" column="33" />
-        <mark key="." line="102" column="32" />
-        <mark key="^" line="102" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvService.java" timestamp="1587698482174">
         <mark key="[" line="19" column="0" />
@@ -186,12 +178,12 @@
         <mark key="]" line="125" column="4" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587713431610">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587713603739">
         <mark key="'" line="702" column="32" />
-        <mark key="[" line="726" column="7" />
-        <mark key="]" line="726" column="20" />
-        <mark key="." line="726" column="20" />
-        <mark key="^" line="726" column="9" />
+        <mark key="[" line="726" column="0" />
+        <mark key="]" line="726" column="27" />
+        <mark key="." line="726" column="24" />
+        <mark key="^" line="726" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/service/CommonMessungService.java" timestamp="1587706300315">
         <mark key="[" line="69" column="0" />
@@ -199,19 +191,19 @@
         <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/antas/src/main/java/com/qivalo/portal/core/dao/AntasNutzeinheitHistorieRepository.java" timestamp="1587712319706">
-        <mark key="[" line="23" column="9" />
-        <mark key="]" line="23" column="33" />
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="16" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/notification/rest/NotificationConfigRestEndpointTest.java" timestamp="1587702359631">
         <mark key="[" line="62" column="22" />
         <mark key="]" line="62" column="23" />
         <mark key="." line="62" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/test/scala/wikipedia/WikipediaSuite.scala" timestamp="1587660902957">
-        <mark key="'" line="137" column="0" />
-        <mark key="[" line="137" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="." line="137" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587719404350">
+        <mark key="[" line="3685" column="49" />
+        <mark key="]" line="3685" column="59" />
+        <mark key="." line="3685" column="58" />
+        <mark key="^" line="3685" column="59" />
       </file>
     </filemarks>
     <jumps>
@@ -320,43 +312,43 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>heizkosten</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>heizkosten</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">c2VsZWN0ICgxLCAzLCAyKSA+ICgxLCAyLCAzKTs=</text>
+      <register name="0" type="2">
+        <text encoding="base64">cmVmcmVzaCBtYXRlcmlhbGl6ZWQgdmlldyBtb250aGx5X2NvbnN1bXB0aW9uX29mX2hlaXprb3N0ZW47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlhc3NlcnRUcnVlKAoJCQlub3RpZmljYXRpb25SZXBvc2l0b3J5LmZpbmRBbGwoKS5zdHJlYW0oKQoJCQkJLm5vbmVNYXRjaChuIC0+IE5vdGlmaWNhdGlvbkV2ZW50LkdFX05FV19WQUxVRVNfRk9SX0xPQ0tFRF9USU1FU1BBTl9BTlRBUy5lcXVhbHMobi5nZXROb3RpZmljYXRpb25NZXNzYWdlKCkuZ2V0RXZlbnQoKSkpKTsK</text>
+        <text encoding="base64">cmVmcmVzaCBtYXRlcmlhbGl6ZWQgdmlldyBtZXNfbWVzc3VuZ2VuX2FnZ3JlZ2F0ZWQ7Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CglAVGVzdAoJdm9pZCBzeW5jU2hvdWxkTm90aWZ5QW5kTm90U3luY0xvY2tlZEdlcmFldCgpIHsKCQkvLyBnaXZlbgoJCXZhciBnZXJhZXRJZCA9IDUwMDFMOwoJCXZhciBtZXNzRGF0dW0gPSBMb2NhbERhdGUub2YoMjAxOSwgMiwgMSk7CgkJZ2UxLnNldEVpbmJhdURhdHVtKG1lc3NEYXR1bSk7CgkJbm90aWZpY2F0aW9uUmVwb3NpdG9yeS5kZWxldGVBbGwoKTsKCgkJLy8gd2hlbgoJCWxvY2tMaWVnZW5zY2hhZnQoCgkJCTMwMDFMLAoJCQlMb2NhbERhdGUub2YoMjAxOSwgMSwgMSkuYXRTdGFydE9mRGF5KCksCgkJCUxvY2FsRGF0ZS5vZigyMDE5LCAxMiwgMzEpLmF0U3RhcnRPZkRheSgpCgkJKTsKCQlzeW5jR2VyYWV0ZSgpOwoKCQkvLyB0aGVuCgkJLy8gbWVzc3VuZyBub3Qgc2F2ZWQgaW4gZ2VyYWV0CgkJR2VyYWV0IGdlMSA9IGdSZXBvLmZpbmRCeUlkKGdlcmFldElkKS5vckVsc2VUaHJvdygpOwoJCWFzc2VydE5vdE51bGwoZ2UxKTsKCQlhc3NlcnROdWxsKGdlMS5nZXRFaW5iYXVNZXNzd2VydCgpKTsKCgkJLy8gbWVzc3VuZyBub3Qgc2F2ZWQgaW4gbWVzc3VuZ2VuIHRhYmxlCgkJdmFyIG5vbkV4aXN0aW5nID0gRXhhbXBsZS5vZigKCQkJbmV3IEthbHR3YXNzZXJ6YWVobGVyTWVzc3VuZygpCgkJCQkud2l0aEdlcmFldElkKGdlcmFldElkKQoJCQkJLndpdGhNZXNzRGF0dW0oRGF0ZVV0aWxzLnRvRGF0ZShtZXNzRGF0dW0pKQoJCSk7CgkJYXNzZXJ0RmFsc2UoaW50TWVzc3VuZ1JlcG9zaXRvcnkuZXhpc3RzKG5vbkV4aXN0aW5nKSk7CgoJCS8vIG5vdGlmaWNhdGlvbiBzZW50CgkJdmFyIG5vdGlmaWNhdGlvbiA9IG5ldyBOb3RpZmljYXRpb24oCgkJCU5vdGlmaWNhdGlvbk1lc3NhZ2UuYnVpbGRlcigpCgkJCQkuZXZlbnQoTm90aWZpY2F0aW9uRXZlbnQuR0VfTkVXX1ZBTFVFU19GT1JfTE9DS0VEX1RJTUVTUEFOX0FOVEFTKQoJCQkJLnRpdGxlKCJFbXBmYW5nZW5lIE1lc3N3ZXJ0ZSBuaWNodCBnZXNwZWljaGVydCIpCgkJCQkuc291cmNlVHlwKE5vdGlmaWNhdGlvbk1lc3NhZ2UuU291cmNlVHlwLkdFUkFFVCkKCQkJCS5zb3VyY2VJZChnZXJhZXRJZCkKCQkJCS5idWlsZCgpLAoJCQkxMF8wMDBMCgkJKTsKCQlhc3NlcnRUcnVlKG5vdGlmaWNhdGlvblJlcG9zaXRvcnkuZXhpc3RzKEV4YW1wbGUub2Yobm90aWZpY2F0aW9uKSkpOwoKCQkvLyBjbGVhbnVwCgkJY2xlYXJMb2NrcygpOwoJfQo=</text>
+        <text encoding="base64">CQlhc3NlcnRUcnVlKAoJCQlub3RpZmljYXRpb25SZXBvc2l0b3J5LmZpbmRBbGwoKS5zdHJlYW0oKQoJCQkJLm5vbmVNYXRjaChuIC0+IE5vdGlmaWNhdGlvbkV2ZW50LkdFX05FV19WQUxVRVNfRk9SX0xPQ0tFRF9USU1FU1BBTl9BTlRBUy5lcXVhbHMobi5nZXROb3RpZmljYXRpb25NZXNzYWdlKCkuZ2V0RXZlbnQoKSkpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCWZpbHRlck91dExvY2tlZE1lc3N1bmdlbihtZXNzdW5nZW5Ub1NhdmUpOwo=</text>
+        <text encoding="base64">CglAVGVzdAoJdm9pZCBzeW5jU2hvdWxkTm90aWZ5QW5kTm90U3luY0xvY2tlZEdlcmFldCgpIHsKCQkvLyBnaXZlbgoJCXZhciBnZXJhZXRJZCA9IDUwMDFMOwoJCXZhciBtZXNzRGF0dW0gPSBMb2NhbERhdGUub2YoMjAxOSwgMiwgMSk7CgkJZ2UxLnNldEVpbmJhdURhdHVtKG1lc3NEYXR1bSk7CgkJbm90aWZpY2F0aW9uUmVwb3NpdG9yeS5kZWxldGVBbGwoKTsKCgkJLy8gd2hlbgoJCWxvY2tMaWVnZW5zY2hhZnQoCgkJCTMwMDFMLAoJCQlMb2NhbERhdGUub2YoMjAxOSwgMSwgMSkuYXRTdGFydE9mRGF5KCksCgkJCUxvY2FsRGF0ZS5vZigyMDE5LCAxMiwgMzEpLmF0U3RhcnRPZkRheSgpCgkJKTsKCQlzeW5jR2VyYWV0ZSgpOwoKCQkvLyB0aGVuCgkJLy8gbWVzc3VuZyBub3Qgc2F2ZWQgaW4gZ2VyYWV0CgkJR2VyYWV0IGdlMSA9IGdSZXBvLmZpbmRCeUlkKGdlcmFldElkKS5vckVsc2VUaHJvdygpOwoJCWFzc2VydE5vdE51bGwoZ2UxKTsKCQlhc3NlcnROdWxsKGdlMS5nZXRFaW5iYXVNZXNzd2VydCgpKTsKCgkJLy8gbWVzc3VuZyBub3Qgc2F2ZWQgaW4gbWVzc3VuZ2VuIHRhYmxlCgkJdmFyIG5vbkV4aXN0aW5nID0gRXhhbXBsZS5vZigKCQkJbmV3IEthbHR3YXNzZXJ6YWVobGVyTWVzc3VuZygpCgkJCQkud2l0aEdlcmFldElkKGdlcmFldElkKQoJCQkJLndpdGhNZXNzRGF0dW0oRGF0ZVV0aWxzLnRvRGF0ZShtZXNzRGF0dW0pKQoJCSk7CgkJYXNzZXJ0RmFsc2UoaW50TWVzc3VuZ1JlcG9zaXRvcnkuZXhpc3RzKG5vbkV4aXN0aW5nKSk7CgoJCS8vIG5vdGlmaWNhdGlvbiBzZW50CgkJdmFyIG5vdGlmaWNhdGlvbiA9IG5ldyBOb3RpZmljYXRpb24oCgkJCU5vdGlmaWNhdGlvbk1lc3NhZ2UuYnVpbGRlcigpCgkJCQkuZXZlbnQoTm90aWZpY2F0aW9uRXZlbnQuR0VfTkVXX1ZBTFVFU19GT1JfTE9DS0VEX1RJTUVTUEFOX0FOVEFTKQoJCQkJLnRpdGxlKCJFbXBmYW5nZW5lIE1lc3N3ZXJ0ZSBuaWNodCBnZXNwZWljaGVydCIpCgkJCQkuc291cmNlVHlwKE5vdGlmaWNhdGlvbk1lc3NhZ2UuU291cmNlVHlwLkdFUkFFVCkKCQkJCS5zb3VyY2VJZChnZXJhZXRJZCkKCQkJCS5idWlsZCgpLAoJCQkxMF8wMDBMCgkJKTsKCQlhc3NlcnRUcnVlKG5vdGlmaWNhdGlvblJlcG9zaXRvcnkuZXhpc3RzKEV4YW1wbGUub2Yobm90aWZpY2F0aW9uKSkpOwoKCQkvLyBjbGVhbnVwCgkJY2xlYXJMb2NrcygpOwoJfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cglwcml2YXRlIGJvb2xlYW4gZWluYmF1U3RhdGVDaGFuZ2VkKCkgewoJCXJldHVybiBmYWxzZTsKCX0K</text>
+        <text encoding="base64">CQkJCWZpbHRlck91dExvY2tlZE1lc3N1bmdlbihtZXNzdW5nZW5Ub1NhdmUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ClNFTEVDVCBkYXRuYW1lLAogICAgICAgcGlkLAogICAgICAgcXVlcnksCiAgICAgICB1c2VzeXNpZCwKICAgICAgIHVzZW5hbWUsCiAgICAgICBhcHBsaWNhdGlvbl9uYW1lLAogICAgICAgY2xpZW50X2FkZHIsCiAgICAgICBjbGllbnRfcG9ydCwKICAgICAgIHN0YXRlLAogICAgICAgYmFja2VuZF9zdGFydCwKICAgICAgIHhhY3Rfc3RhcnQKRlJPTSBwZ19zdGF0X2FjdGl2aXR5CldIRVJFIHN0YXRlIGlzIG5vdCBudWxsCiAgYW5kIHN0YXRlICE9ICdpZGxlJwpPUkRFUiBCWSB4YWN0X3N0YXJ0Owo=</text>
+        <text encoding="base64">Cglwcml2YXRlIGJvb2xlYW4gZWluYmF1U3RhdGVDaGFuZ2VkKCkgewoJCXJldHVybiBmYWxzZTsKCX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgTm90aWZpY2F0aW9uQ2VudGVyIG5vdGlmaWNhdGlvbkNlbnRlcjsK</text>
+        <text encoding="base64">ClNFTEVDVCBkYXRuYW1lLAogICAgICAgcGlkLAogICAgICAgcXVlcnksCiAgICAgICB1c2VzeXNpZCwKICAgICAgIHVzZW5hbWUsCiAgICAgICBhcHBsaWNhdGlvbl9uYW1lLAogICAgICAgY2xpZW50X2FkZHIsCiAgICAgICBjbGllbnRfcG9ydCwKICAgICAgIHN0YXRlLAogICAgICAgYmFja2VuZF9zdGFydCwKICAgICAgIHhhY3Rfc3RhcnQKRlJPTSBwZ19zdGF0X2FjdGl2aXR5CldIRVJFIHN0YXRlIGlzIG5vdCBudWxsCiAgYW5kIHN0YXRlICE9ICdpZGxlJwpPUkRFUiBCWSB4YWN0X3N0YXJ0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgTm90aWZpY2F0aW9uQ2VudGVyIG5vdGlmaWNhdGlvbkNlbnRlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CglAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">CglAQXV0b3dpcmVkCg==</text>
