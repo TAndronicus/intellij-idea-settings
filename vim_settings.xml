@@ -190,12 +190,6 @@
         <mark key="." line="0" column="35" />
         <mark key="^" line="0" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/GeraetLock.java" timestamp="1587644157518">
-        <mark key="[" line="0" column="30" />
-        <mark key="]" line="10" column="61" />
-        <mark key="^" line="10" column="61" />
-        <mark key="." line="10" column="60" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/dao/CommonLiegenschaftLockRepository.java" timestamp="1587644277011">
         <mark key="[" line="2" column="30" />
         <mark key="]" line="2" column="36" />
@@ -235,6 +229,12 @@
       </file>
       <file name="/fragment.java" timestamp="1587644245824">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1587693345453">
+        <mark key="[" line="100" column="50" />
+        <mark key="]" line="102" column="33" />
+        <mark key="." line="102" column="32" />
+        <mark key="^" line="102" column="33" />
       </file>
     </filemarks>
     <jumps>
@@ -343,46 +343,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIC5ncgo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>leftOuterJoin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>GE_NEW_VALUES_FOR_LOCKED_TIMESPAN</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhbCBxdWVzdGlvbnMgPSBwb3N0aW5ncy5maWx0ZXIoXy5wb3N0aW5nVHlwZSA9PSAxKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5ncgo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgc2MucGFyYWxsZWxpemUobGFuZ3MpCi8vICAgIC5tYXAobGFuZyA9PiAobGFuZywgcmRkLmZpbHRlcihfLm1lbnRpb25zTGFuZ3VhZ2UobGFuZykpKSkK</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC5yZWR1Y2VCeUtleSgpCg==</text>
+        <text encoding="base64">ICAgIC5ncgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgQFRlc3QgZGVmIHQoKTogVW5pdCA9IHsKICAgIHZhbCBsID0gc2MucGFyYWxsZWxpemUoTGlzdCgxLCAyLCAzKSkKICAgIHNjLnBhcmFsbGVsaXplKExpc3QoImEiLCAiYiIsICJjIikpCiAgICAgIC5jYXJ0ZXNpYW4obCkKICAgICAgLmNvbGxlY3QoKS5mb3JlYWNoKHByaW50bG4pCiAgfQo=</text>
+        <text encoding="base64">Ly8gICAgc2MucGFyYWxsZWxpemUobGFuZ3MpCi8vICAgIC5tYXAobGFuZyA9PiAobGFuZywgcmRkLmZpbHRlcihfLm1lbnRpb25zTGFuZ3VhZ2UobGFuZykpKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">ICAgIC5yZWR1Y2VCeUtleSgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">CiAgQFRlc3QgZGVmIHQoKTogVW5pdCA9IHsKICAgIHZhbCBsID0gc2MucGFyYWxsZWxpemUoTGlzdCgxLCAyLCAzKSkKICAgIHNjLnBhcmFsbGVsaXplKExpc3QoImEiLCAiYiIsICJjIikpCiAgICAgIC5jYXJ0ZXNpYW4obCkKICAgICAgLmNvbGxlY3QoKS5mb3JlYWNoKHByaW50bG4pCiAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQluYXRpdmVRdWVyeSA9IHRydWUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQluYXRpdmVRdWVyeSA9IHRydWUK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
