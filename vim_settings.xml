@@ -126,17 +126,14 @@
       <file name="/console" timestamp="1587696836680">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" timestamp="1587704400917">
+        <mark key="[" line="124" column="79" />
+        <mark key="]" line="132" column="9" />
+      </file>
       <file name="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/main/scala/wikipedia/WikipediaRanking.scala" timestamp="1587661383410">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/geraet/service/GeraetService.java" timestamp="1587644321593">
-        <mark key="'" line="390" column="96" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="390" column="85" />
-        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/geraetekatalog/service/GeraetTypMappingUpdateTest.java" timestamp="1587699428337">
         <mark key="[" line="72" column="16" />
@@ -144,11 +141,12 @@
         <mark key="^" line="73" column="21" />
         <mark key="." line="73" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/oilfox/service/OilFoxUpdateService.java" timestamp="1587703351290">
-        <mark key="[" line="79" column="118" />
-        <mark key="]" line="79" column="131" />
-        <mark key="^" line="79" column="131" />
-        <mark key="." line="79" column="130" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/oilfox/service/OilFoxUpdateService.java" timestamp="1587704576077">
+        <mark key="'" line="87" column="60" />
+        <mark key="[" line="92" column="14" />
+        <mark key="]" line="93" column="47" />
+        <mark key="." line="93" column="46" />
+        <mark key="^" line="93" column="47" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/08_insert_notifications.sql" timestamp="1587644545906">
         <mark key="'" line="0" column="0" />
@@ -231,10 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="3" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
-      <jump line="191" column="6" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
-      <jump line="134" column="15" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
-      <jump line="50" column="2" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="238" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
       <jump line="3028" column="13" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="306" column="52" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__vb_2_functions.sql" />
@@ -331,51 +325,55 @@
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/08_insert_notifications.sql" />
       <jump line="89" column="8" filename="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/test/scala/wikipedia/WikipediaSuite.scala" />
       <jump line="137" column="0" filename="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/test/scala/wikipedia/WikipediaSuite.scala" />
+      <jump line="89" column="11" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/oilfox/service/OilFoxUpdateService.java" />
+      <jump line="149" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/oilfox/service/OilFoxUpdateService.java" />
+      <jump line="83" column="8" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/oilfox/service/OilFoxUpdateService.java" />
+      <jump line="88" column="60" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/oilfox/service/OilFoxUpdateService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">CgoJcHJpdmF0ZSBNYXA8U3RyaW5nLCBMaXN0PE1lc3N1bmdlbkltcG9ydFJlY29yZERUTz4+IHZhbGlkYXRlQW5kRmlsdGVyT3V0TG9ja2VkKAoJCU1hcDxTdHJpbmcsIExpc3Q8TWVzc3VuZ2VuSW1wb3J0UmVjb3JkRFRPPj4gcmVzdWx0LAoJCU1lc3N1bmdlbkltcG9ydCBtZXNzdW5nZW5JbXBvcnQKCSkgewoJCUxpc3Q8VGltZVNwYW48TG9jYWxEYXRlVGltZT4+IGxvY2tzID0gY29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2UuZ2V0TGllZ2Vuc2NoYWZ0TG9ja1BlcmlvZHMobWVzc3VuZ2VuSW1wb3J0LmdldExzSWQoKSk7CgkJdmFyIGZpbHRlcmVkID0gcmVzdWx0LmVudHJ5U2V0KCkuc3RyZWFtKCkKCQkJLm1hcChlIC0+IE1hcC5lbnRyeSgKCQkJCWUuZ2V0S2V5KCksCgkJCQllLmdldFZhbHVlKCkuc3RyZWFtKCkKCQkJCQkuZmlsdGVyKG0gLT4gbG9ja3Muc3RyZWFtKCkKCQkJCQkJLm5vbmVNYXRjaChsb2NrIC0+IGxvY2suc3BhbnMoRGF0ZVV0aWxzLnRvTG9jYWxEYXRlVGltZShtLmdldE1lc3NEYXR1bSgpKSkpKQoJCQkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpCgkJCSkpCgkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9NYXAoTWFwLkVudHJ5OjpnZXRLZXksIE1hcC5FbnRyeTo6Z2V0VmFsdWUpKTsKCQlyZXN1bHQua2V5U2V0KCkuc3RyZWFtKCkKCQkJLmZpbHRlcihrIC0+IHJlc3VsdC5nZXQoaykuc2l6ZSgpICE9IGZpbHRlcmVkLmdldChrKS5zaXplKCkpCgkJCS5mb3JFYWNoKGdlcmFldE5yIC0+IG5vdGlmaWNhdGlvbkNlbnRlci5ub3RpZnkoCgkJCQlOb3RpZmljYXRpb25FdmVudC5HRV9DU1ZfSU1QT1JUX0ZPUl9MT0NLRURfVElNRVNQQU4sCgkJCQljb21tb25HZXJhZXRSZXBvc2l0b3J5LmZpbmRCeUdlcmFldGVOckFuZExpZWdlbnNjaGFmdF9JZChnZXJhZXROciwgbWVzc3VuZ2VuSW1wb3J0LmdldExzSWQoKSkub3JFbHNlVGhyb3coKSwKCQkJCU5vdGlmaWNhdGlvblRhcmdldFNvdXJjZURUTy5vZlVzZXJzKGJlbnV0emVyU2VydmljZS5maW5kQnlJZChtZXNzdW5nZW5JbXBvcnQuZ2V0VXNlcklkKCkpKSwKCQkJCW51bGwsCgkJCQlNYXAub2YoInF1ZWxsZSIsICJDU1YtaW1wb3J0IiksCgkJCQludWxsCgkJCSkpOwoJCXJldHVybiBmaWx0ZXJlZDsKCX0=</text>
+        <text>get</text>
       </register>
       <register name="-" type="4">
-        <text>leftOuterJoin</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CgoJcHJpdmF0ZSBNYXA8U3RyaW5nLCBMaXN0PE1lc3N1bmdlbkltcG9ydFJlY29yZERUTz4+IHZhbGlkYXRlQW5kRmlsdGVyT3V0TG9ja2VkKAoJCU1hcDxTdHJpbmcsIExpc3Q8TWVzc3VuZ2VuSW1wb3J0UmVjb3JkRFRPPj4gcmVzdWx0LAoJCU1lc3N1bmdlbkltcG9ydCBtZXNzdW5nZW5JbXBvcnQKCSkgewoJCUxpc3Q8VGltZVNwYW48TG9jYWxEYXRlVGltZT4+IGxvY2tzID0gY29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2UuZ2V0TGllZ2Vuc2NoYWZ0TG9ja1BlcmlvZHMobWVzc3VuZ2VuSW1wb3J0LmdldExzSWQoKSk7CgkJdmFyIGZpbHRlcmVkID0gcmVzdWx0LmVudHJ5U2V0KCkuc3RyZWFtKCkKCQkJLm1hcChlIC0+IE1hcC5lbnRyeSgKCQkJCWUuZ2V0S2V5KCksCgkJCQllLmdldFZhbHVlKCkuc3RyZWFtKCkKCQkJCQkuZmlsdGVyKG0gLT4gbG9ja3Muc3RyZWFtKCkKCQkJCQkJLm5vbmVNYXRjaChsb2NrIC0+IGxvY2suc3BhbnMoRGF0ZVV0aWxzLnRvTG9jYWxEYXRlVGltZShtLmdldE1lc3NEYXR1bSgpKSkpKQoJCQkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpCgkJCSkpCgkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9NYXAoTWFwLkVudHJ5OjpnZXRLZXksIE1hcC5FbnRyeTo6Z2V0VmFsdWUpKTsKCQlyZXN1bHQua2V5U2V0KCkuc3RyZWFtKCkKCQkJLmZpbHRlcihrIC0+IHJlc3VsdC5nZXQoaykuc2l6ZSgpICE9IGZpbHRlcmVkLmdldChrKS5zaXplKCkpCgkJCS5mb3JFYWNoKGdlcmFldE5yIC0+IG5vdGlmaWNhdGlvbkNlbnRlci5ub3RpZnkoCgkJCQlOb3RpZmljYXRpb25FdmVudC5HRV9DU1ZfSU1QT1JUX0ZPUl9MT0NLRURfVElNRVNQQU4sCgkJCQljb21tb25HZXJhZXRSZXBvc2l0b3J5LmZpbmRCeUdlcmFldGVOckFuZExpZWdlbnNjaGFmdF9JZChnZXJhZXROciwgbWVzc3VuZ2VuSW1wb3J0LmdldExzSWQoKSkub3JFbHNlVGhyb3coKSwKCQkJCU5vdGlmaWNhdGlvblRhcmdldFNvdXJjZURUTy5vZlVzZXJzKGJlbnV0emVyU2VydmljZS5maW5kQnlJZChtZXNzdW5nZW5JbXBvcnQuZ2V0VXNlcklkKCkpKSwKCQkJCW51bGwsCgkJCQlNYXAub2YoInF1ZWxsZSIsICJDU1YtaW1wb3J0IiksCgkJCQludWxsCgkJCSkpOwoJCXJldHVybiBmaWx0ZXJlZDsKCX0=</text>
+        <text encoding="base64">CgkJbm90aWZpY2F0aW9uQ2VudGVyLm5vdGlmeSgKCQkJTm90aWZpY2F0aW9uRXZlbnQuR0VfTkVXX1ZBTFVFU19GT1JfTE9DS0VEX1RJTUVTUEFOLAoJCQlpbnRHZXJhZXRTZXJ2aWNlLmZpbmRCeUlkKGdlcmFldC5nZXRHZXJhZXRJZCgpKSwKCQkJTm90aWZpY2F0aW9uVGFyZ2V0U291cmNlRFRPLmZyb21Sb2xlTmFtZXMoUm9sZS5OYW1lLkFETUlOSVNUUkFUT1IpLAoJCQludWxsLAoJCQlNYXAub2YoInF1ZWxsZSIsIGpvYk5hbWUpLAoJCQludWxsCgkJKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CglAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgTm90aWZpY2F0aW9uQ2VudGVyIG5vdGlmaWNhdGlvbkNlbnRlcjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">CglAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">CglAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CglAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
+        <text encoding="base64">CglAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXBkYXRlIHRlY19qb2JfaGlzdG9yaWUK</text>
+        <text encoding="base64">CglAQXV0b3dpcmVkCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2V0IHN0YXR1cyA9ICdTJwp3aGVyZSBpZCA9IDE4MzY4MjA4Owo=</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ClNFTEVDVCBwZ19jYW5jZWxfYmFja2VuZCgpOwo=</text>
+        <text encoding="base64">CglAQXV0b3dpcmVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
