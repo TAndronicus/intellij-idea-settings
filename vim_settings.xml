@@ -123,13 +123,6 @@
         <mark key="." line="36" column="130" />
         <mark key="^" line="36" column="131" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/service/MessungService.java" timestamp="1587644305006">
-        <mark key="'" line="97" column="81" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="97" column="66" />
-        <mark key="." line="17" column="0" />
-      </file>
       <file name="/console" timestamp="1587696836680">
         <mark key="[" line="0" column="0" />
       </file>
@@ -150,6 +143,12 @@
         <mark key="]" line="73" column="21" />
         <mark key="^" line="73" column="21" />
         <mark key="." line="73" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/oilfox/service/OilFoxUpdateService.java" timestamp="1587703351290">
+        <mark key="[" line="79" column="118" />
+        <mark key="]" line="79" column="131" />
+        <mark key="^" line="79" column="131" />
+        <mark key="." line="79" column="130" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/08_insert_notifications.sql" timestamp="1587644545906">
         <mark key="'" line="0" column="0" />
