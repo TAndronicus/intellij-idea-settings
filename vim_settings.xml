@@ -139,10 +139,10 @@
       <file name="/a.sql" timestamp="1587719424105">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1587779855929">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.scala" timestamp="1587785654449">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyService.java" timestamp="1587727334101">
         <mark key="[" line="17" column="0" />
@@ -313,11 +313,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text>euclideanDistance(means, newMeans)</text>
+      <register name="*" type="4">
+        <text>map(_._2).sorted</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>map(_._2).sorted</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
