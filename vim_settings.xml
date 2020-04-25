@@ -149,11 +149,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1587790585480">
+      <file name="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1587791991218">
         <mark key="'" line="186" column="28" />
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
+        <mark key="[" line="191" column="83" />
+        <mark key="]" line="191" column="93" />
+        <mark key="." line="191" column="92" />
+        <mark key="^" line="191" column="93" />
       </file>
       <file name="/Dummy.txt" timestamp="1587706506326">
         <mark key="[" line="0" column="0" />
@@ -309,11 +310,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIHZhbCBuZXdNZWFucyA9IFN0YWNrT3ZlcmZsb3cuc2MucGFyYWxsZWxpemUobWVhbnMuemlwV2l0aEluZGV4Lm1hcCB7IGNhc2UgKGluZCwgbWVhbikgPT4gKG1lYW4sIGluZCkgfSkKICAgICAgLmxlZnRPdXRlckpvaW4oYXZlcmFnZXMpCiAgICAgIC5tYXBWYWx1ZXMgewogICAgICAgIGNhc2UgKF8sIFNvbWUobmV3VmFsKSkgPT4gbmV3VmFsCiAgICAgICAgY2FzZSAoYmFzZSwgTm9uZSkgPT4gYmFzZQogICAgICB9CiAgICAgIC52YWx1ZXMuY29sbGVjdCgpCg==</text>
+      <register name="*" type="4">
+        <text>applyOrElse</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>applyOrElse</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
