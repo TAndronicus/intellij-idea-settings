@@ -139,23 +139,22 @@
       <file name="/a.sql" timestamp="1587719424105">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/facade/MessungFacade.java" timestamp="1587705759952">
-        <mark key="[" line="60" column="137" />
-        <mark key="]" line="60" column="139" />
-        <mark key="^" line="60" column="139" />
-        <mark key="." line="60" column="138" />
+      <file name="/Dummy.scala" timestamp="1587779855929">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyService.java" timestamp="1587727334101">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1587778040027">
-        <mark key="'" line="182" column="48" />
-        <mark key="[" line="182" column="30" />
-        <mark key="]" line="182" column="30" />
-        <mark key="." line="182" column="30" />
-        <mark key="^" line="182" column="31" />
+      <file name="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1587779370794">
+        <mark key="'" line="292" column="80" />
+        <mark key="[" line="292" column="81" />
+        <mark key="]" line="292" column="81" />
+        <mark key="." line="292" column="80" />
+        <mark key="^" line="292" column="81" />
       </file>
       <file name="/Dummy.txt" timestamp="1587706506326">
         <mark key="[" line="0" column="0" />
@@ -210,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="25" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V369.0__disable_jit.sql" />
       <jump line="266" column="62" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" />
       <jump line="276" column="64" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" />
       <jump line="279" column="76" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" />
@@ -310,15 +308,16 @@
       <jump line="47" column="18" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonLiegenschaftLockService.java" />
       <jump line="122" column="54" filename="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" />
       <jump line="183" column="48" filename="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" />
+      <jump line="292" column="80" filename="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>(</text>
+      <register name="*" type="2">
+        <text>euclideanDistance(means, newMeans)</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -327,34 +326,34 @@
         <text encoding="base64">cmVmcmVzaCBtYXRlcmlhbGl6ZWQgdmlldyBtb250aGx5X2NvbnN1bXB0aW9uX29mX2hlaXprb3N0ZW47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbmRleGVkTWVhbnMgPSBtZWFucy56aXBXaXRoSW5kZXgubWFwIHsgY2FzZSAodCwgaW5kKSA9PiAoaW5kLCB0KSB9Cg==</text>
+        <text>euclideanDistance(means, newMeans)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgIHZhbCBpbmRleGVkTWVhbnMgPSBtZWFucy56aXBXaXRoSW5kZXgubWFwIHsgY2FzZSAodCwgaW5kKSA9PiAoaW5kLCB0KSB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAqIAo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAqIFJldHVybnMgYWxsIGxvY2sgcGVyaW9kcyBmb3IgTGllZ2Vuc2NoYWZ0IGluIFVUQwo=</text>
+        <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQlDb2xsZWN0b3JzLmNvbGxlY3RpbmdBbmRUaGVuKAo=</text>
+        <text encoding="base64">CSAqIFJldHVybnMgYWxsIGxvY2sgcGVyaW9kcyBmb3IgTGllZ2Vuc2NoYWZ0IGluIFVUQwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQlDb2xsZWN0b3JzLmNvbGxlY3RpbmdBbmRUaGVuKAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
