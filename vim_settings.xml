@@ -149,12 +149,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1587788795501">
+      <file name="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1587790585480">
         <mark key="'" line="186" column="28" />
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="24" column="50" />
-        <mark key="." line="22" column="41" />
-        <mark key="^" line="189" column="103" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1587706506326">
         <mark key="[" line="0" column="0" />
@@ -310,11 +309,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text encoding="base64">CiAgICBMb2dnZXIuZ2V0TG9nZ2VyKCJvcmciKS5zZXRMZXZlbChMZXZlbC5FUlJPUikKICAgIExvZ2dlci5nZXRMb2dnZXIoImFra2EiKS5zZXRMZXZlbChMZXZlbC5FUlJPUik=</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIHZhbCBuZXdNZWFucyA9IFN0YWNrT3ZlcmZsb3cuc2MucGFyYWxsZWxpemUobWVhbnMuemlwV2l0aEluZGV4Lm1hcCB7IGNhc2UgKGluZCwgbWVhbikgPT4gKG1lYW4sIGluZCkgfSkKICAgICAgLmxlZnRPdXRlckpvaW4oYXZlcmFnZXMpCiAgICAgIC5tYXBWYWx1ZXMgewogICAgICAgIGNhc2UgKF8sIFNvbWUobmV3VmFsKSkgPT4gbmV3VmFsCiAgICAgICAgY2FzZSAoYmFzZSwgTm9uZSkgPT4gYmFzZQogICAgICB9CiAgICAgIC52YWx1ZXMuY29sbGVjdCgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>newMeans</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -323,34 +322,34 @@
         <text encoding="base64">CiAgICBMb2dnZXIuZ2V0TG9nZ2VyKCJvcmciKS5zZXRMZXZlbChMZXZlbC5FUlJPUikKICAgIExvZ2dlci5nZXRMb2dnZXIoImFra2EiKS5zZXRMZXZlbChMZXZlbC5FUlJPUik=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlIF8gPT4gKDAsIDApCg==</text>
+        <text encoding="base64">ICAgIHZhbCBuZXdNZWFucyA9IFN0YWNrT3ZlcmZsb3cuc2MucGFyYWxsZWxpemUobWVhbnMuemlwV2l0aEluZGV4Lm1hcCB7IGNhc2UgKGluZCwgbWVhbikgPT4gKG1lYW4sIGluZCkgfSkKICAgICAgLmxlZnRPdXRlckpvaW4oYXZlcmFnZXMpCiAgICAgIC5tYXBWYWx1ZXMgewogICAgICAgIGNhc2UgKF8sIFNvbWUobmV3VmFsKSkgPT4gbmV3VmFsCiAgICAgICAgY2FzZSAoYmFzZSwgTm9uZSkgPT4gYmFzZQogICAgICB9CiAgICAgIC52YWx1ZXMuY29sbGVjdCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLm1hcFZhbHVlcygpCg==</text>
+        <text encoding="base64">ICAgICAgLm1hcCB7IGNhc2UgKCl9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLnZhbHVlcy5jb2xsZWN0KCkK</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIF8gPT4gKDAsIDApCg==</text>
       </register>
       <register name="4" type="2">
-        <text>euclideanDistance(means, newMeans)</text>
+        <text encoding="base64">ICAgICAgLm1hcFZhbHVlcygpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbmRleGVkTWVhbnMgPSBtZWFucy56aXBXaXRoSW5kZXgubWFwIHsgY2FzZSAodCwgaW5kKSA9PiAoaW5kLCB0KSB9Cg==</text>
+        <text encoding="base64">ICAgICAgLnZhbHVlcy5jb2xsZWN0KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text>euclideanDistance(means, newMeans)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CSAqIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBpbmRleGVkTWVhbnMgPSBtZWFucy56aXBXaXRoSW5kZXgubWFwIHsgY2FzZSAodCwgaW5kKSA9PiAoaW5kLCB0KSB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAqIAo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CSAqIFJldHVybnMgYWxsIGxvY2sgcGVyaW9kcyBmb3IgTGllZ2Vuc2NoYWZ0IGluIFVUQwo=</text>
+        <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
