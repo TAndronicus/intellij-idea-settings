@@ -139,8 +139,8 @@
       <file name="/a.sql" timestamp="1587719424105">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.scala" timestamp="1587785654449">
-        <mark key="[" line="0" column="9" />
+      <file name="/Dummy.scala" timestamp="1587787412325">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
@@ -149,12 +149,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1587779370794">
-        <mark key="'" line="292" column="80" />
-        <mark key="[" line="292" column="81" />
-        <mark key="]" line="292" column="81" />
-        <mark key="." line="292" column="80" />
-        <mark key="^" line="292" column="81" />
+      <file name="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" timestamp="1587787844583">
+        <mark key="'" line="298" column="80" />
+        <mark key="[" line="185" column="53" />
+        <mark key="]" line="185" column="53" />
+        <mark key="." line="185" column="52" />
+        <mark key="^" line="185" column="53" />
       </file>
       <file name="/Dummy.txt" timestamp="1587706506326">
         <mark key="[" line="0" column="0" />
@@ -313,11 +313,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>map(_._2).sorted</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICBjYXNlIF8gPT4gKDAsIDApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>map(_._2).sorted</text>
+        <text>newMeans</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -326,34 +326,34 @@
         <text encoding="base64">cmVmcmVzaCBtYXRlcmlhbGl6ZWQgdmlldyBtb250aGx5X2NvbnN1bXB0aW9uX29mX2hlaXprb3N0ZW47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text>euclideanDistance(means, newMeans)</text>
+        <text encoding="base64">ICAgICAgICBjYXNlIF8gPT4gKDAsIDApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhbCBpbmRleGVkTWVhbnMgPSBtZWFucy56aXBXaXRoSW5kZXgubWFwIHsgY2FzZSAodCwgaW5kKSA9PiAoaW5kLCB0KSB9Cg==</text>
+        <text encoding="base64">ICAgICAgLm1hcFZhbHVlcygpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgLnZhbHVlcy5jb2xsZWN0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CSAqIAo=</text>
+        <text>euclideanDistance(means, newMeans)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAqIAo=</text>
+        <text encoding="base64">ICAgIHZhbCBpbmRleGVkTWVhbnMgPSBtZWFucy56aXBXaXRoSW5kZXgubWFwIHsgY2FzZSAodCwgaW5kKSA9PiAoaW5kLCB0KSB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqIFJldHVybnMgYWxsIGxvY2sgcGVyaW9kcyBmb3IgTGllZ2Vuc2NoYWZ0IGluIFVUQwo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCQlDb2xsZWN0b3JzLmNvbGxlY3RpbmdBbmRUaGVuKAo=</text>
+        <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suQ29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2U7Cg==</text>
+        <text encoding="base64">CSAqIFJldHVybnMgYWxsIGxvY2sgcGVyaW9kcyBmb3IgTGllZ2Vuc2NoYWZ0IGluIFVUQwo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
