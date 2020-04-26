@@ -199,12 +199,12 @@
         <mark key="." line="3685" column="58" />
         <mark key="^" line="3685" column="59" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/big-data/timeusage/src/main/scala/timeusage/TimeUsage.scala" timestamp="1587875505049">
+      <file name="$USER_HOME$/Workspace/JVM/big-data/timeusage/src/main/scala/timeusage/TimeUsage.scala" timestamp="1587876568026">
         <mark key="'" line="203" column="22" />
-        <mark key="[" line="44" column="70" />
-        <mark key="]" line="44" column="83" />
-        <mark key="." line="44" column="82" />
-        <mark key="^" line="44" column="83" />
+        <mark key="[" line="65" column="69" />
+        <mark key="]" line="66" column="30" />
+        <mark key="." line="66" column="29" />
+        <mark key="^" line="66" column="30" />
       </file>
     </filemarks>
     <jumps>
@@ -312,8 +312,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>]</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -325,34 +325,35 @@
         <text>(math.round(primaryNeedsAv * 10) / 10)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAuZ3JvdXBCeSgkIndvcmtpbmciLCAkInNleCIsICQiYWdlIikKLy8gICAgICAuYWdnKAovLyAgICAgICAgcm91bmQoYXZnKCQicHJpbWFyeU5lZWRzIiksIDEpLmFsaWFzKCJwcmltYXJ5TmVlZHMiKSwKLy8gICAgICAgIHJvdW5kKGF2ZygkIndvcmsiKSwgMSkuYWxpYXMoIndvcmsiKSwKLy8gICAgICAgIHJvdW5kKGF2ZygkIm90aGVyIiksIDEpLmFsaWFzKCJvdGhlciIpCi8vICAgICAgKQovLyAgICAgIC5vcmRlckJ5KCQid29ya2luZyIsICQic2V4IiwgJCJhZ2UiKQo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmFzW1RpbWVVc2FnZVJvd10K</text>
+        <text encoding="base64">ICAgICgKICAgICAgLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLm9yZGVyQnkoKQo=</text>
+      <register name="3" type="4">
+        <text>matchColumns(columnNames, &quot;^t(0[13]|11|180[13]).*&quot;),
+      matchColumns(columnNames, &quot;^t(05|1805).*&quot;)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">Ly8gICAgICAuZ3JvdXBCeSgkIndvcmtpbmciLCAkInNleCIsICQiYWdlIikKLy8gICAgICAuYWdnKAovLyAgICAgICAgcm91bmQoYXZnKCQicHJpbWFyeU5lZWRzIiksIDEpLmFsaWFzKCJwcmltYXJ5TmVlZHMiKSwKLy8gICAgICAgIHJvdW5kKGF2ZygkIndvcmsiKSwgMSkuYWxpYXMoIndvcmsiKSwKLy8gICAgICAgIHJvdW5kKGF2ZygkIm90aGVyIiksIDEpLmFsaWFzKCJvdGhlciIpCi8vICAgICAgKQovLyAgICAgIC5vcmRlckJ5KCQid29ya2luZyIsICQic2V4IiwgJCJhZ2UiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgLmFzW1RpbWVVc2FnZVJvd10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgICAgLm9yZGVyQnkoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLm1hcChfIC8gNjApCg==</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8gNjAK</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
