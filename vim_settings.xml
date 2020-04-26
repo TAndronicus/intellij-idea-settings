@@ -199,16 +199,15 @@
         <mark key="." line="3685" column="58" />
         <mark key="^" line="3685" column="59" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/big-data/timeusage/src/main/scala/timeusage/TimeUsage.scala" timestamp="1587866378164">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="^" line="137" column="16" />
-        <mark key="." line="136" column="0" />
+      <file name="$USER_HOME$/Workspace/JVM/big-data/timeusage/src/main/scala/timeusage/TimeUsage.scala" timestamp="1587872661864">
+        <mark key="'" line="218" column="0" />
+        <mark key="[" line="217" column="206" />
+        <mark key="]" line="217" column="207" />
+        <mark key="." line="217" column="206" />
+        <mark key="^" line="217" column="207" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="328" column="30" filename="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/main/java/com/qivalo/portal/core/service/GeraetSyncHelper.java" />
-      <jump line="319" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/test/java/com/qivalo/portal/core/GeraetSyncHelperTest.java" />
       <jump line="587" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/test/java/com/qivalo/portal/core/GeraetSyncHelperTest.java" />
       <jump line="325" column="26" filename="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/test/java/com/qivalo/portal/core/GeraetSyncHelperTest.java" />
       <jump line="304" column="24" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" />
@@ -307,51 +306,53 @@
       <jump line="57" column="34" filename="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" />
       <jump line="301" column="4" filename="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" />
       <jump line="296" column="48" filename="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" />
+      <jump line="189" column="33" filename="$USER_HOME$/Workspace/JVM/big-data/timeusage/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="218" column="0" filename="$USER_HOME$/Workspace/JVM/big-data/timeusage/src/main/scala/timeusage/TimeUsage.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgLm1hcChfIC8gNjApCg==</text>
+      <register name="*" type="4">
+        <text>Sql</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Sql</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>primaryNeeds</text>
+        <text>(math.round(primaryNeedsAv * 10) / 10)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLm1hcChfIC8gNjApCg==</text>
+        <text encoding="base64">Ly8gICAgICAuZ3JvdXBCeSgkIndvcmtpbmciLCAkInNleCIsICQiYWdlIikKLy8gICAgICAuYWdnKAovLyAgICAgICAgcm91bmQoYXZnKCQicHJpbWFyeU5lZWRzIiksIDEpLmFsaWFzKCJwcmltYXJ5TmVlZHMiKSwKLy8gICAgICAgIHJvdW5kKGF2ZygkIndvcmsiKSwgMSkuYWxpYXMoIndvcmsiKSwKLy8gICAgICAgIHJvdW5kKGF2ZygkIm90aGVyIiksIDEpLmFsaWFzKCJvdGhlciIpCi8vICAgICAgKQovLyAgICAgIC5vcmRlckJ5KCQid29ya2luZyIsICQic2V4IiwgJCJhZ2UiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgLmFzW1RpbWVVc2FnZVJvd10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8gNjAK</text>
+        <text encoding="base64">ICAgICAgLm9yZGVyQnkoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAubWFwKF8gLyA2MCkK</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAubWFwKF8gLyA2MCkK</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="7" type="2">
-        <text>&quot;t(0[13]|11|180[13])&quot;</text>
+        <text encoding="base64">ICAgICAgLm1hcChfIC8gNjApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChjb2wpCg==</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgIC8gNjAK</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
