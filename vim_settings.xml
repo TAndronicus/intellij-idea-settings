@@ -199,11 +199,11 @@
         <mark key="." line="3685" column="58" />
         <mark key="^" line="3685" column="59" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/big-data/timeusage/src/main/scala/timeusage/TimeUsage.scala" timestamp="1587864161053">
-        <mark key="[" line="113" column="32" />
-        <mark key="]" line="113" column="57" />
-        <mark key="." line="113" column="56" />
-        <mark key="^" line="113" column="57" />
+      <file name="$USER_HOME$/Workspace/JVM/big-data/timeusage/src/main/scala/timeusage/TimeUsage.scala" timestamp="1587866378164">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="^" line="137" column="16" />
+        <mark key="." line="136" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -311,47 +311,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>?</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgLm1hcChfIC8gNjApCg==</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbWF0Y2hDb2x1bW5zKGNvbHVtbk5hbWVzLCAidCgwWzEzXXwxMXwxODBbMTNdKSIpLAo=</text>
+      <register name="0" type="4">
+        <text>primaryNeeds</text>
       </register>
       <register name="1" type="2">
-        <text>&quot;t(0[13]|11|180[13])&quot;</text>
+        <text encoding="base64">ICAgICAgLm1hcChfIC8gNjApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChjb2wpCg==</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgIC8gNjAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gICAgICAubWFwKF8gLyA2MCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xvc2VzdEdyb3VwZWQubWFwVmFsdWVzIHsgdnMgPT4KICAgICAgdmFsIGFnZ3JlZ2F0ZWQgPSB2cy5ncm91cEJ5KF8uXzEpLm1hcFZhbHVlcyhfLnNpemUpCiAgICAgIHZhbCBsYW5nTGFiZWw6IFN0cmluZyAgID0gbGFuZ3MoYWdncmVnYXRlZC5tYXhCeShfLl8yKS5fMSAvIGxhbmdTcHJlYWQpIC8vIG1vc3QgY29tbW9uIGxhbmd1YWdlIGluIHRoZSBjbHVzdGVyCiAgICAgIHZhbCBsYW5nUGVyY2VudDogRG91YmxlID0gMTAwICogYWdncmVnYXRlZC52YWx1ZXMubWF4LmRvdWJsZVZhbHVlKCkgLyB2cy5zaXplIC8vIHBlcmNlbnQgb2YgdGhlIHF1ZXN0aW9ucyBpbiB0aGUgbW9zdCBjb21tb24gbGFuZ3VhZ2UKICAgICAgdmFsIGNsdXN0ZXJTaXplOiBJbnQgICAgPSB2cy5zaXplCiAgICAgIHZhbCBtZWRpYW5TY29yZTogSW50ICAgID0gdnMubWFwKF8uXzIpLnRvTGlzdC5zb3J0ZWQoT3JkZXJpbmcuSW50KSgodnMuc2l6ZSAtIDEpIC8gMikKCiAgICAgIChsYW5nTGFiZWwsIGxhbmdQZXJjZW50LCBjbHVzdGVyU2l6ZSwgbWVkaWFuU2NvcmUpCiAgICB9</text>
+        <text encoding="base64">Ly8gICAgICAubWFwKF8gLyA2MCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLm1hcFZhbHVlcyhpID0+IGkgKyAxKQo=</text>
+        <text>&quot;t(0[13]|11|180[13])&quot;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBuZXdNZWFucyA9IFN0YWNrT3ZlcmZsb3cuc2MucGFyYWxsZWxpemUobWVhbnMuemlwV2l0aEluZGV4Lm1hcCB7IGNhc2UgKGluZCwgbWVhbikgPT4gKG1lYW4sIGluZCkgfSkKICAgICAgLmxlZnRPdXRlckpvaW4oYXZlcmFnZXMpCiAgICAgIC5tYXBWYWx1ZXMgewogICAgICAgIGNhc2UgKF8sIFNvbWUobmV3VmFsKSkgPT4gbmV3VmFsCiAgICAgICAgY2FzZSAoYmFzZSwgTm9uZSkgPT4gYmFzZQogICAgICB9CiAgICAgIC52YWx1ZXMuY29sbGVjdCgpCg==</text>
+        <text encoding="base64">ICAgICAgZm9yIChjb2wpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLm1hcCB7IGNhc2UgKCl9Cg==</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
