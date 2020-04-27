@@ -117,17 +117,54 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console" timestamp="1587712067473">
+      <file name="/Dummy.txt" timestamp="1587706506326">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonLiegenschaftLockService.java" timestamp="1587729670287">
+        <mark key="'" line="52" column="18" />
+        <mark key="[" line="71" column="60" />
+        <mark key="]" line="71" column="60" />
+        <mark key="." line="71" column="59" />
+        <mark key="^" line="71" column="60" />
+      </file>
+      <file name="/console" timestamp="1587945712117">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1587726965719">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/common/helpers/TimeSpan.java" timestamp="1587727880332">
+        <mark key="[" line="34" column="41" />
+        <mark key="]" line="34" column="42" />
+        <mark key="." line="34" column="42" />
+        <mark key="^" line="34" column="65" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" timestamp="1587727141678">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
         <mark key="^" line="85" column="83" />
+      </file>
+      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/server/SparkEmbedded.scala" timestamp="1587788786542">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="18" column="49" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/test/java/com/qivalo/portal/core/GeraetSyncHelperTest.java" timestamp="1587707173139">
+        <mark key="[" line="358" column="38" />
+        <mark key="]" line="358" column="46" />
+        <mark key="^" line="358" column="46" />
+        <mark key="." line="358" column="45" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587945743502">
+        <mark key="'" line="720" column="42" />
+        <mark key="[" line="747" column="76" />
+        <mark key="]" line="764" column="25" />
+        <mark key="." line="747" column="76" />
+        <mark key="^" line="726" column="11" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/antas/src/main/java/com/qivalo/portal/core/dao/AntasNutzeinheitHistorieRepository.java" timestamp="1587712319706">
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="16" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/oilfox/service/OilFoxUpdateService.java" timestamp="1587706478596">
         <mark key="'" line="87" column="60" />
@@ -144,6 +181,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587945738831">
+        <mark key="[" line="3665" column="12" />
+        <mark key="]" line="3682" column="24" />
+        <mark key="." line="3685" column="58" />
+        <mark key="^" line="3685" column="59" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyService.java" timestamp="1587727334101">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -156,49 +199,6 @@
         <mark key="." line="303" column="85" />
         <mark key="^" line="108" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587706506326">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonLiegenschaftLockService.java" timestamp="1587729670287">
-        <mark key="'" line="52" column="18" />
-        <mark key="[" line="71" column="60" />
-        <mark key="]" line="71" column="60" />
-        <mark key="." line="71" column="59" />
-        <mark key="^" line="71" column="60" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/common/helpers/TimeSpan.java" timestamp="1587727880332">
-        <mark key="[" line="34" column="41" />
-        <mark key="]" line="34" column="42" />
-        <mark key="." line="34" column="42" />
-        <mark key="^" line="34" column="65" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/dtree-merge-scoring/src/main/scala/jb/server/SparkEmbedded.scala" timestamp="1587788786542">
-        <mark key="[" line="16" column="29" />
-        <mark key="]" line="18" column="49" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/test/java/com/qivalo/portal/core/GeraetSyncHelperTest.java" timestamp="1587707173139">
-        <mark key="[" line="358" column="38" />
-        <mark key="]" line="358" column="46" />
-        <mark key="^" line="358" column="46" />
-        <mark key="." line="358" column="45" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587713603739">
-        <mark key="'" line="702" column="32" />
-        <mark key="[" line="726" column="0" />
-        <mark key="]" line="726" column="27" />
-        <mark key="." line="726" column="24" />
-        <mark key="^" line="726" column="11" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/antas/src/main/java/com/qivalo/portal/core/dao/AntasNutzeinheitHistorieRepository.java" timestamp="1587712319706">
-        <mark key="[" line="16" column="9" />
-        <mark key="]" line="16" column="33" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1587719404350">
-        <mark key="[" line="3685" column="49" />
-        <mark key="]" line="3685" column="59" />
-        <mark key="." line="3685" column="58" />
-        <mark key="^" line="3685" column="59" />
-      </file>
       <file name="$USER_HOME$/Workspace/JVM/big-data/timeusage/src/main/scala/timeusage/TimeUsage.scala" timestamp="1587878241013">
         <mark key="'" line="203" column="22" />
         <mark key="[" line="217" column="210" />
@@ -208,7 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="325" column="26" filename="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/test/java/com/qivalo/portal/core/GeraetSyncHelperTest.java" />
       <jump line="304" column="24" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" />
       <jump line="357" column="37" filename="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/java/com/qivalo/portal/AbstractSpringTest.java" />
       <jump line="296" column="4" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" />
@@ -308,12 +307,13 @@
       <jump line="189" column="33" filename="$USER_HOME$/Workspace/JVM/big-data/timeusage/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="218" column="0" filename="$USER_HOME$/Workspace/JVM/big-data/timeusage/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="203" column="22" filename="$USER_HOME$/Workspace/JVM/big-data/timeusage/src/main/scala/timeusage/TimeUsage.scala" />
+      <jump line="720" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICkK</text>
+      <register name="*" type="4">
+        <text encoding="base64">CgpzZWxlY3QgJycgfHwgZ2cubnV0X251dHplaW5oZWl0X2lkIHx8ICcvZ2VyYWV0LycgfHwgZ2cuaWQsIHQuKgpmcm9tICgKICAgICAgICAgc2VsZWN0IG1tLmlkLAogICAgICAgICAgICAgICAgbW0uZ2VyX2dlcmFldF9pZCwKICAgICAgICAgICAgICAgIG1tLm1lc3NfZGF0dW0sCiAgICAgICAgICAgICAgICBsZWFkKG1tLm1lc3NfZGF0dW0pIG92ZXIgKHBhcnRpdGlvbiBieSBtbS5nZXJfZ2VyYWV0X2lkIG9yZGVyIGJ5IG1tLm1lc3NfZGF0dW0pLAogICAgICAgICAgICAgICAgbW0ud2VydCwKICAgICAgICAgICAgICAgIGxlYWQobW0ud2VydCkgb3ZlciAocGFydGl0aW9uIGJ5IG1tLmdlcl9nZXJhZXRfaWQgb3JkZXIgYnkgbW0ubWVzc19kYXR1bSksCiAgICAgICAgICAgICAgICB0eXAsCiAgICAgICAgICAgICAgICBjcmVhdGlvbl9kYXRlCiAgICAgICAgIGZyb20gbWVzX21lc3N1bmcgbW0KICAgICApIHQobWlkLCBnaWQsIGRhdCwgbmRhdCwgdmEsIG52YSwgdHksIGNyZSkKICAgICAgICAgaW5uZXIgam9pbiBnZXJfZ2VyYWV0IGdnIG9uIGdnLmlkID0gdC5naWQKd2hlcmUgdmEgPiBudmEKICBhbmQgdHkgPSAnUicKICBhbmQgY3JlID4gJzIwMjAtMDQtMTknOw==</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -322,7 +322,7 @@
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>(math.round(primaryNeedsAv * 10) / 10)</text>
+        <text encoding="base64">CgpzZWxlY3QgJycgfHwgZ2cubnV0X251dHplaW5oZWl0X2lkIHx8ICcvZ2VyYWV0LycgfHwgZ2cuaWQsIHQuKgpmcm9tICgKICAgICAgICAgc2VsZWN0IG1tLmlkLAogICAgICAgICAgICAgICAgbW0uZ2VyX2dlcmFldF9pZCwKICAgICAgICAgICAgICAgIG1tLm1lc3NfZGF0dW0sCiAgICAgICAgICAgICAgICBsZWFkKG1tLm1lc3NfZGF0dW0pIG92ZXIgKHBhcnRpdGlvbiBieSBtbS5nZXJfZ2VyYWV0X2lkIG9yZGVyIGJ5IG1tLm1lc3NfZGF0dW0pLAogICAgICAgICAgICAgICAgbW0ud2VydCwKICAgICAgICAgICAgICAgIGxlYWQobW0ud2VydCkgb3ZlciAocGFydGl0aW9uIGJ5IG1tLmdlcl9nZXJhZXRfaWQgb3JkZXIgYnkgbW0ubWVzc19kYXR1bSksCiAgICAgICAgICAgICAgICB0eXAsCiAgICAgICAgICAgICAgICBjcmVhdGlvbl9kYXRlCiAgICAgICAgIGZyb20gbWVzX21lc3N1bmcgbW0KICAgICApIHQobWlkLCBnaWQsIGRhdCwgbmRhdCwgdmEsIG52YSwgdHksIGNyZSkKICAgICAgICAgaW5uZXIgam9pbiBnZXJfZ2VyYWV0IGdnIG9uIGdnLmlkID0gdC5naWQKd2hlcmUgdmEgPiBudmEKICBhbmQgdHkgPSAnUicKICBhbmQgY3JlID4gJzIwMjAtMDQtMTknOw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICkK</text>
