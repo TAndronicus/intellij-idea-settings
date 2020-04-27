@@ -139,7 +139,8 @@
         <mark key="." line="34" column="42" />
         <mark key="^" line="34" column="65" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" timestamp="1587727141678">
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" timestamp="1587949662401">
+        <mark key="'" line="72" column="6" />
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
@@ -220,7 +221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="24" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" />
       <jump line="357" column="37" filename="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/java/com/qivalo/portal/AbstractSpringTest.java" />
       <jump line="296" column="4" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" />
       <jump line="37" column="13" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtkFileExportRestEndpointTest.java" />
@@ -320,6 +320,7 @@
       <jump line="218" column="0" filename="$USER_HOME$/Workspace/JVM/big-data/timeusage/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="203" column="22" filename="$USER_HOME$/Workspace/JVM/big-data/timeusage/src/main/scala/timeusage/TimeUsage.scala" />
       <jump line="720" column="42" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
+      <jump line="72" column="6" filename="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
