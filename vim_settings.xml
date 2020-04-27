@@ -189,12 +189,12 @@
         <mark key="^" line="358" column="46" />
         <mark key="." line="358" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587988928580">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587989624835">
         <mark key="'" line="720" column="42" />
-        <mark key="[" line="782" column="19" />
-        <mark key="]" line="781" column="8" />
-        <mark key="." line="781" column="7" />
-        <mark key="^" line="781" column="8" />
+        <mark key="[" line="782" column="52" />
+        <mark key="]" line="783" column="7" />
+        <mark key="." line="783" column="6" />
+        <mark key="^" line="783" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonOelGeraetManualMessungRepository.java" timestamp="1587980126748">
         <mark key="[" line="21" column="94" />
@@ -309,16 +309,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>type_modifiable = true and not status = 'S'</text>
+        <text>timezone('Europe/Berlin', cast(</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IG1lYXN1cmVUaW1lID09IG51bGw=</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>type_modifiable = true and not status = 'S'</text>
+        <text>timezone('Europe/Berlin', cast(</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
