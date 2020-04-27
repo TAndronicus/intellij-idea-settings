@@ -130,13 +130,6 @@
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" timestamp="1587965443912">
-        <mark key="'" line="84" column="6" />
-        <mark key="[" line="59" column="56" />
-        <mark key="]" line="59" column="91" />
-        <mark key="." line="59" column="90" />
-        <mark key="^" line="59" column="91" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonWarmwasserzaehlerManualMessungRepository.java" timestamp="1587980142876">
         <mark key="[" line="21" column="102" />
         <mark key="]" line="22" column="4" />
@@ -167,6 +160,7 @@
         <mark key="^" line="22" column="4" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/abrechnung/model/core/Abrechnung.java" timestamp="1587987420312" />
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonStromzaehlerManualMessungRepository.java" timestamp="1587980132093">
         <mark key="[" line="23" column="97" />
         <mark key="]" line="24" column="4" />
@@ -195,11 +189,12 @@
         <mark key="^" line="358" column="46" />
         <mark key="." line="358" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587985973640">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587987932577">
         <mark key="'" line="720" column="42" />
-        <mark key="[" line="773" column="23" />
-        <mark key="]" line="780" column="0" />
-        <mark key="." line="780" column="0" />
+        <mark key="[" line="779" column="50" />
+        <mark key="]" line="779" column="48" />
+        <mark key="." line="779" column="47" />
+        <mark key="^" line="779" column="48" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonOelGeraetManualMessungRepository.java" timestamp="1587980126748">
         <mark key="[" line="21" column="94" />
@@ -313,8 +308,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>type_modifiable = true and not status = 'S'</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHx8IG1lYXN1cmVUaW1lID09IG51bGw=</text>
@@ -323,7 +318,7 @@
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CgkJTGlzdDxFeHRlcm5hbEFwaU1lc3N1bmdEVE8+IG1lc3N1bmdlbiwKCQlDaGVja0FuZFVwZGF0ZUdlcmFldERUTyBjaGVja0FuZFVwZGF0ZVJlbGV2YW50R2VyYWV0LAoJCVN1cHBsaWVyPExpc3Q8RXh0ZXJuYWxBcGlNZXNzdW5nRFRPPj4gZXhhY3REYXRlTWVzc3VuZ2VuU3VwcGxpZXIKCSkgew==</text>
+        <text>type_modifiable = true and not status = 'S'</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -366,7 +361,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDwyXD4=</last-pattern>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
