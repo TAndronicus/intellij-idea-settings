@@ -167,7 +167,7 @@
         <mark key="^" line="24" column="4" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587980420882">
+      <file name="/Dummy.txt" timestamp="1587990359127">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonWaermemengenzaehlerManualMessungRepository.java" timestamp="1587980137692">
@@ -182,17 +182,16 @@
         <mark key="^" line="342" column="93" />
         <mark key="." line="342" column="119" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/test/java/com/qivalo/portal/core/GeraetSyncHelperTest.java" timestamp="1587965501002">
-        <mark key="'" line="355" column="4" />
-        <mark key="[" line="358" column="38" />
-        <mark key="]" line="358" column="46" />
-        <mark key="^" line="358" column="46" />
-        <mark key="." line="358" column="45" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V364.2__add_existing_locks.sql" timestamp="1587990183302">
+        <mark key="[" line="4" column="69" />
+        <mark key="]" line="4" column="69" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="4" column="69" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587989624835">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1587990109971">
         <mark key="'" line="720" column="42" />
-        <mark key="[" line="782" column="52" />
-        <mark key="]" line="783" column="7" />
+        <mark key="[" line="781" column="0" />
+        <mark key="]" line="787" column="36" />
         <mark key="." line="783" column="6" />
         <mark key="^" line="783" column="7" />
       </file>
@@ -309,7 +308,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>timezone('Europe/Berlin', cast(</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -318,37 +317,43 @@
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>timezone('Europe/Berlin', cast(</text>
+        <text>select timezone('Europe/Berlin', cast(aa.start_date_de as timestamptz)),
+       timezone('Europe/Berlin', cast(aa.end_date_de as timestamptz)),
+       aa.lie_liegenschaft_id
+from abr_export ae
+inner join abr_abrechnung aa on ae.abr_abrechnung_id = aa.id
+where ae.type = 'V'
+and aa.status in ('V', 'R', 'I', 'B')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3JlYXRlIHRhYmxlIG1lc19zcGVycmUKKAogICAgaWQgICAgICAgICAgICAgICAgICBiaWdpbnQKICAgICAgICBub3QgbnVsbAogICAgICAgIHByaW1hcnkga2V5LAogICAgbGllX2xpZWdlbnNjaGFmdF9pZCBiaWdpbnQKICAgICAgICBub3QgbnVsbAogICAgICAgIHJlZmVyZW5jZXMgbGllX2xpZWdlbnNjaGFmdCwKICAgIGJlZ2lubl9kZSB0aW1lc3RhbXAKICAgICAgICBub3QgbnVsbCwKICAgIGVuZGVfZGUgICB0aW1lc3RhbXAKICAgICAgICBub3QgbnVsbAopOwoKCmNyZWF0ZSBzZXF1ZW5jZSBpZiBub3QgZXhpc3RzIG1lc19zcGVycmVfaWRfc2VxCiAgICBpbmNyZW1lbnQgYnkgNTAKICAgIG5vIG1pbnZhbHVlCiAgICBubyBtYXh2YWx1ZQogICAgc3RhcnQgd2l0aCAxCiAgICBjeWNsZTsKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkvLyBUT0RPLTE4MzIK</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YXIgZ2VyU3RpY2h0YWdlV2l0aG91dExvY2sgPSBkaXNjb3Zlcmd5U2VydmljZS5maWx0ZXJPdXRMb2NrZWQoZ2VyYWV0SWRTdGljaHRhZyk7CgkJaWYgKGdlcmFldElkU3RpY2h0YWcuc2l6ZSgpICE9IGdlclN0aWNodGFnZVdpdGhvdXRMb2NrLnNpemUoKSkgewoJCQlnZXJhZXRJZFN0aWNodGFnLnN0cmVhbSgpCgkJCQkuZmlsdGVyKG5vdChnZXJTdGljaHRhZ2VXaXRob3V0TG9jazo6Y29udGFpbnMpKQoJCQkJLm1hcChHZXJhZXRJZFN0aWNodGFnOjpnZXRHZXJhZXRJZCkKCQkJCS5mb3JFYWNoKGlkIC0+IG5vdGlmaWNhdGlvbkNlbnRlci5ub3RpZnkoCgkJCQkJTm90aWZpY2F0aW9uRXZlbnQuR0VfTkVXX1ZBTFVFU19GT1JfTE9DS0VEX1RJTUVTUEFOLAoJCQkJCWdlcmFldFNlcnZpY2UuZmluZEJ5SWQoaWQpLAoJCQkJCU5vdGlmaWNhdGlvblRhcmdldFNvdXJjZURUTy5mcm9tUm9sZU5hbWVzKFJvbGUuTmFtZS5BRE1JTklTVFJBVE9SKSwKCQkJCQludWxsLAoJCQkJCU1hcC5vZigicXVlbGxlIiwgSm9iTmFtZXNDb25maWcuRElTQ09WRVJHWV9DSEVDS19TVElDSFRBR0UpLAoJCQkJCW51bGwKCQkJCSkpOwoJCQlnZXJhZXRJZFN0aWNodGFnID0gZ2VyU3RpY2h0YWdlV2l0aG91dExvY2s7CgkJfQo=</text>
+        <text encoding="base64">CQkvLyBUT0RPLTE4MzIK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQl2YXIgZ2VyU3RpY2h0YWdlV2l0aG91dExvY2sgPSBkaXNjb3Zlcmd5U2VydmljZS5maWx0ZXJPdXRMb2NrZWQoZ2VyYWV0SWRTdGljaHRhZyk7CgkJaWYgKGdlcmFldElkU3RpY2h0YWcuc2l6ZSgpICE9IGdlclN0aWNodGFnZVdpdGhvdXRMb2NrLnNpemUoKSkgewoJCQlnZXJhZXRJZFN0aWNodGFnLnN0cmVhbSgpCgkJCQkuZmlsdGVyKG5vdChnZXJTdGljaHRhZ2VXaXRob3V0TG9jazo6Y29udGFpbnMpKQoJCQkJLm1hcChHZXJhZXRJZFN0aWNodGFnOjpnZXRHZXJhZXRJZCkKCQkJCS5mb3JFYWNoKGlkIC0+IG5vdGlmaWNhdGlvbkNlbnRlci5ub3RpZnkoCgkJCQkJTm90aWZpY2F0aW9uRXZlbnQuR0VfTkVXX1ZBTFVFU19GT1JfTE9DS0VEX1RJTUVTUEFOLAoJCQkJCWdlcmFldFNlcnZpY2UuZmluZEJ5SWQoaWQpLAoJCQkJCU5vdGlmaWNhdGlvblRhcmdldFNvdXJjZURUTy5mcm9tUm9sZU5hbWVzKFJvbGUuTmFtZS5BRE1JTklTVFJBVE9SKSwKCQkJCQludWxsLAoJCQkJCU1hcC5vZigicXVlbGxlIiwgSm9iTmFtZXNDb25maWcuRElTQ09WRVJHWV9DSEVDS19TVElDSFRBR0UpLAoJCQkJCW51bGwKCQkJCSkpOwoJCQlnZXJhZXRJZFN0aWNodGFnID0gZ2VyU3RpY2h0YWdlV2l0aG91dExvY2s7CgkJfQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQkJcmV0dXJuIG1lc3N1bmdlbldpdGhvdXRMb2NrOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CgkJaWYgKG1lc3N1bmdlbi5zaXplKCkgIT0gbWVzc3VuZ2VuV2l0aG91dExvY2suc2l6ZSgpKSkgewoJCQlub3RpZnlMb2NrZWQoY2hlY2tBbmRVcGRhdGVSZWxldmFudEdlcmFldCwgSm9iTmFtZXNDb25maWcuRElTQ09WRVJHWV9VUERBVEUpOwoJCQlyZXR1cm4gbWVzc3VuZ2VuV2l0aG91dExvY2s7CgkJfQ==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQlyZXR1cm4gbWVzc3VuZ2VuOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgkJaWYgKG1lc3N1bmdlbi5zaXplKCkgIT0gbWVzc3VuZ2VuV2l0aG91dExvY2suc2l6ZSgpICYmIEFycmF5cy5zdHJlYW0ocHJlZGljYXRlcykuYWxsTWF0Y2gocCAtPiBwLnRlc3QobWVzc3VuZ2VuV2l0aG91dExvY2spKSkgewoJCQlub3RpZnlMb2NrZWQoY2hlY2tBbmRVcGRhdGVSZWxldmFudEdlcmFldCwgSm9iTmFtZXNDb25maWcuRElTQ09WRVJHWV9VUERBVEUpOwoJCQlyZXR1cm4gbWVzc3VuZ2VuV2l0aG91dExvY2s7CgkJfQ==</text>
-      </register>
-      <register name="9" type="2">
-        <text>geraet</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
