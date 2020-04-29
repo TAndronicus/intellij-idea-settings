@@ -117,28 +117,26 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/geraetekatalog/rest/GeraetTypRestEndpointTest.java" timestamp="1587981975936">
-        <mark key="'" line="164" column="82" />
-        <mark key="[" line="157" column="30" />
-        <mark key="]" line="157" column="29" />
-        <mark key="." line="157" column="28" />
-        <mark key="^" line="157" column="29" />
-      </file>
       <file name="/console" timestamp="1588135296804">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/dao/CommonWarmwasserzaehlerManualMessungRepository.java" timestamp="1587980142876">
-        <mark key="[" line="21" column="102" />
-        <mark key="]" line="22" column="4" />
-        <mark key="^" line="22" column="4" />
-        <mark key="." line="22" column="0" />
       </file>
       <file name="/a.sql" timestamp="1588118225483">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/dao/CommonLiegenschaftLockRepository.java" timestamp="1588147063483">
+        <mark key="[" line="29" column="52" />
+        <mark key="]" line="29" column="53" />
+        <mark key="." line="29" column="53" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/resources/batch-demo.properties" timestamp="1588034616757" />
       <file name="/JavaScript Console" timestamp="1588080302956">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/model/LiegenschaftLock.java" timestamp="1588147036097">
+        <mark key="[" line="42" column="30" />
+        <mark key="]" line="42" column="31" />
+        <mark key="." line="42" column="30" />
+        <mark key="^" line="42" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1588118225500">
         <mark key="[" line="0" column="0" />
@@ -156,12 +154,12 @@
         <mark key="^" line="214" column="117" />
         <mark key="." line="214" column="116" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1588144623791">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1588146890096">
         <mark key="'" line="768" column="25" />
-        <mark key="[" line="877" column="86" />
-        <mark key="]" line="882" column="24" />
-        <mark key="." line="882" column="24" />
-        <mark key="^" line="882" column="25" />
+        <mark key="[" line="779" column="9" />
+        <mark key="]" line="779" column="9" />
+        <mark key="." line="779" column="9" />
+        <mark key="^" line="779" column="10" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-values-table/geraet-values-table.component.html" timestamp="1588031008633" />
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-values-table/geraet-values-table.component.ts" timestamp="1588031168580">
@@ -169,12 +167,12 @@
         <mark key="]" line="115" column="45" />
         <mark key="." line="115" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1588144643515">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1588146397871">
         <mark key="'" line="3884" column="0" />
         <mark key="[" line="3894" column="7" />
-        <mark key="]" line="3894" column="7" />
-        <mark key="." line="3894" column="7" />
-        <mark key="^" line="3885" column="80" />
+        <mark key="]" line="3896" column="11" />
+        <mark key="." line="3896" column="10" />
+        <mark key="^" line="3896" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1588031860768">
         <mark key="[" line="284" column="48" />
@@ -294,10 +292,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>*</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -306,34 +304,39 @@
         <text encoding="base64">CgpzZWxlY3QgKgpmcm9tIG1lc193YXJtd2Fzc2VyemFlaGxlcgp3aGVyZSBnZXJfZ2VyYWV0X2lkID0gMTk4MTY3NTQKb3JkZXIgYnkgbWVzc19kYXR1bSBkZXNjOw==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZHJvcCBmdW5jdGlvbiBtZWRpYW5fc2Z1bmMoKTsK</text>
+        <text encoding="base64">CUBNYW55VG9PbmUoZmV0Y2ggPSBGZXRjaFR5cGUuTEFaWSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">T1JERVIgQlkgMTsK</text>
+      <register name="2" type="4">
+        <text>1493341507,
+1503863007,
+1489175357,
+1501407507,
+1490982707,
+1501861957</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZHJvcCBmdW5jdGlvbiBzZWNvbmRfbWF4X2ZmdW5jKHN0YXRlIElOVEVHRVJbXSk7Cgo=</text>
+        <text encoding="base64">ZHJvcCBmdW5jdGlvbiBtZWRpYW5fc2Z1bmMoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIGNhc2UKICAgICAgICAgICB3aGVuIGxhZyhudW0pIG92ZXIgdyBpcyBudWxsIHRoZW4gbnVtCiAgICAgICAgICAgd2hlbiBsYWcobnVtLCAyKSBvdmVyIHcgaXMgbnVsbCB0aGVuIChudW0gKyBsYWcobnVtKSBvdmVyIHcpIC8gMi4KICAgICAgICAgICB3aGVuIGxhZyhudW0sIDMpIG92ZXIgdyBpcyBudWxsIHRoZW4gbGFnKG51bSkgb3ZlciB3CiAgICAgICAgICAgZWxzZSAobGFnKG51bSwgMikgb3ZlciB3ICsgbGFnKG51bSkgb3ZlciB3KSAvIDIuCiAgICAgICAgICAgZW5kCg==</text>
+        <text encoding="base64">T1JERVIgQlkgMTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFdIRU4gc3RhdGVbMV0gPiBkYXRhCiAgICAgICAgICAgICAgICAgICAgICAgVEhFTiBDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV0hFTiBzdGF0ZVsyXSA+IGRhdGEKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVEhFTiBzdGF0ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVMU0UgQVJSQVlbc3RhdGVbMV0sIGRhdGFdCiAgICAgICAgICAgICAgICAgICAgICAgRU5ECiAgICAgICAgICAgICAgICAgICBFTFNFIEFSUkFZW2RhdGEsIHN0YXRlWzFdXQogICAgICAgICAgICBFTkQ7Cg==</text>
+        <text encoding="base64">ZHJvcCBmdW5jdGlvbiBzZWNvbmRfbWF4X2ZmdW5jKHN0YXRlIElOVEVHRVJbXSk7Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFsdWVzICgpOwo=</text>
+        <text encoding="base64">ICAgICAgIGNhc2UKICAgICAgICAgICB3aGVuIGxhZyhudW0pIG92ZXIgdyBpcyBudWxsIHRoZW4gbnVtCiAgICAgICAgICAgd2hlbiBsYWcobnVtLCAyKSBvdmVyIHcgaXMgbnVsbCB0aGVuIChudW0gKyBsYWcobnVtKSBvdmVyIHcpIC8gMi4KICAgICAgICAgICB3aGVuIGxhZyhudW0sIDMpIG92ZXIgdyBpcyBudWxsIHRoZW4gbGFnKG51bSkgb3ZlciB3CiAgICAgICAgICAgZWxzZSAobGFnKG51bSwgMikgb3ZlciB3ICsgbGFnKG51bSkgb3ZlciB3KSAvIDIuCiAgICAgICAgICAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2hlcmUgZ2VyX2dlcmFldF9pZCA9IDI0NTg3MTMxOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFdIRU4gc3RhdGVbMV0gPiBkYXRhCiAgICAgICAgICAgICAgICAgICAgICAgVEhFTiBDQVNFCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgV0hFTiBzdGF0ZVsyXSA+IGRhdGEKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgVEhFTiBzdGF0ZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEVMU0UgQVJSQVlbc3RhdGVbMV0sIGRhdGFdCiAgICAgICAgICAgICAgICAgICAgICAgRU5ECiAgICAgICAgICAgICAgICAgICBFTFNFIEFSUkFZW2RhdGEsIHN0YXRlWzFdXQogICAgICAgICAgICBFTkQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">d2l0aCBjYW5faWQoaWQpIGFzICgK</text>
+        <text encoding="base64">dmFsdWVzICgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KQo=</text>
+        <text encoding="base64">d2hlcmUgZ2VyX2dlcmFldF9pZCA9IDI0NTg3MTMxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
