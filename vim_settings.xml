@@ -156,11 +156,11 @@
         <mark key="^" line="214" column="117" />
         <mark key="." line="214" column="116" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1588074447113">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1588128504956">
         <mark key="'" line="826" column="28" />
-        <mark key="[" line="754" column="7" />
-        <mark key="]" line="754" column="7" />
-        <mark key="." line="754" column="7" />
+        <mark key="[" line="778" column="9" />
+        <mark key="]" line="778" column="9" />
+        <mark key="." line="778" column="9" />
         <mark key="^" line="861" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-values-table/geraet-values-table.component.html" timestamp="1588031008633" />
@@ -291,11 +291,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ZHJvcCBmdW5jdGlvbiBtZWRpYW5fc2Z1bmMoKTsK</text>
+      <register name="*" type="4">
+        <text>heizkostenverteiler</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>heizkostenverteiler</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
