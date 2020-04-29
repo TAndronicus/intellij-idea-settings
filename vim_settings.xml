@@ -120,6 +120,9 @@
       <file name="/console" timestamp="1588135296804">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1588150899882">
+        <mark key="'" line="235" column="35" />
+      </file>
       <file name="/a.sql" timestamp="1588118225483">
         <mark key="[" line="0" column="0" />
       </file>
@@ -143,24 +146,18 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1588033063742" />
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V364.2__add_existing_locks.sql" timestamp="1587990183302">
-        <mark key="[" line="4" column="69" />
-        <mark key="]" line="4" column="69" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="4" column="69" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/messung/service/MessungService.java" timestamp="1588032730324">
         <mark key="[" line="214" column="71" />
         <mark key="]" line="214" column="117" />
         <mark key="^" line="214" column="117" />
         <mark key="." line="214" column="116" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1588149902586">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1588151560268">
         <mark key="'" line="768" column="25" />
-        <mark key="[" line="884" column="66" />
-        <mark key="]" line="884" column="68" />
-        <mark key="." line="884" column="67" />
-        <mark key="^" line="884" column="68" />
+        <mark key="[" line="771" column="14" />
+        <mark key="]" line="771" column="15" />
+        <mark key="." line="771" column="14" />
+        <mark key="^" line="771" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-values-table/geraet-values-table.component.html" timestamp="1588031008633" />
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-values-table/geraet-values-table.component.ts" timestamp="1588031168580">
@@ -168,11 +165,11 @@
         <mark key="]" line="115" column="45" />
         <mark key="." line="115" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1588146397871">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1588151553716">
         <mark key="'" line="3884" column="0" />
-        <mark key="[" line="3894" column="7" />
-        <mark key="]" line="3896" column="11" />
-        <mark key="." line="3896" column="10" />
+        <mark key="[" line="3897" column="25" />
+        <mark key="]" line="3916" column="28" />
+        <mark key="." line="3897" column="25" />
         <mark key="^" line="3896" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1588031860768">
@@ -188,7 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/Workspace/JVM/progfun1/forcomp/src/main/scala/forcomp/Anagrams.scala" />
       <jump line="3231" column="32" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="64" column="65" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" />
       <jump line="184" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/geraetekatalog/rest/GeraetTypMappingRestEndpointTest.java" />
@@ -288,12 +284,13 @@
       <jump line="3859" column="58" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="768" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
       <jump line="3884" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
+      <jump line="235" column="35" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>18793731</text>
+        <text encoding="base64">CnNlbGVjdCAnJyB8fCBnZy5udXRfbnV0emVpbmhlaXRfaWQgfHwgJy9nZXJhZXQvJyB8fCBnZy5pZCwgZ2d0LmdlcmFldF90eXAsIHQuKgpmcm9tICgKICAgICAgICAgc2VsZWN0IG1tLmlkLAogICAgICAgICAgICAgICAgbW0uZ2VyX2dlcmFldF9pZCwKICAgICAgICAgICAgICAgIG1tLm1lc3NfZGF0dW0sCiAgICAgICAgICAgICAgICBsZWFkKG1tLm1lc3NfZGF0dW0pIG92ZXIgKHBhcnRpdGlvbiBieSBtbS5nZXJfZ2VyYWV0X2lkIG9yZGVyIGJ5IG1tLm1lc3NfZGF0dW0pLAogICAgICAgICAgICAgICAgbGFnKG1tLndlcnQpIG92ZXIgKHBhcnRpdGlvbiBieSBtbS5nZXJfZ2VyYWV0X2lkIG9yZGVyIGJ5IG1tLm1lc3NfZGF0dW0pLAogICAgICAgICAgICAgICAgbW0ud2VydCwKICAgICAgICAgICAgICAgIGxlYWQobW0ud2VydCkgb3ZlciAocGFydGl0aW9uIGJ5IG1tLmdlcl9nZXJhZXRfaWQgb3JkZXIgYnkgbW0ubWVzc19kYXR1bSksCiAgICAgICAgICAgICAgICB0eXAsCiAgICAgICAgICAgICAgICBjcmVhdGlvbl9kYXRlCiAgICAgICAgIGZyb20gbWVzX21lc3N1bmcgbW0KICAgICApIHQobWlkLCBnaWQsIGRhdCwgbmRhdCwgcHZhLCB2YSwgbnZhLCB0eSwgY3JlKQogICAgICAgICBpbm5lciBqb2luIGdlcl9nZXJhZXQgZ2cgb24gZ2cuaWQgPSB0LmdpZAogICAgICAgICBpbm5lciBqb2luIGdrX2dlcmFldF90eXAgZ2d0IG9uIGdnLmdrX2dlcmFldF90eXBfaWQgPSBnZ3QuaWQKICAgICAgICAgaW5uZXIgam9pbiBudXRfbWVzc3Byb2ZpbCBubSBvbiBubS5pZF9udXRfbnV0emVpbmhlaXRfaWQgPSBnZy5udXRfbnV0emVpbmhlaXRfaWQKd2hlcmUgKCh2YSA+IG52YSBhbmQgdmEgPiBwdmEpIG9yICh2YSA8IG52YSBhbmQgdmEgPCBwdmEpKQogIGFuZCB0eSA9ICdSJwogIGFuZCBubS5wcm9maWxlX3R5cGUgPSAnRic7</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -302,7 +299,7 @@
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>18793731</text>
+        <text encoding="base64">CnNlbGVjdCAnJyB8fCBnZy5udXRfbnV0emVpbmhlaXRfaWQgfHwgJy9nZXJhZXQvJyB8fCBnZy5pZCwgZ2d0LmdlcmFldF90eXAsIHQuKgpmcm9tICgKICAgICAgICAgc2VsZWN0IG1tLmlkLAogICAgICAgICAgICAgICAgbW0uZ2VyX2dlcmFldF9pZCwKICAgICAgICAgICAgICAgIG1tLm1lc3NfZGF0dW0sCiAgICAgICAgICAgICAgICBsZWFkKG1tLm1lc3NfZGF0dW0pIG92ZXIgKHBhcnRpdGlvbiBieSBtbS5nZXJfZ2VyYWV0X2lkIG9yZGVyIGJ5IG1tLm1lc3NfZGF0dW0pLAogICAgICAgICAgICAgICAgbGFnKG1tLndlcnQpIG92ZXIgKHBhcnRpdGlvbiBieSBtbS5nZXJfZ2VyYWV0X2lkIG9yZGVyIGJ5IG1tLm1lc3NfZGF0dW0pLAogICAgICAgICAgICAgICAgbW0ud2VydCwKICAgICAgICAgICAgICAgIGxlYWQobW0ud2VydCkgb3ZlciAocGFydGl0aW9uIGJ5IG1tLmdlcl9nZXJhZXRfaWQgb3JkZXIgYnkgbW0ubWVzc19kYXR1bSksCiAgICAgICAgICAgICAgICB0eXAsCiAgICAgICAgICAgICAgICBjcmVhdGlvbl9kYXRlCiAgICAgICAgIGZyb20gbWVzX21lc3N1bmcgbW0KICAgICApIHQobWlkLCBnaWQsIGRhdCwgbmRhdCwgcHZhLCB2YSwgbnZhLCB0eSwgY3JlKQogICAgICAgICBpbm5lciBqb2luIGdlcl9nZXJhZXQgZ2cgb24gZ2cuaWQgPSB0LmdpZAogICAgICAgICBpbm5lciBqb2luIGdrX2dlcmFldF90eXAgZ2d0IG9uIGdnLmdrX2dlcmFldF90eXBfaWQgPSBnZ3QuaWQKICAgICAgICAgaW5uZXIgam9pbiBudXRfbWVzc3Byb2ZpbCBubSBvbiBubS5pZF9udXRfbnV0emVpbmhlaXRfaWQgPSBnZy5udXRfbnV0emVpbmhlaXRfaWQKd2hlcmUgKCh2YSA+IG52YSBhbmQgdmEgPiBwdmEpIG9yICh2YSA8IG52YSBhbmQgdmEgPCBwdmEpKQogIGFuZCB0eSA9ICdSJwogIGFuZCBubS5wcm9maWxlX3R5cGUgPSAnRic7</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cmluc2VydCBpbnRvIGV3X2NhbmRpZGF0ZXMgKGlkLCBnZXJfZ2VyYWV0X2lkLCBtZWFzdXJlbWVudF9kYXRlLCB0d29fc2lkZWQsIHVwZGF0ZWQpCnNlbGVjdCBuZXh0dmFsKCdld19xdWV1ZV9zZXEnKSwgZ2VyX2dlcmFldF9pZCwgbWVhc3VyZW1lbnRfZGF0ZSwgdHdvX3NpZGVkLCB0cnVlCmZyb20gZXdfY2FuZGlkYXRlcwp3aGVyZSB1cGRhdGVkID0gZmFsc2U7Cg==</text>
