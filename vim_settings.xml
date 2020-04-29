@@ -180,11 +180,11 @@
         <mark key="]" line="115" column="45" />
         <mark key="." line="115" column="45" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1588160776211">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1588160970392">
         <mark key="'" line="3624" column="18" />
-        <mark key="[" line="3898" column="7" />
-        <mark key="]" line="3898" column="7" />
-        <mark key="." line="3898" column="7" />
+        <mark key="[" line="3633" column="51" />
+        <mark key="]" line="3633" column="51" />
+        <mark key="." line="3633" column="51" />
         <mark key="^" line="3923" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1588031860768">
@@ -305,10 +305,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>-</text>
+        <text>, end_date</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>, end_date</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
