@@ -164,6 +164,7 @@
         <mark key="." line="62" column="23" />
         <mark key="^" line="62" column="24" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1588223933084" />
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-values-table/geraet-values-table.component.ts" timestamp="1588031168580">
         <mark key="[" line="115" column="45" />
         <mark key="]" line="115" column="45" />
@@ -172,11 +173,11 @@
       <file name="/JavaScript Console" timestamp="1588080302956">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1588222359301">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1588224025089">
         <mark key="'" line="3658" column="20" />
-        <mark key="[" line="3657" column="56" />
-        <mark key="]" line="3658" column="21" />
-        <mark key="." line="3658" column="20" />
+        <mark key="[" line="3962" column="9" />
+        <mark key="]" line="3962" column="9" />
+        <mark key="." line="3962" column="9" />
         <mark key="^" line="3658" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1588031860768">
@@ -314,10 +315,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>geraet_typ = 'H'</text>
+        <text>warmwasserzaehler</text>
       </register>
       <register name="-" type="4">
-        <text>geraet_typ = 'H'</text>
+        <text>warmwasserzaehler</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
