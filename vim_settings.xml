@@ -172,12 +172,12 @@
       <file name="/JavaScript Console" timestamp="1588080302956">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1588221727008">
-        <mark key="'" line="3636" column="17" />
-        <mark key="[" line="3681" column="14" />
-        <mark key="]" line="3682" column="24" />
-        <mark key="." line="3682" column="23" />
-        <mark key="^" line="3682" column="24" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1588222359301">
+        <mark key="'" line="3658" column="20" />
+        <mark key="[" line="3657" column="56" />
+        <mark key="]" line="3658" column="21" />
+        <mark key="." line="3658" column="20" />
+        <mark key="^" line="3658" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1588031860768">
         <mark key="[" line="284" column="48" />
@@ -209,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="6" filename="$USER_HOME$/Workspace/JVM/progfun2/quickcheck/src/main/scala/quickcheck/Heap.scala" />
       <jump line="57" column="7" filename="$USER_HOME$/Workspace/JVM/progfun2/calculator/src/main/scala/calculator/Signal.scala" />
       <jump line="456" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="3419" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
@@ -309,21 +308,23 @@
       <jump line="303" column="11" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__ersatzwerte.sql" />
       <jump line="3649" column="12" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="3636" column="17" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
+      <jump line="3658" column="20" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICBhbmQgY3JlID4gJzIwMjAtMDQtMTknOwo=</text>
+      <register name="*" type="4">
+        <text>geraet_typ = 'H'</text>
       </register>
       <register name="-" type="4">
-        <text>stichtagColumn</text>
+        <text>geraet_typ = 'H'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>align_to_standard</text>
+        <text>(geraet_typ in ('W', 'K', 'Z', 'P')
+    or geraet_art = 'OFOLT01')</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBhbmQgY3JlID4gJzIwMjAtMDQtMTknOwo=</text>
