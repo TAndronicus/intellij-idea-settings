@@ -153,6 +153,13 @@
         <mark key="^" line="87" column="17" />
         <mark key="." line="87" column="16" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5cac8947-e549-49c1-bb0e-e000d97f9c3b/console.sql" timestamp="1588333059047">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="26" column="52" />
+        <mark key="^" line="26" column="53" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/CommonLiegenschaftLockServiceTest.java" timestamp="1588245675646">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="0" column="38" />
@@ -210,11 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
-      <jump line="3533" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
-      <jump line="3548" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
-      <jump line="181" column="47" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/dao/GradTageTest.java" />
-      <jump line="3348" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="3356" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="56" column="40" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" />
       <jump line="85" column="61" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" />
@@ -310,51 +312,78 @@
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/lock/service/CommonLiegenschaftLockServiceTest.java" />
       <jump line="33" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/lock/service/CommonLiegenschaftLockServiceTest.java" />
       <jump line="759" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
+      <jump line="39" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5cac8947-e549-49c1-bb0e-e000d97f9c3b/console.sql" />
+      <jump line="45" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5cac8947-e549-49c1-bb0e-e000d97f9c3b/console.sql" />
+      <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5cac8947-e549-49c1-bb0e-e000d97f9c3b/console.sql" />
+      <jump line="24" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5cac8947-e549-49c1-bb0e-e000d97f9c3b/console.sql" />
+      <jump line="34" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5cac8947-e549-49c1-bb0e-e000d97f9c3b/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ClNFTEVDVCBkYXRuYW1lLAogICAgICAgcGlkLAogICAgICAgcXVlcnksCiAgICAgICB1c2VzeXNpZCwKICAgICAgIHVzZW5hbWUsCiAgICAgICBhcHBsaWNhdGlvbl9uYW1lLAogICAgICAgY2xpZW50X2FkZHIsCiAgICAgICBjbGllbnRfcG9ydCwKICAgICAgIHN0YXRlLAogICAgICAgYmFja2VuZF9zdGFydCwKICAgICAgIHhhY3Rfc3RhcnQKRlJPTSBwZ19zdGF0X2FjdGl2aXR5CldIRVJFIHN0YXRlIGlzIG5vdCBudWxsCiAgYW5kIHN0YXRlICE9ICdpZGxlJwpPUkRFUiBCWSB4YWN0X3N0YXJ0OwoKU0VMRUNUIHBnX2NhbmNlbF9iYWNrZW5kKCk7Cg==</text>
+      <register name="*" type="4">
+        <text>create table if not exists songplay
+(
+    songplay_id bigint identity (1,1) primary key,
+    start_time  timestamp,
+    user_id     integer,
+    level       character varying,
+    song_id     character varying,
+    artist_id   character varying,
+    session_id  integer,
+    location    character varying,
+    user_agent  character varying
+)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3RhdGljIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>SELECT pg_cancel_backend();</text>
+        <text>create table if not exists songplay
+(
+    songplay_id bigint identity (1,1) primary key,
+    start_time  timestamp,
+    user_id     integer,
+    level       character varying,
+    song_id     character varying,
+    artist_id   character varying,
+    session_id  integer,
+    location    character varying,
+    user_agent  character varying
+)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ClNFTEVDVCBkYXRuYW1lLAogICAgICAgcGlkLAogICAgICAgcXVlcnksCiAgICAgICB1c2VzeXNpZCwKICAgICAgIHVzZW5hbWUsCiAgICAgICBhcHBsaWNhdGlvbl9uYW1lLAogICAgICAgY2xpZW50X2FkZHIsCiAgICAgICBjbGllbnRfcG9ydCwKICAgICAgIHN0YXRlLAogICAgICAgYmFja2VuZF9zdGFydCwKICAgICAgIHhhY3Rfc3RhcnQKRlJPTSBwZ19zdGF0X2FjdGl2aXR5CldIRVJFIHN0YXRlIGlzIG5vdCBudWxsCiAgYW5kIHN0YXRlICE9ICdpZGxlJwpPUkRFUiBCWSB4YWN0X3N0YXJ0OwoKU0VMRUNUIHBnX2NhbmNlbF9iYWNrZW5kKCk7Cg==</text>
+        <text encoding="base64">CnNlbGVjdCBleGlzdHMoCiAgICAgICAgICAgICAgIHNlbGVjdCAqCiAgICAgICAgICAgICAgIGZyb20gZXZlbnRzX3N0YWdlIGVzCiAgICAgICAgICAgICAgIHdoZXJlIGdlbmRlciBpcyBudWxsCiAgICAgICAgICAgKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJfaWQsIGZpcnN0X25hbWUsIGxhc3RfbmFtZSwgZ2VuZGVyLCBsZXZlbA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucWl2YWxvLnBvcnRhbC5jb21tb24uaGVscGVyLkludEV4dGVybmFsQXBpSGVscGVyLmdldEVmZmVjdGl2ZVRhcmdldERhdGU7Cg==</text>
+        <text encoding="base64">ClNFTEVDVCBkYXRuYW1lLAogICAgICAgcGlkLAogICAgICAgcXVlcnksCiAgICAgICB1c2VzeXNpZCwKICAgICAgIHVzZW5hbWUsCiAgICAgICBhcHBsaWNhdGlvbl9uYW1lLAogICAgICAgY2xpZW50X2FkZHIsCiAgICAgICBjbGllbnRfcG9ydCwKICAgICAgIHN0YXRlLAogICAgICAgYmFja2VuZF9zdGFydCwKICAgICAgIHhhY3Rfc3RhcnQKRlJPTSBwZ19zdGF0X2FjdGl2aXR5CldIRVJFIHN0YXRlIGlzIG5vdCBudWxsCiAgYW5kIHN0YXRlICE9ICdpZGxlJwpPUkRFUiBCWSB4YWN0X3N0YXJ0OwoKU0VMRUNUIHBnX2NhbmNlbF9iYWNrZW5kKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucWl2YWxvLnBvcnRhbC5jb21tb24uaGVscGVyLkludEV4dGVybmFsQXBpSGVscGVyLmdldEVmZmVjdGl2ZVRhcmdldERhdGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvLyBUT0RPLTE4MzIK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucWl2YWxvLnBvcnRhbC5jb21tb24uaGVscGVyLkludEV4dGVybmFsQXBpSGVscGVyLmdldEVmZmVjdGl2ZVRhcmdldERhdGU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8JCXJldHVybiBPcHRpb25hbC5vZk51bGxhYmxlKGdlcmFldC5nZXRSdWVja3N0YW5kVm9uKCkpCi8vCQkJLmZpbHRlcihkIC0+ICFtZWFzdXJlbWVudERheSkKLy8JCQkub3JFbHNlKHRhcmdldERhdGUpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucWl2YWxvLnBvcnRhbC5jb21tb24uaGVscGVyLkludEV4dGVybmFsQXBpSGVscGVyLmdldEVmZmVjdGl2ZVRhcmdldERhdGU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CglAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">CQkvLyBUT0RPLTE4MzIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CglAQXV0b3dpcmVkCg==</text>
+        <text encoding="base64">Ly8JCXJldHVybiBPcHRpb25hbC5vZk51bGxhYmxlKGdlcmFldC5nZXRSdWVja3N0YW5kVm9uKCkpCi8vCQkJLmZpbHRlcihkIC0+ICFtZWFzdXJlbWVudERheSkKLy8JCQkub3JFbHNlKHRhcmdldERhdGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+        <text encoding="base64">CglAQXV0b3dpcmVkCg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
