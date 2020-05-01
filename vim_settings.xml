@@ -117,7 +117,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/dev.public.events_stage" timestamp="1588326258925">
+      <file name="/dev.public.events_stage" timestamp="1588326318505">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/console" timestamp="1588325985883">
@@ -190,7 +190,7 @@
         <mark key="]" line="893" column="0" />
         <mark key="." line="893" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1588326263322">
+      <file name="/foo.bar" timestamp="1588326318521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1588244459656">
@@ -205,7 +205,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/events_stage [dev@redshift-cluster.csuhthgfeaea.eu-west-1.redshift.amazonaws.com]" timestamp="1588326258914">
+      <file name="/events_stage [dev@redshift-cluster.csuhthgfeaea.eu-west-1.redshift.amazonaws.com]" timestamp="1588326318478">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
