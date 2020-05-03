@@ -2,15 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="V257" type="PLAIN_TEXT" />
+      <mapping pattern="result" type="PLAIN_TEXT" />
       <mapping pattern="hdjshj" type="PLAIN_TEXT" />
       <mapping pattern="prod" type="PLAIN_TEXT" />
+      <mapping pattern="V257" type="PLAIN_TEXT" />
       <mapping pattern="stage" type="PLAIN_TEXT" />
-      <mapping pattern="result" type="PLAIN_TEXT" />
       <mapping ext="0__cr_v" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
