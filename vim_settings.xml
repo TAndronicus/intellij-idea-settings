@@ -123,11 +123,11 @@
         <mark key="^" line="140" column="80" />
         <mark key="." line="140" column="79" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" timestamp="1588585605894">
-        <mark key="[" line="90" column="19" />
-        <mark key="]" line="90" column="38" />
-        <mark key="^" line="90" column="38" />
-        <mark key="." line="90" column="37" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" timestamp="1588602298628">
+        <mark key="[" line="82" column="9" />
+        <mark key="]" line="83" column="8" />
+        <mark key="^" line="83" column="8" />
+        <mark key="." line="83" column="4" />
       </file>
       <file name="/AbrechnungExportTask.java" timestamp="1588587629284">
         <mark key="[" line="24" column="21" />
@@ -145,6 +145,10 @@
         <mark key="." line="260" column="96" />
         <mark key="^" line="260" column="97" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" timestamp="1588602292456">
+        <mark key="[" line="60" column="224" />
+        <mark key="]" line="62" column="28" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyService.java" timestamp="1588593968875">
         <mark key="[" line="221" column="70" />
         <mark key="]" line="221" column="66" />
@@ -158,10 +162,6 @@
         <mark key="." line="35" column="80" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/StromRueckstandDiscovergyUpdateServiceTest.java" timestamp="1588595346255" />
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/model/LiegenschaftLock.java" timestamp="1588571768262">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="35" />
-      </file>
       <file name="/Dummy.txt" timestamp="1588591865345">
         <mark key="[" line="0" column="0" />
       </file>
@@ -209,7 +209,7 @@
         <mark key="." line="4053" column="21" />
         <mark key="^" line="4053" column="22" />
       </file>
-      <file name="/fragment.java" timestamp="1588595325407">
+      <file name="/fragment.java" timestamp="1588602153356">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -320,8 +320,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBkdHZTZXJ2aWNlLndpdGhNZXNzdW5nZW5Mb2NrKCkK</text>
+      <register name="*" type="4">
+        <text encoding="base64">CgkJaWYgKGNoZWNrQW5kVXBkYXRlUmVsZXZhbnRHZXJhZXQuaXNEYWlseSgpIHx8IG1lc3N1bmdlbi5pc0VtcHR5KCkpCgkJCXJldHVybiBtZXNzdW5nZW47</text>
       </register>
       <register name="-" type="4">
         <text>kurwa</text>
@@ -329,8 +329,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBnZW5lcmF0ZUZpbGUoZHR2U2VydmljZTo6Z2VuZXJhdGVWZXJicmF1ZWNoZURhdGVpLCBleHBvcnQsIEFicmVjaG51bmdMb2dDYXRlZ29yeS5EVFYpOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CgkJaWYgKGNoZWNrQW5kVXBkYXRlUmVsZXZhbnRHZXJhZXQuaXNEYWlseSgpIHx8IG1lc3N1bmdlbi5pc0VtcHR5KCkpCgkJCXJldHVybiBtZXNzdW5nZW47</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCXJldHVybiBkdHZTZXJ2aWNlLndpdGhNZXNzdW5nZW5Mb2NrKCkK</text>
