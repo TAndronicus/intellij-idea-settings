@@ -132,11 +132,11 @@
       <file name="/console" timestamp="1588555041378">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" timestamp="1588570553358">
-        <mark key="[" line="73" column="89" />
-        <mark key="]" line="75" column="43" />
-        <mark key="^" line="75" column="43" />
-        <mark key="." line="75" column="42" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" timestamp="1588582778225">
+        <mark key="[" line="84" column="117" />
+        <mark key="]" line="84" column="129" />
+        <mark key="^" line="84" column="129" />
+        <mark key="." line="84" column="128" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/oilfox/service/OilFoxUpdateService.java" timestamp="1588570877470">
         <mark key="[" line="84" column="9" />
@@ -150,22 +150,21 @@
         <mark key="." line="261" column="96" />
         <mark key="^" line="261" column="97" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5cac8947-e549-49c1-bb0e-e000d97f9c3b/console.sql" timestamp="1588335432340">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="86" column="5" />
-        <mark key="]" line="86" column="5" />
-        <mark key="^" line="86" column="12" />
-        <mark key="." line="86" column="5" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyService.java" timestamp="1588583312800">
+        <mark key="[" line="208" column="5" />
+        <mark key="]" line="208" column="5" />
+        <mark key="." line="208" column="5" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/model/LiegenschaftLock.java" timestamp="1588571768262">
         <mark key="[" line="0" column="8" />
         <mark key="]" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateBatchService.java" timestamp="1588582584129">
-        <mark key="[" line="88" column="34" />
-        <mark key="]" line="92" column="16" />
-        <mark key="^" line="92" column="16" />
-        <mark key="." line="92" column="12" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateBatchService.java" timestamp="1588583582981">
+        <mark key="'" line="111" column="51" />
+        <mark key="[" line="111" column="111" />
+        <mark key="]" line="111" column="112" />
+        <mark key="." line="111" column="111" />
+        <mark key="^" line="111" column="112" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonLiegenschaftLockService.java" timestamp="1588555628026">
         <mark key="[" line="88" column="44" />
@@ -224,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1754" column="24" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="90" column="0" filename="$USER_HOME$/Workspace/JVM/progfun1/funsets/src/main/scala/funsets/FunSets.scala" />
       <jump line="84" column="20" filename="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelCountChange.scala" />
       <jump line="505" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
@@ -324,15 +322,16 @@
       <jump line="49" column="46" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/lock/service/CommonLiegenschaftLockServiceTest.java" />
       <jump line="4048" column="29" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="38" column="35" filename="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/abrechnung/core/service/AbrechnungApproveService.java" />
+      <jump line="109" column="51" filename="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateBatchService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>end</text>
+        <text>gis.ge()))</text>
       </register>
       <register name="-" type="4">
-        <text>end</text>
+        <text>gis.ge()))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -341,34 +340,34 @@
         <text>endDateAfterCurrentDate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CQkJCQkJLmZpbHRlcigpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CQlpZiAoZW5kLmlzQWZ0ZXIoY3VycmVudERhdGUpKSB0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbihFcnJvck1lc3NhZ2UuUmVhc29uLklOVkFMSURfUEFSQU1FVEVSLCBFTkRfREFURV9BRlRFUl9DVVJSRU5UX0RBVEUpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgoJcHVibGljIExpc3Q8R2VyYWV0SWRTdGljaHRhZz4gZmlsdGVyT3V0TG9ja2VkKExpc3Q8R2VyYWV0SWRTdGljaHRhZz4gZ2VyYWV0SWRTdGljaHRhZykgewoJCU1hcDxMb25nLCBMaXN0PFRpbWVTcGFuPExvY2FsRGF0ZVRpbWU+Pj4gbG9ja3MgPSBjb21tb25MaWVnZW5zY2hhZnRMb2NrU2VydmljZS5nZXRHZXJhZXRMb2NrUGVyaW9kcygKCQkJZ2VyYWV0SWRTdGljaHRhZy5zdHJlYW0oKQoJCQkJLm1hcChHZXJhZXRJZFN0aWNodGFnOjpnZXRHZXJhZXRJZCkKCQkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpCgkJKTsKCQlyZXR1cm4gZ2VyYWV0SWRTdGljaHRhZy5zdHJlYW0oKQoJCQkuZmlsdGVyKGdpcyAtPiBsb2Nrcy5nZXQoZ2lzLmdldEdlcmFldElkKCkpLnN0cmVhbSgpCgkJCQkubm9uZU1hdGNoKGxvY2sgLT4gbG9jay5zcGFucyhnaXMuZ2V0U3RpY2h0YWcoKSkpKQoJCQkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKCX0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CWVuZERhdGVBZnRlckN1cnJlbnREYXRlCg==</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQl2YWxpZGF0ZURhdGUoKQo=</text>
+        <text encoding="base64">CQlpZiAoZW5kLmlzQWZ0ZXIoY3VycmVudERhdGUpKSB0aHJvdyBuZXcgU2VydmljZUV4Y2VwdGlvbihFcnJvck1lc3NhZ2UuUmVhc29uLklOVkFMSURfUEFSQU1FVEVSLCBFTkRfREFURV9BRlRFUl9DVVJSRU5UX0RBVEUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbmQgbm0ucHJvZmlsZV90eXBlID0gJ0YnOwo=</text>
+        <text encoding="base64">CWVuZERhdGVBZnRlckN1cnJlbnREYXRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqIFJldHVybnMgdGhlIGRhdGUgb2YgdGhlIG1lc3N1bmcgdG8gYmUgZmV0Y2hlZC4K</text>
+        <text encoding="base64">CQl2YWxpZGF0ZURhdGUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhbmQgbm0ucHJvZmlsZV90eXBlID0gJ0YnOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiAoY29tbW9uTGllZ2Vuc2NoYWZ0TG9ja1NlcnZpY2UuaXNHZXJhZXRMb2NrZWQoY2hlY2tBbmRVcGRhdGVSZWxldmFudEdlcmFldC5nZXRHZXJhZXRJZCgpLCBEYXRlVXRpbHMudG9Mb2NhbERhdGVUaW1lKG1lc3N1bmcuZ2V0TWVhc3VyZVRpbWVBc0RhdGUoKSkpKSB7CgkJfQo=</text>
+        <text encoding="base64">CSAqIFJldHVybnMgdGhlIGRhdGUgb2YgdGhlIG1lc3N1bmcgdG8gYmUgZmV0Y2hlZC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
