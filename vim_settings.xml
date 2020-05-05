@@ -117,11 +117,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Extraction.scala" timestamp="1588640990610">
-        <mark key="[" line="25" column="49" />
-        <mark key="]" line="45" column="58" />
-        <mark key="^" line="45" column="58" />
-        <mark key="." line="45" column="57" />
+      <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Extraction.scala" timestamp="1588642041757">
+        <mark key="[" line="24" column="93" />
+        <mark key="]" line="24" column="100" />
+        <mark key="^" line="24" column="100" />
+        <mark key="." line="24" column="99" />
       </file>
       <file name="/Dummy.txt" timestamp="1588607021838">
         <mark key="[" line="0" column="0" />
@@ -325,11 +325,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICBpbXBvcnQgU3BhcmtQcm92aWRlci5zcGFyay4K</text>
+      <register name="*" type="4">
+        <text>Iterable</text>
       </register>
       <register name="-" type="4">
-        <text>Unit</text>
+        <text>Iterable</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
