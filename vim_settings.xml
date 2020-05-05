@@ -117,11 +117,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Extraction.scala" timestamp="1588647544723">
-        <mark key="[" line="38" column="12" />
-        <mark key="]" line="38" column="20" />
-        <mark key="^" line="38" column="20" />
-        <mark key="." line="38" column="19" />
+      <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Extraction.scala" timestamp="1588648643238">
+        <mark key="'" line="15" column="39" />
+        <mark key="[" line="35" column="51" />
+        <mark key="]" line="36" column="30" />
+        <mark key="^" line="36" column="30" />
+        <mark key="." line="36" column="29" />
       </file>
       <file name="/Dummy.txt" timestamp="1588607021838">
         <mark key="[" line="0" column="0" />
@@ -157,11 +158,11 @@
         <mark key="^" line="83" column="8" />
         <mark key="." line="83" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/SparkProvider.scala" timestamp="1588637639963">
-        <mark key="[" line="8" column="41" />
-        <mark key="]" line="8" column="52" />
-        <mark key="." line="8" column="51" />
-        <mark key="^" line="8" column="52" />
+      <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/SparkProvider.scala" timestamp="1588648393878">
+        <mark key="[" line="9" column="59" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="29" />
       </file>
       <file name="/AbrechnungExportTask.java" timestamp="1588587629284">
         <mark key="[" line="24" column="21" />
@@ -221,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="20" filename="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/main/scala/reductions/ParallelCountChange.scala" />
       <jump line="505" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
       <jump line="52" column="38" filename="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/test/scala/reductions/ReductionsSuite.scala" />
       <jump line="51" column="48" filename="$USER_HOME$/Workspace/JVM/parprog1/reductions/src/test/scala/reductions/ReductionsSuite.scala" />
@@ -321,15 +321,16 @@
       <jump line="38" column="35" filename="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/abrechnung/core/service/AbrechnungApproveService.java" />
       <jump line="109" column="51" filename="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateBatchService.java" />
       <jump line="35" column="79" filename="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/StromRueckstandDiscovergyUpdateServiceTest.java" />
+      <jump line="15" column="39" filename="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Extraction.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>STATIONS</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIFNwYXJrUHJvdmlkZXIuc3BhcmsKICAgICAgLnJlYWQKICAgICAgLmZvcm1hdCgiY3N2IikKICAgICAgLm9wdGlvbigiaW5mZXJTY2hlbWEiLCB0cnVlKQogICAgICAubG9hZChmaWxlbmFtZSkK</text>
       </register>
       <register name="-" type="4">
-        <text>STATIONS</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -338,34 +339,34 @@
         <text>, stationsFile: String, temperaturesFile: String</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgIFNwYXJrUHJvdmlkZXIuc3BhcmsKICAgICAgLnJlYWQKICAgICAgLmZvcm1hdCgiY3N2IikKICAgICAgLm9wdGlvbigiaW5mZXJTY2hlbWEiLCB0cnVlKQogICAgICAubG9hZChmaWxlbmFtZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNhc2UgY2xhc3MgSW50ZXJtZWRpYXRlKG1vbjogSW50LCBkYXk6IEludCwgbGF0OiBEb3VibGUsICkK</text>
+        <text encoding="base64">ICAgIFNwYXJrUHJvdmlkZXIuc3BhcmsKICAgICAgLnJlYWQKICAgICAgLmZvcm1hdCgiY3N2IikKICAgICAgLm9wdGlvbigiaW5mZXJTY2hlbWEiLCB0cnVlKQogICAgICAubG9hZChmaWxlbmFtZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgKSkK</text>
+        <text encoding="base64">ICB2YWwgU1RBVElPTlMgPSAiL3N0YXRpb25zLmNzdiIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmFzWyhJbnQsIEludCwgRG91YmxlLCBEb3VibGUsIERvdWJsZSldKFJvd0VuY29kZXIoCiAgICAgICAgU3RydWN0VHlwZSgKICAgICAgICAgIFN0cnVjdEZpZWxkKCJtb24iLCBJbnRlZ2VyVHlwZSkgOjoKICAgICAgICAgICAgU3RydWN0RmllbGQoImRheSIsIEludGVnZXJUeXBlKSA6OgogICAgICAgICAgICBTdHJ1Y3RGaWVsZCgibGF0IiwgRG91YmxlVHlwZSwgbnVsbGFibGUgPSBmYWxzZSkgOjoKICAgICAgICAgICAgU3RydWN0RmllbGQoImxvbiIsIERvdWJsZVR5cGUsIG51bGxhYmxlID0gZmFsc2UpIDo6CiAgICAgICAgICAgIFN0cnVjdEZpZWxkKCJ0ZW1wIiwgRG91YmxlVHlwZSwgbnVsbGFibGUgPSBmYWxzZSkgOjoKICAgICAgICAgICAgTmlsCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLndoZXJlKGNvbCh0ZW1wKSkK</text>
+        <text encoding="base64">ICAgIGNhc2UgY2xhc3MgSW50ZXJtZWRpYXRlKG1vbjogSW50LCBkYXk6IEludCwgbGF0OiBEb3VibGUsICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLmFzWyhJbnQsIEludCwgRG91YmxlLCBEb3VibGUsIERvdWJsZSldKEVuY29kZXJzLmJlYW4oKEludCwgSW50LCBEb3VibGUsIERvdWJsZSwgRG91YmxlKSkpCg==</text>
+        <text encoding="base64">ICAgICAgKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbXBvcnQgU3BhcmtQcm92aWRlci5zcGFyay4K</text>
+        <text encoding="base64">ICAgICAgLmFzWyhJbnQsIEludCwgRG91YmxlLCBEb3VibGUsIERvdWJsZSldKFJvd0VuY29kZXIoCiAgICAgICAgU3RydWN0VHlwZSgKICAgICAgICAgIFN0cnVjdEZpZWxkKCJtb24iLCBJbnRlZ2VyVHlwZSkgOjoKICAgICAgICAgICAgU3RydWN0RmllbGQoImRheSIsIEludGVnZXJUeXBlKSA6OgogICAgICAgICAgICBTdHJ1Y3RGaWVsZCgibGF0IiwgRG91YmxlVHlwZSwgbnVsbGFibGUgPSBmYWxzZSkgOjoKICAgICAgICAgICAgU3RydWN0RmllbGQoImxvbiIsIERvdWJsZVR5cGUsIG51bGxhYmxlID0gZmFsc2UpIDo6CiAgICAgICAgICAgIFN0cnVjdEZpZWxkKCJ0ZW1wIiwgRG91YmxlVHlwZSwgbnVsbGFibGUgPSBmYWxzZSkgOjoKICAgICAgICAgICAgTmlsCiAgICAgICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCBTVEFUSU9OUyA9ICIvc3RhdGlvbnMuY3N2Igo=</text>
+        <text encoding="base64">ICAgICAgLndoZXJlKGNvbCh0ZW1wKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhbCBwYXRoID0gIi8xOTc1LmNzdiIK</text>
+        <text encoding="base64">ICAgICAgLmFzWyhJbnQsIEludCwgRG91YmxlLCBEb3VibGUsIERvdWJsZSldKEVuY29kZXJzLmJlYW4oKEludCwgSW50LCBEb3VibGUsIERvdWJsZSwgRG91YmxlKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
