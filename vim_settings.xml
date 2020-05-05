@@ -117,11 +117,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Extraction.scala" timestamp="1588643518494">
-        <mark key="[" line="21" column="134" />
-        <mark key="]" line="22" column="45" />
-        <mark key="^" line="22" column="45" />
-        <mark key="." line="22" column="44" />
+      <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Extraction.scala" timestamp="1588647544723">
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="38" column="20" />
+        <mark key="^" line="38" column="20" />
+        <mark key="." line="38" column="19" />
       </file>
       <file name="/Dummy.txt" timestamp="1588607021838">
         <mark key="[" line="0" column="0" />
@@ -325,17 +325,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+      <register name="*" type="4">
+        <text>STATIONS</text>
       </register>
       <register name="-" type="4">
-        <text>Dataset</text>
+        <text>STATIONS</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RydWN0RmllbGQoImxhdCIsIERvdWJsZVR5cGUsIG51bGxhYmxlID0gZmFsc2UpIDo6Cg==</text>
+      <register name="0" type="4">
+        <text>, stationsFile: String, temperaturesFile: String</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgID8/Pwo=</text>
