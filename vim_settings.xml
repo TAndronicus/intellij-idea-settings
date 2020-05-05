@@ -180,12 +180,6 @@
         <mark key="^" line="44" column="32" />
         <mark key="." line="44" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/abrechnung/core/facade/AbrechnungFacade.java" timestamp="1588576882806">
-        <mark key="[" line="406" column="43" />
-        <mark key="]" line="407" column="70" />
-        <mark key="^" line="407" column="70" />
-        <mark key="." line="407" column="69" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/shared/services/i18n.service.ts" timestamp="1588577482628">
         <mark key="[" line="260" column="16" />
         <mark key="]" line="260" column="38" />
@@ -195,6 +189,12 @@
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" timestamp="1588602292456">
         <mark key="[" line="60" column="224" />
         <mark key="]" line="62" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetService.java" timestamp="1588651611884">
+        <mark key="[" line="93" column="51" />
+        <mark key="]" line="93" column="60" />
+        <mark key="^" line="93" column="60" />
+        <mark key="." line="93" column="59" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyService.java" timestamp="1588593968875">
         <mark key="[" line="221" column="70" />
