@@ -117,13 +117,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Extraction.scala" timestamp="1588648643238">
-        <mark key="'" line="15" column="39" />
-        <mark key="[" line="35" column="51" />
-        <mark key="]" line="36" column="30" />
-        <mark key="^" line="36" column="30" />
-        <mark key="." line="36" column="29" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/DTV-TRENNUNG.xml" timestamp="1588670146476">
         <mark key="[" line="11" column="13" />
         <mark key="]" line="79" column="17" />
@@ -137,9 +130,6 @@
         <mark key="[" line="167" column="22" />
         <mark key="]" line="167" column="23" />
         <mark key="." line="167" column="23" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetServiceTest.java" timestamp="1588667305855">
-        <mark key="'" line="27" column="13" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungStatusFileExportRestEndpointTest.java" timestamp="1588670928818">
         <mark key="'" line="108" column="0" />
@@ -159,7 +149,7 @@
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvService.java" timestamp="1588671395315">
         <mark key="'" line="79" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588672081661">
+      <file name="/Dummy.txt" timestamp="1588677661844">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/geraet/rest/GeraetRestEndpoint.java" timestamp="1588676811938" />
@@ -171,12 +161,6 @@
         <mark key="^" line="72" column="40" />
         <mark key="." line="72" column="39" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/SparkProvider.scala" timestamp="1588648393878">
-        <mark key="[" line="9" column="59" />
-        <mark key="]" line="10" column="29" />
-        <mark key="." line="10" column="28" />
-        <mark key="^" line="10" column="29" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/abrechnung/service/CommonAbrechnungService.java" timestamp="1588671464391">
         <mark key="'" line="81" column="24" />
         <mark key="[" line="88" column="0" />
@@ -184,9 +168,11 @@
         <mark key="^" line="87" column="23" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/DTV-NEUGERAETE.xml" timestamp="1588672572031">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="18" column="26" />
+      <file name="/gk_geraet_typ_mapping_config [kundenportal@localhost]" timestamp="1588678698234">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1588678698256">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1588672985835">
         <mark key="'" line="0" column="0" />
@@ -200,6 +186,14 @@
         <mark key="]" line="47" column="22" />
         <mark key="^" line="47" column="22" />
         <mark key="." line="47" column="21" />
+      </file>
+      <file name="/kundenportal.public.gk_geraet_typ_mapping_config" timestamp="1588678698245">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1588678551583">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="37" />
+        <mark key="." line="1" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -308,10 +302,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>20026251</text>
+        <text>ger_geraet</text>
       </register>
       <register name="-" type="4">
-        <text>Date</text>
+        <text>ger_geraet</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
