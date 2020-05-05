@@ -124,6 +124,11 @@
         <mark key="^" line="36" column="30" />
         <mark key="." line="36" column="29" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/DTV-TRENNUNG.xml" timestamp="1588670146476">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="79" column="17" />
+        <mark key="." line="11" column="13" />
+      </file>
       <file name="/console" timestamp="1588667282540">
         <mark key="[" line="0" column="0" />
       </file>
@@ -133,15 +138,16 @@
         <mark key="^" line="83" column="8" />
         <mark key="." line="83" column="4" />
       </file>
-      <file name="/AbrechnungExportTask.java" timestamp="1588587629284">
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="28" column="17" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/AbstractRueckstandDiscovergyUpdateServiceTest.java" timestamp="1588606755134">
         <mark key="[" line="28" column="59" />
         <mark key="]" line="28" column="77" />
         <mark key="^" line="28" column="77" />
         <mark key="." line="28" column="76" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtvFileExportRestEndpointTest.java" timestamp="1588670052318">
+        <mark key="[" line="167" column="22" />
+        <mark key="]" line="167" column="23" />
+        <mark key="." line="167" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/int-common/src/main/java/com/qivalo/portal/common/helper/IntExternalApiHelper.java" timestamp="1588605834310">
         <mark key="[" line="59" column="24" />
@@ -156,12 +162,12 @@
         <mark key="[" line="60" column="224" />
         <mark key="]" line="62" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetService.java" timestamp="1588654924142">
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetService.java" timestamp="1588670791588">
         <mark key="'" line="94" column="25" />
-        <mark key="[" line="336" column="28" />
-        <mark key="]" line="336" column="78" />
-        <mark key="^" line="336" column="78" />
-        <mark key="." line="336" column="77" />
+        <mark key="[" line="92" column="12" />
+        <mark key="]" line="91" column="39" />
+        <mark key="^" line="91" column="39" />
+        <mark key="." line="91" column="38" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyService.java" timestamp="1588593968875">
         <mark key="[" line="221" column="70" />
@@ -175,27 +181,13 @@
         <mark key="^" line="35" column="81" />
         <mark key="." line="35" column="80" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/DTV-TRENNUNG-STRANGSCHEMA.xml" timestamp="1588670136118">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="79" column="17" />
+        <mark key="." line="11" column="13" />
+      </file>
       <file name="/Dummy.txt" timestamp="1588607021838">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateBatchService.java" timestamp="1588585385831">
-        <mark key="[" line="89" column="53" />
-        <mark key="]" line="89" column="130" />
-        <mark key="." line="89" column="129" />
-        <mark key="^" line="89" column="130" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonLiegenschaftLockService.java" timestamp="1588591501863">
-        <mark key="[" line="87" column="107" />
-        <mark key="]" line="87" column="115" />
-        <mark key="^" line="87" column="115" />
-        <mark key="." line="87" column="114" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/abrechnung/core/service/AbrechnungApproveService.java" timestamp="1588585528881">
-        <mark key="'" line="36" column="35" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="36" column="82" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/SparkProvider.scala" timestamp="1588648393878">
         <mark key="[" line="9" column="59" />
@@ -209,11 +201,16 @@
         <mark key="^" line="87" column="23" />
         <mark key="." line="88" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetServiceTest.java" timestamp="1588655224897">
-        <mark key="[" line="39" column="13" />
-        <mark key="]" line="39" column="14" />
-        <mark key="^" line="39" column="14" />
-        <mark key="." line="39" column="13" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/DTV-NEUGERAETE.xml" timestamp="1588670155433">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="79" column="17" />
+        <mark key="." line="11" column="13" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetServiceTest.java" timestamp="1588669762405">
+        <mark key="[" line="47" column="13" />
+        <mark key="]" line="47" column="22" />
+        <mark key="^" line="47" column="22" />
+        <mark key="." line="47" column="21" />
       </file>
       <file name="/fragment.java" timestamp="1588605808874">
         <mark key="[" line="0" column="0" />
@@ -327,46 +324,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">CQlleHBlY3RlZERhdGVzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">Ly8JCQkuZmlsdGVyKG4gLT4gbi5nZXROdXR6ZWluaGVpdE5yKCkgIT0gMCkgLy8gVE9ETy0xOTU4Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>Date</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>, stationsFile: String, temperaturesFile: String</text>
+        <text encoding="base64">CiAgICAgICAgPEdFUkFFVD4KICAgICAgICAgICAgPE5VTlU+MDAwMDwvTlVOVT4KICAgICAgICAgICAgPEdWRUI+MDAwMDwvR1ZFQj4KICAgICAgICAgICAgPEdFUExaPjE0MzIwPC9HRVBMWj4KICAgICAgICAgICAgPEdFT1JUPkxvaG9ybXM8L0dFT1JUPgogICAgICAgICAgICA8R0VBRFI+TWVya3VyIFN0IDQxNTY8L0dFQURSPgogICAgICAgICAgICA8R0VSSUQ+MjAwMjYyNTE8L0dFUklEPgogICAgICAgICAgICA8R1RZUD5NR1ZFQjwvR1RZUD4KICAgICAgICAgICAgPEdLQVQ+WkFFPC9HS0FUPgogICAgICAgICAgICA8R0dSVT40MDQ8L0dHUlU+CiAgICAgICAgICAgIDxHQVJUPldvbHRtYW5uLCBFaW5iYXUgaG9yaXpvbnQ8L0dBUlQ+CiAgICAgICAgICAgIDxSQVVNPktlbDwvUkFVTT4KICAgICAgICAgICAgPEdFSUI+MDIuMDEuMjAxNDwvR0VJQj4KICAgICAgICAgICAgPEVJTkg+MDAzPC9FSU5IPgogICAgICAgICAgICA8U0tBTEE+WjwvU0tBTEE+CiAgICAgICAgICAgIDxVTUVJUD4wMDAyLDAwMDwvVU1FSVA+CiAgICAgICAgICAgIDxNV0JBUD4wMDAwMDAwMDAsMDAwPC9NV0JBUD4KICAgICAgICAgICAgPEdWRVJCTFNUPgogICAgICAgICAgICAgICAgPEdWRVJTVEk+CiAgICAgICAgICAgICAgICAgICAgPFNUSURBVEU+MjAuMTEuMjAxNDwvU1RJREFURT4KICAgICAgICAgICAgICAgICAgICA8U1RJVElNRT4xNTo0MDowMDwvU1RJVElNRT4KICAgICAgICAgICAgICAgICAgICA8TVdTVEk+MDAwMDAwMzMzLDc4MDwvTVdTVEk+CiAgICAgICAgICAgICAgICA8L0dWRVJTVEk+CiAgICAgICAgICAgICAgICA8R1ZFUlNUST4KICAgICAgICAgICAgICAgICAgICA8U1RJREFURT4zMS4xMi4yMDE0PC9TVElEQVRFPgogICAgICAgICAgICAgICAgICAgIDxTVElUSU1FPjE1OjMwOjAwPC9TVElUSU1FPgogICAgICAgICAgICAgICAgICAgIDxNV1NUST4wMDAwMDAzMzQsMDAwPC9NV1NUST4KICAgICAgICAgICAgICAgICAgICA8U0NISz4wNjwvU0NISz4KICAgICAgICAgICAgICAgICAgICA8SElOVj5Ta29tZW50b3dhd3N6eSBza3J6xJl0bmllIHpncnp5dG7EhcWCIHrEmWJhbWk8L0hJTlY+CiAgICAgICAgICAgICAgICA8L0dWRVJTVEk+CiAgICAgICAgICAgIDwvR1ZFUkJMU1Q+CiAgICAgICAgPC9HRVJBRVQ+CiAgICAgICAgPEdFUkFFVD4KICAgICAgICAgICAgPE5VTlU+MDAwMDwvTlVOVT4KICAgICAgICAgICAgPEdWRUI+MDAwMDwvR1ZFQj4KICAgICAgICAgICAgPEdFUExaPjE0MzIwPC9HRVBMWj4KICAgICAgICAgICAgPEdFT1JUPkxvaG9ybXM8L0dFT1JUPgogICAgICAgICAgICA8R0VBRFI+TWVya3VyIFN0IDQxNTY8L0dFQURSPgogICAgICAgICAgICA8R0VSSUQ+NjA4NjU0MTE8L0dFUklEPgogICAgICAgICAgICA8R1RZUD5NR1ZFQjwvR1RZUD4KICAgICAgICAgICAgPEdLQVQ+WkFFPC9HS0FUPgogICAgICAgICAgICA8R0dSVT40MTI8L0dHUlU+CiAgICAgICAgICAgIDxHQVJUPlNMUC1TdGVja3rDpGhsZXIgT01TPC9HQVJUPgogICAgICAgICAgICA8UkFVTT5LdWM8L1JBVU0+CiAgICAgICAgICAgIDxHRUlCPjA2LjA2LjIwMDg8L0dFSUI+CiAgICAgICAgICAgIDxFSU5IPjAwNTwvRUlOSD4KICAgICAgICAgICAgPFNLQUxBPlo8L1NLQUxBPgogICAgICAgICAgICA8VU1FSVA+MDAwMSwwMDA8L1VNRUlQPgogICAgICAgICAgICA8TVdCQVA+MDAwMDAwMDAwLDAwMDwvTVdCQVA+CiAgICAgICAgPC9HRVJBRVQ+CiAgICAgICAgPEdFUkFFVD4KICAgICAgICAgICAgPE5VTlU+MDAwMDwvTlVOVT4KICAgICAgICAgICAgPEdWRUI+MDAwMDwvR1ZFQj4KICAgICAgICAgICAgPEdFUExaPjE0MzIwPC9HRVBMWj4KICAgICAgICAgICAgPEdFT1JUPkxvaG9ybXM8L0dFT1JUPgogICAgICAgICAgICA8R0VBRFI+TWVya3VyIFN0IDQxNTY8L0dFQURSPgogICAgICAgICAgICA8R0VSSUQ+Z2FzMzUxMTwvR0VSSUQ+CiAgICAgICAgICAgIDxHVFlQPk1HVkVCPC9HVFlQPgogICAgICAgICAgICA8R0tBVD5aQUU8L0dLQVQ+CiAgICAgICAgICAgIDxHR1JVPjAwMDwvR0dSVT4KICAgICAgICAgICAgPEdBUlQvPgogICAgICAgICAgICA8UkFVTT5LdWM8L1JBVU0+CiAgICAgICAgICAgIDxHRUlCPjA2LjA2LjIwMDk8L0dFSUI+CiAgICAgICAgICAgIDxFSU5IPjAwMzwvRUlOSD4KICAgICAgICAgICAgPFNLQUxBPlo8L1NLQUxBPgogICAgICAgICAgICA8VU1FSVA+MDAwMSwwMDA8L1VNRUlQPgogICAgICAgICAgICA8TVdCQVA+MDAwMDAwMDAwLDAwMDwvTVdCQVA+CiAgICAgICAgPC9HRVJBRVQ+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlleHBlY3RlZERhdGVzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
+        <text encoding="base64">Ly8JCQkuZmlsdGVyKG4gLT4gbi5nZXROdXR6ZWluaGVpdE5yKCkgIT0gMCkgLy8gVE9ETy0xOTU4Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCXJldHVybiBsbVNhdHo7Cg==</text>
+        <text encoding="base64">CQlleHBlY3RlZERhdGVzID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNwYXJrUHJvdmlkZXIuc3BhcmsKICAgICAgLnJlYWQKICAgICAgLmZvcm1hdCgiY3N2IikKICAgICAgLm9wdGlvbigiaW5mZXJTY2hlbWEiLCB0cnVlKQogICAgICAubG9hZChmaWxlbmFtZSkK</text>
+        <text encoding="base64">CQkJCXJldHVybiBsbVNhdHo7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIFNwYXJrUHJvdmlkZXIuc3BhcmsKICAgICAgLnJlYWQKICAgICAgLmZvcm1hdCgiY3N2IikKICAgICAgLm9wdGlvbigiaW5mZXJTY2hlbWEiLCB0cnVlKQogICAgICAubG9hZChmaWxlbmFtZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YWwgU1RBVElPTlMgPSAiL3N0YXRpb25zLmNzdiIK</text>
+        <text encoding="base64">ICAgIFNwYXJrUHJvdmlkZXIuc3BhcmsKICAgICAgLnJlYWQKICAgICAgLmZvcm1hdCgiY3N2IikKICAgICAgLm9wdGlvbigiaW5mZXJTY2hlbWEiLCB0cnVlKQogICAgICAubG9hZChmaWxlbmFtZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICB2YWwgU1RBVElPTlMgPSAiL3N0YXRpb25zLmNzdiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNhc2UgY2xhc3MgSW50ZXJtZWRpYXRlKG1vbjogSW50LCBkYXk6IEludCwgbGF0OiBEb3VibGUsICkK</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKSkK</text>
+        <text encoding="base64">ICAgIGNhc2UgY2xhc3MgSW50ZXJtZWRpYXRlKG1vbjogSW50LCBkYXk6IEludCwgbGF0OiBEb3VibGUsICkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLmFzWyhJbnQsIEludCwgRG91YmxlLCBEb3VibGUsIERvdWJsZSldKFJvd0VuY29kZXIoCiAgICAgICAgU3RydWN0VHlwZSgKICAgICAgICAgIFN0cnVjdEZpZWxkKCJtb24iLCBJbnRlZ2VyVHlwZSkgOjoKICAgICAgICAgICAgU3RydWN0RmllbGQoImRheSIsIEludGVnZXJUeXBlKSA6OgogICAgICAgICAgICBTdHJ1Y3RGaWVsZCgibGF0IiwgRG91YmxlVHlwZSwgbnVsbGFibGUgPSBmYWxzZSkgOjoKICAgICAgICAgICAgU3RydWN0RmllbGQoImxvbiIsIERvdWJsZVR5cGUsIG51bGxhYmxlID0gZmFsc2UpIDo6CiAgICAgICAgICAgIFN0cnVjdEZpZWxkKCJ0ZW1wIiwgRG91YmxlVHlwZSwgbnVsbGFibGUgPSBmYWxzZSkgOjoKICAgICAgICAgICAgTmlsCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgKSkK</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
