@@ -127,12 +127,12 @@
       <file name="/Dummy.txt" timestamp="1588728312561">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/geraet/rest/GeraetRestEndpointTest.java" timestamp="1588749882724">
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/geraet/rest/GeraetRestEndpointTest.java" timestamp="1588750034788">
         <mark key="'" line="80" column="39" />
-        <mark key="[" line="116" column="82" />
-        <mark key="]" line="116" column="91" />
-        <mark key="^" line="116" column="91" />
-        <mark key="." line="116" column="90" />
+        <mark key="[" line="116" column="14" />
+        <mark key="]" line="116" column="98" />
+        <mark key="^" line="116" column="98" />
+        <mark key="." line="116" column="97" />
       </file>
       <file name="/console" timestamp="1588735395389">
         <mark key="[" line="0" column="0" />
@@ -322,10 +322,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>1</text>
+        <text>Equals</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>Equals</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
