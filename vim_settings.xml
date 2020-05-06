@@ -117,11 +117,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/common/util/BerechnungUtil.java" timestamp="1588762184731">
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/common/util/BerechnungUtil.java" timestamp="1588767930648">
         <mark key="[" line="59" column="109" />
-        <mark key="]" line="59" column="107" />
-        <mark key="." line="59" column="106" />
-        <mark key="^" line="59" column="107" />
+        <mark key="]" line="59" column="128" />
+        <mark key="." line="59" column="127" />
+        <mark key="^" line="59" column="128" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/service/CommonStromzaehlerManualMessungService.java" timestamp="1588762522167">
         <mark key="[" line="17" column="143" />
@@ -142,7 +142,7 @@
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V384.0__add_kc_wert.sql" timestamp="1588763044732">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588767816227">
+      <file name="/Dummy.txt" timestamp="1588768035518">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/service/CommonKaltwasserzaehlerManualMessungService.java" timestamp="1588762530618">
