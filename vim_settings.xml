@@ -171,9 +171,6 @@
         <mark key="^" line="17" column="222" />
         <mark key="." line="17" column="221" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/geraet/geraet-details/geraet-details.component.ts" timestamp="1588757140674">
-        <mark key="'" line="83" column="4" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/02_insert_base_data.sql" timestamp="1588764857510">
         <mark key="[" line="584" column="146" />
         <mark key="]" line="584" column="153" />
@@ -189,13 +186,19 @@
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/service/CommonHeizkostenverteilerManualMessungService.java" timestamp="1588762578460">
         <mark key="[" line="16" column="245" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/messung/service/MessungServiceConsumptionTest.java" timestamp="1588765651440">
+        <mark key="[" line="161" column="5" />
+        <mark key="]" line="164" column="40" />
+        <mark key="^" line="164" column="40" />
+        <mark key="." line="164" column="39" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/geraet/geraet-details/geraet-details.component.html" timestamp="1588757153955">
         <mark key="'" line="41" column="100" />
       </file>
-      <file name="/fragment.java" timestamp="1588749315743">
+      <file name="/fragment.java" timestamp="1588765714255">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="25" column="37" />
-        <mark key="." line="25" column="37" />
+        <mark key="]" line="32" column="37" />
+        <mark key="." line="32" column="37" />
       </file>
     </filemarks>
     <jumps>
