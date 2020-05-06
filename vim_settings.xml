@@ -139,6 +139,9 @@
         <mark key="[" line="120" column="5" />
         <mark key="]" line="124" column="4" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V384.0__add_kc_wert.sql" timestamp="1588763044732">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1588762017580">
         <mark key="[" line="0" column="0" />
       </file>
@@ -171,8 +174,11 @@
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/geraet/geraet-details/geraet-details.component.ts" timestamp="1588757140674">
         <mark key="'" line="83" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/02_insert_base_data.sql" timestamp="1588761684619">
-        <mark key="[" line="582" column="153" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/02_insert_base_data.sql" timestamp="1588764857510">
+        <mark key="[" line="584" column="146" />
+        <mark key="]" line="584" column="153" />
+        <mark key="^" line="584" column="153" />
+        <mark key="." line="584" column="146" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/service/CommonOelGeraetManualMessungService.java" timestamp="1588762735930">
         <mark key="[" line="16" column="211" />
@@ -183,7 +189,6 @@
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/service/CommonHeizkostenverteilerManualMessungService.java" timestamp="1588762578460">
         <mark key="[" line="16" column="245" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1588749136793" />
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/geraet/geraet-details/geraet-details.component.html" timestamp="1588757153955">
         <mark key="'" line="41" column="100" />
       </file>
