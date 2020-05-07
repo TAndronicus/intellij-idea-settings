@@ -312,17 +312,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkVudGl0eU1hbmFnZXI7Cg==</text>
+      <register name="*" type="4">
+        <text>with</text>
       </register>
       <register name="-" type="4">
-        <text>Equals</text>
+        <text>with</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>, false</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGRlZiB3aXRoRmlsdGVyKGY6IEludCA9PiBCb29sZWFuKSA9IGwud2l0aEZpbHRlcihmKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLkVudGl0eU1hbmFnZXI7Cg==</text>
