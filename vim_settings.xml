@@ -117,7 +117,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/04_insert_geraet_messungen.sql" timestamp="1588916402484" />
       <file name="/console" timestamp="1588926048632">
         <mark key="[" line="0" column="0" />
       </file>
@@ -138,15 +137,21 @@
         <mark key="." line="947" column="16" />
         <mark key="^" line="949" column="51" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteQueueService.java" timestamp="1588932358765">
+        <mark key="[" line="21" column="12" />
+        <mark key="]" line="21" column="20" />
+        <mark key="." line="21" column="19" />
+        <mark key="^" line="21" column="20" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" timestamp="1588916835645">
         <mark key="'" line="228" column="27" />
         <mark key="[" line="257" column="5" />
         <mark key="]" line="257" column="5" />
         <mark key="." line="257" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1588930530271">
-        <mark key="[" line="2" column="94" />
-        <mark key="]" line="4" column="16" />
+      <file name="/fragment.java" timestamp="1588931078804">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="16" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
@@ -255,15 +260,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text>entityManager.createNativeQuery(
-    //@formatter:off
-	&quot;select * from mes_heizkostenverteiler mh where ger_geraet_id = 8018 order by mess_datum;&quot;
-    //@formatter:on
-).getResultList()</text>
+      <register name="*" type="4">
+        <text>peek</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>peek</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
@@ -275,19 +276,9 @@
     //@formatter:on
 ).getResultList()</text>
       </register>
-      <register name="1" type="2">
-        <text>assertEquals(0d,
-			(Double) entityManager.createQuery(
-				//@formatter:off
-					&quot;select m.heatCostAllocator &quot; +
-					&quot;from HeizkostenverteilerMessung m &quot; +
-					&quot;where m.messDatum = :meas_date &quot; +
-					&quot;and m.geraetId = :ger_id&quot;
-				//@formatter:on
-			)
-				.setParameter(&quot;ger_id&quot;, gerId)
-				.setParameter(&quot;meas_date&quot;, DateUtils.toDate(start))
-				.getSingleResult())</text>
+      <register name="1" type="4">
+        <text>.stream()
+			.</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -307,25 +298,36 @@
 				.getSingleResult())</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQl3aXRoVHJhbnNhY3Rpb24oKCkgLT4gZW50aXR5TWFuYWdlci5jcmVhdGVOYXRpdmVRdWVyeSgKCQkJLy9AZm9ybWF0dGVyOm9mZgoJCQkJImRlbGV0ZSAiICsKCQkJCSJmcm9tIG1lc19oZWl6a29zdGVudmVydGVpbGVyICIgKwoJCQkJIndoZXJlIGlkIGluICgxMjAwLCAxMjAxKSIKCQkgICAgLy9AZm9ybWF0dGVyOm9uCgkJKS5leGVjdXRlVXBkYXRlKCkpOwo=</text>
+        <text>assertEquals(0d,
+			(Double) entityManager.createQuery(
+				//@formatter:off
+					&quot;select m.heatCostAllocator &quot; +
+					&quot;from HeizkostenverteilerMessung m &quot; +
+					&quot;where m.messDatum = :meas_date &quot; +
+					&quot;and m.geraetId = :ger_id&quot;
+				//@formatter:on
+			)
+				.setParameter(&quot;ger_id&quot;, gerId)
+				.setParameter(&quot;meas_date&quot;, DateUtils.toDate(start))
+				.getSingleResult())</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQk/Cg==</text>
+        <text encoding="base64">CQl3aXRoVHJhbnNhY3Rpb24oKCkgLT4gZW50aXR5TWFuYWdlci5jcmVhdGVOYXRpdmVRdWVyeSgKCQkJLy9AZm9ybWF0dGVyOm9mZgoJCQkJImRlbGV0ZSAiICsKCQkJCSJmcm9tIG1lc19oZWl6a29zdGVudmVydGVpbGVyICIgKwoJCQkJIndoZXJlIGlkIGluICgxMjAwLCAxMjAxKSIKCQkgICAgLy9AZm9ybWF0dGVyOm9uCgkJKS5leGVjdXRlVXBkYXRlKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCSJhbmQgbWVzc19kYXR1bSBiZXR3ZWVuICcyMDE5LTAxLTAxJyBhbmQgJzIwMjAtMDEtMDEnOyIrCg==</text>
+        <text encoding="base64">CQk/Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJImRlbGV0ZSAiICsKCQkJCSJmcm9tIG1lc19oZWl6a29zdGVudmVydGVpbGVyICIgKwoJCQkJIndoZXJlIGdlcl9nZXJhZXRfaWQgPSA4MDE4ICIgKwo=</text>
+        <text encoding="base64">CQkJCSJhbmQgbWVzc19kYXR1bSBiZXR3ZWVuICcyMDE5LTAxLTAxJyBhbmQgJzIwMjAtMDEtMDEnOyIrCg==</text>
       </register>
       <register name="7" type="2">
-        <text>ersatzwerteService.process()</text>
+        <text encoding="base64">CQkJImRlbGV0ZSAiICsKCQkJCSJmcm9tIG1lc19oZWl6a29zdGVudmVydGVpbGVyICIgKwoJCQkJIndoZXJlIGdlcl9nZXJhZXRfaWQgPSA4MDE4ICIgKwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmFuZCBhYnJfc2NoYWV0emF1ZnRlaWx1bmdfaWRfZXJzZXR6dF9kdXJjaCBpcyBudWxsOwo=</text>
+        <text>ersatzwerteService.process()</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgY29kZSA9ICcxMScKYW5kIGRlbGV0ZWQgPSBmYWxzZQo=</text>
+        <text encoding="base64">CmFuZCBhYnJfc2NoYWV0emF1ZnRlaWx1bmdfaWRfZXJzZXR6dF9kdXJjaCBpcyBudWxsOwo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
