@@ -117,48 +117,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1588915955378">
-        <mark key="[" line="1022" column="0" />
-        <mark key="]" line="1022" column="0" />
-        <mark key="." line="1022" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588923592106">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonLiegenschaftLockService.java" timestamp="1588871000521">
-        <mark key="[" line="78" column="19" />
-        <mark key="]" line="78" column="38" />
-      </file>
-      <file name="/V173.1__create_mes_messungen_aggregated_view.sql" timestamp="1588871139638">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="57" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/common/helpers/DateUtils.java" timestamp="1588875779809">
-        <mark key="'" line="24" column="69" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/04_insert_geraet_messungen.sql" timestamp="1588916402484" />
-      <file name="/console" timestamp="1588915941621">
+      <file name="/console" timestamp="1588926048632">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1588900258066">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="0" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="95" column="73" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1588921869922">
-        <mark key="'" line="786" column="37" />
-        <mark key="[" line="945" column="26" />
-        <mark key="]" line="947" column="16" />
-        <mark key="." line="947" column="16" />
-        <mark key="^" line="949" column="51" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/02_insert_base_data.sql" timestamp="1588916154207" />
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1588915467245">
-        <mark key="'" line="363" column="29" />
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="317" column="0" />
-        <mark key="." line="317" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" timestamp="1588923270612">
         <mark key="'" line="39" column="0" />
@@ -167,19 +128,15 @@
         <mark key="^" line="340" column="11" />
         <mark key="." line="455" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/asafp/src/main/scala/asafp/monad/TryMonad.scala" timestamp="1588909754005">
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="28" column="23" />
-        <mark key="." line="28" column="23" />
-        <mark key="^" line="10" column="3" />
+      <file name="/Dummy.txt" timestamp="1588923592106">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteQueueService.java" timestamp="1588873642299">
-        <mark key="[" line="20" column="56" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/common/model/ersatzwerte/ErsatzwerteDescription.java" timestamp="1588915548187">
-        <mark key="[" line="45" column="78" />
-        <mark key="]" line="45" column="79" />
-        <mark key="." line="45" column="79" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1588921869922">
+        <mark key="'" line="786" column="37" />
+        <mark key="[" line="945" column="26" />
+        <mark key="]" line="947" column="16" />
+        <mark key="." line="947" column="16" />
+        <mark key="^" line="949" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" timestamp="1588916835645">
         <mark key="'" line="228" column="27" />
@@ -187,18 +144,6 @@
         <mark key="]" line="257" column="5" />
         <mark key="." line="257" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/hist/V173.1__create_mes_messungen_aggregated_view.sql" timestamp="1588871184022">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1588900920290">
-        <mark key="[" line="4092" column="41" />
-        <mark key="]" line="4092" column="68" />
-        <mark key="." line="4092" column="67" />
-        <mark key="^" line="4092" column="68" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/06_insert_abrechnung.sql" timestamp="1588916030974" />
       <file name="/fragment.java" timestamp="1588916842920">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
