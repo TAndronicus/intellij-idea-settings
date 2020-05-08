@@ -120,14 +120,13 @@
       <file name="/console" timestamp="1588926048632">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" timestamp="1588930242244">
-        <mark key="'" line="398" column="0" />
-        <mark key="[" line="428" column="25" />
-        <mark key="]" line="428" column="26" />
-        <mark key="." line="428" column="25" />
-        <mark key="^" line="428" column="26" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/02_insert_base_data.sql" timestamp="1588933509537">
+        <mark key="[" line="1146" column="13" />
+        <mark key="]" line="1146" column="14" />
+        <mark key="." line="1146" column="14" />
+        <mark key="^" line="1146" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588923592106">
+      <file name="/Dummy.txt" timestamp="1588933214928">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1588921869922">
@@ -142,12 +141,6 @@
         <mark key="]" line="21" column="20" />
         <mark key="." line="21" column="19" />
         <mark key="^" line="21" column="20" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" timestamp="1588916835645">
-        <mark key="'" line="228" column="27" />
-        <mark key="[" line="257" column="5" />
-        <mark key="]" line="257" column="5" />
-        <mark key="." line="257" column="5" />
       </file>
       <file name="/fragment.java" timestamp="1588931078804">
         <mark key="[" line="0" column="0" />
@@ -261,20 +254,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>peek</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>peek</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text>entityManager.createNativeQuery(
-    //@formatter:off
-	&quot;select * from mes_heizkostenverteiler mh where ger_geraet_id = 8018 order by mess_datum;&quot;
-    //@formatter:on
-).getResultList()</text>
+        <text encoding="base64">ICAoMjAwNTE2LCAnMDInLCAnU2Now6R0enVuZyBuYWNoIFZvcmphaHInLCAnQScpLAo=</text>
       </register>
       <register name="1" type="4">
         <text>.stream()
