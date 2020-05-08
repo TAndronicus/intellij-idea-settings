@@ -152,15 +152,15 @@
         <mark key="]" line="935" column="0" />
         <mark key="." line="935" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1588901720464">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1588902138499">
         <mark key="'" line="127" column="0" />
         <mark key="[" line="322" column="76" />
         <mark key="]" line="323" column="43" />
         <mark key="." line="323" column="42" />
         <mark key="^" line="323" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" timestamp="1588901728214">
-        <mark key="'" line="349" column="0" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" timestamp="1588902819001">
+        <mark key="'" line="337" column="9" />
         <mark key="[" line="380" column="60" />
         <mark key="]" line="380" column="65" />
         <mark key="." line="380" column="64" />
@@ -191,14 +191,13 @@
         <mark key="." line="4092" column="67" />
         <mark key="^" line="4092" column="68" />
       </file>
-      <file name="/fragment.java" timestamp="1588902045597">
+      <file name="/fragment.java" timestamp="1588902128640">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="19" filename="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/java/com/qivalo/portal/AbstractSpringTest.java" />
       <jump line="64" column="9" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/CommonLiegenschaftLockRepository.java" />
       <jump line="50" column="17" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/CommonLiegenschaftLockService.java" />
       <jump line="307" column="26" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" />
@@ -298,6 +297,7 @@
       <jump line="37" column="42" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" />
       <jump line="86" column="43" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" />
       <jump line="349" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" />
+      <jump line="337" column="9" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
