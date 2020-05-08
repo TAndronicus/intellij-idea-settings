@@ -165,10 +165,10 @@
         <mark key="." line="407" column="29" />
         <mark key="^" line="430" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/asafp/src/main/scala/asafp/monad/TryMonad.scala" timestamp="1588909585895">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="10" column="2" />
-        <mark key="." line="10" column="2" />
+      <file name="$USER_HOME$/Workspace/JVM/asafp/src/main/scala/asafp/monad/TryMonad.scala" timestamp="1588909754005">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="23" />
         <mark key="^" line="10" column="3" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteQueueService.java" timestamp="1588873642299">
@@ -302,16 +302,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">ICBjbGFzcyBJbnRMaXN0KGw6IExpc3RbSW50XSkgewogICAgZGVmIG1hcFtCXShmOiBJbnQgPT4gQikgPSBsLm1hcChmKTsKICAgIGRlZiBmbGF0TWFwW0JdKGY6IEludCA9PiBMaXN0W0JdKSA9IGwuZmxhdE1hcChmKTsKICAgIGRlZiB3aXRoRmlsdGVyKGY6IEludCA9PiBCb29sZWFuKSA9IGwud2l0aEZpbHRlcihmKQogIH0=</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICBjbGFzcyBJbnRMaXN0KGw6IExpc3RbSW50XSkgewogICAgZGVmIG1hcFtCXShmOiBJbnQgPT4gQikgPSBsLm1hcChmKTsKICAgIGRlZiBmbGF0TWFwW0JdKGY6IEludCA9PiBMaXN0W0JdKSA9IGwuZmxhdE1hcChmKTsKICAgIGRlZiB3aXRoRmlsdGVyKGY6IEludCA9PiBCb29sZWFuKSA9IGwud2l0aEZpbHRlcihmKQogIH0=</text>
+        <text encoding="base64">CiAgICB2YWwgbXlBID0gbmV3IEludExpc3QoTGlzdCgxKSkKICAgIHZhbCBteUIgPSBuZXcgSW50TGlzdChMaXN0KDIsIDMpKQogICAgZm9yIHsKICAgICAgYSA8LSBteUEKICAgICAgYiA8LSBteUIKICAgICAgaWYgYiAlIDMgPT0gMAogICAgfSB5aWVsZCBuZXcgSW50TGlzdChMaXN0KGEgKyBiKSk=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGRlZiBmaWx0ZXIoZjogSW50ID0+IEJvb2xlYW4pID0gbC5maWx0ZXIoZikK</text>
