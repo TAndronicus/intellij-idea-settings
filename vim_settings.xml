@@ -121,8 +121,8 @@
       <file name="/console" timestamp="1588926048632">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" timestamp="1588929987430">
-        <mark key="'" line="39" column="0" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" timestamp="1588930242244">
+        <mark key="'" line="398" column="0" />
         <mark key="[" line="428" column="25" />
         <mark key="]" line="428" column="26" />
         <mark key="." line="428" column="25" />
@@ -144,14 +144,13 @@
         <mark key="]" line="257" column="5" />
         <mark key="." line="257" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1588929541830">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+      <file name="/fragment.java" timestamp="1588930530271">
+        <mark key="[" line="2" column="94" />
+        <mark key="]" line="4" column="16" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="333" column="77" filename="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/main/java/com/qivalo/portal/core/service/GeraetSyncHelper.java" />
       <jump line="104" column="102" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportHelper.java" />
       <jump line="255" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/MessungenImportServiceTest.java" />
       <jump line="97" column="81" filename="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/service/MessungService.java" />
@@ -251,12 +250,17 @@
       <jump line="786" column="37" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
       <jump line="39" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" />
       <jump line="228" column="27" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" />
+      <jump line="398" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>)</text>
+      <register name="*" type="2">
+        <text>entityManager.createNativeQuery(
+    //@formatter:off
+	&quot;select * from mes_heizkostenverteiler mh where ger_geraet_id = 8018 order by mess_datum;&quot;
+    //@formatter:on
+).getResultList()</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -264,38 +268,64 @@
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CgkJd2l0aFRyYW5zYWN0aW9uKCgpIC0+IGVudGl0eU1hbmFnZXIuY3JlYXRlTmF0aXZlUXVlcnkoCgkJCS8vQGZvcm1hdHRlcjpvZmYKCQkJCSJkZWxldGUgIiArCgkJCQkiZnJvbSBtZXNfaGVpemtvc3RlbnZlcnRlaWxlciAiICsKCQkJCSJ3aGVyZSBpZCBpbiAoMTIwMCwgMTIwMSkiCgkJICAgIC8vQGZvcm1hdHRlcjpvbgoJCSkuZXhlY3V0ZVVwZGF0ZSgpKTs=</text>
+      <register name="0" type="2">
+        <text>entityManager.createNativeQuery(
+    //@formatter:off
+	&quot;select * from mes_heizkostenverteiler mh where ger_geraet_id = 8018 order by mess_datum;&quot;
+    //@formatter:on
+).getResultList()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl3aXRoVHJhbnNhY3Rpb24oKCkgLT4gZW50aXR5TWFuYWdlci5jcmVhdGVOYXRpdmVRdWVyeSgKCQkJLy9AZm9ybWF0dGVyOm9mZgoJCQkJImRlbGV0ZSAiICsKCQkJCSJmcm9tIG1lc19oZWl6a29zdGVudmVydGVpbGVyICIgKwoJCQkJIndoZXJlIGlkIGluICgxMjAwLCAxMjAxKSIKCQkgICAgLy9AZm9ybWF0dGVyOm9uCgkJKS5leGVjdXRlVXBkYXRlKCkpOwo=</text>
+        <text>assertEquals(0d,
+			(Double) entityManager.createQuery(
+				//@formatter:off
+					&quot;select m.heatCostAllocator &quot; +
+					&quot;from HeizkostenverteilerMessung m &quot; +
+					&quot;where m.messDatum = :meas_date &quot; +
+					&quot;and m.geraetId = :ger_id&quot;
+				//@formatter:on
+			)
+				.setParameter(&quot;ger_id&quot;, gerId)
+				.setParameter(&quot;meas_date&quot;, DateUtils.toDate(start))
+				.getSingleResult())</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQk/Cg==</text>
+        <text>assertEquals(0d,
+			(Double) entityManager.createQuery(
+				//@formatter:off
+					&quot;select m.heatCostAllocator &quot; +
+					&quot;from HeizkostenverteilerMessung m &quot; +
+					&quot;where m.messDatum = :meas_date &quot; +
+					&quot;and m.geraetId = :ger_id&quot;
+				//@formatter:on
+			)
+				.setParameter(&quot;ger_id&quot;, gerId)
+				.setParameter(&quot;meas_date&quot;, DateUtils.toDate(start))
+				.getSingleResult())</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCSJhbmQgbWVzc19kYXR1bSBiZXR3ZWVuICcyMDE5LTAxLTAxJyBhbmQgJzIwMjAtMDEtMDEnOyIrCg==</text>
+        <text encoding="base64">CQl3aXRoVHJhbnNhY3Rpb24oKCkgLT4gZW50aXR5TWFuYWdlci5jcmVhdGVOYXRpdmVRdWVyeSgKCQkJLy9AZm9ybWF0dGVyOm9mZgoJCQkJImRlbGV0ZSAiICsKCQkJCSJmcm9tIG1lc19oZWl6a29zdGVudmVydGVpbGVyICIgKwoJCQkJIndoZXJlIGlkIGluICgxMjAwLCAxMjAxKSIKCQkgICAgLy9AZm9ybWF0dGVyOm9uCgkJKS5leGVjdXRlVXBkYXRlKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJImRlbGV0ZSAiICsKCQkJCSJmcm9tIG1lc19oZWl6a29zdGVudmVydGVpbGVyICIgKwoJCQkJIndoZXJlIGdlcl9nZXJhZXRfaWQgPSA4MDE4ICIgKwo=</text>
+        <text encoding="base64">CQk/Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>ersatzwerteService.process()</text>
+        <text encoding="base64">CQkJCSJhbmQgbWVzc19kYXR1bSBiZXR3ZWVuICcyMDE5LTAxLTAxJyBhbmQgJzIwMjAtMDEtMDEnOyIrCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CmFuZCBhYnJfc2NoYWV0emF1ZnRlaWx1bmdfaWRfZXJzZXR6dF9kdXJjaCBpcyBudWxsOwo=</text>
+        <text encoding="base64">CQkJImRlbGV0ZSAiICsKCQkJCSJmcm9tIG1lc19oZWl6a29zdGVudmVydGVpbGVyICIgKwoJCQkJIndoZXJlIGdlcl9nZXJhZXRfaWQgPSA4MDE4ICIgKwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2hlcmUgY29kZSA9ICcxMScKYW5kIGRlbGV0ZWQgPSBmYWxzZQo=</text>
+        <text>ersatzwerteService.process()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBhYnJfc2NoYWV0emF1ZnRlaWx1bmcK</text>
+        <text encoding="base64">CmFuZCBhYnJfc2NoYWV0emF1ZnRlaWx1bmdfaWRfZXJzZXR6dF9kdXJjaCBpcyBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBmaWx0ZXIoZjogSW50ID0+IEJvb2xlYW4pID0gbC5maWx0ZXIoZikK</text>
+        <text encoding="base64">d2hlcmUgY29kZSA9ICcxMScKYW5kIGRlbGV0ZWQgPSBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
