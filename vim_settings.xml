@@ -152,12 +152,12 @@
         <mark key="]" line="935" column="0" />
         <mark key="." line="935" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1588902138499">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1588902887994">
         <mark key="'" line="127" column="0" />
-        <mark key="[" line="322" column="76" />
-        <mark key="]" line="323" column="43" />
-        <mark key="." line="323" column="42" />
-        <mark key="^" line="323" column="43" />
+        <mark key="[" line="316" column="0" />
+        <mark key="]" line="317" column="18" />
+        <mark key="." line="317" column="17" />
+        <mark key="^" line="317" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" timestamp="1588902819001">
         <mark key="'" line="337" column="9" />
@@ -303,10 +303,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>)</text>
+        <text>public</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
