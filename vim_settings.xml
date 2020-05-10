@@ -183,12 +183,12 @@
         <mark key="^" line="82" column="2" />
         <mark key="." line="82" column="1" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1589108477348">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1589109342249">
         <mark key="'" line="4098" column="0" />
         <mark key="[" line="4098" column="0" />
-        <mark key="]" line="4178" column="1" />
-        <mark key="^" line="4098" column="1" />
-        <mark key="." line="4178" column="1" />
+        <mark key="]" line="4183" column="1" />
+        <mark key="^" line="4100" column="81" />
+        <mark key="." line="4100" column="80" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Grading.scala" timestamp="1589044240463">
         <mark key="[" line="11" column="23" />
@@ -324,46 +324,216 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>???</text>
+        <text>create table if not exists artists
+(
+    artist_id character varying not null primary key,
+    name      character varying,
+    location  character varying,
+    lattitude double precision,
+    longitude double precision
+);
+
+create table if not exists songplays
+(
+    songplay_id varchar(32) not null primary key,
+    start_time  timestamp   not null,
+    user_id     int         not null,
+    level       character varying,
+    song_id     character varying,
+    artistid    character varying,
+    session_id  int,
+    location    character varying,
+    user_agent  character varying
+);
+
+create table if not exists songs
+(
+    song_id   character varying not null primary key,
+    title     character varying,
+    artist_id character varying,
+    year      int,
+    duration  double precision
+);
+
+create table if not exists staging_events
+(
+    artist        character varying,
+    auth          character varying,
+    firstname     character varying,
+    gender        character varying,
+    iteminsession int,
+    lastname      character varying,
+    length        double precision,
+    level         character varying,
+    location      character varying,
+    method        character varying,
+    page          character varying,
+    registration  double precision,
+    sessionid     int,
+    song          character varying,
+    status        int,
+    ts            timestamp,
+    useragent     character varying,
+    userid        int
+);
+
+create table if not exists staging_songs
+(
+    num_songs        int,
+    artist_id        character varying,
+    artist_name      character varying,
+    artist_latitude  double precision,
+    artist_longitude double precision,
+    artist_location  character varying,
+    song_id          character varying,
+    title            character varying,
+    duration         double precision,
+    year             int
+);
+
+create table if not exists times
+(
+    start_time timestamp primary key,
+    hour       integer,
+    day        integer,
+    week       integer,
+    month      integer,
+    year       integer,
+    weekday    integer
+);
+
+create table if not exists users
+(
+    user_id    int not null primary key,
+    first_name character varying,
+    last_name  character varying,
+    gender     character varying,
+    level      character varying
+);</text>
       </register>
       <register name="-" type="4">
-        <text>???</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>(year, zoom, x, y, data)</text>
+        <text>create table if not exists artists
+(
+    artist_id character varying not null primary key,
+    name      character varying,
+    location  character varying,
+    lattitude double precision,
+    longitude double precision
+);
+
+create table if not exists songplays
+(
+    songplay_id varchar(32) not null primary key,
+    start_time  timestamp   not null,
+    user_id     int         not null,
+    level       character varying,
+    song_id     character varying,
+    artistid    character varying,
+    session_id  int,
+    location    character varying,
+    user_agent  character varying
+);
+
+create table if not exists songs
+(
+    song_id   character varying not null primary key,
+    title     character varying,
+    artist_id character varying,
+    year      int,
+    duration  double precision
+);
+
+create table if not exists staging_events
+(
+    artist        character varying,
+    auth          character varying,
+    firstname     character varying,
+    gender        character varying,
+    iteminsession int,
+    lastname      character varying,
+    length        double precision,
+    level         character varying,
+    location      character varying,
+    method        character varying,
+    page          character varying,
+    registration  double precision,
+    sessionid     int,
+    song          character varying,
+    status        int,
+    ts            timestamp,
+    useragent     character varying,
+    userid        int
+);
+
+create table if not exists staging_songs
+(
+    num_songs        int,
+    artist_id        character varying,
+    artist_name      character varying,
+    artist_latitude  double precision,
+    artist_longitude double precision,
+    artist_location  character varying,
+    song_id          character varying,
+    title            character varying,
+    duration         double precision,
+    year             int
+);
+
+create table if not exists times
+(
+    start_time timestamp primary key,
+    hour       integer,
+    day        integer,
+    week       integer,
+    month      integer,
+    year       integer,
+    weekday    integer
+);
+
+create table if not exists users
+(
+    user_id    int not null primary key,
+    first_name character varying,
+    last_name  character varying,
+    gender     character varying,
+    level      character varying
+);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRpbGUgb2Zmc2V0IG9mIHRoaXMgdGlsZSBpbiB0aGUgem9vbSs4IGNvb3JkaW5hdGUgc3lzdGVtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCBzb25nc19wa2V5IHByaW1hcnkga2V5IChzb25naWQpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCB1c2Vyc19wa2V5IHByaW1hcnkga2V5ICh1c2VyaWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnN0cmFpbnQgc29uZ3BsYXlzX3BrZXkgcHJpbWFyeSBrZXkgKHBsYXlpZCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZm9yICgpIHsK</text>
+        <text encoding="base64">ICAgIC8vIFRpbGUgb2Zmc2V0IG9mIHRoaXMgdGlsZSBpbiB0aGUgem9vbSs4IGNvb3JkaW5hdGUgc3lzdGVtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgY2F0Y2ggewogICAgICAgICAgY2FzZSBlOiBBcnJheUluZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb24gPT4gewogICAgICAgICAgICBwcmludGxuKHMiaW5kZXggZXJyb3IgbG9jID0gJGxvYywgJHgwICR0aWxlWCAkeTAgJHRpbGVZIikKICAgICAgICAgICAgdGhyb3cgZQogICAgICAgICAgfQogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgY2F0Y2ggewogICAgICAgICAgY2FzZSBlOiBBcnJheUluZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb24gPT4gewogICAgICAgICAgICBwcmludGxuKHMiaW5kZXggZXJyb3IgbG9jID0gJGxvYywgJHgwICR0aWxlWCAkeTAgJHRpbGVZIikKICAgICAgICAgICAgdGhyb3cgZQogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgZm9yICgpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCB3aWR0aCA9IDI1NgogICAgdmFsIGhlaWdodCA9IDI1Ngo=</text>
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgY2F0Y2ggewogICAgICAgICAgY2FzZSBlOiBBcnJheUluZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb24gPT4gewogICAgICAgICAgICBwcmludGxuKHMiaW5kZXggZXJyb3IgbG9jID0gJGxvYywgJHgwICR0aWxlWCAkeTAgJHRpbGVZIikKICAgICAgICAgICAgdGhyb3cgZQogICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogIC8qKgogICAgKiBAcGFyYW0gcG9pbnQgKHgsIHkpIGNvb3JkaW5hdGVzIG9mIGEgcG9pbnQgaW4gdGhlIGdyaWQgY2VsbAogICAgKiBAcGFyYW0gZDAwIFRvcC1sZWZ0IHZhbHVlCiAgICAqIEBwYXJhbSBkMDEgQm90dG9tLWxlZnQgdmFsdWUKICAgICogQHBhcmFtIGQxMCBUb3AtcmlnaHQgdmFsdWUKICAgICogQHBhcmFtIGQxMSBCb3R0b20tcmlnaHQgdmFsdWUKICAgICogQHJldHVybiBBIGd1ZXNzIG9mIHRoZSB2YWx1ZSBhdCAoeCwgeSkgYmFzZWQgb24gdGhlIGZvdXIga25vd24gdmFsdWVzLCB1c2luZyBiaWxpbmVhciBpbnRlcnBvbGF0aW9uCiAgICAqICAgICAgICAgU2VlIGh0dHBzOi8vZW4ud2lraXBlZGlhLm9yZy93aWtpL0JpbGluZWFyX2ludGVycG9sYXRpb24jVW5pdF9TcXVhcmUKICAgICovCiAgZGVmIGJpbGluZWFySW50ZXJwb2xhdGlvbigKICAgIHBvaW50OiBDZWxsUG9pbnQsCiAgICBkMDA6IFRlbXBlcmF0dXJlLAogICAgZDAxOiBUZW1wZXJhdHVyZSwKICAgIGQxMDogVGVtcGVyYXR1cmUsCiAgICBkMTE6IFRlbXBlcmF0dXJlCiAgKTogVGVtcGVyYXR1cmUgPSB7CiAgICA/Pz8KICB9CgogIC8qKgogICAgKiBAcGFyYW0gZ3JpZCBHcmlkIHRvIHZpc3VhbGl6ZQogICAgKiBAcGFyYW0gY29sb3JzIENvbG9yIHNjYWxlIHRvIHVzZQogICAgKiBAcGFyYW0gdGlsZSBUaWxlIGNvb3JkaW5hdGVzIHRvIHZpc3VhbGl6ZQogICAgKiBAcmV0dXJuIFRoZSBpbWFnZSBvZiB0aGUgdGlsZSBhdCAoeCwgeSwgem9vbSkgc2hvd2luZyB0aGUgZ3JpZCB1c2luZyB0aGUgZ2l2ZW4gY29sb3Igc2NhbGUKICAgICovCiAgZGVmIHZpc3VhbGl6ZUdyaWQoCiAgICBncmlkOiBHcmlkTG9jYXRpb24gPT4gVGVtcGVyYXR1cmUsCiAgICBjb2xvcnM6IEl0ZXJhYmxlWyhUZW1wZXJhdHVyZSwgQ29sb3IpXSwKICAgIHRpbGU6IFRpbGUKICApOiBJbWFnZSA9IHsKICAgID8/PwogIH0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9CiAgICAgICAgY2F0Y2ggewogICAgICAgICAgY2FzZSBlOiBBcnJheUluZGV4T3V0T2ZCb3VuZHNFeGNlcHRpb24gPT4gewogICAgICAgICAgICBwcmludGxuKHMiaW5kZXggZXJyb3IgbG9jID0gJGxvYywgJHgwICR0aWxlWCAkeTAgJHRpbGVZIikKICAgICAgICAgICAgdGhyb3cgZQogICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>so ~/.ideavimrc</text>
