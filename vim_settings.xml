@@ -119,12 +119,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Extraction.scala" timestamp="1588986399056">
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="80" column="53" />
-        <mark key="." line="87" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Manipulation.scala" timestamp="1589032639968">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -157,17 +151,6 @@
         <mark key="]" line="284" column="24" />
         <mark key="." line="284" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Const.scala" timestamp="1588988405146">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="4" column="5" />
-        <mark key="^" line="4" column="6" />
-      </file>
-      <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/models.scala" timestamp="1588988060295">
-        <mark key="[" line="44" column="49" />
-        <mark key="]" line="44" column="3" />
-        <mark key="." line="44" column="49" />
-      </file>
       <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Grid.scala" timestamp="1589032511150">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="22" />
@@ -193,6 +176,18 @@
         <mark key="[" line="245" column="23" />
         <mark key="]" line="245" column="24" />
         <mark key="." line="245" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/abrechnung/stammdaten/rest/AbrechnungSchaetzaufteilungRestEndpointTest.java" timestamp="1589182997673">
+        <mark key="[" line="38" column="9" />
+        <mark key="]" line="38" column="20" />
+        <mark key="." line="38" column="19" />
+        <mark key="^" line="38" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/abrechnung/stammdaten/service/AbrechnungSchaetzaufteilungServiceTest.java" timestamp="1589183110926">
+        <mark key="[" line="145" column="97" />
+        <mark key="]" line="145" column="98" />
+        <mark key="^" line="145" column="98" />
+        <mark key="." line="145" column="98" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/resources/DTV-TRENNUNG-STRANGSCHEMA.xml" timestamp="1589181376600">
         <mark key="'" line="12" column="15" />
@@ -221,6 +216,12 @@
         <mark key="[" line="11" column="23" />
         <mark key="]" line="11" column="24" />
         <mark key="." line="11" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/resources/S-TEST.xml" timestamp="1589183596555">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="10" />
+        <mark key="." line="24" column="9" />
+        <mark key="^" line="24" column="10" />
       </file>
     </filemarks>
     <jumps>
@@ -329,92 +330,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>create table if not exists artists
-(
-    artist_id character varying not null primary key,
-    name      character varying,
-    location  character varying,
-    lattitude double precision,
-    longitude double precision
-);
-
-create table if not exists songplays
-(
-    songplay_id varchar(32) not null primary key,
-    start_time  timestamp   not null,
-    user_id     int         not null,
-    level       character varying,
-    song_id     character varying,
-    artistid    character varying,
-    session_id  int,
-    location    character varying,
-    user_agent  character varying
-);
-
-create table if not exists songs
-(
-    song_id   character varying not null primary key,
-    title     character varying,
-    artist_id character varying,
-    year      int,
-    duration  double precision
-);
-
-create table if not exists staging_events
-(
-    artist        character varying,
-    auth          character varying,
-    firstname     character varying,
-    gender        character varying,
-    iteminsession int,
-    lastname      character varying,
-    length        double precision,
-    level         character varying,
-    location      character varying,
-    method        character varying,
-    page          character varying,
-    registration  double precision,
-    sessionid     int,
-    song          character varying,
-    status        int,
-    ts            timestamp,
-    useragent     character varying,
-    userid        int
-);
-
-create table if not exists staging_songs
-(
-    num_songs        int,
-    artist_id        character varying,
-    artist_name      character varying,
-    artist_latitude  double precision,
-    artist_longitude double precision,
-    artist_location  character varying,
-    song_id          character varying,
-    title            character varying,
-    duration         double precision,
-    year             int
-);
-
-create table if not exists times
-(
-    start_time timestamp primary key,
-    hour       integer,
-    day        integer,
-    week       integer,
-    month      integer,
-    year       integer,
-    weekday    integer
-);
-
-create table if not exists users
-(
-    user_id    int not null primary key,
-    first_name character varying,
-    last_name  character varying,
-    gender     character varying,
-    level      character varying
-);</text>
+        <text encoding="base64">CgkJYXNzZXJ0RXF1YWxzKHNjaGFldHphdWZ0ZWlsdW5nZW4uZ2V0KDEpLmdldElkKCksIDFMKTsKCQlhc3NlcnRFcXVhbHMoc2NoYWV0emF1ZnRlaWx1bmdlbi5nZXQoMSkuaXNEZWxldGVkKCksIHRydWUpOw==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -423,92 +339,7 @@ create table if not exists users
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>create table if not exists artists
-(
-    artist_id character varying not null primary key,
-    name      character varying,
-    location  character varying,
-    lattitude double precision,
-    longitude double precision
-);
-
-create table if not exists songplays
-(
-    songplay_id varchar(32) not null primary key,
-    start_time  timestamp   not null,
-    user_id     int         not null,
-    level       character varying,
-    song_id     character varying,
-    artistid    character varying,
-    session_id  int,
-    location    character varying,
-    user_agent  character varying
-);
-
-create table if not exists songs
-(
-    song_id   character varying not null primary key,
-    title     character varying,
-    artist_id character varying,
-    year      int,
-    duration  double precision
-);
-
-create table if not exists staging_events
-(
-    artist        character varying,
-    auth          character varying,
-    firstname     character varying,
-    gender        character varying,
-    iteminsession int,
-    lastname      character varying,
-    length        double precision,
-    level         character varying,
-    location      character varying,
-    method        character varying,
-    page          character varying,
-    registration  double precision,
-    sessionid     int,
-    song          character varying,
-    status        int,
-    ts            timestamp,
-    useragent     character varying,
-    userid        int
-);
-
-create table if not exists staging_songs
-(
-    num_songs        int,
-    artist_id        character varying,
-    artist_name      character varying,
-    artist_latitude  double precision,
-    artist_longitude double precision,
-    artist_location  character varying,
-    song_id          character varying,
-    title            character varying,
-    duration         double precision,
-    year             int
-);
-
-create table if not exists times
-(
-    start_time timestamp primary key,
-    hour       integer,
-    day        integer,
-    week       integer,
-    month      integer,
-    year       integer,
-    weekday    integer
-);
-
-create table if not exists users
-(
-    user_id    int not null primary key,
-    first_name character varying,
-    last_name  character varying,
-    gender     character varying,
-    level      character varying
-);</text>
+        <text encoding="base64">CgkJYXNzZXJ0RXF1YWxzKHNjaGFldHphdWZ0ZWlsdW5nZW4uZ2V0KDEpLmdldElkKCksIDFMKTsKCQlhc3NlcnRFcXVhbHMoc2NoYWV0emF1ZnRlaWx1bmdlbi5nZXQoMSkuaXNEZWxldGVkKCksIHRydWUpOw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29uc3RyYWludCBzb25nc19wa2V5IHByaW1hcnkga2V5IChzb25naWQpCg==</text>
