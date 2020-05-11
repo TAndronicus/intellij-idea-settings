@@ -130,7 +130,7 @@
         <mark key="]" line="278" column="28" />
         <mark key="." line="278" column="28" />
       </file>
-      <file name="/console" timestamp="1589108437743">
+      <file name="/console" timestamp="1589194928542">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Interaction.scala" timestamp="1589010890150">
@@ -157,7 +157,7 @@
         <mark key="^" line="149" column="20" />
         <mark key="." line="149" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589181458012">
+      <file name="/Dummy.txt" timestamp="1589196211540">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Visualization2.scala" timestamp="1589044224586">
@@ -171,11 +171,11 @@
         <mark key="]" line="245" column="24" />
         <mark key="." line="245" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/abrechnung/stammdaten/rest/AbrechnungSchaetzaufteilungRestEndpointTest.java" timestamp="1589182997673">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/abrechnung/stammdaten/rest/AbrechnungSchaetzaufteilungRestEndpointTest.java" timestamp="1589196068919">
         <mark key="[" line="38" column="9" />
-        <mark key="]" line="38" column="20" />
-        <mark key="." line="38" column="19" />
-        <mark key="^" line="38" column="20" />
+        <mark key="]" line="38" column="9" />
+        <mark key="." line="38" column="9" />
+        <mark key="^" line="51" column="66" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/abrechnung/stammdaten/service/AbrechnungSchaetzaufteilungServiceTest.java" timestamp="1589183110926">
         <mark key="[" line="145" column="97" />
@@ -194,9 +194,9 @@
         <mark key="]" line="531" column="28" />
         <mark key="." line="531" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1589109342249">
-        <mark key="'" line="4098" column="0" />
-        <mark key="[" line="4098" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1589194882650">
+        <mark key="'" line="4097" column="0" />
+        <mark key="[" line="4183" column="2" />
         <mark key="]" line="4183" column="1" />
         <mark key="^" line="4100" column="81" />
         <mark key="." line="4100" column="80" />
@@ -211,7 +211,8 @@
         <mark key="]" line="11" column="24" />
         <mark key="." line="11" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/resources/S-TEST.xml" timestamp="1589183596555">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/resources/S-TEST.xml" timestamp="1589194969112">
+        <mark key="'" line="24" column="9" />
         <mark key="[" line="24" column="8" />
         <mark key="]" line="24" column="10" />
         <mark key="." line="24" column="9" />
@@ -224,8 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/08_insert_notifications.sql" />
-      <jump line="89" column="8" filename="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/test/scala/wikipedia/WikipediaSuite.scala" />
       <jump line="137" column="0" filename="$USER_HOME$/Workspace/JVM/big-data/wikipedia/src/test/scala/wikipedia/WikipediaSuite.scala" />
       <jump line="89" column="11" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/oilfox/service/OilFoxUpdateService.java" />
       <jump line="149" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/oilfox/service/OilFoxUpdateService.java" />
@@ -324,15 +323,17 @@
       <jump line="4055" column="22" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="4098" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="12" column="15" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/resources/DTV-TRENNUNG-STRANGSCHEMA.xml" />
+      <jump line="4097" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
+      <jump line="24" column="9" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/resources/S-TEST.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">CgkJYXNzZXJ0RXF1YWxzKHNjaGFldHphdWZ0ZWlsdW5nZW4uZ2V0KDEpLmdldElkKCksIDFMKTsKCQlhc3NlcnRFcXVhbHMoc2NoYWV0emF1ZnRlaWx1bmdlbi5nZXQoMSkuaXNEZWxldGVkKCksIHRydWUpOw==</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
