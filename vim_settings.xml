@@ -181,12 +181,12 @@
         <mark key="]" line="531" column="28" />
         <mark key="." line="531" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1589220462388">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1589261718566">
         <mark key="'" line="4097" column="0" />
-        <mark key="[" line="4100" column="27" />
-        <mark key="]" line="4098" column="0" />
-        <mark key="^" line="4099" column="11" />
-        <mark key="." line="4098" column="0" />
+        <mark key="[" line="4138" column="11" />
+        <mark key="]" line="4140" column="15" />
+        <mark key="^" line="4140" column="15" />
+        <mark key="." line="4140" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/resources/DTV-NEUGERAETE.xml" timestamp="1589181350134">
         <mark key="[" line="241" column="27" />
@@ -328,17 +328,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">CXB1YmxpYyBBYnJlY2hudW5nU2NoYWV0emF1ZnRlaWx1bmdTZXJ2aWNlKEFicmVjaG51bmdTY2hhZXR6YXVmdGVpbHVuZ1JlcG9zaXRvcnkgc2NoYWV0emF1ZnRlaWx1bmdSZXBvLCBDb21tb25BYnJlY2hudW5nRGF0YVNlcnZpY2UgYWJyZWNobnVuZ0RhdGFTZXJ2aWNlLCBNYXBwaW5nSGVscGVyIG1hcHBpbmdIZWxwZXIsIE1lc3N1bmdSZXBvc2l0b3J5IG1lc3N1bmdSZXBvc2l0b3J5LCBBYnJlY2hudW5nU3RhbW1kYXRlblNlcnZpY2Ugc3RhbW1kYXRlblNlcnZpY2UpIHsKCQl0aGlzLnNjaGFldHphdWZ0ZWlsdW5nUmVwbyA9IHNjaGFldHphdWZ0ZWlsdW5nUmVwbzsKCQl0aGlzLmFicmVjaG51bmdEYXRhU2VydmljZSA9IGFicmVjaG51bmdEYXRhU2VydmljZTsKCQl0aGlzLm1hcHBpbmdIZWxwZXIgPSBtYXBwaW5nSGVscGVyOwoJCXRoaXMubWVzc3VuZ1JlcG9zaXRvcnkgPSBtZXNzdW5nUmVwb3NpdG9yeTsKCQl0aGlzLnN0YW1tZGF0ZW5TZXJ2aWNlID0gc3RhbW1kYXRlblNlcnZpY2U7Cgl9Cgo=</text>
+      <register name="*" type="4">
+        <text>im</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>im</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>lpad((code::int + 1)::character varying, 2, '0')</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZHJvcCB0YWJsZSBpbTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CXB1YmxpYyBBYnJlY2hudW5nU2NoYWV0emF1ZnRlaWx1bmdTZXJ2aWNlKEFicmVjaG51bmdTY2hhZXR6YXVmdGVpbHVuZ1JlcG9zaXRvcnkgc2NoYWV0emF1ZnRlaWx1bmdSZXBvLCBDb21tb25BYnJlY2hudW5nRGF0YVNlcnZpY2UgYWJyZWNobnVuZ0RhdGFTZXJ2aWNlLCBNYXBwaW5nSGVscGVyIG1hcHBpbmdIZWxwZXIsIE1lc3N1bmdSZXBvc2l0b3J5IG1lc3N1bmdSZXBvc2l0b3J5LCBBYnJlY2hudW5nU3RhbW1kYXRlblNlcnZpY2Ugc3RhbW1kYXRlblNlcnZpY2UpIHsKCQl0aGlzLnNjaGFldHphdWZ0ZWlsdW5nUmVwbyA9IHNjaGFldHphdWZ0ZWlsdW5nUmVwbzsKCQl0aGlzLmFicmVjaG51bmdEYXRhU2VydmljZSA9IGFicmVjaG51bmdEYXRhU2VydmljZTsKCQl0aGlzLm1hcHBpbmdIZWxwZXIgPSBtYXBwaW5nSGVscGVyOwoJCXRoaXMubWVzc3VuZ1JlcG9zaXRvcnkgPSBtZXNzdW5nUmVwb3NpdG9yeTsKCQl0aGlzLnN0YW1tZGF0ZW5TZXJ2aWNlID0gc3RhbW1kYXRlblNlcnZpY2U7Cgl9Cgo=</text>
