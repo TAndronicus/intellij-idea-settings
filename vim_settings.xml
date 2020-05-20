@@ -123,12 +123,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Manipulation.scala" timestamp="1589032639968">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="48" column="10" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/resources/DTV-ALTGERAETE.xml" timestamp="1589181125515">
         <mark key="[" line="278" column="27" />
         <mark key="]" line="278" column="28" />
@@ -139,6 +133,12 @@
       </file>
       <file name="/console" timestamp="1589220394112">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/LaTeX/dtd/dtd.tex" timestamp="1589988366206">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V386.0__update_abr_schaetzaufteilung.sql" timestamp="1589197012015">
         <mark key="[" line="3" column="57" />
@@ -333,17 +333,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPFNDSEs+MDY8L1NDSEs+Cg==</text>
+      <register name="*" type="4">
+        <text>ieeeaccess</text>
       </register>
       <register name="-" type="4">
-        <text>im</text>
+        <text>ieeeaccess</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8U0NISz4wNjwvU0NISz4K</text>
+        <text encoding="base64">XGRvY3VtZW50Y2xhc3N7aWVlZWFjY2Vzc30K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkJCQkJPFNDSEs+MDY8L1NDSEs+Cg==</text>
