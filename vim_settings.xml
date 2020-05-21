@@ -197,10 +197,11 @@
         <mark key="]" line="241" column="28" />
         <mark key="." line="241" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/Kotlin for Java Developers. Week 2/Mastermind/Task/src/mastermind/evaluateGuess.kt" timestamp="1590023153181">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Workspace/JVM/Kotlin for Java Developers. Week 2/Mastermind/Task/src/mastermind/evaluateGuess.kt" timestamp="1590023357894">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="16" column="11" />
+        <mark key="." line="16" column="10" />
+        <mark key="^" line="16" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/observatory/src/main/scala/observatory/Grading.scala" timestamp="1589044240463">
         <mark key="[" line="11" column="23" />
@@ -337,17 +338,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIGVsc2UgaWYgKGZpcnN0LmdldCgwKSA9PSBzZWNvbmQuKQo=</text>
+      <register name="*" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>count</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VjcmV0LnRvQ2hhckFycmF5KCkuemlwKGd1ZXNzLnRvQ2hhckFycmF5KCkpLmNvdW50IHsgaXQuZmlyc3QgPT0gaXQuc2Vjb25kIH0K</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdFswXSA8IHNlY29uZFswXSAtPiBnZXRDb21tb25MZXR0ZXJDb3VudChmaXJzdC5kcm9wKDEpLCBzZWNvbmQsIGNvdW50KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGVsc2UgaWYgKGZpcnN0LmdldCgwKSA9PSBzZWNvbmQuKQo=</text>
