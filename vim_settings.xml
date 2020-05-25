@@ -123,12 +123,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/abrechnung/core/service/AbrechnungService.java" timestamp="1590370816420">
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/abrechnung/core/service/AbrechnungService.java" timestamp="1590372001830">
         <mark key="'" line="235" column="22" />
-        <mark key="[" line="235" column="49" />
-        <mark key="]" line="236" column="51" />
-        <mark key="^" line="236" column="51" />
-        <mark key="." line="236" column="50" />
+        <mark key="[" line="236" column="49" />
+        <mark key="]" line="236" column="57" />
+        <mark key="^" line="236" column="57" />
+        <mark key="." line="236" column="56" />
       </file>
       <file name="/console" timestamp="1590368653472">
         <mark key="[" line="0" column="0" />
@@ -145,7 +145,8 @@
         <mark key="^" line="48" column="28" />
         <mark key="." line="48" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvService.java" timestamp="1590370129301">
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvService.java" timestamp="1590371210469">
+        <mark key="'" line="53" column="35" />
         <mark key="[" line="69" column="79" />
         <mark key="]" line="69" column="91" />
         <mark key="^" line="69" column="91" />
@@ -161,8 +162,12 @@
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/abrechnung/abrechnung-form/abrechnung-form.component.html" timestamp="1590370215331" />
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/abrechnung/core/rest/AbrechnungRestEndpoint.java" timestamp="1590370394674" />
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/abrechnung/service/CommonAbrechnungService.java" timestamp="1590370823153">
-        <mark key="[" line="93" column="15" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/abrechnung/service/CommonAbrechnungService.java" timestamp="1590372084790">
+        <mark key="'" line="29" column="45" />
+        <mark key="[" line="109" column="13" />
+        <mark key="]" line="109" column="28" />
+        <mark key="." line="109" column="27" />
+        <mark key="^" line="109" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/LaTeX/dtd/dtd.tex" timestamp="1589988366206">
         <mark key="[" line="0" column="16" />
@@ -176,11 +181,9 @@
         <mark key="." line="6" column="12" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/abrechnung/stammdaten/service/AbrechnungSchaetzaufteilungServiceTest.java" timestamp="1589204014263">
-        <mark key="[" line="84" column="50" />
-        <mark key="]" line="84" column="19" />
-        <mark key="^" line="84" column="19" />
-        <mark key="." line="84" column="18" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1590371373381">
+        <mark key="[" line="373" column="50" />
+        <mark key="]" line="386" column="43" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/resources/DTV-TRENNUNG-STRANGSCHEMA.xml" timestamp="1589276963571">
         <mark key="'" line="12" column="15" />
@@ -194,11 +197,12 @@
         <mark key="." line="164" column="20" />
         <mark key="^" line="164" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1590369048388">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1590371908535">
         <mark key="'" line="4097" column="0" />
-        <mark key="[" line="4101" column="0" />
-        <mark key="]" line="4101" column="0" />
-        <mark key="." line="4101" column="0" />
+        <mark key="[" line="4105" column="0" />
+        <mark key="]" line="4112" column="117" />
+        <mark key="." line="4112" column="116" />
+        <mark key="^" line="4112" column="117" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/resources/DTV-NEUGERAETE.xml" timestamp="1589267827633">
         <mark key="[" line="241" column="27" />
@@ -213,10 +217,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/oilfox/service/OilFoxUpdateService.java" />
-      <jump line="83" column="8" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/oilfox/service/OilFoxUpdateService.java" />
-      <jump line="88" column="60" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/oilfox/service/OilFoxUpdateService.java" />
-      <jump line="47" column="18" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonLiegenschaftLockService.java" />
       <jump line="122" column="54" filename="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" />
       <jump line="183" column="48" filename="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" />
       <jump line="292" column="80" filename="$USER_HOME$/Workspace/JVM/big-data/stackoverflow/src/main/scala/stackoverflow/StackOverflow.scala" />
@@ -313,51 +313,68 @@
       <jump line="24" column="9" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/resources/S-TEST.xml" />
       <jump line="231" column="19" filename="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/abrechnung/core/service/AbrechnungService.java" />
       <jump line="235" column="22" filename="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/abrechnung/core/service/AbrechnungService.java" />
+      <jump line="53" column="35" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/abrechnung/service/CommonAbrechnungService.java" />
+      <jump line="94" column="4" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/abrechnung/service/CommonAbrechnungService.java" />
+      <jump line="29" column="45" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/abrechnung/service/CommonAbrechnungService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="*" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>else 0</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaXJzdFswXSA8IHNlY29uZFswXSAtPiBnZXRDb21tb25MZXR0ZXJDb3VudChmaXJzdC5kcm9wKDEpLCBzZWNvbmQsIGNvdW50KQo=</text>
+      <register name="0" type="4">
+        <text>with t(liegenschaft_id, start_date, end_date) as (
+    select lie_liegenschaft_id, start_date_de, end_date_de
+    from abr_abrechnung
+    where id = 0
+)
+delete
+from mes_sperre ms
+where (ms.lie_liegenschaft_id, ms.beginn_de, ms.ende_de) = (select t.liegenschaft_id, t.start_date, t.end_date from t)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>delete from mes_sperre &quot; +
+				&quot;select nextval('mes_sperre_id_seq'), &quot; +
+					&quot;aa.lie_liegenschaft_id, &quot; +
+					&quot;aa.start_date_de, &quot; +
+					&quot;aa.end_date_de + interval '1 day' &quot; +
+				&quot;from abr_abrechnung aa where aa.id = :abrId &quot; +
+				&quot;returning id;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZHJvcCB0YWJsZSBpbTsKZHJvcCB0YWJsZSBjaXR5Owpkcm9wIHRhYmxlIHBvcnQ7CmRyb3AgdGFibGUgY291bnRyeTsKZHJvcCB0YWJsZSBhZGRyOwo=</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGk5NG1vZGUgaW50LAogICAgaTk0YWRkciBjaGFyYWN0ZXIgdmFyeWluZyByZWZlcmVuY2VzIGFkZHIoYWRkcl9jb2RlKQopOwo=</text>
+        <text encoding="base64">CQkJLmdldFNpbmdsZVJlc3VsdCgpKS5sb25nVmFsdWUoKTsKCQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGk5NG1vZGUgaW50LAogICAgaTk0YWRkciBjaGFyYWN0ZXIgdmFyeWluZyByZWZlcmVuY2VzIGFkZHIoYWRkcl9jb2RlKQopOwoKZHJvcCB0YWJsZSBpbTsKZHJvcCB0YWJsZSBjaXR5Owpkcm9wIHRhYmxlIHBvcnQ7CmRyb3AgdGFibGUgY291bnRyeTsKZHJvcCB0YWJsZSBhZGRyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CmNyZWF0ZSB0YWJsZSBhZGRyKAogICAgYWRkcl9jb2RlIGNoYXJhY3RlciB2YXJ5aW5nIHByaW1hcnkga2V5LAogICAgYWRkcl9uYW1lIGNoYXJhY3RlciB2YXJ5aW5nCik7Cgpkcm9wIHRhYmxlIHBvcnQ7CgpjcmVhdGUgdGFibGUgcG9ydCgKICAgIHBvcnRfY29kZSBjaGFyYWN0ZXIgdmFyeWluZyBub3QgbnVsbCBwcmltYXJ5IGtleSwKICAgIHBvcnRfY2l0eSBjaGFyYWN0ZXIgdmFyeWluZyBub3QgbnVsbCB1bmlxdWUsCiAgICBwb3J0X2FiYnIgY2hhcmFjdGVyIHZhcnlpbmcKKTsKCmNyZWF0ZSB0YWJsZSBjb3VudHJ5KAogICAgY291bnRyeV9jb2RlIGludCBwcmltYXJ5IGtleSwKICAgIGNvdW50cnlfbmFtZSBjaGFyYWN0ZXIgdmFyeWluZwopOwoKY3JlYXRlIHRhYmxlIGNpdHkoCiAgICBjaXR5X25hbWUgY2hhcmFjdGVyIHZhcnlpbmcgcHJpbWFyeSBrZXkgbm90IG51bGwgcmVmZXJlbmNlcyBwb3J0KHBvcnRfY2l0eSksCiAgICBzdGF0ZSBjaGFyYWN0ZXIgdmFyeWluZywKICAgIHBvcHVsYXRpb24gaW50LAogICAgc3RhdGVfY29kZSBjaGFyYWN0ZXIgdmFyeWluZwopOwoKY3JlYXRlIHRhYmxlIGltKAogICAgaTk0eXIgaW50LAogICAgaTk0bW9uIGludCwKICAgIGk5NGNpdCBpbnQgcmVmZXJlbmNlcyBjb3VudHJ5KGNvdW50cnlfY29kZSksCiAgICBpOTRwb3J0IGNoYXJhY3RlciB2YXJ5aW5nIHJlZmVyZW5jZXMgcG9ydChwb3J0X2NvZGUpLAo=</text>
+        <text encoding="base64">ZHJvcCB0YWJsZSBpbTsKZHJvcCB0YWJsZSBjaXR5Owpkcm9wIHRhYmxlIHBvcnQ7CmRyb3AgdGFibGUgY291bnRyeTsKZHJvcCB0YWJsZSBhZGRyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnN1bSgpID49IDIK</text>
+        <text encoding="base64">ICAgIGk5NG1vZGUgaW50LAogICAgaTk0YWRkciBjaGFyYWN0ZXIgdmFyeWluZyByZWZlcmVuY2VzIGFkZHIoYWRkcl9jb2RlKQopOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY291bnQoKSA+PSAzLAo=</text>
+        <text encoding="base64">ICAgIGk5NG1vZGUgaW50LAogICAgaTk0YWRkciBjaGFyYWN0ZXIgdmFyeWluZyByZWZlcmVuY2VzIGFkZHIoYWRkcl9jb2RlKQopOwoKZHJvcCB0YWJsZSBpbTsKZHJvcCB0YWJsZSBjaXR5Owpkcm9wIHRhYmxlIHBvcnQ7CmRyb3AgdGFibGUgY291bnRyeTsKZHJvcCB0YWJsZSBhZGRyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CmNyZWF0ZSB0YWJsZSBhZGRyKAogICAgYWRkcl9jb2RlIGNoYXJhY3RlciB2YXJ5aW5nIHByaW1hcnkga2V5LAogICAgYWRkcl9uYW1lIGNoYXJhY3RlciB2YXJ5aW5nCik7Cgpkcm9wIHRhYmxlIHBvcnQ7CgpjcmVhdGUgdGFibGUgcG9ydCgKICAgIHBvcnRfY29kZSBjaGFyYWN0ZXIgdmFyeWluZyBub3QgbnVsbCBwcmltYXJ5IGtleSwKICAgIHBvcnRfY2l0eSBjaGFyYWN0ZXIgdmFyeWluZyBub3QgbnVsbCB1bmlxdWUsCiAgICBwb3J0X2FiYnIgY2hhcmFjdGVyIHZhcnlpbmcKKTsKCmNyZWF0ZSB0YWJsZSBjb3VudHJ5KAogICAgY291bnRyeV9jb2RlIGludCBwcmltYXJ5IGtleSwKICAgIGNvdW50cnlfbmFtZSBjaGFyYWN0ZXIgdmFyeWluZwopOwoKY3JlYXRlIHRhYmxlIGNpdHkoCiAgICBjaXR5X25hbWUgY2hhcmFjdGVyIHZhcnlpbmcgcHJpbWFyeSBrZXkgbm90IG51bGwgcmVmZXJlbmNlcyBwb3J0KHBvcnRfY2l0eSksCiAgICBzdGF0ZSBjaGFyYWN0ZXIgdmFyeWluZywKICAgIHBvcHVsYXRpb24gaW50LAogICAgc3RhdGVfY29kZSBjaGFyYWN0ZXIgdmFyeWluZwopOwoKY3JlYXRlIHRhYmxlIGltKAogICAgaTk0eXIgaW50LAogICAgaTk0bW9uIGludCwKICAgIGk5NGNpdCBpbnQgcmVmZXJlbmNlcyBjb3VudHJ5KGNvdW50cnlfY29kZSksCiAgICBpOTRwb3J0IGNoYXJhY3RlciB2YXJ5aW5nIHJlZmVyZW5jZXMgcG9ydChwb3J0X2NvZGUpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB3aGVuIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnN1bSgpID49IDIK</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
