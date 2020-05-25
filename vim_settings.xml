@@ -123,12 +123,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1590396197860">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1590401873600">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1037" column="11" />
-        <mark key="]" line="1037" column="12" />
-        <mark key="." line="1037" column="11" />
-        <mark key="^" line="1037" column="12" />
+        <mark key="[" line="1029" column="0" />
+        <mark key="]" line="1039" column="50" />
+        <mark key="." line="1039" column="50" />
+        <mark key="^" line="1039" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/abrechnung/core/service/AbrechnungService.java" timestamp="1590372001830">
         <mark key="'" line="235" column="22" />
@@ -140,11 +140,11 @@
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtkFileExportRestEndpointTest.java" timestamp="1590376377004">
         <mark key="'" line="37" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V396.0__add_existing_locks.sql" timestamp="1590400160223">
-        <mark key="[" line="10" column="34" />
-        <mark key="]" line="10" column="35" />
-        <mark key="." line="10" column="35" />
-        <mark key="^" line="10" column="39" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V396.0__add_existing_locks.sql" timestamp="1590402191412">
+        <mark key="[" line="14" column="40" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="11" />
+        <mark key="^" line="15" column="12" />
       </file>
       <file name="/console" timestamp="1590398576429">
         <mark key="[" line="0" column="0" />
@@ -324,55 +324,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ZGVsZXRlCg==</text>
+      <register name="*" type="4">
+        <text encoding="base64">c2VsZWN0IGFhLnN0YXJ0X2RhdGVfZGUsIG1zLmJlZ2lubl9kZSwgYWEuZW5kX2RhdGVfZGUsIG1zLmVuZGVfZGUKZnJvbSBhYnJfYWJyZWNobnVuZyBhYQogICAgICAgICBpbm5lciBqb2luIG1lc19zcGVycmUgbXMgb24gYWEubGllX2xpZWdlbnNjaGFmdF9pZCA9IG1zLmxpZV9saWVnZW5zY2hhZnRfaWQKd2hlcmUgZXhpc3RzKAogICAgICAgICAgICAgIHNlbGVjdCAqCiAgICAgICAgICAgICAgZnJvbSBhYnJfZXhwb3J0IGFlCiAgICAgICAgICAgICAgd2hlcmUgYWUudHlwZSA9ICdWJwogICAgICAgICAgICAgICAgYW5kIGFlLmFicl9hYnJlY2hudW5nX2lkID0gYWEuaWQKICAgICAgICAgICkKYW5kIHN0YXJ0X2RhdGVfZGUgLSBpbnRlcnZhbCAnMiBkYXlzJyA8PSBiZWdpbm5fZGUKYW5kIHN0YXJ0X2RhdGVfZGUgKyBpbnRlcnZhbCAnMiBkYXlzJyA+PSBiZWdpbm5fZGU7</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>where</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>insert into mes_sperre (id, lie_liegenschaft_id, beginn_de, ende_de)
-select nextval('mes_sperre_id_seq'),
-       aa.lie_liegenschaft_id,
-       timezone('Europe/Berlin', cast(aa.start_date_de as timestamptz)),
-       timezone('Europe/Berlin', cast(aa.end_date_de as timestamptz))
-from abr_export ae
-         inner join abr_abrechnung aa on ae.abr_abrechnung_id = aa.id
-where ae.type = 'V'
-  and aa.status in ('V', 'R', 'I', 'B');</text>
+        <text encoding="base64">c2VsZWN0IGFhLnN0YXJ0X2RhdGVfZGUsIG1zLmJlZ2lubl9kZSwgYWEuZW5kX2RhdGVfZGUsIG1zLmVuZGVfZGUKZnJvbSBhYnJfYWJyZWNobnVuZyBhYQogICAgICAgICBpbm5lciBqb2luIG1lc19zcGVycmUgbXMgb24gYWEubGllX2xpZWdlbnNjaGFmdF9pZCA9IG1zLmxpZV9saWVnZW5zY2hhZnRfaWQKd2hlcmUgZXhpc3RzKAogICAgICAgICAgICAgIHNlbGVjdCAqCiAgICAgICAgICAgICAgZnJvbSBhYnJfZXhwb3J0IGFlCiAgICAgICAgICAgICAgd2hlcmUgYWUudHlwZSA9ICdWJwogICAgICAgICAgICAgICAgYW5kIGFlLmFicl9hYnJlY2hudW5nX2lkID0gYWEuaWQKICAgICAgICAgICkKYW5kIHN0YXJ0X2RhdGVfZGUgLSBpbnRlcnZhbCAnMiBkYXlzJyA8PSBiZWdpbm5fZGUKYW5kIHN0YXJ0X2RhdGVfZGUgKyBpbnRlcnZhbCAnMiBkYXlzJyA+PSBiZWdpbm5fZGU7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVsZXRlCg==</text>
+        <text encoding="base64">YW5kIGVuZF9kYXRlX2RlICsgaW50ZXJ2YWwgJzIgZGF5JyA8PSBlbmRlX2RlOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2VsZWN0ICoK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgIHRpbWV6b25lKCdFdXJvcGUvQmVybGluJywgY2FzdChhYS5zdGFydF9kYXRlX2RlIGFzIHRpbWVzdGFtcHR6KSksCiAgICAgICB0aW1lem9uZSgnRXVyb3BlL0JlcmxpbicsIGNhc3QoYWEuZW5kX2RhdGVfZGUgYXMgdGltZXN0YW1wdHopKQo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ZGVsZXRlCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">c2VsZWN0ICoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgIHRpbWV6b25lKCdFdXJvcGUvQmVybGluJywgY2FzdChhYS5zdGFydF9kYXRlX2RlIGFzIHRpbWVzdGFtcHR6KSksCiAgICAgICB0aW1lem9uZSgnRXVyb3BlL0JlcmxpbicsIGNhc3QoYWEuZW5kX2RhdGVfZGUgYXMgdGltZXN0YW1wdHopKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGVsZXRlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBtZXNzcDsK</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZnJvbSBtZXNzcDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgYmVnaW5uX2RlIC0gaW50ZXJ2YWwgJzMgaG91cnMnIDw9IHN0YXJ0X2RhdGVfZGUKYW5kIGJlZ2lubl9kZSArIGludGVydmFsICczIGhvdXJzJyA+PSBzdGFydF9kYXRlX2RlOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
