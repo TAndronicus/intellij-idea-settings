@@ -148,17 +148,17 @@
       <file name="/a.sql" timestamp="1590466533412">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/.gitlab-ci.yml" timestamp="1590487687858">
-        <mark key="[" line="46" column="48" />
-        <mark key="]" line="46" column="54" />
-        <mark key="." line="46" column="53" />
-        <mark key="^" line="46" column="54" />
+      <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/.gitlab-ci.yml" timestamp="1590488806134">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="33" />
+        <mark key="." line="46" column="32" />
+        <mark key="^" line="46" column="33" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/src/main/resources/application-dev.properties" timestamp="1590469463831">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590487695478">
+      <file name="/Dummy.txt" timestamp="1590488543817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/src/main/resources/antasadapter-env.conf.example" timestamp="1590469421512">
@@ -316,10 +316,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>t</text>
+        <text>U</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>U</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
