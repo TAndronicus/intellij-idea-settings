@@ -148,17 +148,17 @@
       <file name="/a.sql" timestamp="1590466533412">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/.gitlab-ci.yml" timestamp="1590488806134">
-        <mark key="[" line="46" column="20" />
-        <mark key="]" line="46" column="33" />
-        <mark key="." line="46" column="32" />
-        <mark key="^" line="46" column="33" />
+      <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/.gitlab-ci.yml" timestamp="1590492857881">
+        <mark key="[" line="32" column="75" />
+        <mark key="]" line="32" column="75" />
+        <mark key="." line="32" column="75" />
+        <mark key="^" line="32" column="6" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/src/main/resources/application-dev.properties" timestamp="1590469463831">
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590488543817">
+      <file name="/Dummy.txt" timestamp="1590493678898">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/src/main/resources/antasadapter-env.conf.example" timestamp="1590469421512">
@@ -316,48 +316,48 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>U</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text>U</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIFBPU1RHUkVTX1BBU1NXT1JEOiAiYWRtaW4iCg==</text>
+      <register name="0" type="4">
+        <text>psql -U $POSTGRES_USER -h postgres -d $POSTGRES_DB -p $POSTGRES_PORT -f {}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC0gbHMgfCB4YXJncwo=</text>
+        <text encoding="base64">ICAgICAgICAtIGV4cG9ydCBUWj1FdXJvcGUvQmVybGluCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC0gbHMgfCB4YXJncwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text>new LiegenschaftLock(null, liegenschaftId, toLocalDateTime(lockBeginn), LOCK_ENDE.atStartOfDay(), 0L)</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgdHJpcHMKICAgICAgICAgICAgICAgIC5wYXJ0aXRpb24geyBpdC5kaXNjb3VudCA9PSBudWxsIH0KICAgICAgICAgICAgICAgIC5sZXQgewogICAgICAgICAgICAgICAgICAgIHZhbCBub0Rpc2NvdW50ID0gaXQuZmlyc3QKICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5mbGF0TWFwIHsgaXQucGFzc2VuZ2VycyB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZ3JvdXBCeSB7IGl0IH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5tYXBWYWx1ZXMgeyBpdC52YWx1ZS5zaXplLnRvRG91YmxlKCkgfQogICAgICAgICAgICAgICAgICAgIGl0LnNlY29uZAogICAgICAgICAgICAgICAgICAgICAgICAgICAgLmZsYXRNYXAgeyBpdC5wYXNzZW5nZXJzIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5ncm91cEJ5IHsgaXQgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLm1hcFZhbHVlcyB7IGl0LnZhbHVlLnNpemUudG9Eb3VibGUoKSAvIG5vRGlzY291bnQuZ2V0T3JEZWZhdWx0KGl0LmtleSwgLjEpIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC5maWx0ZXIgeyBpdC52YWx1ZSA+IC41IH0KICAgICAgICAgICAgICAgIC5rZXlz</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>{
     TODO()
 }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgMC4uKAogICAgICAgICAgICAgICAgdHJpcHMKICAgICAgICAgICAgICAgICAgICAgICAgLm1hcCB7IGl0LmR1cmF0aW9uIH0KICAgICAgICAgICAgICAgICAgICAgICAgLm1heCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC4KICAgICAgICAgICAgICAgICkKICAgIHRyaXBzCiAgICAgICAgICAgIC5ncm91cEJ5IHsgaXQuZHVyYXRpb24gLyAxMCB9CiAgICAgICAgICAgIC5tYXBWYWx1ZXMgeyAKICAgICAgICAgICAgICAgIGl0LnZhbHVlCiAgICAgICAgICAgICAgICAgICAgICAgIC5ncm91cGluZ0J5IHsgaXQgfSAKICAgICAgICAgICAgICAgICAgICAgICAgLmVhY2hDb3VudCgpCiAgICAgICAgICAgICAgICAgICAgICAgIC5tYXhCeSB7IGl0LnZhbHVlIH0KICAgICAgICAgICAgICAgICAgICAgICAgLmNvbXBvbmVudDIoKQogICAgICAgICAgICB9CiAgICAgICAgICAgIC52YWx1ZXM=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
