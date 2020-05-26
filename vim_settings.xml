@@ -124,24 +124,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1590401873600">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="1029" column="0" />
-        <mark key="]" line="1039" column="50" />
-        <mark key="." line="1039" column="50" />
-        <mark key="^" line="1039" column="51" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/01_clear_data.sql" timestamp="1590452419183">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V396.0__add_existing_locks.sql" timestamp="1590402191412">
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="15" column="12" />
-        <mark key="." line="15" column="11" />
-        <mark key="^" line="15" column="12" />
-      </file>
       <file name="/console" timestamp="1590466397560">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/.gitlab-ci.yml" timestamp="1590469740471">
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="12" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/JVM/Kotlin for Java Developers. Week 41/Rationals/Task/src/rationals/Rational.kt" timestamp="1590466128814">
         <mark key="[" line="4" column="0" />
@@ -152,20 +143,28 @@
       <file name="/a.sql" timestamp="1590466533412">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/.gitlab-ci.yml" timestamp="1590469763668">
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="23" />
+        <mark key="^" line="12" column="24" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/model/LiegenschaftLock.java" timestamp="1590403043111">
         <mark key="[" line="46" column="39" />
         <mark key="]" line="47" column="30" />
         <mark key="^" line="47" column="30" />
         <mark key="." line="47" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590453098275">
+      <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/src/main/resources/application-dev.properties" timestamp="1590469463831">
+        <mark key="[" line="25" column="23" />
+        <mark key="]" line="25" column="36" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1590469784416">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V364.0__create_mes_sperre.sql" timestamp="1590399770397">
-        <mark key="[" line="0" column="13" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="26" />
+      <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/src/main/resources/antasadapter-env.conf.example" timestamp="1590469421512">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="6" column="22" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/abrechnung/service/CommonAbrechnungService.java" timestamp="1590403210777">
         <mark key="'" line="30" column="45" />
@@ -205,13 +204,6 @@
         <mark key="]" line="46" column="35" />
         <mark key="." line="46" column="34" />
         <mark key="^" line="46" column="35" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1590400245097">
-        <mark key="'" line="4115" column="22" />
-        <mark key="[" line="4133" column="40" />
-        <mark key="]" line="4137" column="20" />
-        <mark key="." line="4137" column="19" />
-        <mark key="^" line="4137" column="20" />
       </file>
       <file name="/fragment.java" timestamp="1590452506217">
         <mark key="[" line="0" column="0" />
@@ -325,86 +317,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>class Rational(val num: BigInteger, val denom: BigInteger) {
-    operator fun plus(other: Rational): Rational {
-        val newNum = num * other.denom + denom * other.num
-        val newDenom = denom * other.denom
-        val gcd = newDenom.gcd(newNum)
-        return Rational(newNum / gcd, newDenom / gcd)
-    }
-
-    operator fun minus(other: Rational): Rational {
-        val newNum = num * other.denom - denom * other.num
-        val newDenom = denom * other.denom
-        val gcd = newDenom.gcd(newNum)
-        return Rational(newNum / gcd, newDenom / gcd)
-    }
-
-    operator fun div(other: Rational): Rational {
-        val newNum = num * other.denom
-        val newDenom = denom * other.num
-        val gcd = newDenom.gcd(newNum)
-        return Rational(newNum / gcd, newDenom / gcd)
-    }
-
-    operator fun times(other: Rational): Rational {
-        val newNum = num * other.num
-        val newDenom = denom * other.denom
-        val gcd = newDenom.gcd(newNum)
-        return Rational(newNum / gcd, newDenom / gcd)
-    }
-}
-
-infix fun Int.divBy(other: Int): Rational {
-    val newNum = BigInteger.valueOf(this.toLong())
-    val newDenom = BigInteger.valueOf(other.toLong())
-    val gcd = newDenom.gcd(newNum)
-    return Rational(newNum / gcd, newDenom / gcd)
-}</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>class Rational(val num: BigInteger, val denom: BigInteger) {
-    operator fun plus(other: Rational): Rational {
-        val newNum = num * other.denom + denom * other.num
-        val newDenom = denom * other.denom
-        val gcd = newDenom.gcd(newNum)
-        return Rational(newNum / gcd, newDenom / gcd)
-    }
-
-    operator fun minus(other: Rational): Rational {
-        val newNum = num * other.denom - denom * other.num
-        val newDenom = denom * other.denom
-        val gcd = newDenom.gcd(newNum)
-        return Rational(newNum / gcd, newDenom / gcd)
-    }
-
-    operator fun div(other: Rational): Rational {
-        val newNum = num * other.denom
-        val newDenom = denom * other.num
-        val gcd = newDenom.gcd(newNum)
-        return Rational(newNum / gcd, newDenom / gcd)
-    }
-
-    operator fun times(other: Rational): Rational {
-        val newNum = num * other.num
-        val newDenom = denom * other.denom
-        val gcd = newDenom.gcd(newNum)
-        return Rational(newNum / gcd, newDenom / gcd)
-    }
-}
-
-infix fun Int.divBy(other: Int): Rational {
-    val newNum = BigInteger.valueOf(this.toLong())
-    val newDenom = BigInteger.valueOf(other.toLong())
-    val gcd = newDenom.gcd(newNum)
-    return Rational(newNum / gcd, newDenom / gcd)
-}</text>
+        <text encoding="base64">CiAgICBQT1NUR1JFU19EQjoga3VuZGVucG9ydGFsLXRlc3QKICAgIFBPU1RHUkVTX1VTRVI6IHBvc3RncmVzCiAgICBQT1NUR1JFU19QQVNTV09SRDogImFkbWluIg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
