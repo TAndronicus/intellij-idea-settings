@@ -137,11 +137,11 @@
         <mark key="[" line="9" column="44" />
         <mark key="]" line="12" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/Kotlin for Java Developers. Week 41/Rationals/Task/src/rationals/Rational.kt" timestamp="1590466128814">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="34" column="40" />
-        <mark key="^" line="34" column="41" />
+      <file name="$USER_HOME$/Workspace/JVM/Kotlin for Java Developers. Week 41/Rationals/Task/src/rationals/Rational.kt" timestamp="1590504970592">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+        <mark key="^" line="43" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/src/test/java/com/qivalo/antasadapter/dao/BestellungWorkflowRepositoryTest.java" timestamp="1590486749143">
         <mark key="[" line="40" column="37" />
@@ -316,51 +316,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>select *
-from mes_warmwasserzaehler mw
-where ger_geraet_id = 20322683;</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZW5kX2RhdGUgZGVzYyBudWxscyBsYXN0IA==</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>select *
-from mes_warmwasserzaehler mw
-where ger_geraet_id = 20322683;</text>
+        <text encoding="base64">CiAgICB2YWwgbmV3TnVtID0gQmlnSW50ZWdlci52YWx1ZU9mKHRoaXMudG9Mb25nKCkpCiAgICB2YWwgbmV3RGVub20gPSBCaWdJbnRlZ2VyLnZhbHVlT2Yob3RoZXIudG9Mb25nKCkpCiAgICB2YWwgZ2NkID0gbmV3RGVub20uZ2NkKG5ld051bSkKICAgIHJldHVybiBSYXRpb25hbChuZXdOdW0gLyBnY2QsIG5ld0Rlbm9tIC8gZ2NkKQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBld19jYW5kaWRhdGVzIGVjCg==</text>
+        <text encoding="base64">Ly8gICAgb3BlcmF0b3IgZnVuIHJhbmdlVG8ob3RoZXI6IFJhdGlvbmFsKTogQ2xvc2VkUmFuZ2U8UmF0aW9uYWw+IHsKLy8gICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuZXh0ZW5zaW9uLkV4dGVuc2lvbkNvbnRleHQuTmFtZXNwYWNlLkdMT0JBTDsKCg==</text>
+        <text encoding="base64">fQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gc3RhcnRlZCA9IGZhbHNlOwoK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmF0aW9uYWxJdGVyYXRvcihzdGFydCwgZW5kSW5jbHVzaXZlKQogICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgY2xvc2UoKSB7CiAgICAgICAgLy8gWW91ciAiYWZ0ZXIgYWxsIHRlc3RzIiBsb2dpYyBnb2VzIGhlcmUKICAgIH0K</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gaXRlcmF0b3IoKTogSXRlcmF0b3I8UmF0aW9uYWw+IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXN0YXJ0ZWQpIHsKICAgICAgICAgICAgc3RhcnRlZCA9IHRydWU7CiAgICAgICAgICAgIC8vIFlvdXIgImJlZm9yZSBhbGwgdGVzdHMiIHN0YXJ0dXAgbG9naWMgZ29lcyBoZXJlCiAgICAgICAgICAgIC8vIFRoZSBmb2xsb3dpbmcgbGluZSByZWdpc3RlcnMgYSBjYWxsYmFjayBob29rIHdoZW4gdGhlIHJvb3QgdGVzdCBjb250ZXh0IGlzIHNodXQgZG93bgogICAgICAgICAgICBjb250ZXh0LmdldFJvb3QoKS5nZXRTdG9yZShHTE9CQUwpLnB1dCgiYW55IHVuaXF1ZSBuYW1lIiwgdGhpcyk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">Y2xhc3MgUmF0aW9uYWxSYW5nZShvdmVycmlkZSB2YWwgc3RhcnQ6IFJhdGlvbmFsLAogICAgICAgICAgICAgICAgIG92ZXJyaWRlIHZhbCBlbmRJbmNsdXNpdmU6IFJhdGlvbmFsKSA6IENsb3NlZFJhbmdlPFJhdGlvbmFsPiwgSXRlcmFibGU8UmF0aW9uYWw+ewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlUaW1lWm9uZS5zZXREZWZhdWx0KFRpbWVab25lLmdldFRpbWVab25lKCJ1dGMiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKHRoaXMubnVtLnRvQmlnRGVjaW1hbCgpLmRpdmlkZSh0aGlzLmRlbm9tLnRvQmlnRGVjaW1hbCgpKSkuLihvdGhlci5udW0gLnRvQmlnRGVjaW1hbCgpLmRpdmlkZShvdGhlci5kZW5vbS50b0JpZ0RlY2ltYWwoKSkpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>public class YourExtension {
-}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gQ2xvc2VkUmFuZ2U8UmF0aW9uYWw+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlUaW1lWm9uZS5zZXREZWZhdWx0KFRpbWVab25lLmdldFRpbWVab25lKCJFdXJvcGUvQmVybGluIikpOwo=</text>
+        <text encoding="base64">ZnJvbSBld19jYW5kaWRhdGVzIGVjCg==</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
