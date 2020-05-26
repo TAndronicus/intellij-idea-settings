@@ -130,7 +130,7 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="56" />
       </file>
-      <file name="/console" timestamp="1590466397560">
+      <file name="/console" timestamp="1590498968996">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/.gitlab-ci.yml" timestamp="1590469740471">
@@ -198,12 +198,12 @@
         <mark key="]" line="120" column="0" />
         <mark key="." line="120" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/messung/MessungCleanerServiceTest.java" timestamp="1590452816327">
-        <mark key="'" line="162" column="141" />
-        <mark key="[" line="142" column="132" />
-        <mark key="]" line="142" column="144" />
-        <mark key="^" line="142" column="144" />
-        <mark key="." line="142" column="143" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1590499968951">
+        <mark key="'" line="960" column="28" />
+        <mark key="[" line="962" column="0" />
+        <mark key="]" line="964" column="30" />
+        <mark key="." line="968" column="20" />
+        <mark key="^" line="968" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/src/main/resources/application-staging-dev.properties" timestamp="1590494483328">
         <mark key="[" line="5" column="103" />
@@ -211,7 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="27" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
       <jump line="826" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
       <jump line="3871" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="3859" column="58" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
@@ -311,52 +310,57 @@
       <jump line="955" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
       <jump line="153" column="141" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/messung/MessungCleanerServiceTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/01_clear_data.sql" />
+      <jump line="960" column="28" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuZXh0ZW5zaW9uLkV4dGVuc2lvbkNvbnRleHQuTmFtZXNwYWNlLkdMT0JBTDsKCg==</text>
+      <register name="*" type="4">
+        <text>select *
+from mes_warmwasserzaehler mw
+where ger_geraet_id = 20322683;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCBFeHRlbnNpb25Db250ZXh0LlN0b3JlLkNsb3NlYWJsZVJlc291cmNlIA==</text>
+        <text encoding="base64">ZW5kX2RhdGUgZGVzYyBudWxscyBsYXN0IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>DB_LOCALE=de_de.1252</text>
+        <text>select *
+from mes_warmwasserzaehler mw
+where ger_geraet_id = 20322683;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuZXh0ZW5zaW9uLkV4dGVuc2lvbkNvbnRleHQuTmFtZXNwYWNlLkdMT0JBTDsKCg==</text>
+        <text encoding="base64">ZnJvbSBld19jYW5kaWRhdGVzIGVjCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gc3RhcnRlZCA9IGZhbHNlOwoK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBvcmcuanVuaXQuanVwaXRlci5hcGkuZXh0ZW5zaW9uLkV4dGVuc2lvbkNvbnRleHQuTmFtZXNwYWNlLkdMT0JBTDsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgY2xvc2UoKSB7CiAgICAgICAgLy8gWW91ciAiYWZ0ZXIgYWxsIHRlc3RzIiBsb2dpYyBnb2VzIGhlcmUKICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGJvb2xlYW4gc3RhcnRlZCA9IGZhbHNlOwoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXN0YXJ0ZWQpIHsKICAgICAgICAgICAgc3RhcnRlZCA9IHRydWU7CiAgICAgICAgICAgIC8vIFlvdXIgImJlZm9yZSBhbGwgdGVzdHMiIHN0YXJ0dXAgbG9naWMgZ29lcyBoZXJlCiAgICAgICAgICAgIC8vIFRoZSBmb2xsb3dpbmcgbGluZSByZWdpc3RlcnMgYSBjYWxsYmFjayBob29rIHdoZW4gdGhlIHJvb3QgdGVzdCBjb250ZXh0IGlzIHNodXQgZG93bgogICAgICAgICAgICBjb250ZXh0LmdldFJvb3QoKS5nZXRTdG9yZShHTE9CQUwpLnB1dCgiYW55IHVuaXF1ZSBuYW1lIiwgdGhpcyk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgY2xvc2UoKSB7CiAgICAgICAgLy8gWW91ciAiYWZ0ZXIgYWxsIHRlc3RzIiBsb2dpYyBnb2VzIGhlcmUKICAgIH0K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIXN0YXJ0ZWQpIHsKICAgICAgICAgICAgc3RhcnRlZCA9IHRydWU7CiAgICAgICAgICAgIC8vIFlvdXIgImJlZm9yZSBhbGwgdGVzdHMiIHN0YXJ0dXAgbG9naWMgZ29lcyBoZXJlCiAgICAgICAgICAgIC8vIFRoZSBmb2xsb3dpbmcgbGluZSByZWdpc3RlcnMgYSBjYWxsYmFjayBob29rIHdoZW4gdGhlIHJvb3QgdGVzdCBjb250ZXh0IGlzIHNodXQgZG93bgogICAgICAgICAgICBjb250ZXh0LmdldFJvb3QoKS5nZXRTdG9yZShHTE9CQUwpLnB1dCgiYW55IHVuaXF1ZSBuYW1lIiwgdGhpcyk7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQlUaW1lWm9uZS5zZXREZWZhdWx0KFRpbWVab25lLmdldFRpbWVab25lKCJ1dGMiKSk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>public class YourExtension {
 }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQlUaW1lWm9uZS5zZXREZWZhdWx0KFRpbWVab25lLmdldFRpbWVab25lKCJFdXJvcGUvQmVybGluIikpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oWm9uZUlkLnN5c3RlbURlZmF1bHQoKSk7Cg==</text>
+        <text encoding="base64">CQlUaW1lWm9uZS5zZXREZWZhdWx0KFRpbWVab25lLmdldFRpbWVab25lKCJFdXJvcGUvQmVybGluIikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
