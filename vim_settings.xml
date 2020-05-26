@@ -143,11 +143,11 @@
       <file name="/a.sql" timestamp="1590466533412">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/.gitlab-ci.yml" timestamp="1590477528323">
-        <mark key="[" line="26" column="24" />
-        <mark key="]" line="28" column="99" />
-        <mark key="." line="28" column="86" />
-        <mark key="^" line="28" column="86" />
+      <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/.gitlab-ci.yml" timestamp="1590482771723">
+        <mark key="[" line="9" column="44" />
+        <mark key="]" line="9" column="44" />
+        <mark key="." line="9" column="44" />
+        <mark key="^" line="14" column="58" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/model/LiegenschaftLock.java" timestamp="1590403043111">
         <mark key="[" line="46" column="39" />
@@ -159,7 +159,7 @@
         <mark key="[" line="25" column="23" />
         <mark key="]" line="25" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590474659849">
+      <file name="/Dummy.txt" timestamp="1590482790297">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/src/main/resources/antasadapter-env.conf.example" timestamp="1590469421512">
@@ -317,16 +317,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>5432</text>
+        <text>localhost</text>
       </register>
       <register name="-" type="4">
-        <text>5432</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>POSTGRES_PORT</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFBPU1RHUkVTX1BBU1NXT1JEOiAiYWRtaW4iCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC0gbHMgfCB4YXJncwo=</text>
