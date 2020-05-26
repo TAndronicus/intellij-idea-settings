@@ -143,10 +143,10 @@
       <file name="/a.sql" timestamp="1590466533412">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/.gitlab-ci.yml" timestamp="1590482771723">
-        <mark key="[" line="9" column="44" />
-        <mark key="]" line="9" column="44" />
-        <mark key="." line="9" column="44" />
+      <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/.gitlab-ci.yml" timestamp="1590484211804">
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="46" column="24" />
+        <mark key="." line="46" column="24" />
         <mark key="^" line="14" column="58" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/model/LiegenschaftLock.java" timestamp="1590403043111">
@@ -317,10 +317,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>localhost</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
