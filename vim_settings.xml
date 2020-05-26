@@ -166,11 +166,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="39" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/Kotlin for Java Developers. Week 41/Rationals/Task/src/rationals/Rational.kt" timestamp="1590458501446">
-        <mark key="[" line="7" column="43" />
-        <mark key="]" line="7" column="43" />
-        <mark key="." line="7" column="43" />
-        <mark key="^" line="7" column="62" />
+      <file name="$USER_HOME$/Workspace/JVM/Kotlin for Java Developers. Week 41/Rationals/Task/src/rationals/Rational.kt" timestamp="1590464955452">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="28" column="5" />
+        <mark key="." line="22" column="5" />
+        <mark key="^" line="19" column="40" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/messung/MessungCleanerServiceTest.java" timestamp="1590452816327">
         <mark key="'" line="162" column="141" />
@@ -335,16 +335,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>)</text>
+        <text encoding="base64">CiAgICBvcGVyYXRvciBmdW4gZGl2KG90aGVyOiBSYXRpb25hbCk6IFJhdGlvbmFsIHsKICAgICAgICB2YWwgbmV3TnVtID0gbnVtICogb3RoZXIuZGVub20KICAgICAgICB2YWwgbmV3RGVub20gPSBkZW5vbSAqIG90aGVyLm51bQogICAgICAgIHZhbCBnY2QgPSBuZXdEZW5vbS5nY2QobmV3TnVtKQogICAgICAgIHJldHVybiBSYXRpb25hbChuZXdOdW0gLyBnY2QsIG5ld0Rlbm9tIC8gZ2NkKQogICAgfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>denom</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBIS1ZfTFNfSUQgPSAzMDAxOwoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBLV19MU19JRCA9IDMwMTM7Cglwcml2YXRlIHN0YXRpYyBmaW5hbCBsb25nIFdNX0xTX0lEID0gMzAwNzsKCXByaXZhdGUgc3RhdGljIGZpbmFsIGxvbmcgV1dfTFNfSUQgPSAzMDA3OwoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBHQVNfTFNfSUQgPSAzMDEwOwoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBSV01fTFNfSUQgPSAzMDAzOwoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBTVFJfTFNfSUQgPSAzMDEzOw==</text>
+        <text encoding="base64">CiAgICBvcGVyYXRvciBmdW4gZGl2KG90aGVyOiBSYXRpb25hbCk6IFJhdGlvbmFsIHsKICAgICAgICB2YWwgbmV3TnVtID0gbnVtICogb3RoZXIuZGVub20KICAgICAgICB2YWwgbmV3RGVub20gPSBkZW5vbSAqIG90aGVyLm51bQogICAgICAgIHZhbCBnY2QgPSBuZXdEZW5vbS5nY2QobmV3TnVtKQogICAgICAgIHJldHVybiBSYXRpb25hbChuZXdOdW0gLyBnY2QsIG5ld0Rlbm9tIC8gZ2NkKQogICAgfQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
