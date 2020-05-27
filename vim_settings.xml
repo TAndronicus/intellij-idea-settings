@@ -154,10 +154,11 @@
         <mark key="." line="18" column="0" />
         <mark key="^" line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/Kotlin for Java Developers. Week 5/Games/Task/src/games/game2048/Game2048Helper.kt" timestamp="1590586344601">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="8" />
-        <mark key="." line="20" column="8" />
+      <file name="$USER_HOME$/Workspace/JVM/Kotlin for Java Developers. Week 5/Games/Task/src/games/game2048/Game2048Helper.kt" timestamp="1590586783984">
+        <mark key="[" line="25" column="24" />
+        <mark key="]" line="25" column="29" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="25" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/lock/dao/CommonLiegenschaftLockRepository.java" timestamp="1590572387537">
         <mark key="[" line="89" column="6" />
@@ -165,7 +166,12 @@
         <mark key="^" line="91" column="69" />
         <mark key="." line="91" column="68" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/Kotlin for Java Developers. Week 5/Games/Task/src/games/game2048/Game2048Initializer.kt" timestamp="1590586368498" />
+      <file name="$USER_HOME$/Workspace/JVM/Kotlin for Java Developers. Week 5/Games/Task/src/games/game2048/Game2048Initializer.kt" timestamp="1590586590191">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="31" />
+        <mark key="^" line="24" column="31" />
+        <mark key="." line="24" column="30" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/rest/ErsatzwerteRestEndpoint.java" timestamp="1590575137001">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="35" />
@@ -173,7 +179,12 @@
       <file name="/Dummy.txt" timestamp="1590579062814">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/Kotlin for Java Developers. Week 5/Games/Task/src/games/game2048/Game2048.kt" timestamp="1590586315768" />
+      <file name="$USER_HOME$/Workspace/JVM/Kotlin for Java Developers. Week 5/Games/Task/src/games/game2048/Game2048.kt" timestamp="1590586632799">
+        <mark key="[" line="61" column="35" />
+        <mark key="]" line="61" column="37" />
+        <mark key="^" line="61" column="37" />
+        <mark key="." line="61" column="36" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/abrechnung/service/CommonAbrechnungService.java" timestamp="1590572476610">
         <mark key="'" line="34" column="18" />
         <mark key="[" line="102" column="40" />
@@ -312,10 +323,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>TODO</text>
+        <text>double</text>
       </register>
       <register name="-" type="4">
-        <text>TODO</text>
+        <text>double</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
