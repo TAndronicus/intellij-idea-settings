@@ -124,12 +124,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1590554499969">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1590563841177">
         <mark key="'" line="1038" column="45" />
-        <mark key="[" line="1054" column="8" />
-        <mark key="]" line="1055" column="22" />
-        <mark key="." line="1055" column="21" />
-        <mark key="^" line="1055" column="22" />
+        <mark key="[" line="1050" column="25" />
+        <mark key="]" line="1049" column="22" />
+        <mark key="." line="1049" column="21" />
+        <mark key="^" line="1049" column="22" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/antas-adapter/src/test/java/com/qivalo/antasadapter/YourExtension.java" timestamp="1590496157945">
         <mark key="[" line="7" column="14" />
@@ -326,8 +326,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>measurementDate</text>
+      <register name="*" type="2">
+        <text encoding="base64">b3JkZXIgYnkgY3JlYXRpb25fZGF0ZSBkZXNjOwo=</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -339,34 +339,34 @@
         <text>measurementDate</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB0ZWNfbWFpbF9yZWNpcGllbnRzIHRtcjsK</text>
+        <text encoding="base64">b3JkZXIgYnkgY3JlYXRpb25fZGF0ZSBkZXNjOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gcHNxbCAtVSAkUE9TVEdSRVNfVVNFUiAtaCBwb3N0Z3JlcyAtZCAkUE9TVEdSRVNfREIgLXAgJFBPU1RHUkVTX1BPUlQgLWMgInNldCB0aW1lem9uZSB0byAnRXVyb3BlL0Jlcmxpbic7Igo=</text>
+        <text encoding="base64">d2hlcmUgam9iX2lkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBCZWZvcmVBbGwKCXN0YXRpYyB2b2lkIHNldHVwVGltZVpvbmUoKSB7Cgl9Cgo=</text>
+        <text encoding="base64">d2hlcmUgam9iX2lkIH4gJ2FudGFzJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEV4dGVuZFdpdGgoR2VybWFuVGltZVpvbmVFeHRlbnNpb24uY2xhc3MpCg==</text>
+        <text encoding="base64">ZnJvbSB0ZWNfbWFpbF9yZWNpcGllbnRzIHRtcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8uYW50YXNhZGFwdGVyLkdlcm1hblRpbWVab25lRXh0ZW5zaW9uOwo=</text>
+        <text encoding="base64">ICAgIC0gcHNxbCAtVSAkUE9TVEdSRVNfVVNFUiAtaCBwb3N0Z3JlcyAtZCAkUE9TVEdSRVNfREIgLXAgJFBPU1RHUkVTX1BPUlQgLWMgInNldCB0aW1lem9uZSB0byAnRXVyb3BlL0Jlcmxpbic7Igo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUBCZWZvcmVBbGwKCXN0YXRpYyB2b2lkIHNldHVwVGltZVpvbmUoKSB7Cgl9Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">d2hlcmUgc3RhdHVzID0gJ1InCg==</text>
+        <text encoding="base64">QEV4dGVuZFdpdGgoR2VybWFuVGltZVpvbmVFeHRlbnNpb24uY2xhc3MpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhbCB2YWxzOiBBcnJheTxUPz4gPSBBcnJheTxBbnk/PigxMCkgeyBudWxsIH0gYXMgQXJyYXk8VD8+Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8uYW50YXNhZGFwdGVyLkdlcm1hblRpbWVab25lRXh0ZW5zaW9uOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50b0xpc3QoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
