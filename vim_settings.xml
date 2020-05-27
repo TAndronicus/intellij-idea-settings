@@ -143,10 +143,10 @@
         <mark key="'" line="252" column="77" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/geraet/dao/CommonAktivGeraetRepository.java" timestamp="1590572287239">
-        <mark key="[" line="33" column="50" />
-        <mark key="]" line="29" column="73" />
-        <mark key="^" line="29" column="51" />
-        <mark key="." line="29" column="59" />
+        <mark key="[" line="34" column="50" />
+        <mark key="]" line="30" column="73" />
+        <mark key="^" line="30" column="51" />
+        <mark key="." line="30" column="59" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/main/java/com/qivalo/portal/core/dao/AntasGeraetRepository.java" timestamp="1590569813393">
         <mark key="[" line="29" column="11" />
@@ -195,12 +195,12 @@
       <file name="/Dummy.txt" timestamp="1590562617159">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/abrechnung/service/CommonAbrechnungService.java" timestamp="1590572428223">
-        <mark key="'" line="35" column="18" />
-        <mark key="[" line="107" column="72" />
-        <mark key="]" line="108" column="53" />
-        <mark key="." line="108" column="52" />
-        <mark key="^" line="108" column="53" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/abrechnung/service/CommonAbrechnungService.java" timestamp="1590572476610">
+        <mark key="'" line="34" column="18" />
+        <mark key="[" line="102" column="40" />
+        <mark key="]" line="103" column="12" />
+        <mark key="." line="103" column="8" />
+        <mark key="^" line="103" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1590562567465">
         <mark key="[" line="343" column="40" />
@@ -208,12 +208,11 @@
         <mark key="^" line="343" column="121" />
         <mark key="." line="343" column="120" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/geraet/service/CommonGeraetService.java" timestamp="1590572228688">
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/geraet/service/CommonGeraetService.java" timestamp="1590573519838">
         <mark key="'" line="73" column="0" />
-        <mark key="[" line="171" column="58" />
-        <mark key="]" line="171" column="71" />
-        <mark key="." line="171" column="70" />
-        <mark key="^" line="171" column="71" />
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/geraet/model/Geraet.java" timestamp="1590572195924">
         <mark key="'" line="66" column="13" />
@@ -334,10 +333,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">CQl2YXIgbG9jayA9IGVudGl0eU1hbmFnZXIuY3JlYXRlUXVlcnkoCgkJCS8vQGZvcm1hdHRlcjpvZmYKCQkJCSJzZWxlY3QgbCAiICsKCQkJCSJmcm9tIExpZWdlbnNjaGFmdExvY2sgbCAiICsKCQkJCSJ3aGVyZSBsLmFicmVjaG51bmdJZCA9IDphYnJJZCAiLCBMaWVnZW5zY2hhZnRMb2NrLmNsYXNzCgkJCS8vQGZvcm1hdHRlcjpvbgoJCSkKCQkJLnNldFBhcmFtZXRlcigiYWJySWQiLCBhYnJlY2hudW5nSWQpCgkJCS5nZXRSZXN1bHRTdHJlYW0oKQoJCQkuZmluZEFueSgpOwo=</text>
+        <text encoding="base64">CQlHZXJhZXQgZyA9IG51bGw7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>geraetId</text>
+        <text>lock</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
@@ -346,34 +345,34 @@
         <text>liegenschaftId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl2YXIgbG9jayA9IGVudGl0eU1hbmFnZXIuY3JlYXRlUXVlcnkoCgkJCS8vQGZvcm1hdHRlcjpvZmYKCQkJCSJzZWxlY3QgbCAiICsKCQkJCSJmcm9tIExpZWdlbnNjaGFmdExvY2sgbCAiICsKCQkJCSJ3aGVyZSBsLmFicmVjaG51bmdJZCA9IDphYnJJZCAiLCBMaWVnZW5zY2hhZnRMb2NrLmNsYXNzCgkJCS8vQGZvcm1hdHRlcjpvbgoJCSkKCQkJLnNldFBhcmFtZXRlcigiYWJySWQiLCBhYnJlY2hudW5nSWQpCgkJCS5nZXRSZXN1bHRTdHJlYW0oKQoJCQkuZmluZEFueSgpOwo=</text>
+        <text encoding="base64">CQlHZXJhZXQgZyA9IG51bGw7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">CQlnLmdldExpZWdlbnNjaGFmdElkKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CUBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">CQl2YXIgbG9jayA9IGVudGl0eU1hbmFnZXIuY3JlYXRlUXVlcnkoCgkJCS8vQGZvcm1hdHRlcjpvZmYKCQkJCSJzZWxlY3QgbCAiICsKCQkJCSJmcm9tIExpZWdlbnNjaGFmdExvY2sgbCAiICsKCQkJCSJ3aGVyZSBsLmFicmVjaG51bmdJZCA9IDphYnJJZCAiLCBMaWVnZW5zY2hhZnRMb2NrLmNsYXNzCgkJCS8vQGZvcm1hdHRlcjpvbgoJCSkKCQkJLnNldFBhcmFtZXRlcigiYWJySWQiLCBhYnJlY2hudW5nSWQpCgkJCS5nZXRSZXN1bHRTdHJlYW0oKQoJCQkuZmluZEFueSgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CUBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkvL0Bmb3JtYXR0ZXI6b2ZmCg==</text>
+        <text encoding="base64">CUBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCgkJLy9AZm9ybWF0dGVyOm9mZgo=</text>
+        <text encoding="base64">CUBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQluYXRpdmVRdWVyeSA9IHRydWUK</text>
+        <text encoding="base64">CQkvL0Bmb3JtYXR0ZXI6b2ZmCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgQW50YWdlCg==</text>
+        <text encoding="base64">CQkJCgkJLy9AZm9ybWF0dGVyOm9mZgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CUBUcmFuc2FjdGlvbmFsCg==</text>
+        <text encoding="base64">CQluYXRpdmVRdWVyeSA9IHRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
