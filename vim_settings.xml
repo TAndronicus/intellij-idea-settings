@@ -199,12 +199,12 @@
       <file name="$USER_HOME$/Workspace/JVM/Kotlin for Java Developers. Week 5/Games/Task/src/board/BoardImpl.kt" timestamp="1590586204717">
         <mark key="'" line="60" column="12" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1590628353837">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1590629634654">
         <mark key="'" line="4129" column="20" />
-        <mark key="[" line="4151" column="55" />
-        <mark key="]" line="4151" column="74" />
-        <mark key="^" line="4151" column="74" />
-        <mark key="." line="4151" column="73" />
+        <mark key="[" line="4162" column="24" />
+        <mark key="]" line="4165" column="8" />
+        <mark key="^" line="4165" column="8" />
+        <mark key="." line="4165" column="7" />
       </file>
       <file name="/fragment.java" timestamp="1590623849317">
         <mark key="[" line="0" column="0" />
@@ -323,11 +323,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">CQkJLnN0cmVhbSgpLnBlZWsoYWcgLT4gU3lzdGVtLmVyci5wcmludGxuKGFnLmdldEFudGFzR2VyYWV0SWQoKS5nZXRMYXVmZW5kZU5yKCkpKQo=</text>
+      <register name="*" type="4">
+        <text>'2019-12-31')</text>
       </register>
       <register name="-" type="4">
-        <text>entityManager</text>
+        <text>'2019-12-31')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
