@@ -148,17 +148,23 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyNutzerChangeService.java" timestamp="1590743827710">
-        <mark key="[" line="39" column="110" />
-        <mark key="]" line="38" column="146" />
-        <mark key="." line="38" column="145" />
-        <mark key="^" line="38" column="146" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyNutzerChangeService.java" timestamp="1590744908673">
+        <mark key="[" line="38" column="12" />
+        <mark key="]" line="38" column="12" />
+        <mark key="." line="38" column="8" />
+        <mark key="^" line="38" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/test/java/com/qivalo/portal/nutzeinheit/dao/IntNutzerRepositoryTest.java" timestamp="1590726966707">
         <mark key="[" line="53" column="15" />
         <mark key="]" line="54" column="43" />
         <mark key="." line="54" column="42" />
         <mark key="^" line="54" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyOverdueService.java" timestamp="1590744113342">
+        <mark key="[" line="236" column="22" />
+        <mark key="]" line="236" column="87" />
+        <mark key="^" line="92" column="99" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/nutzeinheit/model/Nutzer.java" timestamp="1590723205270">
         <mark key="[" line="52" column="26" />
@@ -184,13 +190,6 @@
         <mark key="[" line="106" column="0" />
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1590722763150">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="991" column="23" />
-        <mark key="]" line="987" column="28" />
-        <mark key="." line="987" column="27" />
-        <mark key="^" line="987" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/nutzer/dao/CommonNutzerRepository.java" timestamp="1590722888694">
         <mark key="[" line="12" column="0" />
@@ -326,16 +325,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>)</text>
+        <text>MessageService messageService</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>MessageService messageService</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>nutzeinheitId</text>
+        <text>ExternalApiHelper.isExternalMessungValid(geraet, messung, mapping)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkiVE9ETyIsCgkJCQkJeWVzdGVyZGF5LAoJCQkJCXllc3RlcmRheS5wbHVzRGF5cygxKSwKCQkJCQlEaXNjb3Zlcmd5VGltZVJlc29sdXRpb24uUkFXCgkJCQkpKTsK</text>
