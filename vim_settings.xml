@@ -124,14 +124,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/console" timestamp="1590715207864">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/test/java/com/qivalo/portal/nutzeinheit/dao/IntNutzeinheitRepositoryTest.java" timestamp="1590724883076">
         <mark key="[" line="4" column="21" />
         <mark key="]" line="4" column="22" />
         <mark key="^" line="7" column="52" />
         <mark key="." line="4" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/nutzeinheit/dao/NutzeinheitRepository.java" timestamp="1590727515418">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/int-common/src/main/java/com/qivalo/portal/nutzeinheit/dao/IntNutzerRepository.java" timestamp="1590723698514">
         <mark key="[" line="24" column="86" />
@@ -139,11 +141,11 @@
         <mark key="^" line="25" column="4" />
         <mark key="." line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyNutzerChangeService.java" timestamp="1590723724065">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="52" />
-        <mark key="^" line="8" column="52" />
-        <mark key="." line="8" column="51" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyNutzerChangeService.java" timestamp="1590727155636">
+        <mark key="[" line="16" column="136" />
+        <mark key="]" line="16" column="137" />
+        <mark key="^" line="16" column="137" />
+        <mark key="." line="16" column="137" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/test/java/com/qivalo/portal/nutzeinheit/dao/IntNutzerRepositoryTest.java" timestamp="1590726966707">
         <mark key="[" line="53" column="15" />
@@ -161,19 +163,23 @@
         <mark key="." line="76" column="54" />
         <mark key="^" line="76" column="55" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/rest/DiscovergyRestEndpoint.java" timestamp="1590715075333">
-        <mark key="[" line="36" column="23" />
-        <mark key="]" line="36" column="74" />
-        <mark key="." line="36" column="23" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1590715568848">
+      <file name="/Dummy.txt" timestamp="1590727064579">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/nutzeinheit/model/NutzerDetails.java" timestamp="1590723233796">
         <mark key="[" line="29" column="22" />
         <mark key="]" line="29" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/geraet/rest/GeraetRestEndpoint.java" timestamp="1590713802637" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/nutzeinheit/model/Nutzeinheit.java" timestamp="1590727370633">
+        <mark key="[" line="57" column="24" />
+        <mark key="]" line="57" column="36" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/int-common/src/main/java/com/qivalo/portal/geraet/dao/IntAktivGeraetRepository.java" timestamp="1590727765050">
+        <mark key="[" line="108" column="8" />
+        <mark key="]" line="108" column="12" />
+        <mark key="^" line="108" column="12" />
+        <mark key="." line="108" column="8" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1590722763150">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="991" column="23" />
@@ -185,11 +191,6 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/geraet/service/CommonGeraetService.java" timestamp="1590715274526">
-        <mark key="[" line="57" column="164" />
-        <mark key="]" line="57" column="165" />
-        <mark key="." line="57" column="165" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/config/JobNamesConfig.java" timestamp="1590721770080">
         <mark key="[" line="37" column="84" />
@@ -325,31 +326,40 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">CQlhc3NlcnRFcXVhbHMoMSwgbnV0emVpbmhlaXRJZHMuc2l6ZSgpKTsKCQlhc3NlcnRFcXVhbHMoNjAxOEwsIG51dHplaW5oZWl0SWRzLmdldCgwKSk7Cg==</text>
+      <register name="*" type="4">
+        <text>nutzeinheitId</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CgoJQFRlc3QKCXZvaWQgc2hvdWxkRmV0Y2hGb3J0bml0ZU51dHplaW5oZWl0KCkgewoJCS8vIGdpdmVuCgkJdmFyIHdvaG5lbmRlID0gTG9jYWxEYXRlLm9mKDIwMTcsIDEyLCAxKS5hdFN0YXJ0T2ZEYXkoKTsKCgkJLy8gd2hlbgoJCXZhciBudXR6ZWluaGVpdElkcyA9IGludE51dHplclJlcG9zaXRvcnkuZmluZE51dHplaW5oZWl0SWRzRm9yTnV0emVyU3RpY2h0YWcod29obmVuZGUpOwoKCQkvLyB0aGVuCgkJYXNzZXJ0RXF1YWxzKDEsIG51dHplaW5oZWl0SWRzLnNpemUoKSk7CgkJYXNzZXJ0RXF1YWxzKDYwMThMLCBudXR6ZWluaGVpdElkcy5nZXQoMCkpOwoJfQ==</text>
+        <text>nutzeinheitId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQlhc3NlcnRFcXVhbHMoMSwgbnV0emVpbmhlaXRJZHMuc2l6ZSgpKTsKCQlhc3NlcnRFcXVhbHMoNjAxOEwsIG51dHplaW5oZWl0SWRzLmdldCgwKSk7Cg==</text>
+        <text encoding="base64">CQoJQFF1ZXJ5KAoJCS8vQGZvcm1hdHRlcjpvZmYKCQkic2VsZWN0IG4gIiArCgkJCSJmcm9tIE51dHplaW5oZWl0IG4gIiArCgkJCSJqb2luIGZldGNoIG4uYWt0aXZlR2VyYWV0ZSAiICsKCQkJIndoZXJlIG4ucmVtb3ZlZG9uIGlzIG51bGwiCgkJLy9AZm9ybWF0dGVyOm9uCgkpCglPcHRpb25hbDxOdXR6ZWluaGVpdD4gZ2V0TnV0emVpbmhlaXRXaXRoR2VyYWV0ZShAUGFyYW0oImlkIikgTG9uZyBpZCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlhc3NlcnRFcXVhbHMoMSwgbnV0emVpbmhlaXRJZHMuc2l6ZSgpKTsKCQlhc3NlcnRFcXVhbHMoNjAxOEwsIG51dHplaW5oZWl0SWRzLmdldCgwKSk7Cg==</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CQlhc3NlcnRFcXVhbHMoMSwgbnV0emVpbmhlaXRJZHMuc2l6ZSgpKTsKCQlhc3NlcnRFcXVhbHMoNjAxOEwsIG51dHplaW5oZWl0SWRzLmdldCgwKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQlhc3NlcnRFcXVhbHMoMSwgbnV0emVpbmhlaXRJZHMuc2l6ZSgpKTsKCQlhc3NlcnRFcXVhbHMoNjAxOEwsIG51dHplaW5oZWl0SWRzLmdldCgwKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text>entityManager.createQuery(
     //@formatter:off
 	&quot;select nnd from NutzerDetails nnd join fetch nnd.nutzer n join fetch n.nutzeinheit nn where nnd.wohnende is not null&quot;, NutzerDetails.class
@@ -357,20 +367,11 @@
 )
 	.getResultList()</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">QFNxbChzY3JpcHRzID0ge1MxX0NMRUFSLCBTMl9CQVNFX0RBVEEsIH0pCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CXZvaWQgc2hvdWxkCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQkJIndoZXJlIG4ubnV0emVyRGV0YWlscy53b2huZW5kZSA9IDpkYXRlICIgKwo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgQ29tbW9uQXN5bmNUYXNrUmVwb3NpdG9yeSBhc3luY1Rhc2tSZXBvc2l0b3J5OwoJcHJpdmF0ZSBmaW5hbCBQcm9wZXJ0eUhlbHBlciBwcm9wZXJ0eUhlbHBlcjsK</text>
+        <text encoding="base64">CXZvaWQgc2hvdWxkCg==</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
