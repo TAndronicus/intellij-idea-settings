@@ -137,20 +137,16 @@
         <mark key="." line="103" column="218" />
         <mark key="^" line="103" column="224" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyOverdueService.java" timestamp="1590976537476">
-        <mark key="[" line="92" column="92" />
-        <mark key="]" line="92" column="92" />
-        <mark key="." line="92" column="92" />
-        <mark key="^" line="92" column="98" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyOverdueService.java" timestamp="1590985194454">
+        <mark key="[" line="142" column="123" />
+        <mark key="]" line="143" column="20" />
+        <mark key="." line="143" column="19" />
+        <mark key="^" line="143" column="20" />
       </file>
       <file name="/console" timestamp="1590982185098">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1590974531737" />
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyOverdueBatchService.java" timestamp="1590746354401">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="115" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyNutzerChangeService.java" timestamp="1590751434469">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -171,6 +167,7 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1590986611394" />
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/messung/service/MessungService.java" timestamp="1590981461325">
         <mark key="[" line="229" column="123" />
         <mark key="]" line="229" column="123" />
@@ -201,12 +198,12 @@
         <mark key="^" line="29" column="113" />
         <mark key="." line="29" column="112" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1590983322624">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1590986354862">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4005" column="17" />
-        <mark key="]" line="4000" column="11" />
-        <mark key="^" line="4000" column="12" />
-        <mark key="." line="4000" column="11" />
+        <mark key="[" line="4005" column="8" />
+        <mark key="]" line="4005" column="18" />
+        <mark key="." line="4005" column="17" />
+        <mark key="^" line="4005" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1590981409973">
         <mark key="[" line="355" column="0" />
@@ -220,10 +217,10 @@
         <mark key="^" line="27" column="33" />
         <mark key="." line="27" column="32" />
       </file>
-      <file name="/fragment.java" timestamp="1590749894237">
+      <file name="/fragment.java" timestamp="1590986593549">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="14" />
-        <mark key="." line="7" column="14" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -331,11 +328,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text encoding="base64">am9iX2lkLCA=</text>
+      <register name="*" type="2">
+        <text>candidate.isTwoSided()e</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">am9iX2lkLCA=</text>
+        <text>queue</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
@@ -344,34 +341,34 @@
         <text encoding="base64">CiAgYW5kIGV4aXN0cygKICAgICAgICBzZWxlY3QgKgogICAgICAgIGZyb20gbWVzX2hlaXprb3N0ZW52ZXJ0ZWlsZXIgbWgKICAgICAgICB3aGVyZSBtaC5nZXJfZ2VyYWV0X2lkID0gZ2cuaWQKICAgICAgICAgIGFuZCBtaC5tZXNzX2RhdHVtIDwgJzIwMjAtMDEtMDEnCiAgICAp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBmbGFnQ2FuZGlkYXRlc0FzVXBkYXRlZCAtIGZsYWcgY2FuZGlkYXRlcyBvbiB0aGUgcXVldWUgKGV3X2NhbmRpZGF0ZXMpLCBmb3Igd2hpY2ggZXJzYXR6d2VydGUgd2lsbCBiZSBidWlsdAo=</text>
+        <text>candidate.isTwoSided()e</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlpZiAoZmxhZ0NhbmRpZGF0ZXNBc1VwZGF0ZWQpCgkJCWZsYWdDYW5kaWRhdGVzQXNVcGRhdGVkKGdlcmFldElkKTsK</text>
+        <text encoding="base64">ZGVsZXRlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgdm9pZCBmbGFnQ2FuZGlkYXRlc0FzVXBkYXRlZChMb25nIGdlcmFldElkKSB7CgkJZW0uY3JlYXRlTmF0aXZlUXVlcnkoCgkJCS8vQGZvcm1hdHRlcjpvZmYKCQkJInVwZGF0ZSBld19jYW5kaWRhdGVzICIgKwoJCQkJInNldCB1cGRhdGVkID0gdHJ1ZSAiICsKCQkJCSJ3aGVyZSBld19jYW5kaWRhdGVzLmdlcl9nZXJhZXRfaWQgPSA6Z2VyX2lkIgoJCQkvL0Bmb3JtYXR0ZXI6b24KCQkpCgkJCS5zZXRQYXJhbWV0ZXIoImdlcl9pZCIsIGdlcmFldElkKQoJCQkuZXhlY3V0ZVVwZGF0ZSgpOwoJfQoK</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQl0cnVlCg==</text>
+        <text encoding="base64">ZGVsZXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLnNldFBhcmFtZXRlcigidXBkYXRlZCIsIGZsYWdDYW5kaWRhdGVzQXNVcGRhdGVkKQo=</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
+        <text encoding="base64">ZGVsZXRlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CnNlbGVjdCBpZCwgY29hbGVzY2UoZW5kX2RhdGUsIGN1cnJlbnRfdGltZXN0YW1wKSAtIHN0YXJ0X2RhdGUgZHVyYXRpb24sIHN0YXR1cywgY3JlYXRpb25fZGF0ZSwgZW5kX2RhdGUsIG1vZGUsIGNvbW1lbnQKZnJvbSB0ZWNfam9iX2hpc3RvcmllIHRqaAp3aGVyZSBqb2JfaWQgfiAnZXJzYXR6JwpvcmRlciBieSBjcmVhdGlvbl9kYXRlIGRlc2M7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
+        <text encoding="base64">ZGVsZXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgdXBkYXRlZDsK</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
