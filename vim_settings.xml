@@ -140,12 +140,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1590974531737" />
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/int-common/src/main/java/com/qivalo/portal/messung/dao/IntMessungCustomRepository.java" timestamp="1590997706901">
-        <mark key="'" line="80" column="24" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/int-common/src/main/java/com/qivalo/portal/messung/dao/IntMessungCustomRepository.java" timestamp="1590997733798">
+        <mark key="'" line="91" column="45" />
         <mark key="[" line="91" column="45" />
-        <mark key="]" line="91" column="82" />
-        <mark key="." line="91" column="81" />
-        <mark key="^" line="91" column="82" />
+        <mark key="]" line="91" column="71" />
+        <mark key="." line="91" column="70" />
+        <mark key="^" line="91" column="71" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/04_insert_geraet_messungen.sql" timestamp="1590994368936" />
       <file name="/a.sql" timestamp="1590993570409">
@@ -213,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="4" filename="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/geraet/geraet-details/geraet-details.component.ts" />
       <jump line="41" column="100" filename="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/geraet/geraet-details/geraet-details.component.html" />
       <jump line="202" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/messung/service/MessungServiceConsumptionTest.java" />
       <jump line="915" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
@@ -313,6 +312,7 @@
       <jump line="953" column="57" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" />
       <jump line="1023" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
       <jump line="79" column="24" filename="$USER_HOME$/Workspace/qivalo/kundenportal/int-common/src/main/java/com/qivalo/portal/messung/dao/IntMessungCustomRepository.java" />
+      <jump line="91" column="45" filename="$USER_HOME$/Workspace/qivalo/kundenportal/int-common/src/main/java/com/qivalo/portal/messung/dao/IntMessungCustomRepository.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
