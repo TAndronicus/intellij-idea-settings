@@ -26,7 +26,7 @@
     <data-source source="LOCAL" name="test@heroku" uuid="73ff3be5-7ebf-4aa7-a58c-0936252274aa">
       <driver-ref>postgresql</driver-ref>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://ec2-54-75-231-215.eu-west-1.compute.amazonaws.com:5432/d6s1quf3d8knih</jdbc-url>
+      <jdbc-url>jdbc:postgresql://ec2-54-247-70-127.eu-west-1.compute.amazonaws.com:5432/d5sa8n0nk0d3rt</jdbc-url>
     </data-source>
   </component>
 </application>
