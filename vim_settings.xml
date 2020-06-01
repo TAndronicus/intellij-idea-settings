@@ -140,12 +140,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1590974531737" />
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/int-common/src/main/java/com/qivalo/portal/messung/dao/IntMessungCustomRepository.java" timestamp="1590997733798">
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/int-common/src/main/java/com/qivalo/portal/messung/dao/IntMessungCustomRepository.java" timestamp="1591001748770">
         <mark key="'" line="91" column="45" />
-        <mark key="[" line="91" column="45" />
-        <mark key="]" line="91" column="71" />
-        <mark key="." line="91" column="70" />
-        <mark key="^" line="91" column="71" />
+        <mark key="[" line="91" column="56" />
+        <mark key="]" line="91" column="57" />
+        <mark key="." line="91" column="56" />
+        <mark key="^" line="91" column="57" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/04_insert_geraet_messungen.sql" timestamp="1590994368936" />
       <file name="/a.sql" timestamp="1590993570409">
@@ -318,10 +318,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>::timestamp</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>::timestamp</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
