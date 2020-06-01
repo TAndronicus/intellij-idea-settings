@@ -127,10 +127,10 @@
       <file name="/Dummy.txt" timestamp="1591028953563">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/73ff3be5-7ebf-4aa7-a58c-0936252274aa/console.sql" timestamp="1591023145723">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/73ff3be5-7ebf-4aa7-a58c-0936252274aa/console.sql" timestamp="1591033079783">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="114" column="25" />
-        <mark key="]" line="114" column="26" />
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="115" column="42" />
         <mark key="." line="114" column="26" />
         <mark key="^" line="115" column="31" />
       </file>
@@ -322,7 +322,15 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">CnVwZGF0ZSBudXRfbnV0emVyX2RldGFpbHMKc2V0IHdvaG5lbmRlID0gJzIwMjAtMDYtMDMgMDA6MDA6MDAnCndoZXJlIGlkIGluICgxNTMzMzgxMiwgMTUzMzQzNzMsIDE1MzMzODExKTs=</text>
+        <text>update nut_nutzer_details
+set wohnende = '2020-06-02 00:00:00'
+where id in (200988, 15333813, 15334375, 15334374);
+update nut_nutzer_details
+set wohnende = '2020-06-03 00:00:00'
+where id in (15333812, 15334373, 15333811);
+update nut_nutzer_details
+set wohnende = '2020-06-01 00:00:00'
+where id in (15333816, 15333818, 15333821);</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">MjAwOTg4LCA=</text>
@@ -331,7 +339,15 @@
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CnVwZGF0ZSBudXRfbnV0emVyX2RldGFpbHMKc2V0IHdvaG5lbmRlID0gJzIwMjAtMDYtMDMgMDA6MDA6MDAnCndoZXJlIGlkIGluICgxNTMzMzgxMiwgMTUzMzQzNzMsIDE1MzMzODExKTs=</text>
+        <text>update nut_nutzer_details
+set wohnende = '2020-06-02 00:00:00'
+where id in (200988, 15333813, 15334375, 15334374);
+update nut_nutzer_details
+set wohnende = '2020-06-03 00:00:00'
+where id in (15333812, 15334373, 15333811);
+update nut_nutzer_details
+set wohnende = '2020-06-01 00:00:00'
+where id in (15333816, 15333818, 15333821);</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">c2VsZWN0ICoKZnJvbSBzY2hlbWFfdmVyc2lvbiBzdjsK</text>
