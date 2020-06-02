@@ -130,7 +130,7 @@
         <mark key="." line="67" column="36" />
         <mark key="^" line="67" column="37" />
       </file>
-      <file name="/console" timestamp="1591062409949">
+      <file name="/console" timestamp="1591073329065">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/resources/dcgy-iteravm.properties" timestamp="1591006326177">
@@ -153,10 +153,11 @@
       <file name="/a.sql" timestamp="1591062409803">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/resources/dcgy-prod.properties" timestamp="1591006312898">
-        <mark key="[" line="56" column="40" />
-        <mark key="]" line="59" column="40" />
-        <mark key="." line="56" column="40" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetService.java" timestamp="1591073789424">
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="^" line="101" column="76" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/test/java/com/qivalo/portal/nutzeinheit/dao/IntNutzerRepositoryTest.java" timestamp="1591071726835">
         <mark key="[" line="16" column="0" />
@@ -309,7 +310,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9CgkJcmV0dXJuIG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>StartDate</text>
@@ -329,35 +330,34 @@ set wohnende = '2020-06-01 00:00:00'
 where id in (15333816, 15333818, 15333821);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQl9CgkJcmV0dXJuIG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQKCXByaXZhdGUgRW50aXR5TWFuYWdlciBlbnRpdHlNYW5hZ2VyOwoKCUBUZXN0Cgl2b2lkIHNob3VsZEZldGNoRm9ydG5pdGVOdXR6ZWluaGVpdCgpIHsKCQkvLyBnaXZlbgoJCXZhciB3b2huZW5kZSA9IExvY2FsRGF0ZS5vZigyMDE3LCAxMiwgMSkuYXRTdGFydE9mRGF5KCk7CgoJCS8vIHdoZW4KCQl2YXIgbnV0emVpbmhlaXRJZHMgPSBpbnROdXR6ZXJSZXBvc2l0b3J5LmZpbmROdXR6ZWluaGVpdElkc0Zvck51dHplclN0aWNodGFnKHdvaG5lbmRlKTsKCgkJLy8gdGhlbgoJCWFzc2VydEVxdWFscygxLCBudXR6ZWluaGVpdElkcy5zaXplKCkpOwoJCWFzc2VydEVxdWFscyg2MDE4TCwgbnV0emVpbmhlaXRJZHMuZ2V0KDApKTsKCX0K</text>
+        <text encoding="base64">CQlpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkoYW50YXNHZXJhZXRlKSkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCQkJZXJzYXR6d2VydGVEZXNjcmlwdGlvbi5nZXRTdGFydERhdGUoKQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ly8JCQkJZXJzYXR6d2VydGVEZXNjcmlwdGlvbi5nZXRTdGFydERhdGUoKQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">CUBBdXRvd2lyZWQKCXByaXZhdGUgRW50aXR5TWFuYWdlciBlbnRpdHlNYW5hZ2VyOwoKCUBUZXN0Cgl2b2lkIHNob3VsZEZldGNoRm9ydG5pdGVOdXR6ZWluaGVpdCgpIHsKCQkvLyBnaXZlbgoJCXZhciB3b2huZW5kZSA9IExvY2FsRGF0ZS5vZigyMDE3LCAxMiwgMSkuYXRTdGFydE9mRGF5KCk7CgoJCS8vIHdoZW4KCQl2YXIgbnV0emVpbmhlaXRJZHMgPSBpbnROdXR6ZXJSZXBvc2l0b3J5LmZpbmROdXR6ZWluaGVpdElkc0Zvck51dHplclN0aWNodGFnKHdvaG5lbmRlKTsKCgkJLy8gdGhlbgoJCWFzc2VydEVxdWFscygxLCBudXR6ZWluaGVpdElkcy5zaXplKCkpOwoJCWFzc2VydEVxdWFscyg2MDE4TCwgbnV0emVpbmhlaXRJZHMuZ2V0KDApKTsKCX0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8JCQkJZXJzYXR6d2VydGVEZXNjcmlwdGlvbi5nZXRTdGFydERhdGUoKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">CnNlbGVjdCBpZCwgam9iX2lkLCBjb2FsZXNjZShlbmRfZGF0ZSwgY3VycmVudF90aW1lc3RhbXApIC0gc3RhcnRfZGF0ZSBkdXJhdGlvbiwgc3RhdHVzLCBjcmVhdGlvbl9kYXRlLCBlbmRfZGF0ZSwgbW9kZSwgY29tbWVudApmcm9tIHRlY19qb2JfaGlzdG9yaWUgdGpoCndoZXJlIGpvYl9pZCB+ICdudXR6ZXInCm9yZGVyIGJ5IGNyZWF0aW9uX2RhdGUgZGVzYzsK</text>
+        <text encoding="base64">Ly8JCQkJZXJzYXR6d2VydGVEZXNjcmlwdGlvbi5nZXRTdGFydERhdGUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJCWVyc2F0endlcnRlRGVzY3JpcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text>select *
-from ;</text>
+        <text encoding="base64">CnNlbGVjdCBpZCwgam9iX2lkLCBjb2FsZXNjZShlbmRfZGF0ZSwgY3VycmVudF90aW1lc3RhbXApIC0gc3RhcnRfZGF0ZSBkdXJhdGlvbiwgc3RhdHVzLCBjcmVhdGlvbl9kYXRlLCBlbmRfZGF0ZSwgbW9kZSwgY29tbWVudApmcm9tIHRlY19qb2JfaGlzdG9yaWUgdGpoCndoZXJlIGpvYl9pZCB+ICdudXR6ZXInCm9yZGVyIGJ5IGNyZWF0aW9uX2RhdGUgZGVzYzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">d2hlcmUgam9iX2lkIH4gJycK</text>
+        <text encoding="base64">CQkJCWVyc2F0endlcnRlRGVzY3JpcHRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
