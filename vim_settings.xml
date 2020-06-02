@@ -124,23 +124,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591028953563">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/73ff3be5-7ebf-4aa7-a58c-0936252274aa/console.sql" timestamp="1591033079783">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="115" column="42" />
-        <mark key="." line="114" column="26" />
-        <mark key="^" line="115" column="31" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/resources/dcgy-docker.properties" timestamp="1591006387325">
         <mark key="[" line="67" column="32" />
         <mark key="]" line="67" column="37" />
         <mark key="." line="67" column="36" />
         <mark key="^" line="67" column="37" />
       </file>
-      <file name="/console" timestamp="1591022809583">
+      <file name="/console" timestamp="1591062409949">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/resources/dcgy-staging.properties" timestamp="1591006293808">
@@ -159,44 +149,19 @@
         <mark key="]" line="55" column="40" />
         <mark key="." line="52" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/resources/dcgy.properties" timestamp="1591006376065">
-        <mark key="[" line="69" column="32" />
-        <mark key="]" line="69" column="37" />
-        <mark key="." line="69" column="36" />
-        <mark key="^" line="69" column="37" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3dbc3d54-0b5b-40f1-a78c-3bffdb22f40e/console.sql" timestamp="1591062851433">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/int-common/src/main/java/com/qivalo/portal/messung/dao/IntMessungCustomRepository.java" timestamp="1591003268183">
-        <mark key="'" line="99" column="45" />
-        <mark key="[" line="97" column="46" />
-        <mark key="]" line="97" column="51" />
-        <mark key="." line="97" column="50" />
-        <mark key="^" line="97" column="51" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/test/java/com/qivalo/portal/messung/dao/IntMessungCustomRepositoryTest.java" timestamp="1591003529071">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="^" line="41" column="17" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="/a.sql" timestamp="1591028955520">
+      <file name="/a.sql" timestamp="1591062409803">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/batch/DiscovergyNutzerChangeTask.java" timestamp="1591006273953">
-        <mark key="[" line="26" column="58" />
-        <mark key="]" line="26" column="59" />
-        <mark key="^" line="29" column="113" />
-        <mark key="." line="26" column="59" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/resources/dcgy-prod.properties" timestamp="1591006312898">
         <mark key="[" line="56" column="40" />
         <mark key="]" line="59" column="40" />
         <mark key="." line="56" column="40" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/test/java/com/qivalo/portal/nutzeinheit/dao/IntNutzerRepositoryTest.java" timestamp="1591005896347">
-        <mark key="[" line="67" column="51" />
-        <mark key="]" line="67" column="68" />
-        <mark key="." line="67" column="67" />
-        <mark key="^" line="67" column="68" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/resources/dcgy-demo.properties" timestamp="1591006382880">
         <mark key="[" line="54" column="32" />
@@ -210,10 +175,33 @@
         <mark key="." line="67" column="36" />
         <mark key="^" line="67" column="37" />
       </file>
-      <file name="/fragment.java" timestamp="1591002103442">
+      <file name="/Dummy.txt" timestamp="1591062409815">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/73ff3be5-7ebf-4aa7-a58c-0936252274aa/console.sql" timestamp="1591061581644">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="117" column="10" />
+        <mark key="]" line="119" column="22" />
+        <mark key="." line="119" column="21" />
+        <mark key="^" line="119" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/messungen/service/RemoveMessungenImportServiceTest.java" timestamp="1591062840468">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="94" column="51" />
+        <mark key="^" line="94" column="51" />
+        <mark key="." line="94" column="50" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/resources/dcgy.properties" timestamp="1591006376065">
+        <mark key="[" line="69" column="32" />
+        <mark key="]" line="69" column="37" />
+        <mark key="." line="69" column="36" />
+        <mark key="^" line="69" column="37" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/batch/DiscovergyNutzerChangeTask.java" timestamp="1591006273953">
+        <mark key="[" line="26" column="58" />
+        <mark key="]" line="26" column="59" />
+        <mark key="^" line="29" column="113" />
+        <mark key="." line="26" column="59" />
       </file>
     </filemarks>
     <jumps>
@@ -321,16 +309,9 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>update nut_nutzer_details
-set wohnende = '2020-06-02 00:00:00'
-where id in (200988, 15333813, 15334375, 15334374);
-update nut_nutzer_details
-set wohnende = '2020-06-03 00:00:00'
-where id in (15333812, 15334373, 15333811);
-update nut_nutzer_details
-set wohnende = '2020-06-01 00:00:00'
-where id in (15333816, 15333818, 15333821);</text>
+      <register name="*" type="2">
+        <text>select *
+from ;</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">MjAwOTg4LCA=</text>
@@ -350,34 +331,35 @@ set wohnende = '2020-06-01 00:00:00'
 where id in (15333816, 15333818, 15333821);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzY2hlbWFfdmVyc2lvbiBzdjsK</text>
+        <text>select *
+from ;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQKCXByaXZhdGUgRW50aXR5TWFuYWdlciBlbnRpdHlNYW5hZ2VyOwoK</text>
+        <text encoding="base64">d2hlcmUgam9iX2lkIH4gJycK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CSAqLwo=</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBzY2hlbWFfdmVyc2lvbiBzdjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CS8qKgoJICogCg==</text>
+        <text encoding="base64">CUBBdXRvd2lyZWQKCXByaXZhdGUgRW50aXR5TWFuYWdlciBlbnRpdHlNYW5hZ2VyOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLmZsYXRNYXAoZSAtPiBlLmdldCkK</text>
+        <text encoding="base64">CSAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8qKgoJICogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
+        <text encoding="base64">CQkJLmZsYXRNYXAoZSAtPiBlLmdldCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>System.out.println(&quot;&quot;)</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
