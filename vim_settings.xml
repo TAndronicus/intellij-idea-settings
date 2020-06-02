@@ -172,7 +172,11 @@
         <mark key="^" line="94" column="51" />
         <mark key="." line="94" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1591085538174" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1591091250010">
+        <mark key="[" line="283" column="4" />
+        <mark key="]" line="285" column="112" />
+        <mark key="." line="283" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" timestamp="1591086317097">
         <mark key="[" line="154" column="8" />
         <mark key="]" line="154" column="59" />
@@ -294,10 +298,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>)</text>
+        <text>ersatzwerteDescription.getEndDate()</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>ersatzwerteDescription.getEndDate()</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
