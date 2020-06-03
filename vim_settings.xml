@@ -132,16 +132,17 @@
         <mark key="." line="1137" column="79" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/resources/DTV-ALTGERAETE.xml" timestamp="1591175796333" />
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyNutzerChangeService.java" timestamp="1591179161165">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyNutzerChangeService.java" timestamp="1591180283299">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="45" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/int-common/src/main/java/com/qivalo/portal/nutzeinheit/dao/IntNutzerRepository.java" timestamp="1591178228885">
-        <mark key="[" line="20" column="67" />
-        <mark key="]" line="21" column="36" />
-        <mark key="." line="21" column="35" />
-        <mark key="^" line="21" column="36" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/int-common/src/main/java/com/qivalo/portal/nutzeinheit/dao/IntNutzerRepository.java" timestamp="1591180691527">
+        <mark key="[" line="19" column="94" />
+        <mark key="]" line="20" column="85" />
+        <mark key="." line="20" column="84" />
+        <mark key="^" line="20" column="85" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1591178724331">
         <mark key="'" line="0" column="0" />
@@ -182,7 +183,7 @@
         <mark key="^" line="45" column="47" />
         <mark key="." line="45" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591179377326">
+      <file name="/Dummy.txt" timestamp="1591180531092">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/main/resources/antas.properties" timestamp="1591170352950">
@@ -326,46 +327,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">CQkvLyBtZWFzdXJlbWVudHMgc2hvdWxkIGFscmVhZHkgYmUgaW4gZGlyY292ZXJneQo=</text>
+        <text encoding="base64">CQkJImlubmVyIGpvaW4gbnV0X251dHplaW5oZWl0IG5uIG9uIG1zLmxpZV9saWVnZW5zY2hhZnRfaWQgPSBubi5saWVfbGllZ2Vuc2NoYWZ0X2lkICIgKwoJCQkid2hlcmUgbm4uICIgKwo=</text>
       </register>
       <register name="-" type="4">
-        <text>NotDeleted</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>ERSATZWERT</text>
+        <text>discovergyService.getExactDateLastMessung(geraet.getExternalApiId(), date))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkvLyBtZWFzdXJlbWVudHMgc2hvdWxkIGFscmVhZHkgYmUgaW4gZGlyY292ZXJneQo=</text>
+        <text encoding="base64">CQkJImlubmVyIGpvaW4gbnV0X251dHplaW5oZWl0IG5uIG9uIG1zLmxpZV9saWVnZW5zY2hhZnRfaWQgPSBubi5saWVfbGllZ2Vuc2NoYWZ0X2lkICIgKwoJCQkid2hlcmUgbm4uICIgKwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJImFuZCBtLnByb2ZpbGVfdHlwZSA8PiAnRCciLAo=</text>
+        <text encoding="base64">Ly8JCQkubWFwKGdlcmFldCAtPiBQYWlyLm9mKGdlcmFldCwgZGlzY292ZXJneVNlcnZpY2UuZ2V0RXhhY3REYXRlTGFzdE1lc3N1bmcoZ2VyYWV0LmdldEV4dGVybmFsQXBpSWQoKSwgZGF0ZSkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJImlubmVyIGpvaW4gbnV0X251dHplcl9kZXRhaWxzIG5kIG9uIG4uaWQgPSBuZC5udXRfbnV0emVyX2lkICIgKwo=</text>
+        <text encoding="base64">CQkJCWdlcmFldE1lc3N1bmdQYWlyLmdldEZpcnN0KCksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJLmZpbHRlcihnZXJhZXRNZXNzdW5nUGFpciAtPiBnZXJhZXRNZXNzdW5nUGFpci5nZXRTZWNvbmQoKS5nZXRUaW1lKCkgIT0gbnVsbCkKCQkJLmZpbHRlcihnZXJhZXRNZXNzdW5nUGFpciAtPiBFeHRlcm5hbEFwaUhlbHBlci5pc0V4dGVybmFsTWVzc3VuZ1ZhbGlkKAoJCQkJZ2VyYWV0TWVzc3VuZ1BhaXIuZ2V0Rmlyc3QoKSwKCQkJCWdlcmFldE1lc3N1bmdQYWlyLmdldFNlY29uZCgpLAoJCQkJbWFwcGluZ3MuZ2V0KGdlcmFldE1lc3N1bmdQYWlyLmdldEZpcnN0KCkuZ2V0R2VyYWV0VHlwSWQoKQoJCQkJKSkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUxpc3Q8TG9uZz4gZmluZE51dHplaW5oZWl0SWRzSGF2aW5nTm9uRGFpbHlHZXJhZXRlKCkK</text>
+        <text encoding="base64">CQkvLyBtZWFzdXJlbWVudHMgc2hvdWxkIGFscmVhZHkgYmUgaW4gZGlyY292ZXJneQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBDb2x1bW4K</text>
+        <text encoding="base64">CQkJImFuZCBtLnByb2ZpbGVfdHlwZSA8PiAnRCciLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5jb2xsZWN0aW9uczQuQ29sbGVjdGlvblV0aWxzOwo=</text>
+        <text encoding="base64">CQkJImlubmVyIGpvaW4gbnV0X251dHplcl9kZXRhaWxzIG5kIG9uIG4uaWQgPSBuZC5udXRfbnV0emVyX2lkICIgKwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCWlmIChndmVyc3RpLmdldChndmVyc3RpLnNpemUoKSAtIDEpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>assertDTVs(ABRECHNUNG_ID, &quot;DTV-ALTGERAETE.xml&quot;)</text>
+        <text encoding="base64">CUxpc3Q8TG9uZz4gZmluZE51dHplaW5oZWl0SWRzSGF2aW5nTm9uRGFpbHlHZXJhZXRlKCkK</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
