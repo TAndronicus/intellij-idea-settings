@@ -138,13 +138,6 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1591161047264" />
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/int-common/src/main/java/com/qivalo/portal/messung/dao/IntMessungCustomRepository.java" timestamp="1591149182244">
-        <mark key="'" line="146" column="45" />
-        <mark key="[" line="86" column="81" />
-        <mark key="]" line="86" column="81" />
-        <mark key="^" line="86" column="29" />
-        <mark key="." line="86" column="81" />
-      </file>
       <file name="/daten.informix.hkager" timestamp="1591160871450">
         <mark key="[" line="0" column="0" />
       </file>
@@ -155,24 +148,22 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="350" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetService.java" timestamp="1591148858192">
-        <mark key="[" line="159" column="0" />
-        <mark key="]" line="159" column="0" />
-        <mark key="^" line="173" column="111" />
-        <mark key="." line="159" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/insert/V1.0.1__restore_to_227.10v.sql" timestamp="1591156933446" />
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetGVERSTIService.java" timestamp="1591153039643">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-        <mark key="^" line="70" column="39" />
-      </file>
       <file name="/hkager [antas]" timestamp="1591160871411">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591153084397">
+      <file name="/Dummy.txt" timestamp="1591165195627">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/main/java/com/qivalo/portal/core/rest/AntasRestEndpoint.java" timestamp="1591165463397">
+        <mark key="[" line="49" column="30" />
+        <mark key="]" line="49" column="40" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/main/resources/antas.properties" timestamp="1591165542809">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="21" />
+        <mark key="^" line="46" column="23" />
+        <mark key="." line="46" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/insert/V403.0.1__add_dampf_gerart.sql" timestamp="1591161517605">
         <mark key="[" line="10" column="81" />
@@ -195,6 +186,9 @@
         <mark key="]" line="436" column="10" />
         <mark key="." line="436" column="9" />
         <mark key="^" line="436" column="10" />
+      </file>
+      <file name="/fragment.java" timestamp="1591165195605">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -303,7 +297,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>null</text>
+        <text>geraettypen</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
@@ -312,7 +306,7 @@
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>1201-XXX-0046</text>
+        <text>geraettypen</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">b3JkZXIgYnkgaWQ7Cg==</text>
