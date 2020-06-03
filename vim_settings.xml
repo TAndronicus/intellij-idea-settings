@@ -124,12 +124,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1591172670950">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1591172759238">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1137" column="8" />
-        <mark key="]" line="1138" column="21" />
-        <mark key="^" line="1138" column="21" />
-        <mark key="." line="1138" column="20" />
+        <mark key="]" line="1137" column="80" />
+        <mark key="^" line="1137" column="80" />
+        <mark key="." line="1137" column="79" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/geraetekatalog/model/GeraetTyp.java" timestamp="1591158689209">
         <mark key="[" line="108" column="64" />
