@@ -190,7 +190,7 @@
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" timestamp="1591084234264">
         <mark key="'" line="450" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1591126075475">
+      <file name="/fragment.java" timestamp="1591126975735">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -305,8 +305,12 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>ENTFERNT</text>
+      <register name="*" type="2">
+        <text>entityManager.createNativeQuery(
+    //@formatter:off
+	
+    //@formatter:on
+)</text>
       </register>
       <register name="-" type="4">
         <text>ENTFERNT</text>
@@ -318,34 +322,38 @@
         <text>ERSATZWERT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text>entityManager.createNativeQuery(
+    //@formatter:off
+	
+    //@formatter:on
+)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CglAQXV0b3dpcmVkCglwcml2YXRlIEVudGl0eU1hbmFnZXIgZW50aXR5TWFuYWdlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text>nutzeinheitIdsen</text>
+        <text encoding="base64">CglAQXV0b3dpcmVkCglwcml2YXRlIEVudGl0eU1hbmFnZXIgZW50aXR5TWFuYWdlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJLy9UT0RPLTE5OTAK</text>
+        <text>nutzeinheitIdsen</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQl9CgkJcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">CQkJLy9UT0RPLTE5OTAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkvL1RPRE8tMTk5MAo=</text>
+        <text encoding="base64">CQl9CgkJcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQl9CgkJcmV0dXJuIG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
+        <text encoding="base64">CQkJCQkvL1RPRE8tMTk5MAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQlpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkoYW50YXNHZXJhZXRlKSkgewo=</text>
+        <text encoding="base64">CQl9CgkJcmV0dXJuIG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQlpZiAoQ29sbGVjdGlvblV0aWxzLmlzTm90RW1wdHkoYW50YXNHZXJhZXRlKSkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
