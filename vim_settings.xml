@@ -124,7 +124,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591095555176">
+      <file name="/Dummy.txt" timestamp="1591146675781">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/73ff3be5-7ebf-4aa7-a58c-0936252274aa/console.sql" timestamp="1591068441805">
@@ -133,6 +133,8 @@
         <mark key="]" line="116" column="0" />
         <mark key="." line="116" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/DTV-TRENNUNG.xml" timestamp="1591146308863" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/DTV-ALTGERAETE.xml" timestamp="1591146536904" />
       <file name="/console" timestamp="1591093852112">
         <mark key="[" line="0" column="0" />
       </file>
@@ -149,8 +151,8 @@
         <mark key="^" line="69" column="140" />
         <mark key="." line="69" column="131" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtvFileExportRestEndpointTest.java" timestamp="1591125838039">
-        <mark key="'" line="175" column="0" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtvFileExportRestEndpointTest.java" timestamp="1591146596718">
+        <mark key="'" line="155" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" timestamp="1591086317097">
         <mark key="[" line="154" column="8" />
@@ -171,6 +173,7 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="21" column="30" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/DTV-NEUGERAETE.xml" timestamp="1591146492653" />
       <file name="/a.sql" timestamp="1591062409803">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,13 +193,13 @@
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" timestamp="1591084234264">
         <mark key="'" line="450" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/DTV-TRENNUNG-STRANGSCHEMA.xml" timestamp="1591146587682" />
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/model/MessungTyp.java" timestamp="1591100171089">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="13" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="29" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" />
       <jump line="321" column="74" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" />
       <jump line="342" column="36" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" />
       <jump line="192" column="37" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" />
@@ -296,6 +299,7 @@
       <jump line="12" column="17" filename="$USER_HOME$/Workspace/qivalo/kundenportal/int-common/src/main/java/com/qivalo/portal/nutzeinheit/dao/IntNutzerRepository.java" />
       <jump line="45" column="14" filename="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/test/java/com/qivalo/portal/nutzeinheit/dao/IntNutzerRepositoryTest.java" />
       <jump line="175" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtvFileExportRestEndpointTest.java" />
+      <jump line="155" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtvFileExportRestEndpointTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
