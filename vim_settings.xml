@@ -201,11 +201,11 @@
         <mark key="." line="96" column="42" />
         <mark key="^" line="96" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V406.0__editable_property_nutzer_change.sql" timestamp="1591248137912">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="36" />
-        <mark key="^" line="0" column="36" />
-        <mark key="." line="0" column="35" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V406.0__editable_property_nutzer_change.sql" timestamp="1591248197896">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/main/resources/web-iteravm.properties" timestamp="1591247288942">
         <mark key="[" line="46" column="0" />
@@ -319,11 +319,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">YmF0Y2guZGlzY292ZXJneS5udXR6ZXIuZW5hYmxlZD10cnVlCg==</text>
+      <register name="*" type="4">
+        <text>prop_value</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>prop_value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
