@@ -130,13 +130,14 @@
         <mark key="^" line="48" column="56" />
         <mark key="." line="48" column="55" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591246956186">
+      <file name="/Dummy.txt" timestamp="1591251022804">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/main/resources/web.properties" timestamp="1591247240488">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/main/resources/web.properties" timestamp="1591250836681">
         <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="37" />
+        <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
+        <mark key="^" line="64" column="1" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/main/resources/web-prod.properties" timestamp="1591247304365">
         <mark key="[" line="50" column="0" />
@@ -320,10 +321,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>prop_value</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>prop_value</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
