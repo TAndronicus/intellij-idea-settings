@@ -124,7 +124,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1591267285046">
+      <file name="/Dummy.txt" timestamp="1591587614656">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/main/resources/antas.properties" timestamp="1591269300868">
@@ -166,12 +166,12 @@
         <mark key="." line="22" column="95" />
         <mark key="^" line="22" column="87" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" timestamp="1591578751952">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" timestamp="1591588415988">
         <mark key="'" line="242" column="65" />
-        <mark key="[" line="236" column="40" />
-        <mark key="]" line="236" column="41" />
-        <mark key="." line="236" column="40" />
-        <mark key="^" line="236" column="41" />
+        <mark key="[" line="255" column="98" />
+        <mark key="]" line="255" column="102" />
+        <mark key="." line="255" column="101" />
+        <mark key="^" line="255" column="102" />
       </file>
       <file name="/foo.bar" timestamp="1591266610191">
         <mark key="[" line="0" column="0" />
@@ -188,17 +188,17 @@
         <mark key="^" line="129" column="31" />
         <mark key="." line="129" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__ersatzwerte.sql" timestamp="1591579038399">
-        <mark key="[" line="201" column="37" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__ersatzwerte.sql" timestamp="1591586601791">
+        <mark key="[" line="201" column="9" />
         <mark key="]" line="201" column="56" />
         <mark key="." line="201" column="37" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/dao/DBUtilsTests.java" timestamp="1591581542381">
-        <mark key="'" line="235" column="35" />
-        <mark key="[" line="216" column="23" />
-        <mark key="]" line="222" column="87" />
-        <mark key="^" line="221" column="20" />
-        <mark key="." line="221" column="16" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/dao/DBUtilsTests.java" timestamp="1591587564639">
+        <mark key="'" line="234" column="35" />
+        <mark key="[" line="248" column="56" />
+        <mark key="]" line="249" column="40" />
+        <mark key="^" line="249" column="40" />
+        <mark key="." line="249" column="39" />
       </file>
       <file name="/fragment.java" timestamp="1591581601897">
         <mark key="[" line="0" column="0" />
@@ -312,10 +312,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>aanyatch</text>
+        <text>minus</text>
       </register>
       <register name="-" type="4">
-        <text>aanyatch</text>
+        <text>minus</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
@@ -324,34 +324,34 @@
         <text encoding="base64">U2xpZGluZ1dpbmRvd1NwbGl0ZXJhdG9yLndpbmRvd2VkKGRhdGVzLCAyKQoJCQkJCS5tYXAoZ3JvdXAgLT4gZ3JvdXAKCQkJCQkJLm1hcChUaW1lc3RhbXA6OnRvTG9jYWxEYXRlVGltZSkKCQkJCQkJLm1hcChEYXRlVXRpbHM6OnRvR2VybWFuTG9jYWxEYXRlVGltZSkKCQkJCQkJLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSkKCQkJCQkpCgkJCQkJLmFsbE1hdGNoKGwgLT4gQ2hyb25vVW5pdC5NSU5VVEVTLmJldHdlZW4obC5nZXQoMCksIGwuZ2V0KDEpKSA9PSAxNSk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8JCQkJCSYmIERhdGVVdGlscy50b0dlcm1hbkxvY2FsRGF0ZVRpbWUobC5nZXQoMSkpLmdldEhvdXIoKSA9PSAwCi8vCQkJCQkmJiBEYXRlVXRpbHMudG9HZXJtYW5Mb2NhbERhdGVUaW1lKGwuZ2V0KDEpKS5nZXRNaW51dGUoKSA9PSAwKQo=</text>
+        <text encoding="base64">CQkJCQkJLm1hcChEYXRlVXRpbHM6OnRvR2VybWFuTG9jYWxEYXRlVGltZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>SlidingWindowSpliterator.windowed(dates, 2)</text>
+        <text encoding="base64">CQkJCQkJLmRpc3RpbmN0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkubWFwKERhdGVVdGlsczo6dG9Mb2NhbERhdGVUaW1lRnJvbUdlcm1hbikK</text>
+        <text encoding="base64">Ly8JCQkJCSYmIERhdGVVdGlscy50b0dlcm1hbkxvY2FsRGF0ZVRpbWUobC5nZXQoMSkpLmdldEhvdXIoKSA9PSAwCi8vCQkJCQkmJiBEYXRlVXRpbHMudG9HZXJtYW5Mb2NhbERhdGVUaW1lKGwuZ2V0KDEpKS5nZXRNaW51dGUoKSA9PSAwKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkK</text>
+        <text>SlidingWindowSpliterator.windowed(dates, 2)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkubWFwKERhdGVVdGlsczo6dG9Mb2NhbERhdGVUaW1lRnJvbUdlcm1hbikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBkYWlseV9tcF9kYXRlcygnMjAyMC0wMS0wMScsICcyMDIwLTAxLTEwJyk7Cg==</text>
+        <text encoding="base64">CQkJCQkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBkYWlseV9tcF9kYXRlcygnMjAyMC0wMS0wMScsICcyMDIwLTEwLTAxJyk7Cg==</text>
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSBkYWlseV9tcF9kYXRlcygnMjAyMC0wMS0wMScsICcyMDIwLTAxLTEwJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZW50aXR5TWFuYWdlci5jcmVhdGVRdWVyeSgKCQkJCS8vQGZvcm1hdHRlcjpvZmYKCQkJCQkic2VsZWN0IGNvdW50KG0pICIgKwoJCQkJCSJmcm9tIEhlaXprb3N0ZW52ZXJ0ZWlsZXJNZXNzdW5nIG0gIiArCgkJCQkJIndoZXJlIG0ubWVzc0RhdHVtID4gOnN0YXJ0X2RhdGUgIiArCgkJCQkJImFuZCBtLm1lc3NEYXR1bSA8PSA6ZW5kX2RhdGUgIiArCgkJCQkJImFuZCBtLmdlcmFldElkID0gOmdlcl9pZCIKCQkJCS8vQGZvcm1hdHRlcjpvbgoJCQkpCgkJCQkuc2V0UGFyYW1ldGVyKCJnZXJfaWQiLCBnZXJJZCkKCQkJCS5zZXRQYXJhbWV0ZXIoInN0YXJ0X2RhdGUiLCBEYXRlVXRpbHMudG9EYXRlKHN0YXJ0KSlh</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
