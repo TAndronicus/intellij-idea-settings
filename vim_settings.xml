@@ -124,36 +124,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/service/MessungService.java" timestamp="1591685225340">
-        <mark key="'" line="161" column="13" />
-        <mark key="[" line="67" column="4" />
-        <mark key="]" line="67" column="11" />
-        <mark key="^" line="67" column="11" />
-        <mark key="." line="67" column="10" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterStatusUpdateBatchService.java" timestamp="1591673836178">
-        <mark key="[" line="38" column="18" />
-        <mark key="]" line="38" column="0" />
-        <mark key="^" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/MessungRefreshRepository.java" timestamp="1591677414182">
         <mark key="[" line="56" column="32" />
         <mark key="]" line="56" column="62" />
         <mark key="^" line="56" column="62" />
         <mark key="." line="56" column="61" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/geraetekatalog/util/GeraetTypUtils.java" timestamp="1591673422370">
-        <mark key="[" line="106" column="56" />
-        <mark key="]" line="106" column="57" />
-        <mark key="." line="106" column="56" />
-        <mark key="^" line="106" column="57" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/messung/service/SaveManualMessungTest.java" timestamp="1591678054296">
-        <mark key="[" line="81" column="12" />
-        <mark key="]" line="81" column="12" />
-        <mark key="." line="81" column="12" />
-        <mark key="^" line="81" column="15" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/repeatable/R__4.3_create_gas_aggregated.sql" timestamp="1591687250993">
+        <mark key="[" line="30" column="51" />
+        <mark key="]" line="30" column="52" />
+        <mark key="." line="30" column="52" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/service/CommonMessungRefreshService.java" timestamp="1591685042995">
         <mark key="[" line="129" column="0" />
@@ -161,11 +141,62 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="198" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/model/DampfManualMessung.java" timestamp="1591667902087">
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="30" />
-        <mark key="^" line="20" column="30" />
-        <mark key="." line="20" column="29" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyStichtagUpdateBatchService.java" timestamp="1591673991328">
+        <mark key="[" line="41" column="10" />
+        <mark key="]" line="41" column="19" />
+        <mark key="^" line="41" column="19" />
+        <mark key="." line="41" column="18" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/messung/service/MessungAggregatedViewRefreshTest.java" timestamp="1591677653171">
+        <mark key="'" line="80" column="61" />
+        <mark key="[" line="56" column="12" />
+        <mark key="]" line="56" column="36" />
+        <mark key="." line="56" column="35" />
+        <mark key="^" line="56" column="36" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungRepository.java" timestamp="1591679681294">
+        <mark key="[" line="124" column="16" />
+        <mark key="]" line="124" column="64" />
+        <mark key="." line="125" column="40" />
+        <mark key="^" line="125" column="41" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/repeatable/R__4.4_create_strom_aggregated.sql" timestamp="1591687259326">
+        <mark key="[" line="31" column="51" />
+        <mark key="]" line="31" column="52" />
+        <mark key="." line="31" column="52" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/service/MessungService.java" timestamp="1591685225340">
+        <mark key="'" line="161" column="13" />
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="67" column="11" />
+        <mark key="^" line="67" column="11" />
+        <mark key="." line="67" column="10" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/messung/service/SaveManualMessungTest.java" timestamp="1591678054296">
+        <mark key="[" line="81" column="12" />
+        <mark key="]" line="81" column="12" />
+        <mark key="." line="81" column="12" />
+        <mark key="^" line="81" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/repeatable/R__4.5_create_waermemengen_aggregated.sql" timestamp="1591687272539">
+        <mark key="[" line="30" column="51" />
+        <mark key="]" line="30" column="52" />
+        <mark key="." line="30" column="52" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/repeatable/R__4.0.2_create_heizkosten_aggregated.sql" timestamp="1591687217946">
+        <mark key="[" line="31" column="51" />
+        <mark key="]" line="31" column="52" />
+        <mark key="." line="31" column="52" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/repeatable/R__4.1_create_warmwasser_aggregated.sql" timestamp="1591686243647">
+        <mark key="[" line="56" column="60" />
+        <mark key="]" line="56" column="61" />
+        <mark key="." line="56" column="61" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/repeatable/R__4.2_create_kaltwasser_aggregated.sql" timestamp="1591687244202">
+        <mark key="[" line="36" column="60" />
+        <mark key="]" line="36" column="61" />
+        <mark key="." line="36" column="61" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/repeatable/R__5.6_monthly_consumption_of_dampf.sql" timestamp="1591684835411">
         <mark key="[" line="7" column="40" />
@@ -173,18 +204,8 @@
         <mark key="." line="7" column="41" />
         <mark key="^" line="7" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyStichtagUpdateBatchService.java" timestamp="1591673991328">
-        <mark key="[" line="41" column="10" />
-        <mark key="]" line="41" column="19" />
-        <mark key="^" line="41" column="19" />
-        <mark key="." line="41" column="18" />
-      </file>
       <file name="/Dummy.txt" timestamp="1591685406943">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/model/WaermemengenzaehlerManualMessung.java" timestamp="1591667889278">
-        <mark key="[" line="24" column="33" />
-        <mark key="]" line="27" column="26" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/dao/MessungCustomRepository.java" timestamp="1591685140087">
         <mark key="'" line="321" column="4" />
@@ -205,34 +226,12 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="31" column="89" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1591667009041">
-        <mark key="'" line="4013" column="0" />
-        <mark key="[" line="4047" column="47" />
-        <mark key="]" line="4047" column="50" />
-        <mark key="." line="4047" column="49" />
-        <mark key="^" line="4047" column="50" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/messung/service/MessungAggregatedViewRefreshTest.java" timestamp="1591677653171">
-        <mark key="'" line="80" column="61" />
-        <mark key="[" line="56" column="12" />
-        <mark key="]" line="56" column="36" />
-        <mark key="." line="56" column="35" />
-        <mark key="^" line="56" column="36" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/model/DampfMessung.java" timestamp="1591667576904">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="22" column="54" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungRepository.java" timestamp="1591679681294">
-        <mark key="[" line="124" column="16" />
-        <mark key="]" line="124" column="64" />
-        <mark key="." line="125" column="40" />
-        <mark key="^" line="125" column="41" />
-      </file>
-      <file name="/fragment.java" timestamp="1591667935547">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1591686442952">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4074" column="16" />
+        <mark key="]" line="4075" column="9" />
+        <mark key="." line="4075" column="8" />
+        <mark key="^" line="4075" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -301,7 +300,6 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" />
       <jump line="160" column="31" filename="$USER_HOME$/Workspace/qivalo/antas-adapter/src/main/java/com/qivalo/antasadapter/model/geraettyp/GeraetTyp.java" />
       <jump line="106" column="0" filename="$USER_HOME$/Workspace/qivalo/antas-adapter/src/main/java/com/qivalo/antasadapter/rest/ExportRestEndpoint.java" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="167" column="43" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetService.java" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
       <jump line="27" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/nutzeinheit/dao/IntNutzerRepositoryTest.java" />
@@ -336,12 +334,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/repeatable/R__4.6_create_dampf_aggregated.sql" />
       <jump line="4" column="20" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/repeatable/R__5.6_monthly_consumption_of_dampf.sql" />
       <jump line="161" column="13" filename="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/service/MessungService.java" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>public</text>
+      <register name="*" type="2">
+        <text encoding="base64">V0hFUkUgKG0udHlwKTo6dGV4dCA8PiAnRSc6OnRleHQgQU5EIEVYSVNUUyhTRUxFQ1QgMSBGUk9NIG1lc19nYXN6YWVobGVyIFdIRVJFIGdlcl9nZXJhZXRfaWQgPSBtLmdlcl9nZXJhZXRfaWQgQU5EIHR5cCA8PiAnQUEnKQo=</text>
       </register>
       <register name="-" type="4">
         <text>public</text>
@@ -349,8 +348,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>monthly_consumption_of_dampf_unique</text>
+      <register name="0" type="2">
+        <text encoding="base64">V0hFUkUgKG0udHlwKTo6dGV4dCA8PiAnRSc6OnRleHQgQU5EIEVYSVNUUyhTRUxFQ1QgMSBGUk9NIG1lc19nYXN6YWVobGVyIFdIRVJFIGdlcl9nZXJhZXRfaWQgPSBtLmdlcl9nZXJhZXRfaWQgQU5EIHR5cCA8PiAnQUEnKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CS8vVE9ETy0xOTUwCg==</text>
