@@ -157,19 +157,6 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1591600566923">
-        <mark key="[" line="1071" column="7" />
-        <mark key="]" line="1071" column="8" />
-        <mark key="^" line="1071" column="25" />
-        <mark key="." line="1071" column="8" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1591599851001">
-        <mark key="'" line="30" column="13" />
-        <mark key="[" line="288" column="0" />
-        <mark key="]" line="288" column="0" />
-        <mark key="^" line="255" column="15" />
-        <mark key="." line="288" column="0" />
-      </file>
       <file name="/daten.informix.hkager" timestamp="1591660973675">
         <mark key="[" line="0" column="0" />
       </file>
@@ -191,7 +178,13 @@
         <mark key="^" line="326" column="54" />
         <mark key="." line="326" column="53" />
       </file>
-      <file name="/fragment.java" timestamp="1591662403625">
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/main/java/com/qivalo/portal/core/service/GeraetTypSyncHelper.java" timestamp="1591663318007" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8d08094e-d3c4-4e46-bb5b-bfd6a8e8ce01/console.sql" timestamp="1591664026270">
+        <mark key="[" line="499" column="0" />
+        <mark key="]" line="502" column="24" />
+        <mark key="." line="503" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1591663309544">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/geraetekatalog/model/GeraetTypTyp.java" timestamp="1591620829730">
@@ -307,46 +300,53 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>volume</text>
+        <text>select lger.gernr, lger.gerart, ger.verbart, ger.gertyp
+from hkalger lger
+         inner join hkager ger on ger.gerart = lger.gerart
+where ger.verbart = 'DF';</text>
       </register>
       <register name="-" type="4">
-        <text>volume</text>
+        <text encoding="base64">YW5kICA9IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQlXKCJtZXNfd2FybXdhc3NlcnphZWhsZXIiLCAidm9sdW1lIiwgImdldF9lcG9jaF9iZXR3ZWVuIiwgIjEzIiksCg==</text>
+      <register name="0" type="4">
+        <text>select lger.gernr, lger.gerart, ger.verbart, ger.gertyp
+from hkalger lger
+         inner join hkager ger on ger.gerart = lger.gerart
+where ger.verbart = 'DF';</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0ICoK</text>
+        <text encoding="base64">ICAgICAgICAgam9pbiBoa2FsZ3oxIGd6MSBvbiBsZ2VyLmJ0ciA9IGd6MS5idHIgYW5kIGxnZXIubGllbnIgPSBnejEubGllbnIgYW5kIGxnZXIubnR6ZSA9IGd6MS5udHplIGFuZCBsZ2VyLmxmZG5yID0gZ3oxLmxmZG5yCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBiZW5fYmVudXR6ZXIgYmIKOwo=</text>
+      <register name="2" type="4">
+        <text>e lger.btr = 0
+  and lger.lienr = 100625</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CnNlbGVjdCAqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
+        <text encoding="base64">ZnJvbSBna19nZXJhZXRfdHlwIGdndAp3aGVyZSB2ZXJicmF1Y2hzYXJ0ID0gJ0RGJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucWl2YWxvLnBvcnRhbC5nZXJhZXRla2F0YWxvZy5tb2RlbC5HZXJhZXRUeXBCYXNlLkRBTVBGX0dFUkFFVF9BUlRFOwo=</text>
+        <text encoding="base64">c2VsZWN0ICoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YW5kIHdlcnQgPD4gMAo=</text>
+        <text encoding="base64">ZnJvbSBiZW5fYmVudXR6ZXIgYmIKOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICoK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucWl2YWxvLnBvcnRhbC5nZXJhZXRla2F0YWxvZy5tb2RlbC5HZXJhZXRUeXBCYXNlLkRBTVBGX0dFUkFFVF9BUlRFOwo=</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
