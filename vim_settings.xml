@@ -124,11 +124,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/service/MessungService.java" timestamp="1591673169296">
-        <mark key="[" line="218" column="36" />
-        <mark key="]" line="218" column="39" />
-        <mark key="^" line="218" column="39" />
-        <mark key="." line="218" column="38" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/service/MessungService.java" timestamp="1591676125358">
+        <mark key="[" line="65" column="90" />
+        <mark key="]" line="65" column="94" />
+        <mark key="^" line="65" column="94" />
+        <mark key="." line="65" column="93" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterStatusUpdateBatchService.java" timestamp="1591673836178">
         <mark key="[" line="38" column="18" />
@@ -141,6 +141,12 @@
         <mark key="]" line="193" column="49" />
         <mark key="^" line="193" column="49" />
         <mark key="." line="193" column="48" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/MessungRefreshRepository.java" timestamp="1591677414182">
+        <mark key="[" line="56" column="32" />
+        <mark key="]" line="56" column="62" />
+        <mark key="^" line="56" column="62" />
+        <mark key="." line="56" column="61" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/geraetekatalog/util/GeraetTypUtils.java" timestamp="1591673422370">
         <mark key="[" line="106" column="56" />
@@ -159,6 +165,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="44" column="45" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/service/CommonMessungRefreshService.java" timestamp="1591676367793">
+        <mark key="[" line="60" column="86" />
+        <mark key="]" line="60" column="91" />
+        <mark key="." line="60" column="90" />
+        <mark key="^" line="60" column="91" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/model/DampfManualMessung.java" timestamp="1591667902087">
         <mark key="[" line="20" column="24" />
         <mark key="]" line="20" column="30" />
@@ -171,24 +183,12 @@
         <mark key="^" line="41" column="19" />
         <mark key="." line="41" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591674287887">
+      <file name="/Dummy.txt" timestamp="1591675946650">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/manualmessung/model/WaermemengenzaehlerManualMessung.java" timestamp="1591667889278">
         <mark key="[" line="24" column="33" />
         <mark key="]" line="27" column="26" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateBatchService.java" timestamp="1591664682896">
-        <mark key="[" line="48" column="10" />
-        <mark key="]" line="48" column="19" />
-        <mark key="^" line="48" column="19" />
-        <mark key="." line="48" column="18" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/repeatable/R__vb_2_functions.sql" timestamp="1591664533644">
-        <mark key="[" line="415" column="97" />
-        <mark key="]" line="415" column="98" />
-        <mark key="^" line="415" column="98" />
-        <mark key="." line="415" column="97" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V403.0__add_dampf_gerart.sql" timestamp="1591666298080">
         <mark key="'" line="35" column="18" />
@@ -197,12 +197,18 @@
         <mark key="." line="35" column="18" />
         <mark key="^" line="35" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/dao/MessungCustomRepository.java" timestamp="1591674114479">
-        <mark key="'" line="79" column="16" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="42" column="15" />
-        <mark key="^" line="42" column="15" />
-        <mark key="." line="42" column="14" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/dao/MessungCustomRepository.java" timestamp="1591676234374">
+        <mark key="'" line="322" column="4" />
+        <mark key="[" line="47" column="48" />
+        <mark key="]" line="47" column="53" />
+        <mark key="^" line="47" column="53" />
+        <mark key="." line="47" column="52" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/GenericMessungRepository.java" timestamp="1591677029872">
+        <mark key="[" line="8" column="121" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="24" column="13" />
+        <mark key="^" line="24" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/hist/V228.0__create_tables_mes_manual.sql" timestamp="1591666454866">
         <mark key="[" line="38" column="0" />
@@ -228,18 +234,11 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="22" column="54" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/geraet/util/GeraetUtils.java" timestamp="1591665769732">
-        <mark key="[" line="61" column="16" />
-        <mark key="]" line="61" column="74" />
-        <mark key="." line="61" column="73" />
-        <mark key="^" line="61" column="74" />
-      </file>
       <file name="/fragment.java" timestamp="1591667935547">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="13" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtkFileExportRestEndpointTest.java" />
       <jump line="61" column="6" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtvFileExportRestEndpointTest.java" />
       <jump line="664" column="4" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/abrechnung/core/rest/AbrechnungRestEndpointTest.java" />
       <jump line="1441" column="37" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/abrechnung/core/rest/AbrechnungRestEndpointTest.java" />
@@ -339,51 +338,52 @@
       <jump line="0" column="26" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V403.0__create_dampf_messung.sql" />
       <jump line="144" column="16" filename="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/dao/MessungCustomRepository.java" />
       <jump line="79" column="16" filename="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/dao/MessungCustomRepository.java" />
+      <jump line="322" column="4" filename="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/dao/MessungCustomRepository.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>waermemengenzaehler_</text>
+      <register name="*" type="2">
+        <text encoding="base64">CS8vIEBmb3JtYXR0ZXI6b2ZmCg==</text>
       </register>
       <register name="-" type="4">
-        <text>waermemengenzaehler_</text>
+        <text>mes_heizkostenverteiler</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CgoJQENvbHVtbihuYW1lID0gIm1lc193YWVybWVtZW5nZW56YWVobGVyX2lkIikKCXByaXZhdGUgTG9uZyBtZXNzdW5nSWQ7</text>
+        <text>&quot;SELECT SUM(COALESCE(n_tup_ins, 0) + COALESCE(n_tup_upd, 0) + COALESCE(n_tup_del, 0) + COALESCE(n_tup_hot_upd, 0)) FROM pg_stat_user_tables WHERE relname = 'mes_heizkostenverteiler'&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CS8vIEBmb3JtYXR0ZXI6b2ZmCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaXZhdGUgRG91YmxlIHZvbHVtZTsKCXByaXZhdGUgU3RyaW5nIHZvbHVtZUVpbmhlaXQ7Cg==</text>
+        <text encoding="base64">CS8vIEBmb3JtYXR0ZXI6b24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgU3RyaW5nIHBvd2VyRWluaGVpdDsKCg==</text>
+        <text encoding="base64">CUBRdWVyeSh2YWx1ZSA9ICJTRUxFQ1QgU1VNKENPQUxFU0NFKG5fdHVwX2lucywgMCkgKyBDT0FMRVNDRShuX3R1cF91cGQsIDApICsgQ09BTEVTQ0Uobl90dXBfZGVsLCAwKSArIENPQUxFU0NFKG5fdHVwX2hvdF91cGQsIDApKSBGUk9NIHBnX3N0YXRfdXNlcl90YWJsZXMgV0hFUkUgcmVsbmFtZSA9ICdtZXNfZ2FzemFlaGxlciciLCBuYXRpdmVRdWVyeSA9IHRydWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CglAQ29sdW1uKG5hbWUgPSAicG93ZXJfZWluaGVpdCIpCg==</text>
+        <text encoding="base64">CUBRdWVyeSh2YWx1ZSA9ICJTRUxFQ1QgU1VNKENPQUxFU0NFKG5fdHVwX2lucywgMCkgKyBDT0FMRVNDRShuX3R1cF91cGQsIDApICsgQ09BTEVTQ0Uobl90dXBfZGVsLCAwKSArIENPQUxFU0NFKG5fdHVwX2hvdF91cGQsIDApKSBGUk9NIHBnX3N0YXRfdXNlcl90YWJsZXMgV0hFUkUgcmVsbmFtZSBMSUtFICdtZXNfc3Ryb216YWVobGVyXyUnIiwgbmF0aXZlUXVlcnkgPSB0cnVlKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBDb2x1bW4obmFtZSA9ICJtZXNfd2Flcm1lbWVuZ2VuemFlaGxlcl9pZCIpCglwcml2YXRlIExvbmcgbWVzc3VuZ0lkOwoKCUBDb2x1bW4obmFtZSA9ICJmbG93X3RlbXBlcmF0dXJlIikKCXByaXZhdGUgRG91YmxlIGZsb3dUZW1wZXJhdHVyZTsKCglAQ29sdW1uKG5hbWUgPSAiZmxvd190ZW1wZXJhdHVyZV9laW5oZWl0IikKCXByaXZhdGUgU3RyaW5nIGZsb3dUZW1wZXJhdHVyZUVpbmhlaXQ7CgoJQENvbHVtbihuYW1lID0gInZvbHVtZV9mbG93IikKCXByaXZhdGUgRG91YmxlIHZvbHVtZUZsb3c7CgoJQENvbHVtbihuYW1lID0gInZvbHVtZV9mbG93X2VpbmhlaXQiKQoJcHJpdmF0ZSBTdHJpbmcgdm9sdW1lRmxvd0VpbmhlaXQ7CgoJQENvbHVtbihuYW1lID0gInJldHVybl90ZW1wZXJhdHVyZSIpCglwcml2YXRlIERvdWJsZSByZXR1cm5UZW1wZXJhdHVyZTsKCglAQ29sdW1uKG5hbWUgPSAicmV0dXJuX3RlbXBlcmF0dXJlX2VpbmhlaXQiKQoJcHJpdmF0ZSBTdHJpbmcgcmV0dXJuVGVtcGVyYXR1cmVFaW5oZWl0OwoKCUBDb2x1bW4obmFtZSA9ICJwb3dlciIpCglwcml2YXRlIERvdWJsZSBwb3dlcjsK</text>
+        <text encoding="base64">CUBRdWVyeSh2YWx1ZSA9ICJTRUxFQ1QgU1VNKENPQUxFU0NFKG5fdHVwX2lucywgMCkgKyBDT0FMRVNDRShuX3R1cF91cGQsIDApICsgQ09BTEVTQ0Uobl90dXBfZGVsLCAwKSArIENPQUxFU0NFKG5fdHVwX2hvdF91cGQsIDApKSBGUk9NIHBnX3N0YXRfdXNlcl90YWJsZXMgV0hFUkUgcmVsbmFtZSA9ICdtZXNfd2FybXdhc3NlcnphZWhsZXInIiwgbmF0aXZlUXVlcnkgPSB0cnVlKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CglAQ29sdW1uKG5hbWUgPSAiZW5lcmd5X2VpbmhlaXQiKQoJcHJpdmF0ZSBTdHJpbmcgZW5lcmd5RWluaGVpdDsKCglAQ29sdW1uKG5hbWUgPSAibWVzX3dhZXJtZW1lbmdlbnphZWhsZXJfaWQiKQoJcHJpdmF0ZSBMb25nIG1lc3N1bmdJZDsKCglAQ29sdW1uKG5hbWUgPSAiZmxvd190ZW1wZXJhdHVyZSIpCglwcml2YXRlIERvdWJsZSBmbG93VGVtcGVyYXR1cmU7CgoJQENvbHVtbihuYW1lID0gImZsb3dfdGVtcGVyYXR1cmVfZWluaGVpdCIpCglwcml2YXRlIFN0cmluZyBmbG93VGVtcGVyYXR1cmVFaW5oZWl0OwoKCUBDb2x1bW4obmFtZSA9ICJ2b2x1bWVfZmxvdyIpCglwcml2YXRlIERvdWJsZSB2b2x1bWVGbG93OwoKCUBDb2x1bW4obmFtZSA9ICJ2b2x1bWVfZmxvd19laW5oZWl0IikKCXByaXZhdGUgU3RyaW5nIHZvbHVtZUZsb3dFaW5oZWl0OwoKCUBDb2x1bW4obmFtZSA9ICJyZXR1cm5fdGVtcGVyYXR1cmUiKQoJcHJpdmF0ZSBEb3VibGUgcmV0dXJuVGVtcGVyYXR1cmU7CgoJQENvbHVtbihuYW1lID0gInJldHVybl90ZW1wZXJhdHVyZV9laW5oZWl0IikKCXByaXZhdGUgU3RyaW5nIHJldHVyblRlbXBlcmF0dXJlRWluaGVpdDsKCglAQ29sdW1uKG5hbWUgPSAicG93ZXIiKQoJcHJpdmF0ZSBEb3VibGUgcG93ZXI7Cg==</text>
+        <text encoding="base64">CUBRdWVyeSh2YWx1ZSA9ICJTRUxFQ1QgU1VNKENPQUxFU0NFKG5fdHVwX2lucywgMCkgKyBDT0FMRVNDRShuX3R1cF91cGQsIDApICsgQ09BTEVTQ0Uobl90dXBfZGVsLCAwKSArIENPQUxFU0NFKG5fdHVwX2hvdF91cGQsIDApKSBGUk9NIHBnX3N0YXRfdXNlcl90YWJsZXMgV0hFUkUgcmVsbmFtZSA9ICdtZXNfd2FybXdhc3NlcnphZWhsZXInIiwgbmF0aXZlUXVlcnkgPSB0cnVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucWl2YWxvLnBvcnRhbC5tZXNzdW5nLm1vZGVsLldhZXJtZW1lbmdlbnphZWhsZXJNZXNzdW5nLlRBQkxFX05BTUU7Cg==</text>
+        <text encoding="base64">CUBRdWVyeSh2YWx1ZSA9ICJTRUxFQ1QgU1VNKENPQUxFU0NFKG5fdHVwX2lucywgMCkgKyBDT0FMRVNDRShuX3R1cF91cGQsIDApICsgQ09BTEVTQ0Uobl90dXBfZGVsLCAwKSArIENPQUxFU0NFKG5fdHVwX2hvdF91cGQsIDApKSBGUk9NIHBnX3N0YXRfdXNlcl90YWJsZXMgV0hFUkUgcmVsbmFtZSA9ICdtZXNfa2FsdHdhc3NlcnphZWhsZXInIiwgbmF0aXZlUXVlcnkgPSB0cnVlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3JlYXRlIHRhYmxlIG1lc193YWVybWVtZW5nZW56YWVobGVyCigKICAgIGlkICAgICAgICAgICAgICAgICAgICAgICBiaWdpbnQgICAgICAgICAgIG5vdCBudWxsLAoKICAgIG1lc3NfZGF0dW0gICAgICAgICAgICAgICB0aW1lc3RhbXAgICAgICAgIG5vdCBudWxsLAogICAgY3JlYXRpb25fZGF0ZSAgICAgICAgICAgIHRpbWVzdGFtcCBkZWZhdWx0IGN1cnJlbnRfdGltZXN0YW1wLAogICAgdXBkYXRlX2RhdGUgICAgICAgICAgICAgIHRpbWVzdGFtcCBkZWZhdWx0IG51bGwsCiAgICB0eXAgICAgICAgICAgICAgICAgICAgICAgdmFyY2hhcigyMCkgICAgICBub3QgbnVsbCwKICAgIGtvbW1lbnRhciAgICAgICAgICAgICAgICB2YXJjaGFyKDEwMDAwKSwKCiAgICBnZXJfZ2VyYWV0X2lkICAgICAgICAgICAgYmlnaW50ICAgICAgICAgICBub3QgbnVsbCwKICAgIG1lc3N1bmdfa29udGV4dF9pZCAgICAgICBiaWdpbnQgICAgICAgICAgIG5vdCBudWxsLAogICAgbWVzc3VuZ19pZF9rb3JyZWt0dXJfdm9uIGJpZ2ludCwKICAgIGFicl9zY2hhZXR6YXVmdGVpbHVuZ19pZCBiaWdpbnQsCgogICAgdmVyYnJhdWNoc3dlcnQgICAgICAgICAgIGRvdWJsZSBwcmVjaXNpb24gbm90IG51bGwsCgogICAgZW5lcmd5ICAgICAgICAgICAgICAgICAgIGRvdWJsZSBwcmVjaXNpb24gbm90IG51bGwsCgogICAgY29uc3RyYWludCBtZXNfd2Flcm1lbWVuZ2VuemFlaGxlcl9wayBwcmltYXJ5IGtleSAoaWQpLAoKICAgIGNvbnN0cmFpbnQgbWVzX3dtX2dlcmFldF9mayBmb3JlaWduIGtleSAoZ2VyX2dlcmFldF9pZCkKICAgICAgICByZWZlcmVuY2VzIGdlcl9nZXJhZXQgKGlkKSwKCiAgICBjb25zdHJhaW50IG1lc193bV9rb250ZXh0X2ZrIGZvcmVpZ24ga2V5IChtZXNzdW5nX2tvbnRleHRfaWQpCiAgICAgICAgcmVmZXJlbmNlcyBtZXNfa29udGV4dCAoaWQpLAoKICAgIGNvbnN0cmFpbnQgbWVzX3dtX2tvcnJla3R1cl92b25fZmsgZm9yZWlnbiBrZXkgKG1lc3N1bmdfaWRfa29ycmVrdHVyX3ZvbikKICAgICAgICByZWZlcmVuY2VzIG1lc193YWVybWVtZW5nZW56YWVobGVyIChpZCksCgogICAgY29uc3RyYWludCBtZXNfd21fa29ycmVrdHVyX3Zvbl9ub3RfcG9pbnRfdG9faGltc2VsZiBjaGVjayAoaWQgPD4gbWVzc3VuZ19pZF9rb3JyZWt0dXJfdm9uKQopOwoKY3JlYXRlIHVuaXF1ZSBpbmRleCBtZXNfd21fZGF0dW1fdHlwX3VpCiAgICBvbiBtZXNfd2Flcm1lbWVuZ2VuemFlaGxlciAoZ2VyX2dlcmFldF9pZCwgbWVzc19kYXR1bSkKICAgIHdoZXJlIHR5cCA8PiAnRSc7Cg==</text>
+        <text encoding="base64">CUBRdWVyeSh2YWx1ZSA9ICJTRUxFQ1QgU1VNKENPQUxFU0NFKG5fdHVwX2lucywgMCkgKyBDT0FMRVNDRShuX3R1cF91cGQsIDApICsgQ09BTEVTQ0Uobl90dXBfZGVsLCAwKSArIENPQUxFU0NFKG5fdHVwX2hvdF91cGQsIDApKSBGUk9NIHBnX3N0YXRfdXNlcl90YWJsZXMgV0hFUkUgcmVsbmFtZSA9ICdtZXNfd2Flcm1lbWVuZ2VuemFlaGxlciciLCBuYXRpdmVRdWVyeSA9IHRydWUpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXB1YmxpYyBMb25nIGhrdkNoYW5nZXNDb3VudCgpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
