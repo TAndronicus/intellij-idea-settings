@@ -124,13 +124,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/java/com/qivalo/portal/AbstractSpringTest.java" timestamp="1591771021471">
-        <mark key="'" line="73" column="22" />
-        <mark key="[" line="340" column="0" />
-        <mark key="]" line="340" column="0" />
-        <mark key="." line="340" column="0" />
-      </file>
-      <file name="/console" timestamp="1591785925963">
+      <file name="/console" timestamp="1591787536255">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtvFileExportRestEndpointTest.java" timestamp="1591772762641">
@@ -151,19 +145,6 @@
         <mark key="]" line="428" column="16" />
         <mark key="^" line="428" column="16" />
         <mark key="." line="428" column="15" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/dao/CommonLiegenschaftLockRepository.java" timestamp="1591771160793">
-        <mark key="'" line="17" column="17" />
-        <mark key="[" line="68" column="36" />
-        <mark key="]" line="70" column="49" />
-        <mark key="^" line="70" column="49" />
-        <mark key="." line="70" column="48" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/build.gradle" timestamp="1591778527537">
-        <mark key="[" line="50" column="4" />
-        <mark key="]" line="50" column="18" />
-        <mark key="." line="50" column="17" />
-        <mark key="^" line="50" column="18" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/styles.scss" timestamp="1591783526780">
         <mark key="[" line="601" column="9" />
@@ -189,13 +170,6 @@
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1591773604911">
         <mark key="[" line="31" column="8" />
         <mark key="]" line="31" column="21" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonLiegenschaftLockService.java" timestamp="1591771191450">
-        <mark key="'" line="23" column="49" />
-        <mark key="[" line="85" column="5" />
-        <mark key="]" line="88" column="74" />
-        <mark key="^" line="88" column="74" />
-        <mark key="." line="88" column="73" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/abrechnung/service/AbrechnungUploadService.java" timestamp="1591771857934">
         <mark key="'" line="120" column="18" />
@@ -229,11 +203,6 @@
         <mark key="]" line="208" column="59" />
         <mark key="^" line="208" column="59" />
         <mark key="." line="208" column="58" />
-      </file>
-      <file name="/fragment.java" timestamp="1591770937212">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/insert/V403.2.0__add_dampf.sql" timestamp="1591787416665">
         <mark key="[" line="0" column="175" />
