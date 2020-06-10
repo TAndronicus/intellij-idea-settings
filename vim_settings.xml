@@ -124,6 +124,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/nutzflaeche/nutzflaeche-list/nutzflaeche-list.component.html" timestamp="1591766054312">
+        <mark key="[" line="40" column="43" />
+        <mark key="]" line="40" column="48" />
+        <mark key="." line="40" column="47" />
+        <mark key="^" line="40" column="48" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/java/com/qivalo/portal/AbstractSpringTest.java" timestamp="1591700091673">
         <mark key="[" line="311" column="15" />
         <mark key="]" line="311" column="18" />
@@ -218,12 +224,6 @@
         <mark key="]" line="116" column="35" />
         <mark key="^" line="116" column="35" />
         <mark key="." line="116" column="34" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/abrechnung/core/service/ASatzGeneratorService.java" timestamp="1591694529666">
-        <mark key="[" line="54" column="23" />
-        <mark key="]" line="54" column="36" />
-        <mark key="." line="54" column="35" />
-        <mark key="^" line="54" column="36" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/nutzeinheit/dto/NutzflaecheDTO.java" timestamp="1591761964940">
         <mark key="[" line="39" column="35" />
@@ -341,16 +341,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>kaltwasserzaehler</text>
+        <text>stromzaehler</text>
       </register>
       <register name="-" type="4">
-        <text>kaltwasserzaehler</text>
+        <text>stromzaehler</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl0aGlzLmNvdW50KG51dHplaW5oZWl0ZW4sICdrYWx0d2Fzc2VyemFlaGxlckFuemFobCcsICdrYWx0d2Fzc2VyemFlaGxlckdlc2FtdGFuemFobCcpOwo=</text>
+        <text encoding="base64">CQkJPGRpdiBjbGFzcz0idGFibGUtcm93LWl0ZW0iPnt7IGRhdGE/LnN0cm9temFlaGxlckFuemFobH19PC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8JCWFzc2VydE5vdE51bGwoZHR2KTsKLy8JCUxpc3Q8UHJvbW9zRFRWX0dFUkFFVD4gZ2VyID0gZHR2LmdldEdlcmFldGUoKS5nZXRHZXJhZXQoKTsKLy8JCUxpc3Q8UHJvbW9zRFRWX0dFUkFFVD4gcmVzdWx0ID0gZ2VyLnN0cmVhbSgpLmZpbHRlcihnIC0+IExpc3Qub2YoIjIwMDI2MjA3IiwgIjIyNzAwMDA4IiwgIjIyNzAwMDEwIiwgIjIyNzAwMDE2IiwgIjIyNzAwMDE4IiwgIjIyNzAwMDI0IikuY29udGFpbnMoZy5nZXRHZXJpZCgpKSkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsKLy8JCXJlc3VsdC5mb3JFYWNoKGdlcmFldCAtPiBhc3NlcnROdWxsKGdlcmFldC5nZXRHdmVyYmxzdCgpKSk7Cg==</text>
