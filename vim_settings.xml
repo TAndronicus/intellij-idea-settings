@@ -142,12 +142,6 @@
         <mark key="." line="359" column="54" />
         <mark key="^" line="359" column="55" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/nutzeinheitenUebersicht/nutzeinheitenUebersicht.component.html" timestamp="1591764399409">
-        <mark key="[" line="309" column="58" />
-        <mark key="]" line="309" column="63" />
-        <mark key="." line="309" column="62" />
-        <mark key="^" line="309" column="63" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtvFileExportRestEndpointTest.java" timestamp="1591772762641">
         <mark key="[" line="245" column="13" />
         <mark key="]" line="245" column="28" />
@@ -160,6 +154,12 @@
         <mark key="]" line="95" column="72" />
         <mark key="^" line="95" column="72" />
         <mark key="." line="95" column="71" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/sass/icons/_icon_classes.scss" timestamp="1591783014590">
+        <mark key="[" line="425" column="1" />
+        <mark key="]" line="428" column="16" />
+        <mark key="^" line="428" column="16" />
+        <mark key="." line="428" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/dao/CommonLiegenschaftLockRepository.java" timestamp="1591771160793">
         <mark key="'" line="17" column="17" />
@@ -174,11 +174,11 @@
         <mark key="." line="50" column="17" />
         <mark key="^" line="50" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/styles.scss" timestamp="1591781708770">
-        <mark key="[" line="94" column="22" />
-        <mark key="]" line="94" column="29" />
-        <mark key="." line="94" column="22" />
-        <mark key="^" line="94" column="9" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/styles.scss" timestamp="1591783526780">
+        <mark key="[" line="601" column="9" />
+        <mark key="]" line="601" column="14" />
+        <mark key="." line="601" column="13" />
+        <mark key="^" line="601" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungStatusUpdateService.java" timestamp="1591771230857">
         <mark key="[" line="36" column="53" />
@@ -209,13 +209,6 @@
         <mark key="^" line="88" column="74" />
         <mark key="." line="88" column="73" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/geraet/geraet-values-table/geraet-values-table.component.ts" timestamp="1591763749844">
-        <mark key="'" line="116" column="29" />
-        <mark key="[" line="116" column="30" />
-        <mark key="]" line="116" column="35" />
-        <mark key="^" line="116" column="35" />
-        <mark key="." line="116" column="34" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/abrechnung/service/AbrechnungUploadService.java" timestamp="1591771857934">
         <mark key="'" line="120" column="18" />
         <mark key="[" line="120" column="19" />
@@ -236,6 +229,12 @@
         <mark key="]" line="37" column="32" />
         <mark key="." line="37" column="31" />
         <mark key="^" line="37" column="32" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/sass/icons/_icons.scss" timestamp="1591783109291">
+        <mark key="[" line="205" column="1" />
+        <mark key="]" line="208" column="59" />
+        <mark key="^" line="208" column="59" />
+        <mark key="." line="208" column="58" />
       </file>
       <file name="/fragment.java" timestamp="1591770937212">
         <mark key="[" line="0" column="0" />
@@ -349,10 +348,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>wave</text>
+        <text>steammeter</text>
       </register>
       <register name="-" type="4">
-        <text>wave</text>
+        <text>steammeter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
