@@ -124,13 +124,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/console" timestamp="1592204055336">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/nutzeinheitenUebersicht/nutzeinheitenUebersicht.component.html" timestamp="1592191988798">
         <mark key="[" line="310" column="24" />
         <mark key="]" line="313" column="24" />
         <mark key="." line="310" column="24" />
       </file>
-      <file name="/a.sql" timestamp="1592191029103">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/service/GeraetService.java" timestamp="1592204973432">
+        <mark key="'" line="359" column="167" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/geraet/service/RauchwarnmelderService.java" timestamp="1592194826259">
         <mark key="[" line="88" column="45" />
@@ -144,9 +147,6 @@
         <mark key="^" line="265" column="105" />
         <mark key="." line="220" column="92" />
       </file>
-      <file name="/dumpDataPreview" timestamp="1592185405079">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/insert/V403.3.1__add_dampf.sql" timestamp="1592196356162">
         <mark key="[" line="116" column="72" />
         <mark key="]" line="116" column="73" />
@@ -159,30 +159,15 @@
       <file name="/Dummy.txt" timestamp="1592196863370">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/V403.2.1__add_dampf.sql" timestamp="1592186476681">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="12" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/common/converter/AbstractConverter.java" timestamp="1592195354623">
         <mark key="'" line="13" column="28" />
         <mark key="[" line="16" column="45" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/insert/V403.2.1__add_dampf.sql" timestamp="1592191015398">
-        <mark key="'" line="116" column="49" />
-        <mark key="[" line="229" column="11" />
-        <mark key="]" line="229" column="17" />
-        <mark key="." line="229" column="11" />
-        <mark key="^" line="229" column="11" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/insert/R__5.7_refresh_aggregated_views.sql" timestamp="1592192300360">
         <mark key="[" line="15" column="56" />
         <mark key="]" line="16" column="55" />
         <mark key="." line="16" column="54" />
         <mark key="^" line="16" column="55" />
-      </file>
-      <file name="/generated.sql" timestamp="1592191191707">
-        <mark key="[" line="0" column="16" />
-        <mark key="]" line="0" column="38" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1592196281713">
         <mark key="'" line="4085" column="26" />
@@ -201,7 +186,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1464" column="39" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/abrechnung/core/rest/AbrechnungRestEndpointTest.java" />
       <jump line="594" column="67" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/abrechnung/core/rest/AbrechnungRestEndpointTest.java" />
       <jump line="1448" column="4" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/abrechnung/core/rest/AbrechnungRestEndpointTest.java" />
       <jump line="122" column="39" filename="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/abrechnung/core/rest/AbrechnungRestEndpointTest.java" />
@@ -301,6 +285,7 @@
       <jump line="116" column="49" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/insert/V403.2.1__add_dampf.sql" />
       <jump line="37" column="55" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V403.3__update_constraint_check.sql" />
       <jump line="13" column="28" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/common/converter/AbstractConverter.java" />
+      <jump line="359" column="167" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/service/GeraetService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
