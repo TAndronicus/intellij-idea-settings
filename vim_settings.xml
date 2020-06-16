@@ -124,11 +124,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1592264816826">
-        <mark key="[" line="1160" column="0" />
-        <mark key="]" line="1160" column="38" />
-        <mark key="." line="1160" column="15" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/01_clear_data.sql" timestamp="1592276920971">
         <mark key="[" line="91" column="23" />
         <mark key="]" line="91" column="28" />
@@ -145,10 +140,12 @@
         <mark key="." line="33" column="7" />
         <mark key="^" line="33" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V401.0__create_table_mes_kaeltemengenzaehler.sql" timestamp="1592264557450">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="99" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/02_insert_base_data.sql" timestamp="1592280992624" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/04_insert_geraet_messungen.sql" timestamp="1592281447077">
+        <mark key="[" line="1266" column="8" />
+        <mark key="]" line="1266" column="9" />
+        <mark key="^" line="1262" column="89" />
+        <mark key="." line="1266" column="9" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/insert/V245.1.1__insert_impulsfaktor_data.sql" timestamp="1592267220704">
         <mark key="[" line="7" column="68" />
@@ -181,7 +178,7 @@
         <mark key="^" line="16" column="100" />
         <mark key="." line="16" column="99" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592276644474">
+      <file name="/Dummy.txt" timestamp="1592281507011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/common/model/ersatzwerte/ErsatzwerteDescription.java" timestamp="1592271120954">
@@ -195,11 +192,18 @@
         <mark key="." line="570" column="43" />
         <mark key="^" line="650" column="44" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/02_insert_base_data.sql" timestamp="1592278847903">
-        <mark key="[" line="837" column="375" />
-        <mark key="]" line="837" column="379" />
-        <mark key="." line="837" column="378" />
-        <mark key="^" line="837" column="379" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/02_insert_base_data.sql" timestamp="1592280897377">
+        <mark key="'" line="377" column="26" />
+        <mark key="[" line="1242" column="16" />
+        <mark key="]" line="1246" column="15" />
+        <mark key="." line="1246" column="14" />
+        <mark key="^" line="1246" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/antas/src/test/java/com/qivalo/portal/core/service/GeraetTypSyncHelperTest.java" timestamp="1592281792055">
+        <mark key="[" line="241" column="85" />
+        <mark key="]" line="241" column="86" />
+        <mark key="^" line="234" column="49" />
+        <mark key="." line="241" column="86" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1592278838164">
         <mark key="'" line="4123" column="7" />
@@ -219,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3665" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="1092" column="5" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="3687" column="11" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="208" column="14" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
@@ -319,21 +322,22 @@
       <jump line="33" column="7" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V403.0__create_dampf_messung.sql" />
       <jump line="4166" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="4123" column="7" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
+      <jump line="377" column="26" filename="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/02_insert_base_data.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>gas3411</text>
+        <text>day</text>
       </register>
       <register name="-" type="4">
-        <text>gas3411</text>
+        <text>day</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KDkwNzEsICAgICAgICAgICcxMC8xNS8yMDAxJywgICAgJ2dhczM0MTEnLCAgICAgICAgICAgICdLdWNoZScsICAgICAgICdnZUluaXRpYWwnLCBudWxsLCA2MDE0LCAgICAgICAgJ0t1Y2hlJywgICAyLCAgICAgICAgIG51bGwsIG51bGwsICdPJywgbnVsbCwgbnVsbCwgOSwgbnVsbCwgIG51bGwsIG51bGwsICcyMDIwLTAzLTI0IDEzOjA3OjQ3LjIzMDU1MScsIDMwMTIsICAgICAgICAgICAgICAgICBudWxsLCAnMjAxOS0wNi0wNicsIG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsICAgICAgICAgbnVsbCwgZmFsc2UsIG51bGwsIG51bGwsIDAsIG51bGwgLG51bGwsIG51bGwsIG51bGwsIG51bGwsIG51bGwsICAgICAgICAgbnVsbCwgbnVsbCwgMzAxMiwgMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICgxLCBjdXJyZW50X3RpbWVzdGFtcCAtIGludGVydmFsICcxIGRheScsIGN1cnJlbnRfdGltZXN0YW1wLCAnQScsIDkwNzMsIDcwMDEsIDEpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBna19nZXJhZXRfdHlwIGdndDsK</text>
