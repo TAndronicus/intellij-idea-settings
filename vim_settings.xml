@@ -176,19 +176,13 @@
         <mark key="." line="648" column="150" />
         <mark key="^" line="648" column="151" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/liegenschaft/rest/LiegenschaftRestEndpointTest.java" timestamp="1592283232034">
-        <mark key="[" line="500" column="54" />
-        <mark key="]" line="500" column="55" />
-        <mark key="^" line="500" column="55" />
-        <mark key="." line="500" column="54" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/messung/service/MessungServiceConsumptionTest.java" timestamp="1592288694151">
         <mark key="[" line="289" column="109" />
         <mark key="]" line="298" column="10" />
         <mark key="." line="289" column="109" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/geraet/service/CommonGeraetService.java" timestamp="1592290934479" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1592298318382">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1592299335890">
         <mark key="'" line="4123" column="7" />
         <mark key="[" line="4185" column="17" />
         <mark key="]" line="4185" column="17" />
@@ -388,7 +382,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxTRVRcPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
