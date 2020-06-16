@@ -129,10 +129,10 @@
         <mark key="]" line="1160" column="38" />
         <mark key="." line="1160" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592196863370">
+      <file name="/Dummy.txt" timestamp="1592266954110">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/console" timestamp="1592264746196">
+      <file name="/console" timestamp="1592266394032">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/common/converter/AbstractConverter.java" timestamp="1592195354623">
@@ -155,6 +155,12 @@
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="99" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/insert/V245.1.1__insert_impulsfaktor_data.sql" timestamp="1592267220704">
+        <mark key="[" line="7" column="68" />
+        <mark key="]" line="66" column="75" />
+        <mark key="^" line="66" column="69" />
+        <mark key="." line="66" column="68" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1592214413467">
         <mark key="'" line="20" column="13" />
       </file>
@@ -168,6 +174,7 @@
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/service/GeraetService.java" timestamp="1592204973432">
         <mark key="'" line="359" column="167" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/geraeteuebersicht/geraet-kachel/geraet-kachel.component.html" timestamp="1592266991567" />
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/geraet/service/RauchwarnmelderService.java" timestamp="1592194826259">
         <mark key="[" line="88" column="45" />
         <mark key="]" line="89" column="35" />
@@ -190,11 +197,11 @@
       <file name="/fragment.java" timestamp="1592193403281">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/insert/V403.3.1__add_dampf.sql" timestamp="1592196356162">
-        <mark key="[" line="116" column="72" />
-        <mark key="]" line="116" column="73" />
-        <mark key="^" line="116" column="73" />
-        <mark key="." line="116" column="72" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/insert/V403.3.1__add_dampf.sql" timestamp="1592267870536">
+        <mark key="[" line="12" column="110" />
+        <mark key="]" line="12" column="115" />
+        <mark key="^" line="12" column="115" />
+        <mark key="." line="12" column="114" />
       </file>
     </filemarks>
     <jumps>
@@ -303,16 +310,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>where typ = any (values ('AE'), ('AA'))</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>where typ = any (values ('AE'), ('AA'))</text>
+      <register name="0" type="8">
+        <text encoding="base64">CSAgOCwKICAxNi4wMCwKICAyMy44NywKICAyOC43OCwKICAyOS4yOSwKICAzMC4wNCwKICAzMi40NiwKICAzNy43OSwKICAzOC4yNSwKICA0Mi4zNSwKICA0OS40OSwKICA1MS41NCwKICA1OS4yMywKICA2Mi45MiwKICA2Ni42MCwKICA3MC4zNywKICA3My4yNiwKICA3OC4zMiwKICA4NC4wOSwKICA4Ny41NSwKICA5My45NywKICA5Ny4xNCwKIDEwMS44OSwKIDEwNy40NywKIDEwNy44MCwKIDExMy4wOCwKIDExMy45NiwKIDEyMC45NCwKIDEyOC4wNSwKIDEyOS4yOCwKIDEzNC41NywKIDE0MS45MywKIDE0Mi45MywKIDE0My41NCwKIDE0OC4xNSwKIDE1MS44MiwKIDE1Ni44NiwKIDE1Ny4zOSwKIDE2MS4yMywKIDE2Ni41MywKIDE2OS44OCwKIDE3NC4wNSwKIDE3OS4zNywKIDE4NC4zNSwKIDE4OS45NSwKIDE5NC44NSwKIDE5OC45MCwKIDIwMS45MSwKIDIwNC41MywKIDIwOC41NCwKIDIxMy43NSwKIDIyMC42MywKIDIyNC42OSwKIDIyNS4yOCwKIDIyNi45MiwKIDIyOS4xNCwKIDIzMS41MiwKIDIzOC4zMywKIDIzOC43NSwKIDI0MC4xNSw=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlXYWVybWVtZW5nZW56YWVobGVyTWFudWFsTWVzc3VuZyB3YWVybWVtZW5nZW56YWVobGVyTWFudWFsTWVzc3VuZwo=</text>
