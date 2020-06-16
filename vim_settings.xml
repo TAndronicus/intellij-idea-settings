@@ -137,9 +137,6 @@
         <mark key="^" line="1262" column="89" />
         <mark key="." line="1266" column="9" />
       </file>
-      <file name="/a.sql" timestamp="1592278163897">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/nutzeinheit/rest/NutzeinheitGeraeteRestEndpointTest.java" timestamp="1592283606443">
         <mark key="[" line="37" column="26" />
         <mark key="]" line="37" column="27" />
@@ -159,6 +156,12 @@
         <mark key="]" line="22" column="41" />
         <mark key="." line="22" column="40" />
         <mark key="^" line="22" column="41" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/vb/service/VbAnalysisUpdateDispatcherServiceTest.java" timestamp="1592293162240">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="0" />
+        <mark key="." line="140" column="0" />
+        <mark key="^" line="142" column="4" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/02_insert_base_data.sql" timestamp="1592291148057">
         <mark key="'" line="1251" column="14" />
@@ -192,12 +195,11 @@
         <mark key="." line="4189" column="17" />
         <mark key="^" line="4189" column="18" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/vb/rest/VbAnalysisRestEndpointTest.java" timestamp="1592292097499">
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/vb/rest/VbAnalysisRestEndpointTest.java" timestamp="1592293096250">
         <mark key="'" line="33" column="15" />
-        <mark key="[" line="78" column="23" />
-        <mark key="]" line="81" column="28" />
-        <mark key="^" line="81" column="28" />
-        <mark key="." line="81" column="27" />
+        <mark key="[" line="64" column="5" />
+        <mark key="]" line="64" column="5" />
+        <mark key="." line="64" column="5" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/boot/src/test/java/com/qivalo/portal/vb/VbClient.java" timestamp="1592292040397">
         <mark key="[" line="27" column="84" />
@@ -333,8 +335,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>ComparisonDTO</text>
+      <register name="*" type="2">
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>ComparisonDTO</text>
@@ -343,37 +345,37 @@
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CgoJcHVibGljIFJlc3BvbnNlRW50aXR5PExpc3Q8VmJDb21wYXJpc29uRFRPPj4gZ2V0TGllZ2Vuc2NoYWZ0VmJDb21wYXJpc29uKExvbmcgbHNJZCkgewoJCXJldHVybiBjb252ZXJ0Mkxpc3RSZXNwb25zZShyZXN0LmdldEZvckVudGl0eSgiL2FwaS92Yi9jb21wYXJpc29uL2xpZWdlbnNjaGFmdC8iICsgbHNJZCwgVmJDb21wYXJpc29uRFRPW10uY2xhc3MpKTsKCX0=</text>
+        <text encoding="base64">CgkJR2VyYWV0VmJBbmFseXNpcyBnZXJhZXRWYkFuYWx5c2lzID0gbmV3IEdlcmFldFZiQW5hbHlzaXMoKTsKCQlnZXJhZXRWYkFuYWx5c2lzLnNldEdlcmFldElkKEdFUl9JRCk7CgkJTGlzdDxHZXJhZXRWYkFuYWx5c2lzPiBnZXJhZXRWYkFuYWx5c2UgPSBnZXJhZXRWYkFuYWx5c2VSZXBvc2l0b3J5LmZpbmRBbGwoRXhhbXBsZS5vZihnZXJhZXRWYkFuYWx5c2lzKSk7</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucWl2YWxvLnBvcnRhbC5nZXJhZXRla2F0YWxvZy5tb2RlbC5HZXJhZXRUeXBUeXAuRDsK</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text>nutzeinheitToNutzerName.get(chosenGeraete.get(7))</text>
+        <text encoding="base64">CQlMaXN0PFZiQW5hbHlzZURUTz4gdmJMc0NvbXBhcmlzb25NYXAgPSB2YkNsaWVudC53aXRoVXNlcihVc2Vycy5BRE1JTikuZ2V0VmJHZXJhZXQoZ2VySWQpCgkJCS5nZXRCb2R5KCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkvL1RPRE8tMTk1MAo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgoJQFRlc3QKCUBTcWwoc2NyaXB0cyA9IHsKCQlBYnN0cmFjdFNwcmluZ1Rlc3QuUzFfQ0xFQVIsCgkJQWJzdHJhY3RTcHJpbmdUZXN0LlMyX0JBU0VfREFUQSwKCQlBYnN0cmFjdFNwcmluZ1Rlc3QuUzRfR0VSQUVUX01FU1NVTkdFTiwKCQlBYnN0cmFjdFNwcmluZ1Rlc3QuU185OTlfUkVGUkVTSF9NX1ZJRVdTX1NRTH0pCgl2b2lkIHNob3VsZENhbGN1bGF0ZVByb3BlckNvbnN1bXB0aW9uRm9yRGFtcGYoKSB7CgkJLy8gZ2l2ZW4KCQl2YXIgZ2VySWQgPSA5MDczTDsKCgkJLy8gd2hlbgoJCUxpc3Q8VmJBbmFseXNlRFRPPiB2YkxzQ29tcGFyaXNvbk1hcCA9IHZiQ2xpZW50LndpdGhVc2VyKFVzZXJzLkFETUlOKS5nZXRWYkdlcmFldChnZXJJZCkKCQkJLmdldEJvZHkoKTsKCgkJLy8gdGhlbgoJCVN5c3RlbS5vdXQucHJpbnRsbigiIik7Cgl9</text>
       </register>
       <register name="4" type="2">
-        <text>aktivGeraetRepository.findByLiegenschaft_IdAndAusbauDatumIsNull(liegenschaftId).</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucWl2YWxvLnBvcnRhbC5nZXJhZXRla2F0YWxvZy5tb2RlbC5HZXJhZXRUeXBUeXAuRDsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgkJYWRkQ29uc3VtcHRpb25zKAoJCQlleHBlY3RlZE1vbnRobHlWYWx1ZXMsIAoJCQlHZXJhZXRUeXBUeXAuTWVkaWEuSEVBVCwgCgkJCUdlcmFldFR5cE1hcHBpbmcuREZfRU5FUkdZLm5hbWUoKSwgCgkJCSJrV2giLAoJCQlJbnRTdHJlYW0ucmFuZ2UoMSwgMTMpCgkJCS5tYXBUb09iaihpIC0+IG5ldyBNb250aGx5Q29uc3VtcHRpb25EVE8oaSwgMjAxOSwgMGQpKQoJCQkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKQoJCSk7</text>
+      <register name="5" type="2">
+        <text>nutzeinheitToNutzerName.get(chosenGeraete.get(7))</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlhZGRDb25zdW1wdGlvbnMoZXhwZWN0ZWRNb250aGx5VmFsdWVzKTsK</text>
+        <text encoding="base64">CQkvL1RPRE8tMTk1MAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlydW5JbnNpZGVUcmFuc2FjdGlvbihlbnRpdHlNYW5hZ2VyIC0+CgkJCXsKCQkJCWVudGl0eU1hbmFnZXIuY3JlYXRlUXVlcnkoCgkJCQkJImRlbGV0ZSBmcm9tIERhbXBmTWVzc3VuZyIKCQkJCSkKCQkJCQkuZXhlY3V0ZVVwZGF0ZSgpOwoJCQkJZW50aXR5TWFuYWdlci5jcmVhdGVRdWVyeSgKCQkJCQkiZGVsZXRlIGZyb20gR2VyYWV0IHdoZXJlIGlkID0gOTA3MyIKCQkJCSkKCQkJCQkuZXhlY3V0ZVVwZGF0ZSgpOwoJCQl9CgkJKTsK</text>
+        <text>aktivGeraetRepository.findByLiegenschaft_IdAndAusbauDatumIsNull(liegenschaftId).</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCS8vQGZvcm1hdHRlcjpvZmYK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CgkJYWRkQ29uc3VtcHRpb25zKAoJCQlleHBlY3RlZE1vbnRobHlWYWx1ZXMsIAoJCQlHZXJhZXRUeXBUeXAuTWVkaWEuSEVBVCwgCgkJCUdlcmFldFR5cE1hcHBpbmcuREZfRU5FUkdZLm5hbWUoKSwgCgkJCSJrV2giLAoJCQlJbnRTdHJlYW0ucmFuZ2UoMSwgMTMpCgkJCS5tYXBUb09iaihpIC0+IG5ldyBNb250aGx5Q29uc3VtcHRpb25EVE8oaSwgMjAxOSwgMGQpKQoJCQkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKQoJCSk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkgICAgCS8vQGZvcm1hdHRlcjpvbgo=</text>
+        <text encoding="base64">CQlhZGRDb25zdW1wdGlvbnMoZXhwZWN0ZWRNb250aGx5VmFsdWVzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
