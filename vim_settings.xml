@@ -130,11 +130,11 @@
         <mark key="^" line="1177" column="37" />
         <mark key="." line="1177" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/MessungRefreshRepository.java" timestamp="1592481699264">
-        <mark key="[" line="27" column="54" />
-        <mark key="]" line="27" column="55" />
-        <mark key="." line="27" column="54" />
-        <mark key="^" line="27" column="55" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/MessungRefreshRepository.java" timestamp="1592481849546">
+        <mark key="[" line="26" column="54" />
+        <mark key="]" line="26" column="55" />
+        <mark key="." line="26" column="54" />
+        <mark key="^" line="26" column="55" />
       </file>
       <file name="/console" timestamp="1592476728205">
         <mark key="[" line="0" column="0" />
@@ -157,13 +157,6 @@
         <mark key="]" line="61" column="38" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/liegenschaft/rest/LiegenschaftRestEndpoint.java" timestamp="1592477613859" />
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1592462483068">
-        <mark key="'" line="362" column="40" />
-        <mark key="[" line="360" column="79" />
-        <mark key="]" line="360" column="79" />
-        <mark key="." line="360" column="79" />
-        <mark key="^" line="415" column="61" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteCandidateServiceTest.java" timestamp="1592474029944">
         <mark key="[" line="485" column="61" />
         <mark key="]" line="485" column="83" />
@@ -171,7 +164,7 @@
         <mark key="^" line="485" column="83" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/client/module/BatchModuleClient.java" timestamp="1592477755363" />
-      <file name="/Dummy.txt" timestamp="1592474042616">
+      <file name="/Dummy.txt" timestamp="1592482056779">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1592473915761" />
@@ -185,8 +178,8 @@
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__4.1_create_warmwasser_aggregated.sql" timestamp="1592464983496" />
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/geraet/util/GeraetUtils.java" timestamp="1592479557799" />
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/geraet/geraet-details/geraet-details.component.html" timestamp="1592480513004" />
-      <file name="/fragment.java" timestamp="1592481623790">
-        <mark key="[" line="4" column="31" />
+      <file name="/fragment.java" timestamp="1592481874300">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="32" />
         <mark key="." line="4" column="32" />
         <mark key="^" line="2" column="41" />
