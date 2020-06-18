@@ -124,8 +124,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1592461734739">
-        <mark key="[" line="1160" column="40" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1592468396480">
+        <mark key="[" line="1166" column="25" />
+        <mark key="]" line="1165" column="24" />
+        <mark key="^" line="1165" column="24" />
+        <mark key="." line="1165" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/MessungRefreshRepository.java" timestamp="1592311312491">
         <mark key="[" line="47" column="37" />
