@@ -148,11 +148,11 @@
         <mark key="." line="304" column="31" />
         <mark key="^" line="304" column="32" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1592525435652">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="89" column="108" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1592526487478">
+        <mark key="[" line="90" column="49" />
+        <mark key="]" line="91" column="28" />
+        <mark key="." line="91" column="27" />
+        <mark key="^" line="91" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__4.0.2_create_heizkosten_aggregated.sql" timestamp="1592465282384">
         <mark key="[" line="24" column="37" />
@@ -162,9 +162,6 @@
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/common/DateUtilsTest.java" timestamp="1592525271759">
         <mark key="[" line="17" column="90" />
-        <mark key="]" line="21" column="78" />
-        <mark key="^" line="21" column="78" />
-        <mark key="." line="21" column="77" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1592468709654">
         <mark key="[" line="0" column="0" />
@@ -181,6 +178,11 @@
         <mark key="]" line="485" column="83" />
         <mark key="." line="485" column="82" />
         <mark key="^" line="485" column="83" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1592525446324">
+        <mark key="[" line="320" column="0" />
+        <mark key="]" line="320" column="0" />
+        <mark key="." line="320" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1592481874300">
         <mark key="[" line="0" column="0" />
@@ -301,7 +303,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">CQkJCWN1c3RvbUVyc2F0endlcnRlUmVwb3NpdG9yeS5nZXRTdGljaHRhZyhjYW5kaWRhdGUuZ2V0R2VyYWV0SWQoKSksCg==</text>
+        <text encoding="base64">CXB1YmxpYyBMb2NhbERhdGVUaW1lIGdldFN0aWNodGFnKExvbmcgZ2VyYWV0SWQpIHsKCQlyZXR1cm4gRGF0ZVV0aWxzLnRvTG9jYWxEYXRlVGltZUZyb21HZXJtYW4oCgkJCSgoVGltZXN0YW1wKSBlbnRpdHlNYW5hZ2VyLmNyZWF0ZU5hdGl2ZVF1ZXJ5KAoJCQkJLy9AZm9ybWF0dGVyOm9mZgoJCQkJCSJzZWxlY3QgbGwuc3RpY2h0YWcgIiArCgkJCQkJImZyb20gZ2VyX2dlcmFldCBnZyAiICsKCQkJCQkiaW5uZXIgam9pbiBsaWVfbGllZ2Vuc2NoYWZ0IGxsIG9uIGdnLmxpZV9saWVnZW5zY2hhZnRfaWQgPSBsbC5pZCAiICsKCQkJCQkid2hlcmUgZ2cuaWQgPSA6aWQiCgkJCQkvL0Bmb3JtYXR0ZXI6b24KCQkJKQoJCQkJLnNldFBhcmFtZXRlcigiaWQiLCBnZXJhZXRJZCkKCQkJCS5nZXRTaW5nbGVSZXN1bHQoKSkudG9Mb2NhbERhdGVUaW1lKCkpOwoJfQoK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">TG9jYWxEYXRlVGltZSBzdGljaHRhZywg</text>
@@ -313,34 +315,34 @@
         <text>AbrechnungDtvGeraetService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCWN1c3RvbUVyc2F0endlcnRlUmVwb3NpdG9yeS5nZXRTdGljaHRhZyhjYW5kaWRhdGUuZ2V0R2VyYWV0SWQoKSksCg==</text>
+        <text encoding="base64">CXB1YmxpYyBMb2NhbERhdGVUaW1lIGdldFN0aWNodGFnKExvbmcgZ2VyYWV0SWQpIHsKCQlyZXR1cm4gRGF0ZVV0aWxzLnRvTG9jYWxEYXRlVGltZUZyb21HZXJtYW4oCgkJCSgoVGltZXN0YW1wKSBlbnRpdHlNYW5hZ2VyLmNyZWF0ZU5hdGl2ZVF1ZXJ5KAoJCQkJLy9AZm9ybWF0dGVyOm9mZgoJCQkJCSJzZWxlY3QgbGwuc3RpY2h0YWcgIiArCgkJCQkJImZyb20gZ2VyX2dlcmFldCBnZyAiICsKCQkJCQkiaW5uZXIgam9pbiBsaWVfbGllZ2Vuc2NoYWZ0IGxsIG9uIGdnLmxpZV9saWVnZW5zY2hhZnRfaWQgPSBsbC5pZCAiICsKCQkJCQkid2hlcmUgZ2cuaWQgPSA6aWQiCgkJCQkvL0Bmb3JtYXR0ZXI6b24KCQkJKQoJCQkJLnNldFBhcmFtZXRlcigiaWQiLCBnZXJhZXRJZCkKCQkJCS5nZXRTaW5nbGVSZXN1bHQoKSkudG9Mb2NhbERhdGVUaW1lKCkpOwoJfQoK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlpZiAoc3RpY2h0YWcuaXNCZWZvcmUoZWFybGllcikpIHN0aWNodGFnID0gc3RpY2h0YWcucGx1c1llYXJzKDEpOwo=</text>
+        <text encoding="base64">CQkJCWN1c3RvbUVyc2F0endlcnRlUmVwb3NpdG9yeS5nZXRTdGljaHRhZyhjYW5kaWRhdGUuZ2V0R2VyYWV0SWQoKSksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlEYXRlVXRpbHMK</text>
+        <text encoding="base64">CQlpZiAoc3RpY2h0YWcuaXNCZWZvcmUoZWFybGllcikpIHN0aWNodGFnID0gc3RpY2h0YWcucGx1c1llYXJzKDEpOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CQlEYXRlVXRpbHMK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQlzdGljaHRhCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CgkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkp</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CgkuZmlsdGVyKGcgLT4gR2VyYWV0VXRpbHMuaXNSYXVjaHdhcm5tZWxkZXIoZykp</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text>17791725/geraet/18973223</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIGZpcnN0X3ZhbHVlKG0uaGVhdF9jb3N0X2FsbG9jYXRvcikgb3ZlciAocGFydGl0aW9uIGJ5IG0uZ2VyX2dlcmFldF9pZCBvcmRlciBieSBtZXNzX2RhdHVtIGRlc2MpLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">U0VMRUNUIG0uZ2VyX2dlcmFldF9pZCwK</text>
+        <text encoding="base64">ICAgICAgIGZpcnN0X3ZhbHVlKG0uaGVhdF9jb3N0X2FsbG9jYXRvcikgb3ZlciAocGFydGl0aW9uIGJ5IG0uZ2VyX2dlcmFldF9pZCBvcmRlciBieSBtZXNzX2RhdHVtIGRlc2MpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
