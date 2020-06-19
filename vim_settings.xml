@@ -124,6 +124,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/messung/MessungCleanerServiceTest.java" timestamp="1592551169592">
+        <mark key="[" line="113" column="8" />
+        <mark key="]" line="113" column="62" />
+        <mark key="^" line="113" column="62" />
+        <mark key="." line="113" column="61" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyOverdueService.java" timestamp="1592542028203">
         <mark key="[" line="138" column="0" />
         <mark key="]" line="138" column="0" />
@@ -195,12 +201,6 @@
         <mark key="]" line="4" column="32" />
         <mark key="." line="4" column="32" />
         <mark key="^" line="2" column="41" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/geraetekatalog/model/GeraetTypTyp.java" timestamp="1592480217775">
-        <mark key="[" line="13" column="11" />
-        <mark key="]" line="13" column="11" />
-        <mark key="^" line="13" column="9" />
-        <mark key="." line="13" column="11" />
       </file>
     </filemarks>
     <jumps>
