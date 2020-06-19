@@ -124,13 +124,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1592468724210">
-        <mark key="[" line="1166" column="25" />
-        <mark key="]" line="1177" column="37" />
-        <mark key="^" line="1177" column="37" />
-        <mark key="." line="1177" column="36" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592531060017">
+      <file name="/Dummy.txt" timestamp="1592531791841">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/MessungRefreshRepository.java" timestamp="1592481849546">
@@ -178,6 +172,12 @@
         <mark key="]" line="280" column="20" />
         <mark key="." line="280" column="19" />
         <mark key="^" line="280" column="20" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V415.1__migrate_null_hkv_ersatzwerte.sql" timestamp="1592531764492">
+        <mark key="[" line="2" column="88" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="2" column="88" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1592530285869">
         <mark key="'" line="234" column="0" />
@@ -302,10 +302,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>kundenportal.public.mes_heizkostenverteiler.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>kundenportal.public.mes_heizkostenverteiler.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
@@ -314,34 +314,34 @@
         <text>AbrechnungDtvGeraetService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXB1YmxpYyBMb2NhbERhdGVUaW1lIGdldFN0aWNodGFnKExvbmcgZ2VyYWV0SWQpIHsKCQlyZXR1cm4gRGF0ZVV0aWxzLnRvTG9jYWxEYXRlVGltZUZyb21HZXJtYW4oCgkJCSgoVGltZXN0YW1wKSBlbnRpdHlNYW5hZ2VyLmNyZWF0ZU5hdGl2ZVF1ZXJ5KAoJCQkJLy9AZm9ybWF0dGVyOm9mZgoJCQkJCSJzZWxlY3QgbGwuc3RpY2h0YWcgIiArCgkJCQkJImZyb20gZ2VyX2dlcmFldCBnZyAiICsKCQkJCQkiaW5uZXIgam9pbiBsaWVfbGllZ2Vuc2NoYWZ0IGxsIG9uIGdnLmxpZV9saWVnZW5zY2hhZnRfaWQgPSBsbC5pZCAiICsKCQkJCQkid2hlcmUgZ2cuaWQgPSA6aWQiCgkJCQkvL0Bmb3JtYXR0ZXI6b24KCQkJKQoJCQkJLnNldFBhcmFtZXRlcigiaWQiLCBnZXJhZXRJZCkKCQkJCS5nZXRTaW5nbGVSZXN1bHQoKSkudG9Mb2NhbERhdGVUaW1lKCkpOwoJfQoK</text>
+        <text encoding="base64">LS0gVE9ETy0xOTg3Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCWN1c3RvbUVyc2F0endlcnRlUmVwb3NpdG9yeS5nZXRTdGljaHRhZyhjYW5kaWRhdGUuZ2V0R2VyYWV0SWQoKSksCg==</text>
+        <text encoding="base64">CXB1YmxpYyBMb2NhbERhdGVUaW1lIGdldFN0aWNodGFnKExvbmcgZ2VyYWV0SWQpIHsKCQlyZXR1cm4gRGF0ZVV0aWxzLnRvTG9jYWxEYXRlVGltZUZyb21HZXJtYW4oCgkJCSgoVGltZXN0YW1wKSBlbnRpdHlNYW5hZ2VyLmNyZWF0ZU5hdGl2ZVF1ZXJ5KAoJCQkJLy9AZm9ybWF0dGVyOm9mZgoJCQkJCSJzZWxlY3QgbGwuc3RpY2h0YWcgIiArCgkJCQkJImZyb20gZ2VyX2dlcmFldCBnZyAiICsKCQkJCQkiaW5uZXIgam9pbiBsaWVfbGllZ2Vuc2NoYWZ0IGxsIG9uIGdnLmxpZV9saWVnZW5zY2hhZnRfaWQgPSBsbC5pZCAiICsKCQkJCQkid2hlcmUgZ2cuaWQgPSA6aWQiCgkJCQkvL0Bmb3JtYXR0ZXI6b24KCQkJKQoJCQkJLnNldFBhcmFtZXRlcigiaWQiLCBnZXJhZXRJZCkKCQkJCS5nZXRTaW5nbGVSZXN1bHQoKSkudG9Mb2NhbERhdGVUaW1lKCkpOwoJfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQlpZiAoc3RpY2h0YWcuaXNCZWZvcmUoZWFybGllcikpIHN0aWNodGFnID0gc3RpY2h0YWcucGx1c1llYXJzKDEpOwo=</text>
+        <text encoding="base64">CQkJCWN1c3RvbUVyc2F0endlcnRlUmVwb3NpdG9yeS5nZXRTdGljaHRhZyhjYW5kaWRhdGUuZ2V0R2VyYWV0SWQoKSksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQlEYXRlVXRpbHMK</text>
+        <text encoding="base64">CQlpZiAoc3RpY2h0YWcuaXNCZWZvcmUoZWFybGllcikpIHN0aWNodGFnID0gc3RpY2h0YWcucGx1c1llYXJzKDEpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">CQlEYXRlVXRpbHMK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">CQlzdGljaHRhCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CgkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkp</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CgkuZmlsdGVyKGcgLT4gR2VyYWV0VXRpbHMuaXNSYXVjaHdhcm5tZWxkZXIoZykp</text>
       </register>
-      <register name="8" type="2">
-        <text>17791725/geraet/18973223</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgIGZpcnN0X3ZhbHVlKG0uaGVhdF9jb3N0X2FsbG9jYXRvcikgb3ZlciAocGFydGl0aW9uIGJ5IG0uZ2VyX2dlcmFldF9pZCBvcmRlciBieSBtZXNzX2RhdHVtIGRlc2MpLAo=</text>
+        <text>17791725/geraet/18973223</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
