@@ -166,11 +166,11 @@
         <mark key="." line="2" column="88" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/messung/service/MessungCleanerService.java" timestamp="1592542851440">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="40" column="68" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/messung/service/MessungCleanerService.java" timestamp="1592555510418">
+        <mark key="[" line="41" column="89" />
+        <mark key="]" line="42" column="42" />
+        <mark key="^" line="42" column="42" />
+        <mark key="." line="42" column="41" />
       </file>
       <file name="/Dummy.txt" timestamp="1592542876946">
         <mark key="[" line="0" column="0" />
@@ -192,6 +192,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1592527345257">
         <mark key="'" line="1124" column="39" />
         <mark key="[" line="1148" column="57" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/geraet/service/CommonGeraetService.java" timestamp="1592555486188">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1592530285869">
         <mark key="'" line="234" column="0" />
@@ -310,7 +315,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">CQl9KTsK</text>
+        <text encoding="base64">CUBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -322,34 +327,34 @@
         <text>AbrechnungDtvGeraetService</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQl9KTsK</text>
+        <text encoding="base64">CUBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQlydW5JbnNpZGVUcmFuc2FjdGlvbihlbnRpdHlNYW5hZ2VyIC0+IHsK</text>
+        <text encoding="base64">CQl9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkvL1RPRE8K</text>
+        <text encoding="base64">CQlydW5JbnNpZGVUcmFuc2FjdGlvbihlbnRpdHlNYW5hZ2VyIC0+IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkvL1RPRE8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQlpZihnZXJhZXREVE8uZ2V0TWVzc0RhdHVtKCkgIT0gbnVsbCAmJiBlaW5iYXVVdGMuYWZ0ZXIoZ2VyYWV0RFRPLmdldE1lc3NEYXR1bSgpKSkKCQkJCQkJbWVzc3VuZ0NsZWFuZXJHZXJhZXRSZXBvc2l0b3J5LnJlc2V0Q3VycmVudE1lc3N1bmcoZ2VyYWV0SWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQlnZXJhZXRTZXJ2aWNlLnVwZGF0ZUxhdGVzdE1lc3N1bmcoZ2VyYWV0KTsK</text>
+        <text encoding="base64">CQkJCQlpZihnZXJhZXREVE8uZ2V0TWVzc0RhdHVtKCkgIT0gbnVsbCAmJiBlaW5iYXVVdGMuYWZ0ZXIoZ2VyYWV0RFRPLmdldE1lc3NEYXR1bSgpKSkKCQkJCQkJbWVzc3VuZ0NsZWFuZXJHZXJhZXRSZXBvc2l0b3J5LnJlc2V0Q3VycmVudE1lc3N1bmcoZ2VyYWV0SWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gVE9ETy0xOTg3Cg==</text>
+        <text encoding="base64">CQlnZXJhZXRTZXJ2aWNlLnVwZGF0ZUxhdGVzdE1lc3N1bmcoZ2VyYWV0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXB1YmxpYyBMb2NhbERhdGVUaW1lIGdldFN0aWNodGFnKExvbmcgZ2VyYWV0SWQpIHsKCQlyZXR1cm4gRGF0ZVV0aWxzLnRvTG9jYWxEYXRlVGltZUZyb21HZXJtYW4oCgkJCSgoVGltZXN0YW1wKSBlbnRpdHlNYW5hZ2VyLmNyZWF0ZU5hdGl2ZVF1ZXJ5KAoJCQkJLy9AZm9ybWF0dGVyOm9mZgoJCQkJCSJzZWxlY3QgbGwuc3RpY2h0YWcgIiArCgkJCQkJImZyb20gZ2VyX2dlcmFldCBnZyAiICsKCQkJCQkiaW5uZXIgam9pbiBsaWVfbGllZ2Vuc2NoYWZ0IGxsIG9uIGdnLmxpZV9saWVnZW5zY2hhZnRfaWQgPSBsbC5pZCAiICsKCQkJCQkid2hlcmUgZ2cuaWQgPSA6aWQiCgkJCQkvL0Bmb3JtYXR0ZXI6b24KCQkJKQoJCQkJLnNldFBhcmFtZXRlcigiaWQiLCBnZXJhZXRJZCkKCQkJCS5nZXRTaW5nbGVSZXN1bHQoKSkudG9Mb2NhbERhdGVUaW1lKCkpOwoJfQoK</text>
+        <text encoding="base64">LS0gVE9ETy0xOTg3Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCWN1c3RvbUVyc2F0endlcnRlUmVwb3NpdG9yeS5nZXRTdGljaHRhZyhjYW5kaWRhdGUuZ2V0R2VyYWV0SWQoKSksCg==</text>
+        <text encoding="base64">CXB1YmxpYyBMb2NhbERhdGVUaW1lIGdldFN0aWNodGFnKExvbmcgZ2VyYWV0SWQpIHsKCQlyZXR1cm4gRGF0ZVV0aWxzLnRvTG9jYWxEYXRlVGltZUZyb21HZXJtYW4oCgkJCSgoVGltZXN0YW1wKSBlbnRpdHlNYW5hZ2VyLmNyZWF0ZU5hdGl2ZVF1ZXJ5KAoJCQkJLy9AZm9ybWF0dGVyOm9mZgoJCQkJCSJzZWxlY3QgbGwuc3RpY2h0YWcgIiArCgkJCQkJImZyb20gZ2VyX2dlcmFldCBnZyAiICsKCQkJCQkiaW5uZXIgam9pbiBsaWVfbGllZ2Vuc2NoYWZ0IGxsIG9uIGdnLmxpZV9saWVnZW5zY2hhZnRfaWQgPSBsbC5pZCAiICsKCQkJCQkid2hlcmUgZ2cuaWQgPSA6aWQiCgkJCQkvL0Bmb3JtYXR0ZXI6b24KCQkJKQoJCQkJLnNldFBhcmFtZXRlcigiaWQiLCBnZXJhZXRJZCkKCQkJCS5nZXRTaW5nbGVSZXN1bHQoKSkudG9Mb2NhbERhdGVUaW1lKCkpOwoJfQoK</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
