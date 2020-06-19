@@ -119,6 +119,9 @@
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed 2</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -136,6 +139,10 @@
         <mark key="]" line="40" column="26" />
         <mark key="." line="40" column="26" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1592572026000">
+        <mark key="'" line="346" column="17" />
+        <mark key="[" line="65" column="193" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/MessungRefreshRepository.java" timestamp="1592564189865">
         <mark key="[" line="62" column="15" />
         <mark key="]" line="62" column="67" />
@@ -146,6 +153,12 @@
         <mark key="[" line="500" column="54" />
         <mark key="]" line="500" column="55" />
         <mark key="." line="500" column="55" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepositoryTest.java" timestamp="1592572003603">
+        <mark key="[" line="72" column="36" />
+        <mark key="]" line="72" column="36" />
+        <mark key="^" line="72" column="36" />
+        <mark key="." line="72" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/messung/MessungCleanerServiceTest.java" timestamp="1592569098360">
         <mark key="[" line="179" column="8" />
@@ -163,8 +176,8 @@
         <mark key="]" line="94" column="39" />
         <mark key="." line="94" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592569810939">
-        <mark key="[" line="0" column="14" />
+      <file name="/Dummy.txt" timestamp="1592571164301">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
@@ -174,16 +187,11 @@
         <mark key="." line="255" column="71" />
         <mark key="^" line="255" column="73" />
       </file>
-      <file name="/VbType.java" timestamp="1592564059291">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="19" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/DiscovergyOverdueYeralyTest.java" timestamp="1592570246030">
-        <mark key="'" line="61" column="0" />
-        <mark key="[" line="33" column="100" />
-        <mark key="]" line="36" column="40" />
-        <mark key="^" line="36" column="40" />
-        <mark key="." line="36" column="39" />
+        <mark key="'" line="56" column="0" />
+        <mark key="]" line="7" column="40" />
+        <mark key="^" line="7" column="40" />
+        <mark key="." line="7" column="39" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/geraet/util/GeraetUtils.java" timestamp="1592564424985">
         <mark key="[" line="40" column="8" />
@@ -208,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="31" filename="$USER_HOME$/Workspace/qivalo/antas-adapter/src/main/java/com/qivalo/antasadapter/model/geraettyp/GeraetTyp.java" />
       <jump line="106" column="0" filename="$USER_HOME$/Workspace/qivalo/antas-adapter/src/main/java/com/qivalo/antasadapter/rest/ExportRestEndpoint.java" />
       <jump line="167" column="43" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetService.java" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
@@ -308,6 +315,7 @@
       <jump line="97" column="16" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/messung/dao/MessungCustomRepository.java" />
       <jump line="56" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/DiscovergyOverdueYeralyTest.java" />
       <jump line="213" column="12" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyOverdueService.java" />
+      <jump line="348" column="17" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
