@@ -140,6 +140,9 @@
         <mark key="." line="128" column="33" />
         <mark key="^" line="128" column="34" />
       </file>
+      <file name="/console" timestamp="1592808681069">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/abrechnung/core/service/AbrechnungDtsServiceTest.java" timestamp="1592798585611">
         <mark key="[" line="168" column="0" />
         <mark key="]" line="168" column="0" />
@@ -157,29 +160,14 @@
         <mark key="[" line="384" column="5" />
         <mark key="]" line="417" column="4" />
       </file>
-      <file name="/a.sql" timestamp="1592785549504">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1592799293455">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/messungen/service/RemoveMessungenImportService.java" timestamp="1592789946011">
-        <mark key="[" line="55" column="20" />
-        <mark key="]" line="55" column="43" />
-        <mark key="." line="55" column="42" />
-        <mark key="^" line="55" column="43" />
-      </file>
       <file name="/AbstractSpringTest.java" timestamp="1592798372218">
         <mark key="[" line="126" column="0" />
         <mark key="]" line="126" column="82" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1592790177054">
-        <mark key="[" line="66" column="24" />
-        <mark key="]" line="66" column="48" />
-        <mark key="." line="66" column="47" />
-        <mark key="^" line="66" column="48" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/49_hkv_ersatzwerte.sql" timestamp="1592796694147">
         <mark key="[" line="5" column="71" />
@@ -206,17 +194,6 @@
         <mark key="]" line="4254" column="19" />
         <mark key="." line="4254" column="19" />
         <mark key="^" line="4253" column="18" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepositoryTest.java" timestamp="1592789995931">
-        <mark key="[" line="61" column="8" />
-        <mark key="]" line="61" column="31" />
-        <mark key="^" line="61" column="31" />
-        <mark key="." line="61" column="30" />
-      </file>
-      <file name="/fragment.java" timestamp="1592794317886">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
