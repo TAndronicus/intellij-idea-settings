@@ -165,19 +165,19 @@
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/DiscovergyOverdueYeralyTest.java" timestamp="1592570246030">
         <mark key="'" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteQueueService.java" timestamp="1592790162761">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteQueueService.java" timestamp="1592791064253">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="51" column="96" />
+        <mark key="[" line="57" column="38" />
+        <mark key="]" line="57" column="39" />
+        <mark key="." line="57" column="38" />
+        <mark key="^" line="57" column="39" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" timestamp="1592790965358">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" timestamp="1592791230927">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="392" column="94" />
-        <mark key="]" line="392" column="94" />
-        <mark key="." line="392" column="94" />
-        <mark key="^" line="392" column="95" />
+        <mark key="[" line="446" column="17" />
+        <mark key="]" line="446" column="20" />
+        <mark key="." line="446" column="19" />
+        <mark key="^" line="446" column="20" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1592787109578">
         <mark key="'" line="4220" column="8" />
@@ -304,10 +304,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>(</text>
+        <text>where</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>where</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
