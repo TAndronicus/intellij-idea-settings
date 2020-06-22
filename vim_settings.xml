@@ -127,11 +127,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/04_insert_geraet_messungen.sql" timestamp="1592787147660">
-        <mark key="[" line="1260" column="41" />
-        <mark key="]" line="1260" column="43" />
-        <mark key="^" line="1260" column="43" />
-        <mark key="." line="1260" column="42" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/04_insert_geraet_messungen.sql" timestamp="1592790474797">
+        <mark key="[" line="1263" column="44" />
+        <mark key="]" line="1263" column="45" />
+        <mark key="^" line="1264" column="7" />
+        <mark key="." line="1263" column="45" />
       </file>
       <file name="/console" timestamp="1592783967445">
         <mark key="[" line="0" column="0" />
@@ -142,11 +142,6 @@
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/nutzeinheit/rest/NutzeinheitCSVExportRestEndpointTest.java" timestamp="1592568335675">
-        <mark key="[" line="30" column="36" />
-        <mark key="]" line="30" column="37" />
-        <mark key="." line="30" column="37" />
-      </file>
       <file name="/a.sql" timestamp="1592785549504">
         <mark key="[" line="0" column="0" />
       </file>
@@ -155,22 +150,34 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1592788202489">
-        <mark key="'" line="99" column="8" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="57" />
-        <mark key="." line="85" column="9" />
-        <mark key="^" line="85" column="10" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/messungen/service/RemoveMessungenImportService.java" timestamp="1592789946011">
+        <mark key="[" line="56" column="20" />
+        <mark key="]" line="56" column="43" />
+        <mark key="." line="56" column="42" />
+        <mark key="^" line="56" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1592790177054">
+        <mark key="[" line="66" column="24" />
+        <mark key="]" line="66" column="48" />
+        <mark key="." line="66" column="47" />
+        <mark key="^" line="66" column="48" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/DiscovergyOverdueYeralyTest.java" timestamp="1592570246030">
         <mark key="'" line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteQueueService.java" timestamp="1592788297392">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="55" column="40" />
-        <mark key="]" line="55" column="41" />
-        <mark key="." line="55" column="40" />
-        <mark key="^" line="55" column="41" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteQueueService.java" timestamp="1592790162761">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="51" column="96" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" timestamp="1592790965358">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="392" column="94" />
+        <mark key="]" line="392" column="94" />
+        <mark key="." line="392" column="94" />
+        <mark key="^" line="392" column="95" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1592787109578">
         <mark key="'" line="4220" column="8" />
@@ -179,23 +186,19 @@
         <mark key="." line="4251" column="33" />
         <mark key="^" line="4251" column="34" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepositoryTest.java" timestamp="1592572003603">
-        <mark key="[" line="72" column="36" />
-        <mark key="]" line="72" column="36" />
-        <mark key="^" line="72" column="36" />
-        <mark key="." line="72" column="35" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepositoryTest.java" timestamp="1592789995931">
+        <mark key="[" line="61" column="8" />
+        <mark key="]" line="61" column="31" />
+        <mark key="^" line="61" column="31" />
+        <mark key="." line="61" column="30" />
       </file>
-      <file name="/fragment.java" timestamp="1592570765328">
+      <file name="/fragment.java" timestamp="1592790743647">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="3976" column="25" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
-      <jump line="193" column="56" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/common/helpers/DateUtils.java" />
-      <jump line="97" column="17" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/common/helpers/DateUtils.java" />
-      <jump line="164" column="16" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" />
       <jump line="242" column="65" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" />
       <jump line="4012" column="33" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="235" column="35" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/dao/DBUtilsTests.java" />
@@ -292,51 +295,55 @@
       <jump line="398" column="4" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" />
       <jump line="57" column="54" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteQueueService.java" />
       <jump line="8" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteQueueService.java" />
+      <jump line="119" column="29" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" />
+      <jump line="426" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" />
+      <jump line="49" column="13" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQkJCS5tYXAoZyAtPiBnLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSkpCg==</text>
+        <text encoding="base64">ICAgICAgICgxMTExNywgJzIwMjAtMDQtMDkgMjM6MDAnLCAnMjAyMC0wNC0xMCcsICdBJywgNTAwMiwgNzAwMSwgMTAwMCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLm1lc3N1bmcuZGFvLkludE1lc3N1bmdDdXN0b21SZXBvc2l0b3J5Owo=</text>
+        <text encoding="base64">ICAgICAgICgxMTExNywgJzIwMjAtMDEtMDEgMjM6MDAnLCAnMjAyMC0wNC0xMCcsICdBJywgNTAwMiwgNzAwMSwgMTAwMCksCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgSW50TWVzc3VuZ0N1c3RvbVJlcG9zaXRvcnkgaW50TWVzc3VuZ0N1c3RvbVJlcG9zaXRvcnk7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgRXJzYXR6d2VydGVTZXJ2aWNlIGVyc2F0endlcnRlU2VydmljZTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CXByaXZhdGUgZmluYWwgQ29tbW9uTWVzc3VuZ0N1c3RvbVJlcG9zaXRvcnkgbWVzc3VuZ0N1c3RvbVJlcG9zaXRvcnk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">CgoJcHVibGljIFF1ZXVlPExvY2FsRGF0ZVRpbWU+IGdldEhLVkRhdGVzUXVldWUoTG9jYWxEYXRlVGltZSBxdWV1ZUVsZW1lbnREYXRlLCBMb2NhbERhdGVUaW1lIG1lYXN1cmVtZW50RGF0ZSkgewoJCUxvY2FsRGF0ZVRpbWUgZWFybGllciA9IERhdGVVdGlscy5nZXRFYXJsaWVzdChxdWV1ZUVsZW1lbnREYXRlLCBtZWFzdXJlbWVudERhdGUpLAoJCQlsYXRlciA9IERhdGVVdGlscy5nZXRMYXRlc3QocXVldWVFbGVtZW50RGF0ZSwgbWVhc3VyZW1lbnREYXRlKTsKCQllYXJsaWVyID0gRGF0ZVV0aWxzLmdldExhdGVzdChlYXJsaWVyLCBFV19GSVJTVF9EQVRFKTsKCQl2YXIgc3RpY2h0YWcgPSBEYXRlVXRpbHMudG9Mb2NhbERhdGVUaW1lRnJvbUdlcm1hbigKCQkJTG9jYWxEYXRlLm9mKGVhcmxpZXIuZ2V0WWVhcigpLCAxLCAxKQoJCQkJLnBsdXNZZWFycygxKQoJCQkJLmF0U3RhcnRPZkRheSgpCgkJKTsKCQlRdWV1ZTxMb2NhbERhdGVUaW1lPiBxdWV1ZSA9IG5ldyBMaW5rZWRMaXN0PD4oKTsKCQlxdWV1ZS5vZmZlcihlYXJsaWVyKTsKCQl3aGlsZSAoc3RpY2h0YWcuaXNCZWZvcmUobGF0ZXIpKSB7CgkJCXF1ZXVlLm9mZmVyKHN0aWNodGFnKTsKCQkJc3RpY2h0YWcgPSBzdGljaHRhZy5wbHVzWWVhcnMoMSk7CgkJfQoJCXF1ZXVlLm9mZmVyKGxhdGVyKTsKCQlyZXR1cm4gcXVldWU7Cgl9</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgoJcHJpdmF0ZSBPcHRpb25hbDxMb2NhbERhdGVUaW1lPiBjYWxjdWxhdGVTdGFydERhdGVDYW5kaWRhdGUoR2VyYWV0QmFzZSBnZXJhZXQpIHsKCQlpZiAoTG9jYWxEYXRlLm9mKDIwMDAsIDEsIDEpLmVxdWFscyhnZXJhZXQuZ2V0RWluYmF1RGF0dW0oKSkpIHsKCQkJZmluYWwgRGF0ZSBmaXJzdE1lc3NEYXR1bUFmdGVyRWluYmF1ID0gbWVzc3VuZ0N1c3RvbVJlcG9zaXRvcnkuZmluZEZpcnN0TWVzc0RhdHVtT2ZHZXJhZXRFeGNsdWRpbmdUeXBlcyhnZXJhZXQsIExpc3Qub2YoQU5UQVNfRUlOQkFVLCBFTlRGRVJOVCwgRVJTQVRaV0VSVCkpOwoJCQlyZXR1cm4gT3B0aW9uYWwub2ZOdWxsYWJsZShmaXJzdE1lc3NEYXR1bUFmdGVyRWluYmF1KS5tYXAoRGF0ZVV0aWxzOjp0b0xvY2FsRGF0ZVRpbWUpOwoJCX0KCQlyZXR1cm4gT3B0aW9uYWwub2ZOdWxsYWJsZShnZXJhZXQuZ2V0RWluYmF1RGF0dW0oKSkubWFwKExvY2FsRGF0ZTo6YXRTdGFydE9mRGF5KTsKCX0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJaWYgKEdlcmFldFR5cFV0aWxzLmlzSGVpemtvc3RlbnZlcnRlaWxlclR5cChnZXJhZXQpKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CgoJQFRyYW5zYWN0aW9uYWwKCXB1YmxpYyB2b2lkIGVucXVlKEdlcmFldEJhc2UgZ2VyYWV0KSB7CgkJY2FsY3VsYXRlU3RhcnREYXRlQ2FuZGlkYXRlKGdlcmFldCkuaWZQcmVzZW50KHN0YXJ0RGF0ZUNhbmRpZGF0ZSAtPiB7CgkJCWVucXVlKAoJCQkJRXJzYXR6d2VydGVEZXNjcmlwdGlvbi5FbnF1ZUVsZW1lbnQKCQkJCQkuYnVpbGRlcigpCgkJCQkJLmdlcmFldElkKGdlcmFldC5nZXRJZCgpKQoJCQkJCS5zdGFydERhdGUoRGF0ZVV0aWxzLmdldExhdGVzdChzdGFydERhdGVDYW5kaWRhdGUsIEVXX0ZJUlNUX0RBVEUpKQoJCQkJCS5lbmREYXRlKGN1cnJlbnREYXRlU2VydmljZS5nZXRDdXJyZW50TG9jYWxEYXRlVGltZSgpKQoJCQkJCS5idWlsZCgpCgkJCSk7CgkJfSk7Cgl9</text>
+      <register name="5" type="2">
+        <text encoding="base64">CXByaXZhdGUgQ3VzdG9tRXJzYXR6d2VydGVSZXBvc2l0b3J5IGN1c3RvbUVyc2F0endlcnRlUmVwb3NpdG9yeTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
+        <text encoding="base64">CQlhc3NlcnRUaGF0Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLm1lc3N1bmcuZGFvLkludE1lc3N1bmdDdXN0b21SZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSA7Cg==</text>
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgSW50TWVzc3VuZ0N1c3RvbVJlcG9zaXRvcnkgaW50TWVzc3VuZ0N1c3RvbVJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text>geraetRepositoryge</text>
+        <text encoding="base64">CXByaXZhdGUgZmluYWwgQ29tbW9uTWVzc3VuZ0N1c3RvbVJlcG9zaXRvcnkgbWVzc3VuZ0N1c3RvbVJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
