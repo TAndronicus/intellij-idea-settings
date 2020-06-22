@@ -160,6 +160,12 @@
         <mark key="[" line="384" column="5" />
         <mark key="]" line="417" column="4" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetService.java" timestamp="1592813732472">
+        <mark key="[" line="89" column="106" />
+        <mark key="]" line="90" column="42" />
+        <mark key="." line="90" column="41" />
+        <mark key="^" line="90" column="42" />
+      </file>
       <file name="/Dummy.txt" timestamp="1592799293455">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -302,10 +308,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
@@ -314,34 +320,34 @@
         <text>last_value(nachname) over (order by case when email ~ 'admin' then 0 else 1 end)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c2VsZWN0IGdlcmFldF90eXAK</text>
+        <text encoding="base64">CQluZXcgQXJyYXlMaXN0PD4oKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBna19nZXJhZXRfdHlwIGdndApvcmRlciBieSBjYXNlIHdoZW4gZ2VyYWV0X3R5cCA9ICdLJyB0aGVuIDAgZWxzZSAxIGVuZDsK</text>
+        <text encoding="base64">c2VsZWN0IGdlcmFldF90eXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgkJZmluYWwgQWJyZWNobnVuZ0xvZyBsb2cxID0gbG9ncy5nZXQoMCk7CgoJCWZpbmFsIEFicmVjaG51bmdMb2cgbG9nMiA9IGxvZ3MuZ2V0KDEpOwo=</text>
+        <text encoding="base64">ZnJvbSBna19nZXJhZXRfdHlwIGdndApvcmRlciBieSBjYXNlIHdoZW4gZ2VyYWV0X3R5cCA9ICdLJyB0aGVuIDAgZWxzZSAxIGVuZDsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CgkJZmluYWwgQWJyZWNobnVuZ0xvZyBsb2cxID0gbG9ncy5nZXQoMCk7CgoJCWZpbmFsIEFicmVjaG51bmdMb2cgbG9nMiA9IGxvZ3MuZ2V0KDEpOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">CQkJCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CgoJQFRlc3QKCXZvaWQgc2hvdWxkUHJvY2Vzc0RhbXBmKCkgewoJCS8vIGdpdmVuCgkJTG9uZyBnZXJJZCA9IDkwNzNMOwoJCUxvY2FsRGF0ZVRpbWUgc3RhcnQgPSBMb2NhbERhdGUub2YoMjAxOSwgMiwgMSkuYXRTdGFydE9mRGF5KCksCgkJCW1pZCA9IExvY2FsRGF0ZS5vZigyMDE5LCAyLCAxNSkuYXRTdGFydE9mRGF5KCksCgkJCWVuZCA9IExvY2FsRGF0ZS5vZigyMDE5LCAyLCAyOCkuYXRTdGFydE9mRGF5KCk7CgkJZXJzYXR6d2VydGVRdWV1ZVNlcnZpY2UuZW5xdWUoCgkJCUVyc2F0endlcnRlRGVzY3JpcHRpb24uRW5xdWVFbGVtZW50LmJ1aWxkZXIoKQoJCQkJLmdlcmFldElkKGdlcklkKQoJCQkJLnN0YXJ0RGF0ZShzdGFydCkKCQkJCS5lbmREYXRlKGVuZCkKCQkJCS5idWlsZCgpKTsKCgkJLy8gd2hlbgoJCWVyc2F0endlcnRlU2VydmljZS5wcm9jZXNzKCk7CgoJCS8vIHRoZW4KCQlhc3NlcnRFcXVhbHMoCgkJCTMwZCwKCQkJZW50aXR5TWFuYWdlci5jcmVhdGVRdWVyeSgKCQkJCS8vQGZvcm1hdHRlcjpvZmYKCQkJCQkic2VsZWN0IG0gIiArCgkJCQkJImZyb20gRGFtcGZNZXNzdW5nIG0gIiArCgkJCQkJIndoZXJlIG0ubWVzc0RhdHVtID0gOmRhdGUgIiwgRGFtcGZNZXNzdW5nLmNsYXNzCgkJCQkvL0Bmb3JtYXR0ZXI6b24KCQkJKQoJCQkJLnNldFBhcmFtZXRlcigiZGF0ZSIsIERhdGVVdGlscy50b0RhdGVGcm9tR2VybWFuKG1pZCkpCgkJCQkuZ2V0U2luZ2xlUmVzdWx0KCkKCQkJCS5nZXRFbmVyZ3koKQoJCSk7Cgl9</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CQkJCWN1cnJlbnREYXRlU2VydmljZS5nZXRDdXJyZW50TG9jYWxEYXRlVGltZSgpCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">CQkJCURhdGVVdGlscy5nZXRMYXRlc3Qoc3RhcnREYXRlQ2FuZGlkYXRlLCBFV19GSVJTVF9EQVRFKSwK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CQkJCQkJCS5nZXJhZXRJZChnZXJhZXQuZ2V0SWQoKSkK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJRXJzYXR6d2VydGVEZXNjcmlwdGlvbi5FbnF1ZUVsZW1lbnQKCQkJCQkJCS5idWlsZGVyKCkK</text>
+        <text encoding="base64">CQkJCQkJCS5nZXJhZXRJZChnZXJhZXQuZ2V0SWQoKSkK</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
