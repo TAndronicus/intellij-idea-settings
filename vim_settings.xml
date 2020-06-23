@@ -127,12 +127,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1592912164659">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1592913040537">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1188" column="24" />
-        <mark key="]" line="1188" column="26" />
-        <mark key="^" line="1188" column="26" />
-        <mark key="." line="1188" column="25" />
+        <mark key="[" line="1200" column="22" />
+        <mark key="]" line="1200" column="30" />
+        <mark key="^" line="1200" column="22" />
+        <mark key="." line="1200" column="22" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/austauschprotokoll/service/AustauschProtokollService.java" timestamp="1592909675292" />
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/austauschprotokoll/dao/AustauschRowRepository.java" timestamp="1592909810492" />
@@ -315,10 +315,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>first_value</text>
+        <text>18957524</text>
       </register>
       <register name="-" type="4">
-        <text>first_value</text>
+        <text>18957524</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
