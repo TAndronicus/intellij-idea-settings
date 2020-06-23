@@ -127,7 +127,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1592883254746">
+      <file name="/Dummy.txt" timestamp="1592884021042">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -196,10 +196,22 @@
         <mark key="]" line="241" column="28" />
         <mark key="." line="241" column="28" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/dao/CommonLiegenschaftLockRepository.java" timestamp="1592883994798">
+        <mark key="[" line="78" column="26" />
+        <mark key="]" line="78" column="39" />
+        <mark key="^" line="45" column="39" />
+        <mark key="." line="78" column="26" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/messung/dao/MessungCustomRepository.java" timestamp="1592829708753">
         <mark key="[" line="244" column="27" />
         <mark key="]" line="244" column="28" />
         <mark key="." line="244" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/01_clear_data.sql" timestamp="1592883955455">
+        <mark key="[" line="148" column="23" />
+        <mark key="]" line="148" column="36" />
+        <mark key="^" line="148" column="36" />
+        <mark key="." line="148" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/liegenschaftsaenderungsplan/dao/CommonGeraetReferenzWertCustomRepository.java" timestamp="1592830160115">
         <mark key="[" line="43" column="31" />
@@ -318,7 +330,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>mes_sperre_id_seq</text>
+        <text>liegenschaft_</text>
       </register>
       <register name="-" type="4">
         <text>sperre_</text>
@@ -327,7 +339,7 @@
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>mes_sperre_id_seq</text>
+        <text>liegenschaft_</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
