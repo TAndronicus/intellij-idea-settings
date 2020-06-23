@@ -127,15 +127,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1592800367354">
-        <mark key="'" line="1154" column="19" />
-        <mark key="[" line="1180" column="8" />
-        <mark key="]" line="1183" column="25" />
-        <mark key="^" line="1183" column="25" />
-        <mark key="." line="1183" column="24" />
+      <file name="/Dummy.txt" timestamp="1592881494514">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/DTV-TRENNUNG-MISSING-NUTZER.xml" timestamp="1592819713035" />
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/DTV-TRENNUNG.xml" timestamp="1592819747586" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/java/com/qivalo/portal/AbstractSpringTest.java" timestamp="1592880952328">
+        <mark key="[" line="128" column="58" />
+        <mark key="]" line="128" column="60" />
+        <mark key="^" line="128" column="60" />
+        <mark key="." line="128" column="59" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/geraetekatalog/util/GeraetTypUtils.java" timestamp="1592829631818">
+        <mark key="e" line="40" column="26" />
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="40" column="26" />
+        <mark key="." line="40" column="25" />
+        <mark key="^" line="40" column="26" />
+      </file>
+      <file name="/console" timestamp="1592881248238">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtvFileExportRestEndpointTest.java" timestamp="1592822095261">
         <mark key="'" line="455" column="35" />
         <mark key="[" line="474" column="46" />
@@ -143,12 +155,23 @@
         <mark key="^" line="474" column="48" />
         <mark key="." line="474" column="47" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1592800661214">
-        <mark key="'" line="141" column="0" />
-        <mark key="[" line="79" column="70" />
-        <mark key="]" line="79" column="71" />
-        <mark key="." line="79" column="71" />
-        <mark key="^" line="79" column="64" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1592881381971">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1159" column="76" />
+        <mark key="]" line="1159" column="93" />
+        <mark key="^" line="1159" column="93" />
+        <mark key="." line="1159" column="92" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/int-common/src/main/java/com/qivalo/portal/messung/dao/IntMessungCustomRepository.java" timestamp="1592829725019">
+        <mark key="[" line="112" column="27" />
+        <mark key="]" line="112" column="28" />
+        <mark key="." line="112" column="28" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V415.1__migrate_null_hkv_ersatzwerte.sql" timestamp="1592881486080">
+        <mark key="[" line="2" column="81" />
+        <mark key="]" line="2" column="100" />
+        <mark key="." line="2" column="99" />
+        <mark key="^" line="2" column="100" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetService.java" timestamp="1592820733769">
         <mark key="[" line="112" column="95" />
@@ -156,31 +179,20 @@
         <mark key="." line="113" column="21" />
         <mark key="^" line="113" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/DTV-TRENNUNG-LEITUNGSSCHWANKUNG.xml" timestamp="1592819656138" />
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/DTV-TRENNUNG-MISSING-NUTZEINHEIT.xml" timestamp="1592819213888" />
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/DTV-TRENNUNG-LEITUNGSSCHWANKUNG-EINBAU-RELEVANT.xml" timestamp="1592819700502" />
-      <file name="/console" timestamp="1592808681069">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/messung/dao/CommonMessungCustomRepository.java" timestamp="1592829700004">
+        <mark key="[" line="241" column="27" />
+        <mark key="]" line="241" column="28" />
+        <mark key="." line="241" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/DTV-TRENNUNG-STRANGSCHEMA.xml" timestamp="1592819678365" />
-      <file name="/Dummy.txt" timestamp="1592820631821">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/messung/dao/MessungCustomRepository.java" timestamp="1592829708753">
+        <mark key="[" line="244" column="27" />
+        <mark key="]" line="244" column="28" />
+        <mark key="." line="244" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" timestamp="1592799013704">
-        <mark key="[" line="39" column="103" />
-        <mark key="]" line="39" column="105" />
-        <mark key="." line="39" column="104" />
-        <mark key="^" line="39" column="105" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/DTV-NEUGERAETE.xml" timestamp="1592819731033" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1592800092719">
-        <mark key="'" line="4220" column="8" />
-        <mark key="[" line="4254" column="19" />
-        <mark key="]" line="4254" column="19" />
-        <mark key="." line="4254" column="19" />
-        <mark key="^" line="4253" column="18" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/liegenschaftsaenderungsplan/dao/CommonGeraetReferenzWertCustomRepository.java" timestamp="1592830160115">
+        <mark key="[" line="43" column="31" />
+        <mark key="]" line="43" column="32" />
+        <mark key="." line="43" column="32" />
       </file>
       <file name="/fragment.java" timestamp="1592821776211">
         <mark key="[" line="0" column="0" />
@@ -189,7 +201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/73ff3be5-7ebf-4aa7-a58c-0936252274aa/console.sql" />
       <jump line="4013" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="76" column="29" filename="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/geraetekatalog/geraet-klassen-list/geraet-klassen-list.component.ts" />
       <jump line="313" column="21" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/geraetekatalog/model/GeraetTyp.java" />
@@ -289,21 +300,22 @@
       <jump line="137" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" />
       <jump line="1154" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" />
       <jump line="448" column="35" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtvFileExportRestEndpointTest.java" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">CQkJCQkiMjAwMi8yMDAyNjIxOS8yPTA5NjAxMS81MDI3XHJcbiIgKwo=</text>
+      <register name="*" type="4">
+        <text>day</text>
       </register>
       <register name="-" type="4">
-        <text>gg.</text>
+        <text>day</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkJCQkiMjAwMi8yMDAyNjIxOS8yPTA5NjAxMS81MDI3XHJcbiIgKwo=</text>
+      <register name="0" type="4">
+        <text>, date_part('day', mess_datum)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQlMaWVnZW5zY2hhZnQgbGllZ2Vuc2NoYWZ0ID0gYWJyZWNobnVuZy5nZXRMaWVnZW5zY2hhZnQoKTsK</text>
@@ -346,7 +358,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxTRVRcPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
