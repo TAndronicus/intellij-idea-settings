@@ -157,12 +157,12 @@
       <file name="/a.sql" timestamp="1592988224982">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/messung/dao/HeizkostenverteilerVerbrauchRepositoryTest.java" timestamp="1592991467573">
-        <mark key="'" line="43" column="24" />
-        <mark key="[" line="78" column="5" />
-        <mark key="]" line="24" column="69" />
-        <mark key="." line="24" column="68" />
-        <mark key="^" line="24" column="69" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/messung/dao/HeizkostenverteilerVerbrauchRepositoryTest.java" timestamp="1592991697573">
+        <mark key="'" line="33" column="51" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="83" column="34" />
+        <mark key="." line="83" column="33" />
+        <mark key="^" line="83" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/dao/CommonLiegenschaftLockRepository.java" timestamp="1592983410054">
         <mark key="'" line="14" column="17" />
@@ -207,12 +207,12 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/52_hkv_verbrauch.sql" timestamp="1592991392436">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/52_hkv_verbrauch.sql" timestamp="1592991855204">
         <mark key="'" line="27" column="0" />
-        <mark key="[" line="26" column="66" />
-        <mark key="]" line="26" column="71" />
-        <mark key="^" line="26" column="71" />
-        <mark key="." line="26" column="70" />
+        <mark key="[" line="14" column="49" />
+        <mark key="]" line="14" column="50" />
+        <mark key="^" line="26" column="67" />
+        <mark key="." line="14" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonLiegenschaftLockService.java" timestamp="1592983391968">
         <mark key="[" line="32" column="0" />
@@ -226,11 +226,11 @@
         <mark key="^" line="60" column="15" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__4.0.1_create_heizkostenverteiler_verbrauch.sql" timestamp="1592986232716">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="19" column="54" />
-        <mark key="^" line="45" column="38" />
-        <mark key="." line="45" column="37" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__4.0.1_create_heizkostenverteiler_verbrauch.sql" timestamp="1592992569074">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1592989073295">
         <mark key="'" line="4261" column="0" />
@@ -241,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="257" column="8" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungDtvFileExportRestEndpointTest.java" />
       <jump line="338" column="4" filename="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/dao/MessungCustomRepository.java" />
       <jump line="116" column="29" filename="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/geraet/geraet-values-table/geraet-values-table.component.ts" />
       <jump line="73" column="49" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungStatusFileExportRestEndpointTest.java" />
@@ -341,21 +340,22 @@
       <jump line="0" column="16" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/52_hkv_verbrauch.sql" />
       <jump line="1" column="70" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/52_hkv_verbrauch.sql" />
       <jump line="27" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/52_hkv_verbrauch.sql" />
+      <jump line="32" column="51" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/messung/dao/HeizkostenverteilerVerbrauchRepositoryTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>ersatzwerte</text>
+        <text>mh.typ</text>
       </register>
       <register name="-" type="4">
-        <text>ersatzwerte</text>
+        <text>mh.typ</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFM1MV9IS1ZfRVJTQVRaV0VSVEUgPSAiL2RiLzUxX2hrdl9lcnNhdHp3ZXJ0ZS5zcWwiOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CgkJZmluYWwgbG9uZyBnZXJhZXRJZCA9IDgwMjVMOwoKCQlNYXA8TG9uZywgSGVpemtvc3RlbnZlcnRlaWxlclZlcmJyYXVjaD4gcmVzdWx0cyA9IHJlcG9zaXRvcnkuZmluZEFsbCgpLnN0cmVhbSgpCgkJCS5maWx0ZXIodiAtPiB2LmdldEdlcmFldElkKCkgPT0gZ2VyYWV0SWQpCgkJCS5jb2xsZWN0KENvbGxlY3RvcnMudG9NYXAoSGVpemtvc3RlbnZlcnRlaWxlclZlcmJyYXVjaDo6Z2V0SWQsIEZ1bmN0aW9uLmlkZW50aXR5KCkpKTs=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgICAoNDE2MSwgJzIwMTgtMDgtMzEgMjM6MDAnLCAnMjAyMC0wNi0yNCcsICdBJywgNTAwMiwgNzAwMSwgMjEwKSwKICAgICAgICg0MTYyLCAnMjAxOC0wOC0zMSAyMzowMCcsICcyMDIwLTA2LTI0JywgJ0EnLCA1MDAyLCA3MDAxLCAyMTApLAogICAgICAgKDQxNjMsICcyMDE4LTA4LTMxIDIzOjAwJywgJzIwMjAtMDYtMjQnLCAnQScsIDUwMDIsIDcwMDEsIDIxMCksCiAgICAgICAoNDE2NCwgJzIwMTgtMDgtMzEgMjM6MDAnLCAnMjAyMC0wNi0yNCcsICdBJywgNTAwMiwgNzAwMSwgMjEwKTsK</text>
