@@ -134,11 +134,24 @@
         <mark key="^" line="1200" column="25" />
         <mark key="." line="1201" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/austauschprotokoll/service/AustauschProtokollService.java" timestamp="1592909675292" />
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/austauschprotokoll/dao/AustauschRowRepository.java" timestamp="1592909810492" />
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V342.1__drop_verbrauchwert_column.sql" timestamp="1592911159569">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="48" column="5" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592918181093">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="." line="0" column="14" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonLockService.java" timestamp="1592897903105">
+        <mark key="'" line="54" column="4" />
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="13" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="23" />
+      </file>
+      <file name="/console" timestamp="1592968195761">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/common/DateUtilsTest.java" timestamp="1592906985158">
         <mark key="'" line="12" column="6" />
@@ -149,6 +162,18 @@
         <mark key="]" line="35" column="15" />
         <mark key="." line="35" column="14" />
         <mark key="^" line="35" column="15" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetMessungService.java" timestamp="1592913960808">
+        <mark key="[" line="75" column="39" />
+        <mark key="]" line="75" column="39" />
+        <mark key="^" line="75" column="23" />
+        <mark key="." line="75" column="39" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetService.java" timestamp="1592907154038">
+        <mark key="[" line="157" column="100" />
+        <mark key="]" line="157" column="100" />
+        <mark key="^" line="157" column="111" />
+        <mark key="." line="157" column="100" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1592907741707">
         <mark key="'" line="1167" column="0" />
@@ -164,49 +189,22 @@
         <mark key="[" line="8" column="37" />
         <mark key="]" line="8" column="75" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/notification/model/NotificationEvent.java" timestamp="1592898503213">
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="41" column="36" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.poi/poi-ooxml/4.1.2/712cc02d5bbe729d2485a1579f3d8dfc47e25b51/poi-ooxml-4.1.2-sources.jar!/org/apache/poi/xssf/streaming/SXSSFWorkbook.java" timestamp="1592909751275" />
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetService.java" timestamp="1592907154038">
-        <mark key="[" line="157" column="100" />
-        <mark key="]" line="157" column="100" />
-        <mark key="^" line="157" column="111" />
-        <mark key="." line="157" column="100" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/messung/dao/HeizkostenverteilerVerbrauchRepositoryTest.java" timestamp="1592918159825">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="41" column="38" />
         <mark key="." line="41" column="37" />
         <mark key="^" line="41" column="38" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V415.2__fix_stichtag_in_hkv_verbrauch.sql" timestamp="1592913371687">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="8" column="16" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/notification/model/NotificationEvent.java" timestamp="1592898503213">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592918181093">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V415.2__fix_stichtag_in_hkv_verbrauch.sql" timestamp="1592969550177">
+        <mark key="[" line="9" column="79" />
+        <mark key="]" line="12" column="78" />
+        <mark key="." line="12" column="77" />
+        <mark key="^" line="12" column="78" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonLockService.java" timestamp="1592897903105">
-        <mark key="'" line="54" column="4" />
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="13" />
-        <mark key="." line="16" column="13" />
-        <mark key="^" line="16" column="23" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/common/helpers/DateUtils.java" timestamp="1592906875623" />
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetMessungService.java" timestamp="1592913960808">
-        <mark key="[" line="75" column="39" />
-        <mark key="]" line="75" column="39" />
-        <mark key="^" line="75" column="23" />
-        <mark key="." line="75" column="39" />
-      </file>
-      <file name="/generated.sql" timestamp="1592909850428" />
     </filemarks>
     <jumps>
       <jump line="79" column="16" filename="$USER_HOME$/Workspace/qivalo/kundenportal/core/src/main/java/com/qivalo/portal/messung/dao/MessungCustomRepository.java" />
@@ -314,10 +312,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>coalesce(max</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>coalesce(max</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
