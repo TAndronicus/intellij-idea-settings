@@ -134,7 +134,7 @@
         <mark key="." line="1254" column="18" />
         <mark key="^" line="1254" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593002859104">
+      <file name="/Dummy.txt" timestamp="1593046294426">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -153,7 +153,7 @@
       <file name="/a.dummy" timestamp="1592983444190">
         <mark key="[" line="0" column="6" />
       </file>
-      <file name="/console" timestamp="1593042886310">
+      <file name="/console" timestamp="1593046345967">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__4.0.2_create_heizkosten_aggregated.sql" timestamp="1592986136809">
@@ -162,54 +162,50 @@
         <mark key="." line="62" column="0" />
         <mark key="^" line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/52_hkv_verbrauch.sql" timestamp="1592999016039">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/52_hkv_verbrauch.sql" timestamp="1593044912661">
         <mark key="'" line="29" column="49" />
-        <mark key="[" line="5" column="52" />
-        <mark key="]" line="6" column="50" />
+        <mark key="[" line="26" column="66" />
+        <mark key="]" line="26" column="72" />
         <mark key="^" line="6" column="50" />
-        <mark key="." line="6" column="49" />
+        <mark key="." line="19" column="50" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonLiegenschaftLockService.java" timestamp="1592983391968">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/dao/CommonGeraetLockRepository.java" timestamp="1592982332225">
-        <mark key="'" line="15" column="17" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="60" column="15" />
-        <mark key="." line="60" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1593046887570">
+        <mark key="[" line="1171" column="19" />
+        <mark key="]" line="1171" column="20" />
+        <mark key="^" line="1171" column="20" />
+        <mark key="." line="1171" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyStichtagUpdateService.java" timestamp="1592982306273">
-        <mark key="[" line="90" column="38" />
-        <mark key="]" line="90" column="61" />
-        <mark key="^" line="90" column="61" />
-        <mark key="." line="90" column="60" />
+      <file name="/" timestamp="1593045541311">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.sql" timestamp="1593002027800">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__4.0.1_create_heizkostenverteiler_verbrauch.sql" timestamp="1593002612391">
-        <mark key="'" line="13" column="20" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__4.0.1_create_heizkostenverteiler_verbrauch.sql" timestamp="1593045215715">
+        <mark key="'" line="19" column="42" />
         <mark key="[" line="20" column="42" />
         <mark key="]" line="20" column="43" />
         <mark key="." line="20" column="42" />
         <mark key="^" line="20" column="43" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1593002178511">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1593046574836">
         <mark key="'" line="4303" column="15" />
-        <mark key="[" line="4318" column="72" />
-        <mark key="]" line="4318" column="76" />
-        <mark key="." line="4318" column="75" />
-        <mark key="^" line="4318" column="76" />
+        <mark key="[" line="4327" column="8" />
+        <mark key="]" line="4327" column="47" />
+        <mark key="." line="4327" column="46" />
+        <mark key="^" line="4327" column="47" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/messung/dao/HeizkostenverteilerVerbrauchRepositoryTest.java" timestamp="1593043931425">
-        <mark key="'" line="83" column="9" />
-        <mark key="[" line="105" column="82" />
-        <mark key="]" line="105" column="83" />
-        <mark key="." line="105" column="82" />
-        <mark key="^" line="105" column="83" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/messung/dao/HeizkostenverteilerVerbrauchRepositoryTest.java" timestamp="1593046233395">
+        <mark key="'" line="33" column="39" />
+        <mark key="[" line="127" column="58" />
+        <mark key="]" line="127" column="69" />
+        <mark key="^" line="127" column="69" />
+        <mark key="." line="127" column="68" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/dao/CommonLiegenschaftLockRepository.java" timestamp="1592983410054">
         <mark key="'" line="14" column="17" />
@@ -221,10 +217,10 @@
         <mark key="[" line="144" column="34" />
         <mark key="]" line="144" column="80" />
       </file>
-      <file name="/fragment.java" timestamp="1593002561391">
+      <file name="/fragment.java" timestamp="1593046168894">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="17" />
-        <mark key="^" line="14" column="32" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="3" column="32" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V415.2__fix_stichtag_in_hkv_verbrauch.sql" timestamp="1593002486122">
@@ -238,9 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="53" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungStatusFileExportRestEndpointTest.java" />
-      <jump line="81" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/fileexport/rest/AbrechnungStatusFileExportRestEndpointTest.java" />
-      <jump line="73" column="22" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/java/com/qivalo/portal/AbstractSpringTest.java" />
       <jump line="165" column="16" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/abrechnung/service/AbrechnungDownloadUpdateService.java" />
       <jump line="125" column="18" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/abrechnung/service/AbrechnungUploadService.java" />
       <jump line="214" column="25" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/abrechnung/service/AbrechnungDownloadUpdateService.java" />
@@ -338,62 +331,78 @@
       <jump line="82" column="9" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/messung/dao/HeizkostenverteilerVerbrauchRepositoryTest.java" />
       <jump line="26" column="49" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/52_hkv_verbrauch.sql" />
       <jump line="4303" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
+      <jump line="19" column="42" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__4.0.1_create_heizkostenverteiler_verbrauch.sql" />
+      <jump line="110" column="4" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/messung/dao/HeizkostenverteilerVerbrauchRepositoryTest.java" />
+      <jump line="33" column="39" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/messung/dao/HeizkostenverteilerVerbrauchRepositoryTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text>System.out.println()</text>
+        <text>assertTrue(
+			(Boolean) entityManager.createNativeQuery(
+				//@formatter:off
+					&quot;select heat_cost_allocator = :val &quot; +
+					&quot;from mes_heizkostenverteiler_stichtag &quot; +
+					&quot;where (ger_geraet_id, stichtag) = (:gerId, :stichtag) &quot;
+			    //@formatter:on
+			)
+				.setParameter(&quot;val&quot;, value)
+				.setParameter(&quot;gerId&quot;, geraetId)
+				.setParameter(&quot;stichtag&quot;, DateUtils.toDate(stichtag))
+				.getSingleResult()
+		)</text>
       </register>
       <register name="-" type="4">
-        <text>year</text>
+        <text>DateFromGerman</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>date_trunc('year', mess_datum)</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlhc3NlcnRTdGljaHRhZyhnZXJhZXRJZCwgTG9jYWxEYXRlLm9mKDIwMTcsIDEsIDEpLCBzdGljaHRhZzIwMTcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text>System.out.println()</text>
+        <text>assertTrue(
+			(Boolean) entityManager.createNativeQuery(
+				//@formatter:off
+					&quot;select heat_cost_allocator = :val &quot; +
+					&quot;from mes_heizkostenverteiler_stichtag &quot; +
+					&quot;where (ger_geraet_id, stichtag) = (:gerId, :stichtag) &quot;
+			    //@formatter:on
+			)
+				.setParameter(&quot;val&quot;, value)
+				.setParameter(&quot;gerId&quot;, geraetId)
+				.setParameter(&quot;stichtag&quot;, DateUtils.toDate(stichtag))
+				.getSingleResult()
+		)</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGVfdHJ1bmMoJ3llYXInLCBtZXNzX2RhdHVtKSwK</text>
+        <text encoding="base64">CQkJdmFsdWUsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlYXRfY29zdF9hbGxvY2F0b3IsCg==</text>
+        <text encoding="base64">CQkJZW50aXR5TWFuYWdlci5jcmVhdGVOYXRpdmVRdWVyeSgKCQkJICAgIC8vQGZvcm1hdHRlcjpvZmYKCQkJCSIiCgkJCSAgICAvL0Bmb3JtYXR0ZXI6b24KCQkJKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVwb3NpdG9yeS5maW5kQWxsKCkuc3RyZWFtKCkKCS5maWx0ZXIodiAtPiB2LmdldEdlcmFldElkKCkgPT0gZ2VyYWV0SWQpCgkuc29ydGVkKENvbXBhcmF0b3IuY29tcGFyaW5nKGcgLT4gZy5nZXRNZXNzRGF0dW1Bc0Vwb2NoTWlsbGlzKCkpKQoJLmNvbGxlY3QoQ29sbGVjdG9ycy50b0xpc3QoKSk=</text>
+        <text encoding="base64">CgkJdmFyIHQgPSByZXBvc2l0b3J5LmZpbmRBbGwoKS5zdHJlYW0oKQoJCQkuZmlsdGVyKHYgLT4gdi5nZXRHZXJhZXRJZCgpID09IGdlcmFldElkKQoJCQkuc29ydGVkKENvbXBhcmF0b3IuY29tcGFyaW5nKGcgLT4gZy5nZXRNZXNzRGF0dW1Bc0Vwb2NoTWlsbGlzKCkpKQoJCQkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>(
-                    partition by mh.ger_geraet_id, mh.mess_datum
-                    order by case
-                                 when mh.typ = 'N' then -1
-                                 when mh.typ = 'A' then 0
-                                 when mh.typ = 'SS' then 1
-                                 when mh.typ in ('AE', 'AA') then 2
-                                 when mh.typ in ('M', 'S', 'K') then 3
-                                 when mh.typ = 'IW' then 4
-                                 else 5
-                        end
-                    )</text>
+      <register name="5" type="2">
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAoNDE2MSwgJzIwMTgtMDgtMzEgMjM6MDAnLCAnMjAyMC0wNi0yNCcsICdBJywgNTAwMiwgNzAwMSwgMjEwKSwKICAgICAgICg0MTYyLCAnMjAxOC0wOC0zMSAyMzowMCcsICcyMDIwLTA2LTI0JywgJ0EnLCA1MDAyLCA3MDAxLCAyMTApLAogICAgICAgKDQxNjMsICcyMDE4LTA4LTMxIDIzOjAwJywgJzIwMjAtMDYtMjQnLCAnQScsIDUwMDIsIDcwMDEsIDIxMCksCiAgICAgICAoNDE2NCwgJzIwMTgtMDgtMzEgMjM6MDAnLCAnMjAyMC0wNi0yNCcsICdBJywgNTAwMiwgNzAwMSwgMjEwKTsK</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">CQlhc3NlcnRWZXJicmF1Y2gocmVzdWx0cy5nZXQoTG9jYWxEYXRlLm9mKDIwMTgsIDEsIDEpKSwgc3RpY2h0YWcyMDE3ICsgMCwgTWVzc3VuZ1R5cC5OVUxMVU5HX1pVTV9KQUhSRVNXRUNIU0VMKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KDQxMzYsICcyMDE4LTAxLTMxIDIzOjAwJywgJzIwMjAtMDYtMjQnLCAnQScsIDUwMDIsIDcwMDEsIDIxMCksCg==</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20ucWl2YWxvLnBvcnRhbC5tZXNzdW5nLm1vZGVsLk1lc3N1bmdUeXAuQVVUT01BVElTQ0g7CmltcG9ydCBzdGF0aWMgY29tLnFpdmFsby5wb3J0YWwubWVzc3VuZy5tb2RlbC5NZXNzdW5nVHlwLktPUlJJR0lFUlQ7CmltcG9ydCBzdGF0aWMgY29tLnFpdmFsby5wb3J0YWwubWVzc3VuZy5tb2RlbC5NZXNzdW5nVHlwLk1BTlVFTEw7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBtZXM7Cg==</text>
+        <text encoding="base64">CQlhc3NlcnRUaGF0KHJlc3VsdHMuZ2V0KExvY2FsRGF0ZS5vZigyMDE4LCAxLCAxKSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>532</text>

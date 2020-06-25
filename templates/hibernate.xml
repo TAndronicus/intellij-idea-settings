@@ -1,5 +1,5 @@
 <templateSet group="hibernate">
-  <template name="cnq" value="entityManager.createNativeQuery(&#10;    //@formatter:off&#10;    //@formatter:on&#10;)" description="create native query" toReformat="false" toShortenFQNames="true">
+  <template name="cnq" value="entityManager.createNativeQuery(&#10;    //@formatter:off&#10;&#9;&#10;    //@formatter:on&#10;)" description="create native query" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
