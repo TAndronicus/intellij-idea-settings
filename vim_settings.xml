@@ -146,12 +146,12 @@
         <mark key="^" line="318" column="9" />
         <mark key="." line="318" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyOverdueService.java" timestamp="1593142939431">
-        <mark key="'" line="108" column="8" />
-        <mark key="[" line="216" column="100" />
-        <mark key="]" line="218" column="37" />
-        <mark key="^" line="218" column="37" />
-        <mark key="." line="218" column="36" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyOverdueService.java" timestamp="1593144822573">
+        <mark key="'" line="118" column="8" />
+        <mark key="[" line="115" column="30" />
+        <mark key="]" line="116" column="12" />
+        <mark key="^" line="116" column="12" />
+        <mark key="." line="116" column="8" />
       </file>
       <file name="/console" timestamp="1593139468586">
         <mark key="[" line="0" column="0" />
@@ -166,11 +166,11 @@
         <mark key="[" line="68" column="0" />
         <mark key="]" line="70" column="66" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" timestamp="1593142826407">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateService.java" timestamp="1593145217289">
         <mark key="[" line="82" column="39" />
-        <mark key="]" line="82" column="109" />
-        <mark key="." line="82" column="108" />
-        <mark key="^" line="82" column="109" />
+        <mark key="]" line="82" column="39" />
+        <mark key="." line="82" column="39" />
+        <mark key="^" line="83" column="84" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/service/GeraetService.java" timestamp="1593135445030">
         <mark key="'" line="115" column="0" />
@@ -355,10 +355,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>rapport.addGeraetError(geraetReloadInfo, String.format(METER_IS_LOCKED, stichtag.toString()))</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>rapport.addGeraetError(geraetReloadInfo, String.format(METER_IS_LOCKED, stichtag.toString()))</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
