@@ -155,13 +155,6 @@
       <file name="/a.sql" timestamp="1593154424807">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/geraet/rest/GeraetRestEndpointTest.java" timestamp="1593141204545">
-        <mark key="'" line="471" column="4" />
-        <mark key="[" line="540" column="53" />
-        <mark key="]" line="541" column="65" />
-        <mark key="." line="541" column="64" />
-        <mark key="^" line="541" column="65" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/dao/CommonLiegenschaftLockRepository.java" timestamp="1593146338053">
         <mark key="[" line="82" column="51" />
         <mark key="]" line="82" column="51" />
@@ -192,12 +185,12 @@
         <mark key="^" line="6" column="4" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-details/geraet-details.component.html" timestamp="1593157348121">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-details/geraet-details.component.html" timestamp="1593159353886">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="214" column="8" />
-        <mark key="]" line="214" column="15" />
-        <mark key="." line="214" column="14" />
-        <mark key="^" line="214" column="15" />
+        <mark key="[" line="217" column="9" />
+        <mark key="]" line="217" column="26" />
+        <mark key="." line="217" column="25" />
+        <mark key="^" line="217" column="26" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1593154462753">
         <mark key="'" line="4334" column="16" />
@@ -347,10 +340,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>Historie</text>
+        <text encoding="base64">Z2VyYWV0LWxvZ3MtbGlzdCBbZ2VyYWV0SWRdPSJnZXJhZXRJZCI+PC9nZXJhZXQtbG9ncy1saXN0</text>
       </register>
       <register name="-" type="4">
-        <text>Historie</text>
+        <text encoding="base64">Z2VyYWV0LWxvZ3MtbGlzdCBbZ2VyYWV0SWRdPSJnZXJhZXRJZCI+PC9nZXJhZXQtbG9ncy1saXN0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
