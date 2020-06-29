@@ -174,12 +174,12 @@
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__ersatzwerte.sql" timestamp="1593422856671">
         <mark key="'" line="334" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonGeraetLockService.java" timestamp="1593424193749">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonGeraetLockService.java" timestamp="1593425142925">
         <mark key="'" line="31" column="13" />
-        <mark key="[" line="50" column="44" />
-        <mark key="]" line="51" column="49" />
-        <mark key="." line="51" column="48" />
-        <mark key="^" line="51" column="49" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="55" column="78" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/services/geraet.service.ts" timestamp="1593406147041">
         <mark key="[" line="114" column="0" />
@@ -187,7 +187,7 @@
         <mark key="." line="114" column="0" />
         <mark key="^" line="117" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593422083278">
+      <file name="/Dummy.txt" timestamp="1593425506420">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -210,12 +210,12 @@
         <mark key="]" line="23" column="34" />
         <mark key="." line="23" column="34" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/lock/service/CommonGeraetLockServiceTest.java" timestamp="1593423647104">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="21" />
-        <mark key="^" line="36" column="23" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/lock/service/CommonGeraetLockServiceTest.java" timestamp="1593425484938">
+        <mark key="'" line="65" column="9" />
+        <mark key="[" line="73" column="60" />
+        <mark key="]" line="73" column="61" />
+        <mark key="^" line="73" column="61" />
+        <mark key="." line="73" column="60" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/geraet/client/GeraetClient.java" timestamp="1593421442763">
         <mark key="[" line="126" column="43" />
@@ -235,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="4" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonLockService.java" />
       <jump line="101" column="17" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/messung/service/MessungService.java" />
       <jump line="102" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/messung/service/MessungService.java" />
       <jump line="51" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonLiegenschaftLockService.java" />
@@ -335,51 +334,52 @@
       <jump line="188" column="46" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/rest/GeraetRestEndpoint.java" />
       <jump line="334" column="15" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__ersatzwerte.sql" />
       <jump line="39" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/lock/service/CommonGeraetLockServiceTest.java" />
+      <jump line="61" column="9" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/lock/service/CommonGeraetLockServiceTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>toLocalDateTimeFromGerman</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>toLocalDateTimeFromGerman</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQljbGVhckxvY2tzKCk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">CgoJQFRlc3QKCXZvaWQgc2hvdWxkTm90RmluZEluTG9ja2VkUmVnaW9uKCkgewoJCS8vIGdpdmVuCgkJY2xlYXJMb2NrcygpOwoJCUxvY2FsRGF0ZSBydWVja3N0YW5kID0gTG9jYWxEYXRlLm9mKDIwMTksIDEyLCAyMCksCgkJCXRhcmdldERhdGUgPSBMb2NhbERhdGUub2YoMjAyMCwgMSwgMTApOwoJCUxpZWdlbnNjaGFmdExvY2sgbG9jayA9IG5ldyBMaWVnZW5zY2hhZnRMb2NrKCk7CgkJbG9jay5zZXRMaWVnZW5zY2hhZnRJZCgzMDEyTCk7CgkJbG9jay5zZXRTdGFydERhdGUoTG9jYWxEYXRlLm9mKDIwMTksIDEsIDEpLmF0U3RhcnRPZkRheSgpKTsKCQlsb2NrLnNldEVuZERhdGUoTG9jYWxEYXRlLm9mKDIwMTksIDEyLCAzMSkuYXRTdGFydE9mRGF5KCkpOwoJCWNvbW1vbkxpZWdlbnNjaGFmdExvY2tSZXBvc2l0b3J5LnNhdmUobG9jayk7CgoJCS8vIHdoZW4KCQlMb2NhbERhdGUgbmV3UnVlY2tzdGFuZCA9IGNvbW1vbkdlcmFldExvY2tTZXJ2aWNlCgkJCS5nZXRFYXJsaWVzdE5vdExvY2tlZEJldHdlZW4ocnVlY2tzdGFuZCwgdGFyZ2V0RGF0ZSwgNTAxNUwsIDMwMTJMKQoJCQkuZ2V0UmlnaHQoKTsKCgkJLy8gdGhlbgoJCWFzc2VydEVxdWFscyhuZXdSdWVja3N0YW5kLCBMb2NhbERhdGUub2YoMjAyMCwgMSwgMSkpOwoJCWNsZWFyTG9ja3MoKTsKCX0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgR2VyYWV0TG9ja0dlcm1hbkRUTyBmcm9tR2VyYWV0TG9jayhHZXJhZXRMb2NrIGdlcmFldExvY2spIHsKCQlyZXR1cm4gbmV3IEdlcmFldExvY2tHZXJtYW5EVE8oCgkJCWdlcmFldExvY2suZ2V0R2VyYWV0SWQoKSwKCQkJZ2VyYWV0TG9jay5nZXRTdGFydERhdGUoKSwKCQkJZ2VyYWV0TG9jay5nZXRFbmREYXRlKCkKCQkpOwoJfQoK</text>
+        <text encoding="base64">CS8vIFRPRE8tMjAxOCB0ZXN0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLm1hcCgpCg==</text>
+        <text encoding="base64">CXB1YmxpYyBzdGF0aWMgR2VyYWV0TG9ja0dlcm1hbkRUTyBmcm9tR2VyYWV0TG9jayhHZXJhZXRMb2NrIGdlcmFldExvY2spIHsKCQlyZXR1cm4gbmV3IEdlcmFldExvY2tHZXJtYW5EVE8oCgkJCWdlcmFldExvY2suZ2V0R2VyYWV0SWQoKSwKCQkJZ2VyYWV0TG9jay5nZXRTdGFydERhdGUoKSwKCQkJZ2VyYWV0TG9jay5nZXRFbmREYXRlKCkKCQkpOwoJfQoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8JCWdlcmFldFNlcnZpY2UubG9ja0dlcmFldChuZXcgR2VyYWV0TG9ja0RUTyhsb2NrLmdldEdlcmFldElkKCksIGxvY2suZ2V0U3RhcnREYXRlKCkuYXRTdGFydE9mRGF5KCksIGxvY2suZ2V0RW5kRGF0ZSgpLmF0U3RhcnRPZkRheSgpLCBsb2NrLmdldENvbW1lbnQoKSkpOwo=</text>
+        <text encoding="base64">CQkJLm1hcCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZm9ybWF0LmFubm90YXRpb24uRGF0ZVRpbWVGb3JtYXQ7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuTWVkaWFUeXBlOwo=</text>
+        <text encoding="base64">Ly8JCWdlcmFldFNlcnZpY2UubG9ja0dlcmFldChuZXcgR2VyYWV0TG9ja0RUTyhsb2NrLmdldEdlcmFldElkKCksIGxvY2suZ2V0U3RhcnREYXRlKCkuYXRTdGFydE9mRGF5KCksIGxvY2suZ2V0RW5kRGF0ZSgpLmF0U3RhcnRPZkRheSgpLCBsb2NrLmdldENvbW1lbnQoKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suZHRvLkt1cndhOwo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZm9ybWF0LmFubm90YXRpb24uRGF0ZVRpbWVGb3JtYXQ7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLmh0dHAuTWVkaWFUeXBlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CUBKc29uRm9ybWF0KHBhdHRlcm49Inl5eXktTU0tZGQiKQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5xaXZhbG8ucG9ydGFsLmxvY2suZHRvLkt1cndhOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CUBEYXRlVGltZUZvcm1hdChpc28gPSBEYXRlVGltZUZvcm1hdC5JU08uREFURSkK</text>
+        <text encoding="base64">CUBKc29uRm9ybWF0KHBhdHRlcm49Inl5eXktTU0tZGQiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CUBEYXRlVGltZUZvcm1hdChpc28gPSBEYXRlVGltZUZvcm1hdC5JU08uREFURSkKCUBKc29uRm9ybWF0KHBhdHRlcm49Inl5eXktTU0tZGQiKQo=</text>
+        <text encoding="base64">CUBEYXRlVGltZUZvcm1hdChpc28gPSBEYXRlVGltZUZvcm1hdC5JU08uREFURSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuZm9ybWF0LmFubm90YXRpb24uRGF0ZVRpbWVGb3JtYXQ7Cg==</text>
+        <text encoding="base64">CUBEYXRlVGltZUZvcm1hdChpc28gPSBEYXRlVGltZUZvcm1hdC5JU08uREFURSkKCUBKc29uRm9ybWF0KHBhdHRlcm49Inl5eXktTU0tZGQiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
