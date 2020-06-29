@@ -136,6 +136,9 @@
         <mark key="[" line="661" column="27" />
         <mark key="]" line="667" column="10" />
       </file>
+      <file name="/console" timestamp="1593402192568">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1593398783874">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -148,11 +151,11 @@
         <mark key="." line="20" column="0" />
         <mark key="^" line="3" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/models/geraet-lock.ts" timestamp="1593399414534">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="0" column="25" />
-        <mark key="^" line="17" column="34" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/models/geraet-lock.ts" timestamp="1593401857639">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/modals/geraet-lock-modal/geraet-lock-modal.component.html" timestamp="1593395991890">
         <mark key="[" line="11" column="13" />
@@ -166,24 +169,17 @@
         <mark key="." line="74" column="0" />
         <mark key="^" line="74" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/service/GeraetService.java" timestamp="1593391340555">
-        <mark key="'" line="117" column="0" />
-        <mark key="[" line="457" column="93" />
-        <mark key="]" line="457" column="93" />
-        <mark key="." line="457" column="93" />
-        <mark key="^" line="459" column="4" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/app.module.ts" timestamp="1593394371399">
         <mark key="[" line="635" column="33" />
         <mark key="]" line="463" column="30" />
         <mark key="^" line="463" column="30" />
         <mark key="." line="463" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/services/geraet.service.ts" timestamp="1593399766305">
-        <mark key="[" line="115" column="29" />
-        <mark key="]" line="115" column="59" />
-        <mark key="." line="115" column="58" />
-        <mark key="^" line="115" column="59" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/services/geraet.service.ts" timestamp="1593400486170">
+        <mark key="[" line="115" column="60" />
+        <mark key="]" line="115" column="60" />
+        <mark key="." line="115" column="60" />
+        <mark key="^" line="115" column="77" />
       </file>
       <file name="/Dummy.txt" timestamp="1593399664788">
         <mark key="[" line="0" column="0" />
@@ -191,19 +187,23 @@
         <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/abrechnung/abrechnung-form/abrechnung-form.component.html" timestamp="1593392084226" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/dto/Kurwa.java" timestamp="1593402003015">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="27" />
+        <mark key="." line="12" column="26" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/dto/GeraetLockBaseDTO.java" timestamp="1593401352807">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-locks/geraet-locks.component.ts" timestamp="1593399951201">
         <mark key="'" line="23" column="20" />
         <mark key="[" line="52" column="75" />
         <mark key="]" line="52" column="76" />
         <mark key="^" line="52" column="76" />
         <mark key="." line="52" column="75" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-details/geraet-details.component.html" timestamp="1593390789714">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="217" column="44" />
-        <mark key="]" line="217" column="45" />
-        <mark key="." line="217" column="45" />
-        <mark key="^" line="217" column="47" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/services/modal.service.ts" timestamp="1593393062747">
         <mark key="'" line="53" column="48" />
@@ -212,22 +212,26 @@
         <mark key="^" line="169" column="81" />
         <mark key="." line="169" column="80" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/modals/geraet-lock-modal/geraet-lock-modal.component.ts" timestamp="1593399550457">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1593402237097">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4361" column="33" />
+        <mark key="]" line="4364" column="26" />
+        <mark key="." line="4364" column="25" />
+        <mark key="^" line="4364" column="26" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/modals/geraet-lock-modal/geraet-lock-modal.component.ts" timestamp="1593401791244">
         <mark key="'" line="26" column="4" />
-        <mark key="[" line="31" column="21" />
-        <mark key="]" line="31" column="26" />
-        <mark key="^" line="31" column="26" />
-        <mark key="." line="31" column="25" />
+        <mark key="[" line="29" column="45" />
+        <mark key="]" line="29" column="45" />
+        <mark key="^" line="30" column="55" />
+        <mark key="." line="29" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/rest/GeraetRestEndpoint.java" timestamp="1593391497367">
-        <mark key="'" line="185" column="33" />
-        <mark key="[" line="192" column="11" />
-        <mark key="]" line="192" column="15" />
-        <mark key="." line="192" column="14" />
-        <mark key="^" line="192" column="15" />
-      </file>
-      <file name="/fragment.java" timestamp="1593391488851">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/rest/GeraetRestEndpoint.java" timestamp="1593402373447">
+        <mark key="'" line="186" column="33" />
+        <mark key="[" line="189" column="33" />
+        <mark key="]" line="189" column="38" />
+        <mark key="." line="189" column="37" />
+        <mark key="^" line="189" column="38" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/export-lite/export-lite-form/export-lite-form.component.html" timestamp="1593394984711">
         <mark key="[" line="20" column="37" />
@@ -246,7 +250,6 @@
       <jump line="12" column="6" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/common/DateUtilsTest.java" />
       <jump line="1167" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="1185" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" />
       <jump line="1214" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" />
       <jump line="25" column="13" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonLockService.java" />
@@ -335,51 +338,52 @@
       <jump line="23" column="4" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/modals/geraet-lock-modal/geraet-lock-modal.component.ts" />
       <jump line="19" column="26" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-locks/geraet-locks.component.html" />
       <jump line="23" column="20" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-locks/geraet-locks.component.ts" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>new GeraetLockDTO(lock.getGeraetId(), lock.getStartDate().atStartOfDay(), lock.getEndDate().atStartOfDay(), lock.getComment()))</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>new GeraetLockDTO(lock.getGeraetId(), lock.getStartDate().atStartOfDay(), lock.getEndDate().atStartOfDay(), lock.getComment()))</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CgkKCXB1YmxpYyB3aXRoR2VyYWV0SWQodmFsdWU6IG51bWJlcikgewoJCXRoaXMuZ2VyYWV0SWQgPSB2YWx1ZTsKCQlyZXR1cm4gdGhpczsKCX0=</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQlnZXJhZXRTZXJ2aWNlLmxvY2tHZXJhZXQobmV3IEdlcmFldExvY2tEVE8obG9jay5nZXRHZXJhZXRJZCgpLCBsb2NrLmdldFN0YXJ0RGF0ZSgpLmF0U3RhcnRPZkRheSgpLCBsb2NrLmdldEVuZERhdGUoKS5hdFN0YXJ0T2ZEYXkoKSwgbG9jay5nZXRDb21tZW50KCkpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3NlbnQnKTsK</text>
+        <text encoding="base64">CQl0aGlzLmVuZERhdGUgPSB2YWx1ZS50b0lTT1N0cmluZygpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWdlcmFldExvY2s6IEZvcm1Hcm91cDsK</text>
+        <text encoding="base64">CUBEYXRlVGltZUZvcm1hdChpc28gPSBEYXRlVGltZUZvcm1hdC5JU08uREFURSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">CUBEYXRlVGltZUZvcm1hdChpc28gPSBEYXRlVGltZUZvcm1hdC5JU08uREFURSkKCUBKc29uRm9ybWF0KHBhdHRlcm49Inl5eXktTU0tZGQiKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CgoJZ2VyYWV0SWQ6IG51bWJlcjsKCXN0YXJ0RGF0ZTogRGF0ZTsKCWVuZERhdGU6IERhdGU7Cgljb21tZW50OiBzdHJpbmc7</text>
+      <register name="4" type="2">
+        <text encoding="base64">CQkJY29uc29sZS5sb2coJ3NlbnQnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQoJc2V0IGdlcmFldElkKHZhbHVlOiBudW1iZXIpIHsKCQl0aGlzLmdlcmFldElkID0gdmFsdWU7CgkJcmV0dXJuIHRoaXM7Cgl9CgoKCXNldCBlbmREYXRlKHZhbHVlOiBEYXRlKSB7CgkJdGhpcy5fZW5kRGF0ZSA9IHZhbHVlOwoJfQo=</text>
+        <text encoding="base64">CWdlcmFldExvY2s6IEZvcm1Hcm91cDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQoK</text>
+        <text encoding="base64">CQkK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CWNvbnN0cnVjdG9yKGdlcmFldElkOiBudW1iZXIsIHN0YXJ0RGF0ZTogRGF0ZSwgZW5kRGF0ZTogRGF0ZSwgY29tbWVudDogc3RyaW5nKSB7CgkJdGhpcy5nZXJhZXRJZCA9IGdlcmFldElkOwoJCXRoaXMuc3RhcnREYXRlID0gc3RhcnREYXRlOwoJCXRoaXMuZW5kRGF0ZSA9IGVuZERhdGU7CgkJdGhpcy5jb21tZW50ID0gY29tbWVudDsKCX0KCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">CgoJZ2VyYWV0SWQ6IG51bWJlcjsKCXN0YXJ0RGF0ZTogRGF0ZTsKCWVuZERhdGU6IERhdGU7Cgljb21tZW50OiBzdHJpbmc7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQoJc2V0IGdlcmFldElkKHZhbHVlOiBudW1iZXIpIHsKCQl0aGlzLmdlcmFldElkID0gdmFsdWU7CgkJcmV0dXJuIHRoaXM7Cgl9CgoKCXNldCBlbmREYXRlKHZhbHVlOiBEYXRlKSB7CgkJdGhpcy5fZW5kRGF0ZSA9IHZhbHVlOwoJfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCQkJCQkJIGZvcm1Db250cm9sTmFtZT0iZnJvbSIK</text>
+        <text encoding="base64">CQoK</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
