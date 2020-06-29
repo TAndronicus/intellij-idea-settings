@@ -151,11 +151,11 @@
         <mark key="." line="12" column="21" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/modals/geraet-lock-modal/geraet-lock-modal.component.html" timestamp="1593393007818">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="2" column="35" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/modals/geraet-lock-modal/geraet-lock-modal.component.html" timestamp="1593395797943">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/nutzeinheitenUebersicht/nutzeinheitenUebersicht.component.html" timestamp="1593391826525">
         <mark key="[" line="74" column="2" />
@@ -170,11 +170,13 @@
         <mark key="." line="457" column="93" />
         <mark key="^" line="459" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-logs-list/geraet-logs-list.component.html" timestamp="1593165015889">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="11" column="5" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/app.module.ts" timestamp="1593394371399">
+        <mark key="[" line="635" column="33" />
+        <mark key="]" line="463" column="30" />
+        <mark key="^" line="463" column="30" />
+        <mark key="." line="463" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593393572079">
+      <file name="/Dummy.txt" timestamp="1593395961809">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
@@ -205,11 +207,12 @@
         <mark key="^" line="169" column="81" />
         <mark key="." line="169" column="80" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/modals/geraet-lock-modal/geraet-lock-modal.component.ts" timestamp="1593392901099">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="31" />
-        <mark key="^" line="19" column="32" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/modals/geraet-lock-modal/geraet-lock-modal.component.ts" timestamp="1593395607981">
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="36" />
+        <mark key="^" line="28" column="37" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/rest/GeraetRestEndpoint.java" timestamp="1593391497367">
         <mark key="'" line="185" column="33" />
@@ -221,9 +224,12 @@
       <file name="/fragment.java" timestamp="1593391488851">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/export-lite/export-lite-form/export-lite-form.component.html" timestamp="1593394984711">
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="20" column="61" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" />
       <jump line="388" column="8" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" />
       <jump line="38" column="120" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" />
       <jump line="137" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" />
@@ -323,51 +329,52 @@
       <jump line="4" column="65" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-locks/geraet-locks.component.ts" />
       <jump line="51" column="10" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/services/modal.service.ts" />
       <jump line="53" column="48" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/services/modal.service.ts" />
+      <jump line="23" column="4" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/modals/geraet-lock-modal/geraet-lock-modal.component.ts" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">CQkJCTwhLS0JCQkJCTxzb3J0aW5nLWFycm93IFtjaGFuZ2VTb3J0aW5nQ2FsbGJhY2tdPSJzb3J0aW5nQ2hhbmdlZCgpIi0tPgoJCQkJPCEtLQkJCQkJCQkJCQkJCSBbZmllbGRHbG9iYWxdPSJzb3J0QnkiLS0+CgkJCQk8IS0tCQkJCQkJCQkJCQkJIFtzb3J0aW5nXT0ic29ydE9yZGVyIi0tPgoJCQkJPCEtLQkJCQkJCQkJCQkJCSBmaWVsZExvY2FsPSJyYW5rWWVhciI+LS0+CgkJCQk8IS0tCQkJCQk8L3NvcnRpbmctYXJyb3c+LS0+Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJIGZvcm1Db250cm9sTmFtZT0iZnJvbSIK</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>{class: 'confirm-modal'</text>
+        <text encoding="base64">IFtmb3JtR3JvdXBdPSJkb3dubG9hZEZHIg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCTwhLS0JCQkJCTxzb3J0aW5nLWFycm93IFtjaGFuZ2VTb3J0aW5nQ2FsbGJhY2tdPSJzb3J0aW5nQ2hhbmdlZCgpIi0tPgoJCQkJPCEtLQkJCQkJCQkJCQkJCSBbZmllbGRHbG9iYWxdPSJzb3J0QnkiLS0+CgkJCQk8IS0tCQkJCQkJCQkJCQkJIFtzb3J0aW5nXT0ic29ydE9yZGVyIi0tPgoJCQkJPCEtLQkJCQkJCQkJCQkJCSBmaWVsZExvY2FsPSJyYW5rWWVhciI+LS0+CgkJCQk8IS0tCQkJCQk8L3NvcnRpbmctYXJyb3c+LS0+Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJIGZvcm1Db250cm9sTmFtZT0iZnJvbSIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCTwhLS0JCQkJCTxzb3J0aW5nLWFycm93IFtjaGFuZ2VTb3J0aW5nQ2FsbGJhY2tdPSJzb3J0aW5nQ2hhbmdlZCgpIi0tPgoJCQkJPCEtLQkJCQkJCQkJCQkJCSBbZmllbGRHbG9iYWxdPSJzb3J0QnkiLS0+CgkJCQk8IS0tCQkJCQkJCQkJCQkJIFtzb3J0aW5nXT0ic29ydE9yZGVyIi0tPgoJCQkJPCEtLQkJCQkJCQkJCQkJCSBmaWVsZExvY2FsPSJyYW5rTW9udGgiPi0tPgoJCQkJPCEtLQkJCQkJPC9zb3J0aW5nLWFycm93Pi0tPgo=</text>
+        <text encoding="base64">CQkJCQkJCQkJIGZvcm1Db250cm9sTmFtZT0idG8iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCTwhLS0JCQkJCTxzb3J0aW5nLWFycm93IFtjaGFuZ2VTb3J0aW5nQ2FsbGJhY2tdPSJzb3J0aW5nQ2hhbmdlZCgpIi0tPgoJCQkJPCEtLQkJCQkJCQkJCQkJCSBbZmllbGRHbG9iYWxdPSJzb3J0QnkiLS0+CgkJCQk8IS0tCQkJCQkJCQkJCQkJIFtzb3J0aW5nXT0ic29ydE9yZGVyIi0tPgoJCQkJPCEtLQkJCQkJCQkJCQkJCSBmaWVsZExvY2FsPSJyYW5rWWVzdGVyZGF5Ij4tLT4KCQkJCTwhLS0JCQkJCTwvc29ydGluZy1hcnJvdz4tLT4K</text>
+        <text encoding="base64">CQkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJdGhpcy5jYW5jZWwoZm9ybSk7Cg==</text>
+        <text encoding="base64">CQkJCTwhLS0JCQkJCTxzb3J0aW5nLWFycm93IFtjaGFuZ2VTb3J0aW5nQ2FsbGJhY2tdPSJzb3J0aW5nQ2hhbmdlZCgpIi0tPgoJCQkJPCEtLQkJCQkJCQkJCQkJCSBbZmllbGRHbG9iYWxdPSJzb3J0QnkiLS0+CgkJCQk8IS0tCQkJCQkJCQkJCQkJIFtzb3J0aW5nXT0ic29ydE9yZGVyIi0tPgoJCQkJPCEtLQkJCQkJCQkJCQkJCSBmaWVsZExvY2FsPSJyYW5rWWVhciI+LS0+CgkJCQk8IS0tCQkJCQk8L3NvcnRpbmctYXJyb3c+LS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CUBJbnB1dCgpCg==</text>
+        <text encoding="base64">CQkJCTwhLS0JCQkJCTxzb3J0aW5nLWFycm93IFtjaGFuZ2VTb3J0aW5nQ2FsbGJhY2tdPSJzb3J0aW5nQ2hhbmdlZCgpIi0tPgoJCQkJPCEtLQkJCQkJCQkJCQkJCSBbZmllbGRHbG9iYWxdPSJzb3J0QnkiLS0+CgkJCQk8IS0tCQkJCQkJCQkJCQkJIFtzb3J0aW5nXT0ic29ydE9yZGVyIi0tPgoJCQkJPCEtLQkJCQkJCQkJCQkJCSBmaWVsZExvY2FsPSJyYW5rTW9udGgiPi0tPgoJCQkJPCEtLQkJCQkJPC9zb3J0aW5nLWFycm93Pi0tPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQk8ZGl2IGlkPSJjb25maXJtTW9kYWxNc2ciPnt7Z2VyYWV0TnJ9fTwvZGl2Pgo=</text>
+        <text encoding="base64">CQkJCTwhLS0JCQkJCTxzb3J0aW5nLWFycm93IFtjaGFuZ2VTb3J0aW5nQ2FsbGJhY2tdPSJzb3J0aW5nQ2hhbmdlZCgpIi0tPgoJCQkJPCEtLQkJCQkJCQkJCQkJCSBbZmllbGRHbG9iYWxdPSJzb3J0QnkiLS0+CgkJCQk8IS0tCQkJCQkJCQkJCQkJIFtzb3J0aW5nXT0ic29ydE9yZGVyIi0tPgoJCQkJPCEtLQkJCQkJCQkJCQkJCSBmaWVsZExvY2FsPSJyYW5rWWVzdGVyZGF5Ij4tLT4KCQkJCTwhLS0JCQkJCTwvc29ydGluZy1hcnJvdz4tLT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CXRpdGxlOiBzdHJpbmcgPSAnQWNodHVuZyc7Cg==</text>
+        <text encoding="base64">CQkJdGhpcy5jYW5jZWwoZm9ybSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CXNldFRpdGxlID0gZnVuY3Rpb24gKHRpdGxlPzogc3RyaW5nKSB7CgkJdGhpcy50aXRsZSA9IHRpdGxlOwoJCXJldHVybiB0aGlzOwoJfTsKCg==</text>
+        <text encoding="base64">CUBJbnB1dCgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQk/Cg==</text>
+        <text encoding="base64">CQk8ZGl2IGlkPSJjb25maXJtTW9kYWxNc2ciPnt7Z2VyYWV0TnJ9fTwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
