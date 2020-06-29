@@ -143,11 +143,11 @@
         <mark key="^" line="3" column="29" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/dto/GeraetLockDTO.java" timestamp="1593406909620">
-        <mark key="'" line="38" column="20" />
-        <mark key="[" line="36" column="21" />
-        <mark key="]" line="36" column="92" />
-        <mark key="^" line="36" column="92" />
-        <mark key="." line="36" column="91" />
+        <mark key="'" line="36" column="20" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="92" />
+        <mark key="^" line="2" column="92" />
+        <mark key="." line="2" column="91" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/models/geraet-lock.ts" timestamp="1593406154457">
         <mark key="[" line="0" column="0" />
@@ -190,11 +190,11 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/dto/GeraetLockBaseDTO.java" timestamp="1593406758165">
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="25" column="48" />
-        <mark key="." line="25" column="47" />
-        <mark key="^" line="25" column="48" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/dto/GeraetLockBaseDTO.java" timestamp="1593414467863">
+        <mark key="[" line="25" column="35" />
+        <mark key="]" line="25" column="35" />
+        <mark key="." line="25" column="35" />
+        <mark key="^" line="19" column="25" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.4.RELEASE/c0d0b64eb0a3549ba9666b2b24ec1ab9af7c7da4/spring-web-5.2.4.RELEASE-sources.jar!/org/springframework/http/MediaType.java" timestamp="1593405044102" />
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonLiegenschaftLockService.java" timestamp="1593406953520">
@@ -348,10 +348,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>GeraetLockBaseDTO</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>GeraetLockBaseDTO</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
