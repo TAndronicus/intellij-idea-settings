@@ -127,6 +127,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1593521272869">
+        <mark key="[" line="1273" column="17" />
+        <mark key="]" line="1282" column="20" />
+        <mark key="^" line="1282" column="20" />
+        <mark key="." line="1282" column="19" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvService.java" timestamp="1593508861868">
         <mark key="[" line="76" column="0" />
         <mark key="]" line="76" column="0" />
@@ -181,13 +187,6 @@
         <mark key="]" line="133" column="106" />
         <mark key="." line="133" column="106" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/lock/service/CommonGeraetLockService.java" timestamp="1593502718372">
-        <mark key="'" line="32" column="13" />
-        <mark key="[" line="58" column="62" />
-        <mark key="]" line="58" column="87" />
-        <mark key="." line="58" column="62" />
-        <mark key="^" line="58" column="57" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/messung/rest/MessungRestEndpointTest.java" timestamp="1593506279106">
         <mark key="[" line="700" column="15" />
         <mark key="]" line="700" column="23" />
@@ -200,8 +199,8 @@
         <mark key="." line="124" column="0" />
         <mark key="^" line="123" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593506702633">
-        <mark key="[" line="0" column="14" />
+      <file name="/Dummy.txt" timestamp="1593513413758">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
@@ -322,8 +321,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">CQkvLyAucG9zdChlbnZpcm9ubWVudCArICcvdW5sb2NrLycgKyBsb2NrSWQsIG51bGwsIHt9KTsK</text>
+      <register name="*" type="4">
+        <text encoding="base64">CmFuZCBleGlzdHMoCiAgICAgICAgc2VsZWN0ICogZnJvbSBtZXNfaGVpemtvc3RlbnZlcnRlaWxlciBtaAogICAgd2hlcmUgbWguZ2VyX2dlcmFldF9pZCA9IGdnLmlkCiAgICBhbmQgbWVzc19kYXR1bSA+ICcyMDIwLTAxLTAxJwogICAgKQ==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -332,9 +331,7 @@
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>select *
-from gk_geraet_typ ggt
-where geraet_art ~ '405';</text>
+        <text encoding="base64">CmFuZCBleGlzdHMoCiAgICAgICAgc2VsZWN0ICogZnJvbSBtZXNfaGVpemtvc3RlbnZlcnRlaWxlciBtaAogICAgd2hlcmUgbWguZ2VyX2dlcmFldF9pZCA9IGdnLmlkCiAgICBhbmQgbWVzc19kYXR1bSA+ICcyMDIwLTAxLTAxJwogICAgKQ==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkvLyAucG9zdChlbnZpcm9ubWVudCArICcvdW5sb2NrLycgKyBsb2NrSWQsIG51bGwsIHt9KTsK</text>
