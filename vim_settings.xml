@@ -133,11 +133,11 @@
       <file name="/a.dummy" timestamp="1593486862781">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-locks/geraet-locks.component.html" timestamp="1593490643257">
-        <mark key="[" line="21" column="74" />
-        <mark key="]" line="21" column="74" />
-        <mark key="." line="21" column="73" />
-        <mark key="^" line="21" column="74" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-locks/geraet-locks.component.html" timestamp="1593493726670">
+        <mark key="[" line="9" column="52" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="9" column="52" />
+        <mark key="^" line="26" column="74" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-locks/geraet-locks.component.scss" timestamp="1593490565319">
         <mark key="[" line="2" column="1" />
@@ -202,6 +202,10 @@
         <mark key="^" line="16" column="19" />
         <mark key="." line="16" column="18" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/nutzeinheitenUebersicht/vb-analysis/vb-comparison-element/vb-comparison-element.component.html" timestamp="1593493708965">
+        <mark key="[" line="38" column="23" />
+        <mark key="]" line="43" column="25" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-locks/geraet-locks.component.ts" timestamp="1593490627536">
         <mark key="'" line="36" column="23" />
         <mark key="[" line="14" column="17" />
@@ -218,9 +222,6 @@
         <mark key="]" line="193" column="40" />
         <mark key="." line="193" column="39" />
         <mark key="^" line="193" column="40" />
-      </file>
-      <file name="/fragment.java" timestamp="1593482021316">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -329,7 +330,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>endValisd</text>
+        <text encoding="base64">CgkJCQkJPHNvcnRpbmctYXJyb3cgW2NoYW5nZVNvcnRpbmdDYWxsYmFja109InNvcnRpbmdDaGFuZ2VkKCkiCgkJCQkJCQkJCQkJCSBbZmllbGRHbG9iYWxdPSJzb3J0QnkiCgkJCQkJCQkJCQkJCSBbc29ydGluZ109InNvcnRPcmRlciIKCQkJCQkJCQkJCQkJIGZpZWxkTG9jYWw9InJhbmtZZXN0ZXJkYXkiPgoJCQkJCTwvc29ydGluZy1hcnJvdz4=</text>
       </register>
       <register name="-" type="4">
         <text>endValisd</text>
@@ -338,7 +339,7 @@
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IFtuZ0NsYXNzXT0ieydlcnJvbmVvdXMtaW5wdXQnOiBlbmRWYWxpZH0=</text>
+        <text encoding="base64">CgkJCQkJPHNvcnRpbmctYXJyb3cgW2NoYW5nZVNvcnRpbmdDYWxsYmFja109InNvcnRpbmdDaGFuZ2VkKCkiCgkJCQkJCQkJCQkJCSBbZmllbGRHbG9iYWxdPSJzb3J0QnkiCgkJCQkJCQkJCQkJCSBbc29ydGluZ109InNvcnRPcmRlciIKCQkJCQkJCQkJCQkJIGZpZWxkTG9jYWw9InJhbmtZZXN0ZXJkYXkiPgoJCQkJCTwvc29ydGluZy1hcnJvdz4=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQo=</text>
