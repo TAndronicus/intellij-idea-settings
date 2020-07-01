@@ -140,32 +140,29 @@
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/repeatable/R__ersatzwerte.sql" timestamp="1593603125142">
         <mark key="[" line="277" column="66" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/app.module.ts" timestamp="1593606065984">
+        <mark key="[" line="358" column="0" />
+        <mark key="]" line="358" column="96" />
+        <mark key="." line="358" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1593604610470">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/common/model/ersatzwerte/ErsatzwerteDescription.java" timestamp="1593606022207">
-        <mark key="[" line="58" column="68" />
-        <mark key="]" line="57" column="94" />
-        <mark key="." line="57" column="93" />
-        <mark key="^" line="57" column="94" />
-      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/common/model/ersatzwerte/ErsatzwerteDescription.java" timestamp="1593606022207" />
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/resources/batch.properties" timestamp="1593601815002">
         <mark key="[" line="18" column="29" />
         <mark key="]" line="20" column="47" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1593601078376" />
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/application.properties" timestamp="1593601824105">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/java/com/qivalo/portal/AbstractSpringTest.java" timestamp="1593600192485">
-        <mark key="[" line="130" column="42" />
-        <mark key="]" line="130" column="56" />
-        <mark key="^" line="130" column="50" />
-        <mark key="." line="130" column="56" />
+      <file name="/app.module.ts" timestamp="1593606064512">
+        <mark key="[" line="358" column="0" />
+        <mark key="]" line="358" column="96" />
       </file>
       <file name="/fragment.java" timestamp="1593602294167">
         <mark key="[" line="0" column="0" />
@@ -276,8 +273,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>,</text>
+      <register name="*" type="2">
+        <text encoding="base64">aW1wb3J0IHtGYWxsQWJyZWNobnVuZ0ludGVycHJldGVyUGlwZX0gZnJvbSAnLi9zaGFyZWQvaW50ZXJwcmV0ZXJzL2ZhbGwtYWJyZWNobnVuZy1pbnRlcnByZXRlcic7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -286,7 +283,7 @@
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBWT0xVTUVfQ09MVU1OID0gInZvbHVtZSI7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtGYWxsQWJyZWNobnVuZ0ludGVycHJldGVyUGlwZX0gZnJvbSAnLi9zaGFyZWQvaW50ZXJwcmV0ZXJzL2ZhbGwtYWJyZWNobnVuZy1pbnRlcnByZXRlcic7Cg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFZPTFVNRV9DT0xVTU4gPSAidm9sdW1lIjsKCXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBFTkVSR1lfQ09MVU1OID0gImVuZXJneSI7Cglwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUE9TSVRJVkVfV0lSS0FSQkVJVF8wX0NPTFVNTiA9ICJwb3NpdGl2ZV93aXJrYXJiZWl0XzAiOwoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEhFQVRfQ09TVF9BTExPQ0FUT1JfQ09MVU1OID0gImhlYXRfY29zdF9hbGxvY2F0b3IiOwoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIExJTkVBUl9JTlRFUlBPTEFUSU9OID0gImdldF9lcG9jaF9iZXR3ZWVuIjsKCXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBHUkFEVEFHRV9JTlRFUlBPTEFUSU9OID0gImdldF9ncmFkdGFnZSI7Cglwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVGQVVMVF9TQ0hBRVRaQVVGVEVJTFVOR19DT0RFID0gIjEzIjsKCXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBHUkFEVEFHRV9TQ0hBRVRBWlVGVEVJTFVOR19DT0RFID0gIjE0Ijs=</text>
