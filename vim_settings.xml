@@ -134,6 +134,11 @@
         <mark key="." line="616" column="48" />
         <mark key="^" line="599" column="41" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kp-jooq/pom.xml" timestamp="1593613349089">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+      </file>
       <file name="/console" timestamp="1593611331940">
         <mark key="[" line="0" column="0" />
       </file>
@@ -163,9 +168,6 @@
       <file name="/app.module.ts" timestamp="1593606064512">
         <mark key="[" line="358" column="0" />
         <mark key="]" line="358" column="96" />
-      </file>
-      <file name="/fragment.java" timestamp="1593602294167">
-        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -273,8 +275,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgYW5kIAo=</text>
+      <register name="*" type="4">
+        <text>org.springframework.boot</text>
       </register>
       <register name="-" type="4">
         <text>x</text>
@@ -283,7 +285,7 @@
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CgpzZWxlY3QgZ2cuaWQKZnJvbSBnZXJfZ2VyYWV0IGdnCiAgICAgICAgIGlubmVyIGpvaW4gbnV0X251dHplaW5oZWl0IG5uIG9uIGdnLm51dF9udXR6ZWluaGVpdF9pZCA9IG5uLmlkCiAgICAgICAgIGlubmVyIGpvaW4gbGllX2xpZWdlbnNjaGFmdCBsbCBvbiBnZy5saWVfbGllZ2Vuc2NoYWZ0X2lkID0gbGwuaWQKd2hlcmUgZXhpc3RzKAogICAgICAgIHNlbGVjdCAqCiAgICAgICAgZnJvbSBtZXNfaGVpemtvc3RlbnZlcnRlaWxlciBtaAogICAgICAgIHdoZXJlIG1oLmdlcl9nZXJhZXRfaWQgPSBnZy5pZAogICAgICAgICAgYW5kIG1lc3NfZGF0dW0gPiAnMjAxOS0xMi0zMSAyMzowMCcKICAgICkKICBhbmQgZXhpc3RzKAogICAgICAgIHNlbGVjdCAqCiAgICAgICAgZnJvbSBtZXNfaGVpemtvc3RlbnZlcnRlaWxlciBtaAogICAgICAgIHdoZXJlIG1oLmdlcl9nZXJhZXRfaWQgPSBnZy5pZAogICAgICAgICAgYW5kIG1lc3NfZGF0dW0gPCAnMjAxOS0xMi0zMSAyMzowMCcKICAgICkKICBhbmQgKGdnLnJlbW92ZWRvbiwgbm4ucmVtb3ZlZG9uLCBsbC5yZW1vdmVkb24sIGdnLmF1c2JhdV9kYXR1bV9kZSkgaXMgbnVsbAogIGFuZCBub3QgZXhpc3RzKAogICAgICAgIHNlbGVjdCAqCiAgICAgICAgZnJvbSBtZXNfaGVpemtvc3RlbnZlcnRlaWxlciBtaAogICAgICAgIHdoZXJlIG1oLmdlcl9nZXJhZXRfaWQgPSBnZy5pZAogICAgICAgICAgYW5kIG1lc3NfZGF0dW0gPSAnMjAxOS0xMi0zMSAxMjowMCcKICAgICk7</text>
+        <text>org.springframework.boot</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgYW5kIAo=</text>
