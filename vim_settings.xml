@@ -134,72 +134,39 @@
         <mark key="^" line="1282" column="20" />
         <mark key="." line="1282" column="19" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kp-jooq/pom.xml" timestamp="1593522351650">
-        <mark key="[" line="19" column="31" />
-        <mark key="]" line="19" column="32" />
-        <mark key="." line="19" column="32" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/53_wmz.sql" timestamp="1593602119320">
+        <mark key="[" line="13" column="70" />
+        <mark key="]" line="13" column="71" />
+        <mark key="^" line="5" column="89" />
+        <mark key="." line="13" column="71" />
       </file>
-      <file name="/console" timestamp="1593586823562">
+      <file name="/console" timestamp="1593599788200">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/frontend/src/app/geraetekatalog/geraet-typ-details/geraet-typ-individual-values/geraet-typ-individual-values.component.html" timestamp="1593578839356" />
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell_1" timestamp="1593585793558" />
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyStichtagUpdateService.java" timestamp="1593512733026">
-        <mark key="[" line="94" column="20" />
-        <mark key="]" line="94" column="121" />
-        <mark key="^" line="94" column="121" />
-        <mark key="." line="94" column="120" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/dao/DBUtilsTests.java" timestamp="1593602640714">
+        <mark key="[" line="62" column="30" />
+        <mark key="]" line="74" column="32" />
       </file>
       <file name="/a.sql" timestamp="1593586793573">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/repeatable/R__ersatzwerte.sql" timestamp="1593586950527">
-        <mark key="[" line="277" column="16" />
-        <mark key="]" line="277" column="46" />
-        <mark key="." line="277" column="45" />
-        <mark key="^" line="277" column="46" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/repeatable/R__ersatzwerte.sql" timestamp="1593603125142">
+        <mark key="[" line="277" column="66" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kp-jooq/src/main/kotlin/jb/model/tables/AbrAbrechnung.java" timestamp="1593523441815">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/services/geraet.service.ts" timestamp="1593512977227">
-        <mark key="[" line="124" column="5" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
-        <mark key="^" line="123" column="39" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593586954672">
+      <file name="/Dummy.txt" timestamp="1593604526615">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/common/model/ersatzwerte/ErsatzwerteDescription.java" timestamp="1593586572012">
-        <mark key="[" line="53" column="38" />
-        <mark key="]" line="53" column="77" />
-        <mark key="^" line="53" column="77" />
-        <mark key="." line="53" column="76" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/common/model/ersatzwerte/ErsatzwerteDescription.java" timestamp="1593604519403">
+        <mark key="[" line="65" column="53" />
+        <mark key="]" line="64" column="54" />
+        <mark key="." line="64" column="53" />
+        <mark key="^" line="64" column="54" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kp-jooq/src/test/kotlin/jb/KpJooqApplicationTests.kt" timestamp="1593523415736">
-        <mark key="'" line="103" column="49" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="103" column="50" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" timestamp="1593599640734">
-        <mark key="'" line="425" column="9" />
-        <mark key="[" line="40" column="123" />
-        <mark key="]" line="40" column="134" />
-        <mark key="^" line="40" column="134" />
-        <mark key="." line="40" column="133" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/modals/geraet-lock-modal/geraet-lock-modal.component.css" timestamp="1593512882767">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="7" column="19" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/resources/batch.properties" timestamp="1593601815002">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="20" column="47" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/53_wmz_405.sql" timestamp="1593599636018">
         <mark key="[" line="13" column="71" />
@@ -218,6 +185,12 @@
         <mark key="." line="1197" column="7" />
         <mark key="^" line="1198" column="23" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/dao/CustomErsatzwerteRepository.java" timestamp="1593601078376" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/application.properties" timestamp="1593601824105">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1593593605071">
         <mark key="'" line="4321" column="66" />
         <mark key="[" line="4412" column="19" />
@@ -225,17 +198,17 @@
         <mark key="." line="4412" column="19" />
         <mark key="^" line="4412" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/java/com/qivalo/portal/AbstractSpringTest.java" timestamp="1593588763105">
-        <mark key="[" line="130" column="46" />
-        <mark key="]" line="130" column="50" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/java/com/qivalo/portal/AbstractSpringTest.java" timestamp="1593600192485">
+        <mark key="[" line="130" column="42" />
+        <mark key="]" line="130" column="56" />
         <mark key="^" line="130" column="50" />
-        <mark key="." line="130" column="49" />
+        <mark key="." line="130" column="56" />
+      </file>
+      <file name="/fragment.java" timestamp="1593602294167">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="20" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__4.0.1_create_heizkostenverteiler_verbrauch.sql" />
-      <jump line="82" column="9" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/messung/dao/HeizkostenverteilerVerbrauchRepositoryTest.java" />
-      <jump line="26" column="49" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/52_hkv_verbrauch.sql" />
       <jump line="4303" column="15" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="19" column="42" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__4.0.1_create_heizkostenverteiler_verbrauch.sql" />
       <jump line="110" column="4" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/messung/dao/HeizkostenverteilerVerbrauchRepositoryTest.java" />
@@ -333,51 +306,54 @@
       <jump line="117" column="21" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" />
       <jump line="503" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" />
       <jump line="425" column="9" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" />
+      <jump line="102" column="9" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" />
+      <jump line="107" column="37" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" />
+      <jump line="99" column="4" filename="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">dmFsdWVzIA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFsdWVzIA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFsdWVzICgxMjAwLCAnMjAxOS0wMS0wMSAyMzowMCcsIGN1cnJlbnRfdGltZXN0YW1wLCAnQScsIDkwNjgsIDcwMDEsIDApLAo=</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBWT0xVTUVfQ09MVU1OID0gInZvbHVtZSI7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW5uZXIgam9pbiBhYnJfZ2VyYWV0ZWFydF9udW1tZXIgYWduIG9uIGdndC5hYnJfZ2VyYWV0ZWFydF9udW1tZXJfY29kZSA9IGFnbi5jb2RlCndoZXJlIGFnbi5uYW1lIH4gJ1dhcm13YXNzZXInOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFZPTFVNRV9DT0xVTU4gPSAidm9sdW1lIjsKCXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBFTkVSR1lfQ09MVU1OID0gImVuZXJneSI7Cglwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUE9TSVRJVkVfV0lSS0FSQkVJVF8wX0NPTFVNTiA9ICJwb3NpdGl2ZV93aXJrYXJiZWl0XzAiOwoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEhFQVRfQ09TVF9BTExPQ0FUT1JfQ09MVU1OID0gImhlYXRfY29zdF9hbGxvY2F0b3IiOwoJcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIExJTkVBUl9JTlRFUlBPTEFUSU9OID0gImdldF9lcG9jaF9iZXR3ZWVuIjsKCXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBHUkFEVEFHRV9JTlRFUlBPTEFUSU9OID0gImdldF9ncmFkdGFnZSI7Cglwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVGQVVMVF9TQ0hBRVRaQVVGVEVJTFVOR19DT0RFID0gIjEzIjsKCXByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBHUkFEVEFHRV9TQ0hBRVRBWlVGVEVJTFVOR19DT0RFID0gIjE0Ijs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2hlcmUgYWJyX2dlcmFldGVhcnRfbnVtbWVyX2NvZGUgPSAnNDA1JzsK</text>
+        <text encoding="base64">CQkvL0Bmb3JtYXR0ZXI6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgbGVmdCBqb2luIGFicl9nZXJhZXRlYXJ0X251bW1lciBhZ24gb24gZ2d0LmFicl9nZXJhZXRlYXJ0X251bW1lcl9jb2RlID0gYWduLmNvZGUK</text>
+        <text encoding="base64">CQkJCQkuZ2V0U2luZ2xlUmVzdWx0KCkpLnRvTG9jYWxEYXRlVGltZSgpOwoJCQkJcmV0dXJuIGQuZ2V0RGF5T2ZNb250aCgpID09ICh0aW1lLmdldERheU9mTW9udGgoKSA8IDE1ID8gMSA6IDE2KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbGVmdCBqb2luIGFicl9nZXJhZXRlYXJ0X251bW1lciBhZ24gb24gZ2d0LmFicl9nZXJhZXRlYXJ0X251bW1lcl9jb2RlID0gYWduLmNvZGUK</text>
+        <text encoding="base64">CQkJCSkKCQkJCQkuc2V0UGFyYW1ldGVyKCJkYXRlX3RvX3RydW5jIiwgdGltZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSBnZXJ0eXA7Cg==</text>
+        <text encoding="base64">CQkJCUxvY2FsRGF0ZVRpbWUgZCA9ICgoVGltZXN0YW1wKSBlbnRpdHlNYW5hZ2VyLmNyZWF0ZU5hdGl2ZVF1ZXJ5KAoJCQkJCSJzZWxlY3QgZGF0ZV90cnVuY19zdGFuZGFyZCg6ZGF0ZV90b190cnVuYykiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">d2hlcmUgYWJyX2dlcmFldGVhcnRfbnVtbWVyX2NvZGU7Cg==</text>
+        <text encoding="base64">CQlTeXN0ZW0ub3V0LnByaW50bG4oIiIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb29xLlRhYmxlT3B0aW9uczsK</text>
+        <text encoding="base64">aW5uZXIgam9pbiBhYnJfZ2VyYWV0ZWFydF9udW1tZXIgYWduIG9uIGdndC5hYnJfZ2VyYWV0ZWFydF9udW1tZXJfY29kZSA9IGFnbi5jb2RlCndoZXJlIGFnbi5uYW1lIH4gJ1dhcm13YXNzZXInOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qb29xLkNoZWNrOwo=</text>
+        <text encoding="base64">d2hlcmUgYWJyX2dlcmFldGVhcnRfbnVtbWVyX2NvZGUgPSAnNDA1JzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgamIubW9kZWwudGFibGVzLkdlckZyZW1kZXNHZXJhZXQuR0VSX0ZSRU1ERVNfR0VSQUVUCg==</text>
+        <text encoding="base64">ICAgICAgICAgbGVmdCBqb2luIGFicl9nZXJhZXRlYXJ0X251bW1lciBhZ24gb24gZ2d0LmFicl9nZXJhZXRlYXJ0X251bW1lcl9jb2RlID0gYWduLmNvZGUK</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
