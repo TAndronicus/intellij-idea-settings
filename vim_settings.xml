@@ -134,18 +134,17 @@
         <mark key="." line="602" column="21" />
         <mark key="^" line="602" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/test/src/main/resources/db/53_wmz.sql" timestamp="1593602119320">
-        <mark key="[" line="13" column="70" />
-        <mark key="]" line="13" column="71" />
-        <mark key="^" line="5" column="89" />
-        <mark key="." line="13" column="71" />
-      </file>
       <file name="/console" timestamp="1593609239717">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/dao/DBUtilsTests.java" timestamp="1593602640714">
         <mark key="[" line="62" column="30" />
         <mark key="]" line="74" column="32" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V418.2__add authority.sql" timestamp="1593611078841">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/repeatable/R__ersatzwerte.sql" timestamp="1593603125142">
         <mark key="[" line="277" column="66" />
@@ -155,10 +154,10 @@
         <mark key="]" line="358" column="96" />
         <mark key="." line="358" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593604610470">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="." line="0" column="14" />
+      <file name="/Dummy.txt" timestamp="1593611095154">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/java/com/qivalo/portal/common/model/ersatzwerte/ErsatzwerteDescription.java" timestamp="1593606022207" />
       <file name="/app.module.ts" timestamp="1593606064512">
@@ -275,10 +274,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>gg.id</text>
+        <text>x</text>
       </register>
       <register name="-" type="4">
-        <text>gg.id</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
