@@ -147,11 +147,11 @@
         <mark key="]" line="6" column="15" />
         <mark key="." line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kp-jooq/src/test/kotlin/jb/KpJooqApplicationJavaTest.java" timestamp="1593619152428">
-        <mark key="[" line="53" column="5" />
-        <mark key="]" line="40" column="21" />
-        <mark key="^" line="30" column="21" />
-        <mark key="." line="40" column="21" />
+      <file name="$USER_HOME$/Workspace/qivalo/kp-jooq/src/test/kotlin/jb/KpJooqApplicationJavaTest.java" timestamp="1593619361209">
+        <mark key="[" line="57" column="37" />
+        <mark key="]" line="57" column="37" />
+        <mark key="^" line="58" column="51" />
+        <mark key="." line="57" column="37" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/repeatable/R__ersatzwerte.sql" timestamp="1593603125142">
         <mark key="[" line="277" column="66" />
@@ -284,11 +284,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">Ly9AUnVuV2l0aChTcHJpbmdSdW5uZXI6OmNsYXNzKQovL0BTcHJpbmdCb290VGVzdAo=</text>
+      <register name="*" type="4">
+        <text>MES_HEIZKOSTENVERTEILER</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text>MES_HEIZKOSTENVERTEILER</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
