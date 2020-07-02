@@ -184,11 +184,11 @@
         <mark key="^" line="108" column="12" />
         <mark key="." line="108" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/messung/service/MessungValidationCustomRepositoryTest.java" timestamp="1593683223244">
-        <mark key="[" line="19" column="71" />
-        <mark key="]" line="19" column="71" />
-        <mark key="." line="19" column="70" />
-        <mark key="^" line="19" column="71" />
+      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/java/com/qivalo/portal/core/messung/service/MessungValidationCustomRepositoryTest.java" timestamp="1593683301501">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="." line="22" column="31" />
+        <mark key="^" line="22" column="49" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/Rauchwarnmelder.csv" timestamp="1593661546144">
         <mark key="[" line="2" column="151" />
@@ -333,11 +333,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">QE9yZGVyKCkK</text>
+      <register name="*" type="4">
+        <text>Alphanumeric</text>
       </register>
       <register name="-" type="4">
-        <text>Order</text>
+        <text>Alphanumeric</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
