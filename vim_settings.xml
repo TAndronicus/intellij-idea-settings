@@ -127,13 +127,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1593658832605">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1593663516044">
         <mark key="'" line="1287" column="0" />
-        <mark key="[" line="1329" column="0" />
-        <mark key="]" line="1329" column="0" />
-        <mark key="." line="1329" column="0" />
+        <mark key="[" line="1328" column="6" />
+        <mark key="]" line="1334" column="0" />
+        <mark key="." line="1334" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593661671690">
+      <file name="/Dummy.txt" timestamp="1593663318202">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -150,7 +150,7 @@
         <mark key="." line="70" column="13" />
         <mark key="^" line="77" column="50" />
       </file>
-      <file name="/console" timestamp="1593660099762">
+      <file name="/console" timestamp="1593663603473">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/batch/src/test/resources/Rauchwarnmelder.csv" timestamp="1593661546144">
