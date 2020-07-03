@@ -142,6 +142,11 @@
       <file name="/console" timestamp="1593736924447">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1593746385652">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-locks/geraet-locks.component.html" timestamp="1593738046967">
         <mark key="[" line="13" column="23" />
         <mark key="]" line="13" column="27" />
@@ -227,7 +232,6 @@
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/modals/geraet-lock-modal/geraet-lock-modal.component.ts" timestamp="1593736511699">
         <mark key="'" line="36" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/services/abrechnung/abrechnung-schaetzaufteilung.service.ts" timestamp="1593675417743" />
     </filemarks>
     <jumps>
       <jump line="413" column="45" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/service/GeraetService.java" />
@@ -334,11 +338,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">CQkJCQkJCS5pc0xvCi8vCQkJCQkJCWdldExvY2tUeXBlKGdlcmFldC5nZXRJZCgpLCBkYXRlLmF0U3RhcnRPZkRheSgpKQovLwkJCQkJCQkubWFwKExvY2tUeXBlLkFCUkVDSE5VTkc6OmVxdWFscykKLy8JCQkJCQkJLm9yRWxzZShmYWxzZSkpIHsK</text>
+      <register name="*" type="4">
+        <text>Geraet</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>Geraet</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
