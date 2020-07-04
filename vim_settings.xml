@@ -149,12 +149,12 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspace/JVM/codecs/src/main/scala/codecs/codecs.scala" timestamp="1593827788533">
-        <mark key="'" line="192" column="23" />
-        <mark key="[" line="219" column="28" />
-        <mark key="]" line="219" column="76" />
-        <mark key="." line="219" column="75" />
-        <mark key="^" line="219" column="76" />
+      <file name="$USER_HOME$/Workspace/JVM/codecs/src/main/scala/codecs/codecs.scala" timestamp="1593842237013">
+        <mark key="'" line="150" column="1" />
+        <mark key="[" line="114" column="32" />
+        <mark key="]" line="112" column="42" />
+        <mark key="." line="112" column="41" />
+        <mark key="^" line="112" column="42" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyOverdueService.java" timestamp="1593769887923">
         <mark key="'" line="222" column="4" />
@@ -240,7 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="13" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/rest/GeraetRestEndpoint.java" />
       <jump line="2" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V422.0__add_dampf_to_messung_fg.sql" />
       <jump line="4" column="34" filename="$USER_HOME$/Workspace/qivalo/kundenportal/common/src/main/resources/db/migration/V422.0__add_dampf_to_messung_fg.sql" />
       <jump line="4026" column="56" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
@@ -340,15 +339,16 @@
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/scripts/sql-scripts/duplicated_indexes.sql" />
       <jump line="221" column="4" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyOverdueService.java" />
       <jump line="192" column="23" filename="$USER_HOME$/Workspace/JVM/codecs/src/main/scala/codecs/codecs.scala" />
+      <jump line="147" column="1" filename="$USER_HOME$/Workspace/JVM/codecs/src/main/scala/codecs/codecs.scala" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIGRlY29kZXIuZGUK</text>
+      <register name="*" type="4">
+        <text>Json.Obj</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>Json.Obj</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
@@ -357,34 +357,34 @@
         <text encoding="base64">ICBpbXBsaWNpdCB2YWwgc3RyaW5nRGVjb2RlcjogY2lyY2UuRGVjb2RlcltTdHJpbmddID0gY2lyY2UuRGVjb2Rlci5kZWNvZGVTdHJpbmcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlY29kZXIuZGUK</text>
+        <text encoding="base64">ICAgIGRlZiBlbmNvZGUodmFsdWU6IEEpOiBKc29uLk9iaiA9IGYodmFsdWUpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgID8/Pwo=</text>
+        <text encoding="base64">ICAgIGRlY29kZXIuZGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vVE9ETwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vVE9ETwo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERlY29kZXIuZnJvbUZ1bmN0aW9uIHsKICAgICAgPz8/CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgID8/Pwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIERlZmluZSBhbiBpbXBsaWNpdCB2YWx1ZSBvZiB0eXBlIGBEZWNvZGVyW0Jvb2xlYW5dYAo=</text>
+        <text encoding="base64">ICAgIERlY29kZXIuZnJvbUZ1bmN0aW9uIHsKICAgICAgPz8/CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIERlZmluZSBhbiBpbXBsaWNpdCB2YWx1ZSBvZiB0eXBlIGBEZWNvZGVyW1N0cmluZ11gCg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIERlZmluZSBhbiBpbXBsaWNpdCB2YWx1ZSBvZiB0eXBlIGBEZWNvZGVyW0Jvb2xlYW5dYAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBUT0RPIERlZmluZSBhbiBpbXBsaWNpdCB2YWx1ZSBvZiB0eXBlIGBEZWNvZGVyW0ludF1gCg==</text>
+        <text encoding="base64">ICAvLyBUT0RPIERlZmluZSBhbiBpbXBsaWNpdCB2YWx1ZSBvZiB0eXBlIGBEZWNvZGVyW1N0cmluZ11gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIERlY29kZXIuZnJvbVBhcnRpYWxGdW5jdGlvbiB7IGNhc2UgSnNvbi5OdWxsID0+ICgpIH0K</text>
+        <text encoding="base64">ICAvLyBUT0RPIERlZmluZSBhbiBpbXBsaWNpdCB2YWx1ZSBvZiB0eXBlIGBEZWNvZGVyW0ludF1gCg==</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
