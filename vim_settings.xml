@@ -133,7 +133,7 @@
         <mark key="^" line="96" column="46" />
         <mark key="." line="96" column="45" />
       </file>
-      <file name="/console" timestamp="1594021533403">
+      <file name="/console" timestamp="1594030240270">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/dao/AktivGeraetRepository.java" timestamp="1594020793010">
@@ -142,6 +142,10 @@
         <mark key="]" line="44" column="27" />
         <mark key="." line="44" column="26" />
         <mark key="^" line="44" column="27" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/scripts/sql-scripts/fast_table_row_count.sql" timestamp="1594030135709">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="170" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/geraet/dao/CommonAktivGeraetRepository.java" timestamp="1594017501613">
         <mark key="[" line="44" column="99" />
@@ -174,7 +178,7 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="27" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594020954858">
+      <file name="/Dummy.txt" timestamp="1594029929556">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -185,6 +189,13 @@
         <mark key="]" line="28" column="36" />
         <mark key="." line="28" column="35" />
         <mark key="^" line="28" column="36" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1594030455121">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="66" column="27" />
+        <mark key="." line="66" column="27" />
+        <mark key="^" line="66" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/DiscovergyOverdueYeralyTest.java" timestamp="1594012656645">
         <mark key="[" line="78" column="22" />
@@ -202,13 +213,6 @@
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/DiscovergyMeterValueUpdateBatchServiceTest.java" timestamp="1594013326063">
         <mark key="'" line="372" column="41" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyUpdateService.java" timestamp="1593998809775">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="60" column="42" />
-        <mark key="." line="72" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/geraet/client/GeraetClient.java" timestamp="1594020127400">
         <mark key="[" line="133" column="12" />
         <mark key="]" line="133" column="12" />
@@ -220,11 +224,6 @@
         <mark key="]" line="65" column="10" />
         <mark key="^" line="65" column="10" />
         <mark key="." line="65" column="9" />
-      </file>
-      <file name="/fragment.java" timestamp="1593997683182">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V426.0__add_enabled_flag_to_abr_schaetzaufteilung.sql" timestamp="1594021601480">
         <mark key="[" line="1" column="54" />
@@ -316,7 +315,6 @@
       <jump line="1190" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
       <jump line="4480" column="46" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
       <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/qivalo/kundenportal/scripts/sql-scripts/duplicated_indexes.sql" />
       <jump line="221" column="4" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyOverdueService.java" />
       <jump line="192" column="23" filename="$USER_HOME$/Workspace/JVM/codecs/src/main/scala/codecs/codecs.scala" />
@@ -334,12 +332,16 @@
       <jump line="68" column="6" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/geraet/rest/GeraetRestEndpointTest.java" />
       <jump line="627" column="8" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/geraet/rest/GeraetRestEndpointTest.java" />
       <jump line="73" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/geraet/rest/GeraetRestEndpointTest.java" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>liegenschaftId</text>
+        <text>select id, coalesce(end_date, current_timestamp) - start_date duration, status, creation_date, end_date, mode, comment
+from tec_job_historie tjh
+where job_id ~ 'ersatz'
+order by creation_date desc;</text>
       </register>
       <register name="-" type="4">
         <text>liegenschaftId</text>
@@ -348,7 +350,10 @@
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">CgoJcHVibGljIEh0dHBTdGF0dXMgbG9ja0dlcmFldChHZXJhZXRMb2NrR2VybWFuRFRPIGxvY2spIHsKCQlyZXR1cm4gcmVzdAoJCQkucG9zdEZvckVudGl0eSgiL2FwaS9sb2NrIiwgbG9jaywgU3RyaW5nLmNsYXNzKQoJCQkuZ2V0U3RhdHVzQ29kZSgpOwoJfQ==</text>
+        <text>select id, coalesce(end_date, current_timestamp) - start_date duration, status, creation_date, end_date, mode, comment
+from tec_job_historie tjh
+where job_id ~ 'ersatz'
+order by creation_date desc;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJLmdldFN0YXR1c0NvZGUoKTsK</text>
