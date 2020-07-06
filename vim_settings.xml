@@ -143,12 +143,6 @@
         <mark key="." line="44" column="26" />
         <mark key="^" line="44" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyNutzerChangeService.java" timestamp="1593997158605">
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="17" />
-        <mark key="^" line="44" column="17" />
-        <mark key="." line="44" column="16" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/geraet/dao/CommonAktivGeraetRepository.java" timestamp="1594017501613">
         <mark key="[" line="44" column="99" />
         <mark key="]" line="44" column="4" />
@@ -174,6 +168,12 @@
         <mark key="." line="104" column="14" />
         <mark key="^" line="104" column="15" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/abrechnung/model/stammdaten/AbrechnungSchaetzaufteilung.java" timestamp="1594021652963">
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="27" column="28" />
+        <mark key="^" line="27" column="28" />
+        <mark key="." line="27" column="27" />
+      </file>
       <file name="/Dummy.txt" timestamp="1594020954858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
@@ -185,12 +185,6 @@
         <mark key="]" line="28" column="36" />
         <mark key="." line="28" column="35" />
         <mark key="^" line="28" column="36" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/rest/DiscovergyBatchRestEndpoint.java" timestamp="1593996039011">
-        <mark key="[" line="23" column="21" />
-        <mark key="]" line="39" column="23" />
-        <mark key="." line="39" column="22" />
-        <mark key="^" line="39" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/DiscovergyOverdueYeralyTest.java" timestamp="1594012656645">
         <mark key="[" line="78" column="22" />
@@ -231,6 +225,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V426.0__add_enabled_flag_to_abr_schaetzaufteilung.sql" timestamp="1594021601480">
+        <mark key="[" line="1" column="54" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="1" column="54" />
       </file>
     </filemarks>
     <jumps>
