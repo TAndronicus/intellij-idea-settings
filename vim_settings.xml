@@ -133,12 +133,15 @@
         <mark key="^" line="96" column="46" />
         <mark key="." line="96" column="45" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/dao/AktivGeraetRepository.java" timestamp="1594017517884">
+      <file name="/console" timestamp="1594021533403">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/dao/AktivGeraetRepository.java" timestamp="1594020793010">
         <mark key="'" line="16" column="17" />
-        <mark key="[" line="46" column="81" />
-        <mark key="]" line="47" column="4" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="4" />
+        <mark key="[" line="44" column="25" />
+        <mark key="]" line="44" column="27" />
+        <mark key="." line="44" column="26" />
+        <mark key="^" line="44" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyNutzerChangeService.java" timestamp="1593997158605">
         <mark key="[" line="44" column="16" />
@@ -148,9 +151,9 @@
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/geraet/dao/CommonAktivGeraetRepository.java" timestamp="1594017501613">
         <mark key="[" line="44" column="99" />
-        <mark key="]" line="45" column="4" />
-        <mark key="^" line="45" column="4" />
-        <mark key="." line="45" column="0" />
+        <mark key="]" line="44" column="4" />
+        <mark key="^" line="44" column="4" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/service/GeraetService.java" timestamp="1594017528710">
         <mark key="[" line="117" column="0" />
@@ -171,7 +174,7 @@
         <mark key="." line="104" column="14" />
         <mark key="^" line="104" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594019044559">
+      <file name="/Dummy.txt" timestamp="1594020954858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -188,12 +191,6 @@
         <mark key="]" line="39" column="23" />
         <mark key="." line="39" column="22" />
         <mark key="^" line="39" column="23" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/rest/DiscovergyStichtagRestEndpoint.java" timestamp="1593995976963">
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="11" column="24" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="11" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/DiscovergyOverdueYeralyTest.java" timestamp="1594012656645">
         <mark key="[" line="78" column="22" />
@@ -217,12 +214,6 @@
         <mark key="]" line="72" column="0" />
         <mark key="^" line="60" column="42" />
         <mark key="." line="72" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/rest/DiscovergyOverdueRestEndpoint.java" timestamp="1593995865012">
-        <mark key="[" line="15" column="21" />
-        <mark key="]" line="16" column="24" />
-        <mark key="." line="16" column="23" />
-        <mark key="^" line="16" column="24" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/geraet/client/GeraetClient.java" timestamp="1594020127400">
         <mark key="[" line="133" column="12" />
@@ -348,10 +339,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>liegenschaftId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>liegenschaftId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
