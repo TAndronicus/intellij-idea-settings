@@ -127,11 +127,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/qivalo/kundenportal/scripts/sql-scripts/index_stats.sql" timestamp="1593760375775">
-        <mark key="[" line="31" column="14" />
-        <mark key="]" line="55" column="44" />
-        <mark key="." line="55" column="43" />
-        <mark key="^" line="55" column="44" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyOverdueService.java" timestamp="1593769887923">
+        <mark key="'" line="222" column="4" />
+        <mark key="[" line="222" column="5" />
+        <mark key="]" line="222" column="40" />
+        <mark key="^" line="222" column="40" />
+        <mark key="." line="222" column="39" />
+      </file>
+      <file name="/console" timestamp="1593761299818">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyStichtagUpdateService.java" timestamp="1593777237752">
+        <mark key="[" line="48" column="48" />
+        <mark key="]" line="48" column="48" />
+        <mark key="." line="48" column="48" />
+        <mark key="^" line="48" column="47" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyNutzerChangeService.java" timestamp="1593997158605">
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="17" />
+        <mark key="^" line="44" column="17" />
+        <mark key="." line="44" column="16" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/DiscovergyOverdueFortnightTest.java" timestamp="1593770197353">
+        <mark key="[" line="259" column="98" />
+        <mark key="]" line="259" column="98" />
+        <mark key="^" line="220" column="21" />
+        <mark key="." line="259" column="98" />
       </file>
       <file name="/Dummy.txt" timestamp="1593998912531">
         <mark key="[" line="0" column="0" />
@@ -144,16 +166,6 @@
         <mark key="]" line="105" column="64" />
         <mark key="^" line="105" column="64" />
         <mark key="." line="105" column="63" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyOverdueService.java" timestamp="1593769887923">
-        <mark key="'" line="222" column="4" />
-        <mark key="[" line="222" column="5" />
-        <mark key="]" line="222" column="40" />
-        <mark key="^" line="222" column="40" />
-        <mark key="." line="222" column="39" />
-      </file>
-      <file name="/console" timestamp="1593761299818">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/int-common/src/main/java/com/qivalo/portal/common/service/RapportConstants.java" timestamp="1593768562249">
         <mark key="[" line="27" column="123" />
@@ -203,18 +215,12 @@
         <mark key="]" line="71" column="98" />
         <mark key="." line="71" column="98" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyStichtagUpdateService.java" timestamp="1593777237752">
-        <mark key="[" line="48" column="48" />
-        <mark key="]" line="48" column="48" />
-        <mark key="." line="48" column="48" />
-        <mark key="^" line="48" column="47" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/DiscovergyStichtagUpdateServiceTest.java" timestamp="1594000856535">
-        <mark key="'" line="126" column="21" />
-        <mark key="[" line="126" column="22" />
-        <mark key="]" line="126" column="22" />
-        <mark key="." line="126" column="21" />
-        <mark key="^" line="126" column="22" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/DiscovergyStichtagUpdateServiceTest.java" timestamp="1594009391867">
+        <mark key="'" line="130" column="13" />
+        <mark key="[" line="130" column="14" />
+        <mark key="]" line="130" column="34" />
+        <mark key="." line="130" column="33" />
+        <mark key="^" line="130" column="34" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyUpdateService.java" timestamp="1593998809775">
         <mark key="'" line="73" column="0" />
@@ -223,23 +229,17 @@
         <mark key="^" line="60" column="42" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyNutzerChangeService.java" timestamp="1593997158605">
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="17" />
-        <mark key="^" line="44" column="17" />
-        <mark key="." line="44" column="16" />
-      </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/DiscovergyOverdueFortnightTest.java" timestamp="1593770197353">
-        <mark key="[" line="259" column="98" />
-        <mark key="]" line="259" column="98" />
-        <mark key="^" line="220" column="21" />
-        <mark key="." line="259" column="98" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/rest/DiscovergyOverdueRestEndpoint.java" timestamp="1593995865012">
         <mark key="[" line="15" column="21" />
         <mark key="]" line="16" column="24" />
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/AbstractDiscovergyStichtagTest.java" timestamp="1594009380982">
+        <mark key="[" line="65" column="4" />
+        <mark key="]" line="65" column="10" />
+        <mark key="^" line="65" column="10" />
+        <mark key="." line="65" column="9" />
       </file>
       <file name="/fragment.java" timestamp="1593997683182">
         <mark key="[" line="0" column="0" />
@@ -248,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="436" column="8" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/service/GeraetService.java" />
       <jump line="1154" column="19" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" />
       <jump line="29" column="13" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/messung/service/CommonMessungService.java" />
       <jump line="108" column="70" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/java/com/qivalo/portal/messung/service/CommonMessungService.java" />
@@ -348,15 +347,16 @@
       <jump line="72" column="19" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyUpdateService.java" />
       <jump line="76" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyUpdateService.java" />
       <jump line="126" column="21" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/DiscovergyStichtagUpdateServiceTest.java" />
+      <jump line="130" column="13" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/DiscovergyStichtagUpdateServiceTest.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>LS_ID</text>
+        <text>LiegenschaftLockRepository</text>
       </register>
       <register name="-" type="4">
-        <text>LS_ID</text>
+        <text>LiegenschaftLockRepository</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
