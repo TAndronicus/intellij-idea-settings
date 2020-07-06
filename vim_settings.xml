@@ -127,18 +127,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1593760131206">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/kundenportal/scripts/sql-scripts/index_stats.sql" timestamp="1593760375775">
         <mark key="[" line="31" column="14" />
         <mark key="]" line="55" column="44" />
         <mark key="." line="55" column="43" />
         <mark key="^" line="55" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593995988872">
+      <file name="/Dummy.txt" timestamp="1593997691669">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -219,8 +214,11 @@
         <mark key="]" line="118" column="180" />
         <mark key="." line="118" column="180" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyUpdateService.java" timestamp="1593777482843">
-        <mark key="[" line="57" column="39" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/main/java/com/qivalo/portal/core/service/DiscovergyNutzerChangeService.java" timestamp="1593997158605">
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="17" />
+        <mark key="^" line="44" column="17" />
+        <mark key="." line="44" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/DiscovergyOverdueFortnightTest.java" timestamp="1593770197353">
         <mark key="[" line="259" column="98" />
@@ -234,7 +232,7 @@
         <mark key="." line="16" column="23" />
         <mark key="^" line="16" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1593992452787">
+      <file name="/fragment.java" timestamp="1593997683182">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -345,11 +343,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">CUBBdXRvd2lyZWQK</text>
+      <register name="*" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>encodeList</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
