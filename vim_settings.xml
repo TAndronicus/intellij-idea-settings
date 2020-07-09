@@ -133,12 +133,12 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="48" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/einstellungen/einstellungenuebersicht/einstellungenuebersicht.component.html" timestamp="1594277136335">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/einstellungen/einstellungenuebersicht/einstellungenuebersicht.component.html" timestamp="1594278121949">
         <mark key="'" line="9" column="21" />
-        <mark key="[" line="148" column="21" />
-        <mark key="]" line="148" column="39" />
-        <mark key="." line="143" column="7" />
-        <mark key="^" line="143" column="20" />
+        <mark key="[" line="149" column="13" />
+        <mark key="]" line="149" column="32" />
+        <mark key="." line="149" column="13" />
+        <mark key="^" line="149" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/02_insert_base_data.sql" timestamp="1594258637764">
         <mark key="[" line="1200" column="0" />
@@ -150,12 +150,15 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="59" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/app-routing.module.ts" timestamp="1594277139739">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/package.json" timestamp="1594277704287">
+        <mark key="'" line="9" column="51" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/app-routing.module.ts" timestamp="1594278175346">
         <mark key="'" line="435" column="26" />
-        <mark key="[" line="698" column="31" />
-        <mark key="]" line="698" column="50" />
-        <mark key="." line="698" column="31" />
-        <mark key="^" line="701" column="22" />
+        <mark key="[" line="700" column="93" />
+        <mark key="]" line="700" column="95" />
+        <mark key="." line="700" column="94" />
+        <mark key="^" line="700" column="95" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/abrechnung/stammdaten/facade/AbrechnungSchaetzaufteilungFacade.java" timestamp="1594259109393">
         <mark key="[" line="15" column="12" />
@@ -188,13 +191,6 @@
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraeteuebersicht/geraeteuebersicht.component.html" timestamp="1594269623375">
         <mark key="'" line="65" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1594253432258">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="66" column="28" />
-        <mark key="]" line="66" column="27" />
-        <mark key="." line="66" column="27" />
-        <mark key="^" line="66" column="28" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/abrechnung/stammdaten/rest/AbrechnungSchaetzaufteilungRestEndpointTest.java" timestamp="1594258942055">
         <mark key="[" line="51" column="0" />
@@ -233,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="29" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/geraet/rest/GeraetRestEndpointTest.java" />
       <jump line="447" column="8" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/service/GeraetService.java" />
       <jump line="133" column="77" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/service/GeraetService.java" />
       <jump line="115" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/service/GeraetService.java" />
@@ -333,15 +328,16 @@
       <jump line="699" column="62" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/app-routing.module.ts" />
       <jump line="702" column="16" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/app-routing.module.ts" />
       <jump line="435" column="26" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/app-routing.module.ts" />
+      <jump line="9" column="51" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/package.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>schaetzaufteilungen</text>
+        <text>'EINST_SCHAETZAUFTEILUNGEN'}</text>
       </register>
       <register name="-" type="4">
-        <text>schaetzaufteilungen</text>
+        <text>'EINST_SCHAETZAUFTEILUNGEN'}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
