@@ -127,13 +127,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/interpreters/authority-interpreter.ts" timestamp="1594272951658">
+        <mark key="[" line="39" column="40" />
+        <mark key="]" line="39" column="48" />
+        <mark key="." line="39" column="47" />
+        <mark key="^" line="39" column="48" />
+      </file>
       <file name="/console" timestamp="1594252106815">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/einstellungen/einstellungenuebersicht/einstellungenuebersicht.component.html" timestamp="1594272826103">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/einstellungen/einstellungenuebersicht/einstellungenuebersicht.component.html" timestamp="1594272937768">
         <mark key="'" line="9" column="21" />
-        <mark key="[" line="143" column="23" />
-        <mark key="]" line="143" column="48" />
+        <mark key="[" line="149" column="9" />
+        <mark key="]" line="149" column="43" />
         <mark key="." line="143" column="23" />
         <mark key="^" line="143" column="20" />
       </file>
@@ -210,10 +216,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/role/service/ZugriffskonfigurationTest.java" timestamp="1594272822729">
-        <mark key="[" line="104" column="28" />
-        <mark key="]" line="104" column="52" />
-        <mark key="." line="104" column="63" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/role/service/ZugriffskonfigurationTest.java" timestamp="1594273061274">
+        <mark key="[" line="104" column="76" />
+        <mark key="]" line="104" column="90" />
+        <mark key="." line="104" column="89" />
+        <mark key="^" line="104" column="90" />
       </file>
       <file name="/fragment.java" timestamp="1594258008614">
         <mark key="[" line="0" column="0" />
@@ -334,16 +341,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>ADMIN</text>
+        <text>Abrechnungstammdaten hochladen</text>
       </register>
       <register name="-" type="4">
-        <text>ADMIN</text>
+        <text>Abrechnungstammdaten hochladen</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>EINST_SCHAETZAUFTEILUNGEN</text>
+        <text>Schätzaufteilungen ein-/ausschalten</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CgkvKioKCSAqIEVybWl0dGVsdCBhbGxlIFN0YW1tZGF0ZW5lbGVtZW50ZSB1bmQgZ2lidCBkaWVzZSBzb3J0aWVydCBuYWNoIENvZGUgenVyw7xjay4KCSAqCgkgKiBAcmV0dXJuIFN0YW1tZGF0ZW5lbGVtZW50ZQoJICovCglMaXN0PEFicmVjaG51bmdTY2hhZXR6YXVmdGVpbHVuZz4gZmluZEFsbEJ5T3JkZXJCeUNvZGVBc2MoKTsK</text>
