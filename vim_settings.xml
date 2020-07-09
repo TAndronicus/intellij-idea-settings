@@ -150,9 +150,9 @@
         <mark key="." line="28" column="35" />
         <mark key="^" line="28" column="36" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1594030455121">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/5bc4bdf8-f09c-4b3f-b5dc-1cf29a29d6ef/console.sql" timestamp="1594253432258">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="63" column="0" />
+        <mark key="[" line="66" column="28" />
         <mark key="]" line="66" column="27" />
         <mark key="." line="66" column="27" />
         <mark key="^" line="66" column="28" />
@@ -206,11 +206,17 @@
         <mark key="." line="104" column="14" />
         <mark key="^" line="104" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V426.0__add_enabled_flag_to_abr_schaetzaufteilung.sql" timestamp="1594021601480">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/migration/V426.0__add_enabled_flag_to_abr_schaetzaufteilung.sql" timestamp="1594253414078">
         <mark key="[" line="1" column="54" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
         <mark key="." line="1" column="54" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/abrechnung/stammdaten/dao/AbrechnungSchaetzaufteilungRepository.java" timestamp="1594253330747">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="38" />
+        <mark key="." line="24" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -318,20 +324,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">CQkJCQkvL1RPRE8tMjAxODogZmlsdGVyCg==</text>
+      <register name="*" type="4">
+        <text>kundenportal.public.abr_schaetzaufteilung.</text>
       </register>
       <register name="-" type="4">
-        <text>liegenschaftId</text>
+        <text>kundenportal.public.abr_schaetzaufteilung.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>select id, coalesce(end_date, current_timestamp) - start_date duration, status, creation_date, end_date, mode, comment
-from tec_job_historie tjh
-where job_id ~ 'ersatz'
-order by creation_date desc;</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkvL0Bmb3JtYXR0ZXI6b2ZmCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJCQkvL1RPRE8tMjAxODogZmlsdGVyCg==</text>
