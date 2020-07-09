@@ -147,11 +147,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="59" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/app-routing.module.ts" timestamp="1594270455998">
-        <mark key="[" line="699" column="114" />
-        <mark key="]" line="699" column="138" />
-        <mark key="." line="699" column="138" />
-        <mark key="^" line="699" column="139" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/app-routing.module.ts" timestamp="1594271758349">
+        <mark key="[" line="698" column="35" />
+        <mark key="]" line="698" column="35" />
+        <mark key="." line="698" column="34" />
+        <mark key="^" line="698" column="35" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/abrechnung/stammdaten/facade/AbrechnungSchaetzaufteilungFacade.java" timestamp="1594259109393">
         <mark key="[" line="15" column="12" />
@@ -171,7 +171,7 @@
         <mark key="^" line="24" column="33" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1594269950800">
+      <file name="/Dummy.txt" timestamp="1594271842569">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
@@ -334,10 +334,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>HAUPTVERWALTER, VERWALTER, HAUSMEISTER</text>
+        <text>AdminUebersichtComponent</text>
       </register>
       <register name="-" type="4">
-        <text>HAUPTVERWALTER, VERWALTER, HAUSMEISTER</text>
+        <text>AdminUebersichtComponent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
