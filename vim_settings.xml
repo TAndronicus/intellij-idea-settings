@@ -153,11 +153,11 @@
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/package.json" timestamp="1594277704287">
         <mark key="'" line="9" column="51" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/app-routing.module.ts" timestamp="1594278175346">
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/app-routing.module.ts" timestamp="1594279398145">
         <mark key="'" line="435" column="26" />
-        <mark key="[" line="700" column="93" />
-        <mark key="]" line="700" column="95" />
-        <mark key="." line="700" column="94" />
+        <mark key="[" line="701" column="21" />
+        <mark key="]" line="701" column="21" />
+        <mark key="." line="701" column="21" />
         <mark key="^" line="700" column="95" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/abrechnung/stammdaten/facade/AbrechnungSchaetzaufteilungFacade.java" timestamp="1594259109393">
@@ -334,10 +334,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>'EINST_SCHAETZAUFTEILUNGEN'}</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>'EINST_SCHAETZAUFTEILUNGEN'}</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
