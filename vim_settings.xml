@@ -127,11 +127,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1594286090713">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="110" column="2" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1594286394559">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="21" />
         <mark key="^" line="83" column="42" />
-        <mark key="." line="83" column="41" />
+        <mark key="." line="36" column="21" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/interpreters/authority-interpreter.ts" timestamp="1594275939868">
         <mark key="[" line="39" column="0" />
@@ -331,94 +331,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>do
-$$
-    declare
-        v_ts              timestamp;
-        v_repeat constant int := 10;
-        rec               record;
-        run               int[];
-        stmt              int[];
-        elapsed           decimal[];
-        max_elapsed       decimal;
-        i                 int := 1;
-    begin
-        for r in 1..5
-            loop
-                set jit = on;
-                v_ts := clock_timestamp();
-                for i in 1..v_repeat
-                    loop
-                        for rec in (
-                            select m.id as messungid, m.ger_geraet_id as geraetid, m.mess_datum, m.typ, '${tablename}' as tablename
-                            from (select id,
-                                         ger_geraet_id,
-                                         typ,
-                                         mess_datum,
-                                         row_number() over (partition by ger_geraet_id order by mess_datum desc) as row_number_desc,
-                                         row_number() over (partition by ger_geraet_id order by mess_datum asc)  as row_number_asc
-                                  from mes_stromzaehler
-                                  where typ != 'E') m
-                            where (row_number_desc = 1 or row_number_asc = 1)
-                              and typ = 'R'
-                        )
-                            loop
-                                null;
-                            end loop;
-                    end loop;
-                run[i] := r;
-                stmt[i] := 1;
-                elapsed[i] :=
-                        (extract(epoch from cast(clock_timestamp() as timestamp))
-                            - extract(epoch from v_ts));
-                i := i + 1;
-
-                set jit = on;
-                v_ts := clock_timestamp();
-                for i in 1..v_repeat
-                    loop
-                        for rec in (
-                            select m.id as messungid, m.ger_geraet_id as geraetid, m.mess_datum, m.typ, '${tablename}' as tablename
-                            from (select id,
-                                         ger_geraet_id,
-                                         typ,
-                                         mess_datum,
-                                         first_value(mess_datum)
-                                         over (partition by ger_geraet_id order by mess_datum rows between unbounded preceding and unbounded following) first_date,
-                                         last_value(mess_datum)
-                                         over (partition by ger_geraet_id order by mess_datum rows between unbounded preceding and unbounded following) last_late
-                                  from mes_stromzaehler
-                                  where typ != 'E') m
-                            where (first_date = mess_datum or last_late = mess_datum)
-                              and typ = 'R'
-                        )
-                            loop
-                                null;
-                            end loop;
-                    end loop;
-                run[i] := r;
-                stmt[i] := 2;
-                elapsed[i] :=
-                        (extract(epoch from cast(clock_timestamp() as timestamp))
-                            - extract(epoch from v_ts));
-                i := i + 1;
-
-                -- add more queries if needed
-
-            end loop;
-
-        select max(t.elapsed)
-        into max_elapsed
-        from unnest(elapsed) as t(elapsed);
-
-        for i in 1..array_length(run, 1)
-            loop
-                raise info 'run %, statement %: %', run[i], stmt[i],
-                    cast(elapsed[i] / max_elapsed as decimal(10, 5));
-            end loop;
-    end
-$$;</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgciBpbiAxLi4xCg==</text>
       </register>
       <register name="-" type="4">
         <text>desc</text>
@@ -426,94 +340,8 @@ $$;</text>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>do
-$$
-    declare
-        v_ts              timestamp;
-        v_repeat constant int := 10;
-        rec               record;
-        run               int[];
-        stmt              int[];
-        elapsed           decimal[];
-        max_elapsed       decimal;
-        i                 int := 1;
-    begin
-        for r in 1..5
-            loop
-                set jit = on;
-                v_ts := clock_timestamp();
-                for i in 1..v_repeat
-                    loop
-                        for rec in (
-                            select m.id as messungid, m.ger_geraet_id as geraetid, m.mess_datum, m.typ, '${tablename}' as tablename
-                            from (select id,
-                                         ger_geraet_id,
-                                         typ,
-                                         mess_datum,
-                                         row_number() over (partition by ger_geraet_id order by mess_datum desc) as row_number_desc,
-                                         row_number() over (partition by ger_geraet_id order by mess_datum asc)  as row_number_asc
-                                  from mes_stromzaehler
-                                  where typ != 'E') m
-                            where (row_number_desc = 1 or row_number_asc = 1)
-                              and typ = 'R'
-                        )
-                            loop
-                                null;
-                            end loop;
-                    end loop;
-                run[i] := r;
-                stmt[i] := 1;
-                elapsed[i] :=
-                        (extract(epoch from cast(clock_timestamp() as timestamp))
-                            - extract(epoch from v_ts));
-                i := i + 1;
-
-                set jit = on;
-                v_ts := clock_timestamp();
-                for i in 1..v_repeat
-                    loop
-                        for rec in (
-                            select m.id as messungid, m.ger_geraet_id as geraetid, m.mess_datum, m.typ, '${tablename}' as tablename
-                            from (select id,
-                                         ger_geraet_id,
-                                         typ,
-                                         mess_datum,
-                                         first_value(mess_datum)
-                                         over (partition by ger_geraet_id order by mess_datum rows between unbounded preceding and unbounded following) first_date,
-                                         last_value(mess_datum)
-                                         over (partition by ger_geraet_id order by mess_datum rows between unbounded preceding and unbounded following) last_late
-                                  from mes_stromzaehler
-                                  where typ != 'E') m
-                            where (first_date = mess_datum or last_late = mess_datum)
-                              and typ = 'R'
-                        )
-                            loop
-                                null;
-                            end loop;
-                    end loop;
-                run[i] := r;
-                stmt[i] := 2;
-                elapsed[i] :=
-                        (extract(epoch from cast(clock_timestamp() as timestamp))
-                            - extract(epoch from v_ts));
-                i := i + 1;
-
-                -- add more queries if needed
-
-            end loop;
-
-        select max(t.elapsed)
-        into max_elapsed
-        from unnest(elapsed) as t(elapsed);
-
-        for i in 1..array_length(run, 1)
-            loop
-                raise info 'run %, statement %: %', run[i], stmt[i],
-                    cast(elapsed[i] / max_elapsed as decimal(10, 5));
-            end loop;
-    end
-$$;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgciBpbiAxLi4xCg==</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdCBleGlzdHMoCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tIHBsYWNlIHlvdXQgc2Vjb25kIHF1ZXJ5IGhlcmUKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNlbGVjdCAxCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmcm9tIG1lc19tZXNzdW5nIG1tCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aGVyZSBtbS5nZXJfZ2VyYWV0X2lkID0gMTAwMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAp</text>
