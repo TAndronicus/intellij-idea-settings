@@ -127,11 +127,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1594282366245">
-        <mark key="[" line="18" column="89" />
-        <mark key="]" line="18" column="94" />
-        <mark key="." line="18" column="93" />
-        <mark key="^" line="18" column="94" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" timestamp="1594283976499">
+        <mark key="[" line="17" column="89" />
+        <mark key="]" line="17" column="146" />
+        <mark key="." line="17" column="145" />
+        <mark key="^" line="17" column="146" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/interpreters/authority-interpreter.ts" timestamp="1594275939868">
         <mark key="[" line="39" column="0" />
@@ -334,10 +334,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>win</text>
+        <text>desc</text>
       </register>
       <register name="-" type="4">
-        <text>win</text>
+        <text>desc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
