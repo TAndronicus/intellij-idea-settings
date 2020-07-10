@@ -132,10 +132,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/53_wmz.sql" timestamp="1594345256534">
-        <mark key="[" line="13" column="75" />
-        <mark key="]" line="17" column="123" />
-        <mark key="." line="13" column="75" />
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/53_wmz.sql" timestamp="1594346445119">
+        <mark key="'" line="18" column="7" />
+        <mark key="[" line="31" column="72" />
+        <mark key="]" line="31" column="73" />
+        <mark key="." line="31" column="73" />
+        <mark key="^" line="31" column="56" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__ersatzwerte_recalc_z.sql" timestamp="1594343512075">
         <mark key="[" line="9" column="52" />
@@ -215,11 +217,12 @@
         <mark key="[" line="19" column="53" />
         <mark key="]" line="19" column="59" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1594343608040">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="24" column="56" />
-        <mark key="." line="24" column="56" />
-        <mark key="^" line="24" column="57" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1594346124870">
+        <mark key="'" line="13" column="26" />
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="32" column="16" />
+        <mark key="." line="32" column="15" />
+        <mark key="^" line="32" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__ersatzwerte_recalc_p.sql" timestamp="1594343500028">
         <mark key="[" line="9" column="52" />
@@ -228,9 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4334" column="16" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
-      <jump line="184" column="33" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/core/src/main/java/com/qivalo/portal/geraet/rest/GeraetRestEndpoint.java" />
-      <jump line="471" column="4" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/geraet/rest/GeraetRestEndpointTest.java" />
       <jump line="217" column="18" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/dcgy/src/test/java/com/qivalo/portal/core/service/StromRueckstandDiscovergyUpdateServiceTest.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-details/geraet-details.component.html" />
       <jump line="38" column="4" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-logs-list/geraet-logs-list.component.ts" />
@@ -328,38 +328,50 @@
       <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/ff9d9af5-1c61-4ffc-b106-10ec42cfdc2d/console.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__ersatzwerte.sql" />
       <jump line="90" column="93" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvService.java" />
+      <jump line="13" column="26" filename="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" />
+      <jump line="17" column="128" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/53_wmz.sql" />
+      <jump line="18" column="7" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/53_wmz.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text encoding="base64">CgppbnNlcnQgaW50byBnZXJfZ2VyYWV0IChpZCwgZ2VyYWV0ZV9uciwgbW9udGFnZV9vcnQsIHN0ZXBfaWQsIG51dF9udXR6ZWluaGVpdF9pZCwgcmF1bSwgbGZkbnIsIGludF9zdGF0dXMsIGdrX2dlcmFldF90eXBfaWQsIGNyZWF0aW9uX2RhdGUsIGxpZV9saWVnZW5zY2hhZnRfaWQsIGVpbmJhdV9kYXR1bV9kZSwKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc3VuZ193ZXJ0LCBudXR6ZWluaGVpdF9uciwgbGllZ2Vuc2NoYWZ0c19ucikKdmFsdWVzICg5MDY4LCAnV01aXzQwNScsICdLdWNoZScsICdnZU9rJywgNDAwMSwgJ0t1Y2hlJywgMCwgJ08nLCAyNywgY3VycmVudF90aW1lc3RhbXAsIDMwMDEsICcyMDE5LTAxLTAxJywgMCwgNDQyMywgMzAwMSk7</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICgxMjA1LCAnMjAxOS0xMi0xNSAyMzowMCcsIGN1cnJlbnRfdGltZXN0YW1wLCAnQScsIDkwNzQsIDcwMDEsIDcpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTRVRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">CgppbnNlcnQgaW50byBnZXJfZ2VyYWV0IChpZCwgZ2VyYWV0ZV9uciwgbW9udGFnZV9vcnQsIHN0ZXBfaWQsIG51dF9udXR6ZWluaGVpdF9pZCwgcmF1bSwgbGZkbnIsIGludF9zdGF0dXMsIGdrX2dlcmFldF90eXBfaWQsIGNyZWF0aW9uX2RhdGUsIGxpZV9saWVnZW5zY2hhZnRfaWQsIGVpbmJhdV9kYXR1bV9kZSwKICAgICAgICAgICAgICAgICAgICAgICAgbWVzc3VuZ193ZXJ0LCBudXR6ZWluaGVpdF9uciwgbGllZ2Vuc2NoYWZ0c19ucikKdmFsdWVzICg5MDY4LCAnV01aXzQwNScsICdLdWNoZScsICdnZU9rJywgNDAwMSwgJ0t1Y2hlJywgMCwgJ08nLCAyNywgY3VycmVudF90aW1lc3RhbXAsIDMwMDEsICcyMDE5LTAxLTAxJywgMCwgNDQyMywgMzAwMSk7</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICgxMjA2LCAnMjAxOS0wMy0xNSAyMzowMCcsIGN1cnJlbnRfdGltZXN0YW1wLCAnQScsIDkwNzQsIDcwMDEsIDExKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CS8qKgoJICogVWhyemVpdCBkZXIgTWVzc3VuZwoJICovCg==</text>
+        <text encoding="base64">ICAgICAgICgxMjA1LCAnMjAxOS0xMi0xNSAyMzowMCcsIGN1cnJlbnRfdGltZXN0YW1wLCAnQScsIDkwNzQsIDcwMDEsIDcpLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CS8qKgoJICogU3RpY2h0YWcgZGVyIE1lc3N1bmcKCSAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CS8qKgoJICogRXJzdGVsbHQgZGllIFZlcmJyYXVjaHNtZWxkdW5nIGbDvHIgZGllIMO8YmVyZ2ViZW5lIEFicmVjaG51bmcKCSAqLwo=</text>
+        <text encoding="base64">aW5zZXJ0IGludG8gbWVzX3dhZXJtZW1lbmdlbnphZWhsZXIgKCkKdmFsdWVzICgpOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CS8qKgoJICogVWhyemVpdCBkZXIgTWVzc3VuZwoJICovCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CS8qKgoJICogU3RpY2h0YWcgZGVyIE1lc3N1bmcKCSAqLwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CS8qKgoJICogRXJzdGVsbHQgZGllIFZlcmJyYXVjaHNtZWxkdW5nIGbDvHIgZGllIMO8YmVyZ2ViZW5lIEFicmVjaG51bmcKCSAqLwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CS8qKgoJICogRXJ6ZXVndCBkaWUgVmVyYnJhdWNoc2RhdGVpIGRlciBBYnJlY2hudW5nLgoJICovCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>select nextval('ew_queue_seq'),
        gg.id,
        '2019-01-01',
@@ -371,17 +383,8 @@ from ger_geraet gg
 where ggt.geraet_typ = 'K'
   and (gg.removedon, nn.removedon, ll.removedon) is null;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">b3JkZXIgYnkgZ2cuaWQ7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW5zZXJ0IGludG8gZXdfcXVldWUgKGlkLCBnZXJfZ2VyYWV0X2lkLCBzdGFydF9kYXRlKQpzZWxlY3QgbmV4dHZhbCgnZXdfcXVldWVfc2VxJyksCiAgICAgICBnZy5pZCwKICAgICAgICcyMDE5LTAxLTAxJwpmcm9tIGdlcl9nZXJhZXQgZ2cKICAgICAgICAgaW5uZXIgam9pbiBna19nZXJhZXRfdHlwIGdndCBvbiBnZy5na19nZXJhZXRfdHlwX2lkID0gZ2d0LmlkCiAgICAgICAgIGlubmVyIGpvaW4gbnV0X251dHplaW5oZWl0IG5uIG9uIGdnLm51dF9udXR6ZWluaGVpdF9pZCA9IG5uLmlkCiAgICAgICAgIGlubmVyIGpvaW4gbGllX2xpZWdlbnNjaGFmdCBsbCBvbiBnZy5saWVfbGllZ2Vuc2NoYWZ0X2lkID0gbGwuaWQKd2hlcmUgZ2d0LmdlcmFldF9hcnQgPSAnT0ZPTFQwMScKICBhbmQgKGdnLnJlbW92ZWRvbiwgbm4ucmVtb3ZlZG9uLCBsbC5yZW1vdmVkb24pIGlzIG5vdCBudWxsOwoK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cmluc2VydCBpbnRvIGV3X3F1ZXVlIChpZCwgZ2VyX2dlcmFldF9pZCwgc3RhcnRfZGF0ZSkKc2VsZWN0IG5leHR2YWwoJ2V3X3F1ZXVlX3NlcScpLAogICAgICAgZ2cuaWQsCiAgICAgICAnMjAxOS0wMS0wMScKZnJvbSBnZXJfZ2VyYWV0IGdnCiAgICAgICAgIGlubmVyIGpvaW4gZ2tfZ2VyYWV0X3R5cCBnZ3Qgb24gZ2cuZ2tfZ2VyYWV0X3R5cF9pZCA9IGdndC5pZAogICAgICAgICBpbm5lciBqb2luIG51dF9udXR6ZWluaGVpdCBubiBvbiBnZy5udXRfbnV0emVpbmhlaXRfaWQgPSBubi5pZAogICAgICAgICBpbm5lciBqb2luIGxpZV9saWVnZW5zY2hhZnQgbGwgb24gZ2cubGllX2xpZWdlbnNjaGFmdF9pZCA9IGxsLmlkCndoZXJlIGdndC5nZXJhZXRfdHlwID0gJ0gnCiAgYW5kIChnZy5yZW1vdmVkb24sIG5uLnJlbW92ZWRvbiwgbGwucmVtb3ZlZG9uKSBpcyBub3QgbnVsbDsKCnNlbGVjdCAnMjAxOS0wMS0wMSc6OnRpbWVzdGFtcCArIGludGVydmFsICczIG1vbnRocycKc2VsZWN0ICoKZnJvbSBnZW5lcmF0ZV9zZXJpZXMoJzIwMTktMDEtMDEnLCBjdXJyZW50X3RpbWVzdGFtcCwgaW50ZXJ2YWwgJzMgbW9udGhzJyk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICcyMDE5LTAxLTAxJywKICAgICAgICcyMDE5LTA0LTAxJwo=</text>
+        <text encoding="base64">b3JkZXIgYnkgZ2cuaWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>532</text>
