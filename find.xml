@@ -1,12 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.gradle" />
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -19,10 +20,10 @@
     <mask>*.scss</mask>
     <mask>Geraet*</mask>
     <mask>*.properties</mask>
-    <mask>*.gradle</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.gradle</mask>
   </component>
 </application>
