@@ -157,11 +157,6 @@
         <mark key="^" line="52" column="64" />
         <mark key="." line="52" column="63" />
       </file>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/common/src/main/resources/db/repeatable/R__ersatzwerte_recalc_z.sql" timestamp="1594343512075">
-        <mark key="[" line="9" column="52" />
-        <mark key="]" line="9" column="52" />
-        <mark key="." line="9" column="52" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/fileexport/abrechnung/service/AbrechnungDtvGeraetService.java" timestamp="1594363307112">
         <mark key="'" line="197" column="0" />
         <mark key="[" line="197" column="75" />
@@ -202,6 +197,12 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" timestamp="1594380492846">
+        <mark key="'" line="22" column="70" />
+        <mark key="[" line="22" column="70" />
+        <mark key="]" line="22" column="71" />
+        <mark key="." line="22" column="71" />
+      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/test/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteServiceTest.java" timestamp="1594376855843">
         <mark key="'" line="303" column="36" />
       </file>
@@ -223,8 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="10" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/services/modal.service.ts" />
-      <jump line="53" column="48" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/services/modal.service.ts" />
       <jump line="23" column="4" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/shared/modals/geraet-lock-modal/geraet-lock-modal.component.ts" />
       <jump line="19" column="26" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-locks/geraet-locks.component.html" />
       <jump line="23" column="20" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/frontend/src/app/geraet/geraet-locks/geraet-locks.component.ts" />
@@ -323,6 +322,8 @@
       <jump line="930" column="0" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/messung/rest/MessungRestEndpointTest.java" />
       <jump line="59" column="55" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/messung/rest/MessungRestEndpointTest.java" />
       <jump line="891" column="55" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/messung/rest/MessungRestEndpointTest.java" />
+      <jump line="71" column="56" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" />
+      <jump line="22" column="70" filename="$USER_HOME$/Workspace/qivalo/copy/kundenportal/batch/src/main/java/com/qivalo/portal/core/ersatzwerte/service/ErsatzwerteService.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
