@@ -127,11 +127,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/resources/db/54_manuelle_messungen_validation.sql" timestamp="1594377755334">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/test/src/main/java/com/qivalo/portal/AbstractSpringTest.java" timestamp="1594378213641">
         <mark key="[" line="131" column="75" />
         <mark key="]" line="131" column="104" />
@@ -148,7 +143,7 @@
         <mark key="[" line="72" column="54" />
         <mark key="]" line="72" column="63" />
       </file>
-      <file name="/a.sql" timestamp="1594383732996">
+      <file name="/a.sql" timestamp="1594719433111">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/geraet/rest/GeraetRestEndpointTest.java" timestamp="1594717895971">
@@ -171,6 +166,12 @@
         <mark key="]" line="1" column="22" />
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspace/qivalo/copy/kundenportal/boot/src/test/java/com/qivalo/portal/abrechnung/stammdaten/rest/AbrechnungSchaetzaufteilungRestEndpointTest.java" timestamp="1594719203686">
+        <mark key="[" line="95" column="5" />
+        <mark key="]" line="99" column="8" />
+        <mark key="^" line="99" column="8" />
+        <mark key="." line="99" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/52e91b0e-f1e4-46da-a46a-d0d2f39f1c1c/console.sql" timestamp="1594383763785">
         <mark key="'" line="61" column="55" />
